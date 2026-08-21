@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:49:06Z",
+  "updated_at": "2026-08-21T18:56:22Z",
   "papers": [
     {
       "type": "paper",
@@ -120,15 +120,6 @@
     },
     {
       "type": "news",
-      "title": "최홍선 “피지컬AI, 경단위 시장 연다” - 중소기업신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VDJkRlAwQzlMQTk2d2NUZU1qZENXS2RZMm1WaU5TNFRxVnl5cDJuTmJ0ZVkwV1JBUDJsbXV3ZG5SNnE5SDk4MklVRFFUYkloY2NLTFY4VllsR0hBRllmcmxEYTlvQU40cXlSSA?oc=5",
-      "snippet": "",
-      "source": "중소기업신문",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 10:32:38 GMT"
-    },
-    {
-      "type": "news",
       "title": "제조기업 84% “피지컬AI 도입”…휴머노이드형 선호 - 국제신문",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjY0WG1BY2phVVVfRVJWZ0lDN3RrckZ3eC1vWWROR3NKTXIwQllfTmlZYmpGeGhsX2JJZ0tVS08yckNpb3M4N1d4TjhtYXVXcm05dXNnVW5KRHRraFAxZHMxeC1NeTZXb1NCZ1VmOGQxUkZEMTJXUGRaZzhUQUgwWno1Vkl2Z0wyQkZxblpCbFVqUjBQTFg3SQ?oc=5",
       "snippet": "",
@@ -147,6 +138,15 @@
     },
     {
       "type": "news",
+      "title": "최홍선 “피지컬AI, 경단위 시장 연다” - 중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VDJkRlAwQzlMQTk2d2NUZU1qZENXS2RZMm1WaU5TNFRxVnl5cDJuTmJ0ZVkwV1JBUDJsbXV3ZG5SNnE5SDk4MklVRFFUYkloY2NLTFY4VllsR0hBRllmcmxEYTlvQU40cXlSSA?oc=5",
+      "snippet": "",
+      "source": "중소기업신문",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 10:32:38 GMT"
+    },
+    {
+      "type": "news",
       "title": "인텔 \"韓, 로봇 도입 기대 높지만 전략 마련은 미흡\" - 지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rN21WSGJTVnBaTzYwYU9mcHlhVkM2NVNGSWxHTlZHd3N3NnU0VDJjcnQzWTlhalY4ejRkcDd4dmZiUnBCUWNOa2k5NUYwM2p3WWhoM0dn?oc=5",
       "snippet": "",
@@ -156,21 +156,21 @@
     },
     {
       "type": "news",
-      "title": "中 차세대 AI ‘체화지능’ 국가 전략산업 육성…의료 현장 혁신 예고 - 의학신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRTlhudG9UQ3dpVkdMUTZweEIxMjRQc0NhVV9ENVdOUklRb3k0MlBnU1JBMmxTY2ktamtwSW01cjNTck55NnFSekh5dnk0dmVPdmFBU3MwRUJZMlRIRW04ODhqZng5ZXZTNXc?oc=5",
+      "title": "시잉머신스, 자율주행 기술 확장… 차세대 로봇 시장 공략 선언 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkdwWmdYSFU1cFRud3laNnJMdjQ5Rm5OaFhZczk2U2Q4UnJZM0EtdWV2MkZHSk5SSVd3RTh6Z3JNR2NFOFVhSWhNY3g2eC1wYjZqXzFDTzdVZzVUTlFxU3VORXY2MjY3QTV2RVRxUEYtcktUWjBFbndhRUdKaGw5TWQ1OFpkYWpC?oc=5",
       "snippet": "",
-      "source": "의학신문",
+      "source": "글로벌이코노믹",
       "categories": [],
-      "pub_date": "Thu, 20 Aug 2026 20:50:00 GMT"
+      "pub_date": "Wed, 19 Aug 2026 20:00:00 GMT"
     },
     {
       "type": "news",
-      "title": "전남대 대학일자리플러스센터 'Physical AI' 실무인재 양성 나선다 - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DSU1kS1V0RGdfazhXbVZjT0NqLWZ4eWJHb1Jza1F6ZkJ6MU15ZDFmUF9UMERqcTNUQXh1a2RmNUdYTEVvQzRMOWwtN2llS3NiNnd5elFoR2p5YUNQMG0tMWdmcF8zdFk0Mkdrcw?oc=5",
+      "title": "10명 중 6명 \"로봇 도입\" 외치지만 전략은 4명뿐…장미빛 착시 `로보틱스 레디니스 갭` - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HVHpEYUE3Ym01STNrMUlMT29NMTBlVk9DRHczcEVCcHI2MUlQWTdPMjI0Wm9renpqUDc3NGJRWnotMmY3MmZKaVNpUXFUaEtkWUVQVUNEcWVzcTNrSzd4WXFB?oc=5",
       "snippet": "",
-      "source": "베리타스알파",
+      "source": "디지털데일리",
       "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 00:01:16 GMT"
+      "pub_date": "Fri, 21 Aug 2026 04:05:56 GMT"
     }
   ]
 }
