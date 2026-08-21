@@ -1,5 +1,176 @@
 {
-  "updated_at": null,
-  "papers": [],
-  "news": []
+  "updated_at": "2026-08-21T15:05:15Z",
+  "papers": [
+    {
+      "type": "paper",
+      "title": "APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs",
+      "url": "https://arxiv.org/abs/2608.19281",
+      "snippet": "Programming robots remains challenging for non-experts, as traditional methods require expert knowledge and even block-based interfaces often lack flexibility. Recent work has explored Large Language Models (LLMs) to…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.HC"
+      ],
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity",
+      "url": "https://arxiv.org/abs/2608.19372",
+      "snippet": "A fundamental challenge in robotic teleoperation is enabling an operator to control a remote robot as effortlessly and intuitively as their own hands. Despite the growing use of teleoperation to collect demonstration…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control",
+      "url": "https://arxiv.org/abs/2608.19375",
+      "snippet": "High-fidelity embodied AI simulators provide realistic evaluation of complex robotic systems, but their computational cost limits their direct use for large-scale reinforcement learning campaigns. We advocate the use of…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation",
+      "url": "https://arxiv.org/abs/2608.19425",
+      "snippet": "Reliable performance evaluation is a central bottleneck for deploying robot-learning policies in real-world conditions. Real-world testing is faithful but costly and difficult to scale, whereas simulation-based testing…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Hybrid Feedback Sampling for Sample-Efficient Model Predictive Control",
+      "url": "https://arxiv.org/abs/2608.19443",
+      "snippet": "Thanks to its parallelizability and flexibility, sampling-based Model Predictive Control (MPC) has become widely popular for controlling real-world robotic systems. However, for high-dimensional and open-loop unstable…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "When Automata Meet Streams: Temporal Logic Compilation for Stream-Based Robotics Task and Motion Planning",
+      "url": "https://arxiv.org/abs/2608.19453",
+      "snippet": "Stream-based robotics Task and Motion Planning (TAMP) integrates discrete symbolic planning with dynamically generated continuous geometric parameters, such as poses, grasps, and trajectories. However, stream-based…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.FL"
+      ],
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation",
+      "url": "https://arxiv.org/abs/2608.19490",
+      "snippet": "State-of-the-art vision-language-action (VLA) models such as $\\pi_{0.5}$ exhibit strong semantic understanding, instruction following and task behavior. However, when deployed on new robots, even minor mismatches in…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "LF-GICP: Parameter-Free Degeneracy-Aware LiDAR Odometry via a Voxel-Normal Localizability Field",
+      "url": "https://arxiv.org/abs/2608.19522",
+      "snippet": "Scan-to-map LiDAR odometry drifts unboundedly along the unobservable axes of geometrically degenerate environments like tunnels and corridors, and existing degeneracy handling requires environment-specific parameter…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 -0400"
+    }
+  ],
+  "news": [
+    {
+      "type": "news",
+      "title": "제조기업 10곳 중 8곳 “피지컬 AI 도입했거나 도입 예정”…생산성 향상 기대 - 드론매거진 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtU3pjRFVHTlVPQ1FZTkhLWVA2Mi1vUGZMdE9obEZKQTZvTVhvSzZENDRTeXJvRUxMR3JpQzRfam53clp0em1wajlST1ZYajFkVzhFRWRrQklXMnNHZ2QtTnZVaGo?oc=5",
+      "snippet": "",
+      "source": "드론매거진 뉴스",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 06:24:46 GMT"
+    },
+    {
+      "type": "news",
+      "title": "최홍선 “피지컬AI, 경단위 시장 연다” - 중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VDJkRlAwQzlMQTk2d2NUZU1qZENXS2RZMm1WaU5TNFRxVnl5cDJuTmJ0ZVkwV1JBUDJsbXV3ZG5SNnE5SDk4MklVRFFUYkloY2NLTFY4VllsR0hBRllmcmxEYTlvQU40cXlSSA?oc=5",
+      "snippet": "",
+      "source": "중소기업신문",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 10:32:38 GMT"
+    },
+    {
+      "type": "news",
+      "title": "필수의료 인력난 해법 부상 ‘피지컬 AI 로봇’ - 데일리메디",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtakZSUEpFczBNbVdlU3BWb05BTnNDaWhIZzlYeXNrdXdBbDV2ZHdseHVYcmlSbUp5WGFXVUM5RHdNMVlJclR0UHRaOFVYR29Oc216NFM0SkJZWlJCTTA3OVRmQkFpV3RU?oc=5",
+      "snippet": "",
+      "source": "데일리메디",
+      "categories": [],
+      "pub_date": "Wed, 19 Aug 2026 20:48:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "제조기업 84% “피지컬AI 도입”…휴머노이드형 선호 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjY0WG1BY2phVVVfRVJWZ0lDN3RrckZ3eC1vWWROR3NKTXIwQllfTmlZYmpGeGhsX2JJZ0tVS08yckNpb3M4N1d4TjhtYXVXcm05dXNnVW5KRHRraFAxZHMxeC1NeTZXb1NCZ1VmOGQxUkZEMTJXUGRaZzhUQUgwWno1Vkl2Z0wyQkZxblpCbFVqUjBQTFg3SQ?oc=5",
+      "snippet": "",
+      "source": "국제신문",
+      "categories": [],
+      "pub_date": "Thu, 20 Aug 2026 05:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "인텔 \"韓, 로봇 도입 기대 높지만 전략 마련은 미흡\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rN21WSGJTVnBaTzYwYU9mcHlhVkM2NVNGSWxHTlZHd3N3NnU0VDJjcnQzWTlhalY4ejRkcDd4dmZiUnBCUWNOa2k5NUYwM2p3WWhoM0dn?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 00:00:02 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇 지능용 GPU 확충한 엑스와이지, 피지컬 AI 상용화 표준 구축 ‘속도’ - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hQkFxblctc3g1NXlWQnYtd282QmhlNXVGdmQwcmhzdy02NGNYN3c3c293c1JPRlpfdVh1YkZjUF9xRU9aZXQ4STVtcElNcVNYU0tuZURXTVhVUTBLSEtJ?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Tue, 18 Aug 2026 05:55:55 GMT"
+    },
+    {
+      "type": "news",
+      "title": "中 차세대 AI ‘체화지능’ 국가 전략산업 육성…의료 현장 혁신 예고 - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRTlhudG9UQ3dpVkdMUTZweEIxMjRQc0NhVV9ENVdOUklRb3k0MlBnU1JBMmxTY2ktamtwSW01cjNTck55NnFSekh5dnk0dmVPdmFBU3MwRUJZMlRIRW04ODhqZng5ZXZTNXc?oc=5",
+      "snippet": "",
+      "source": "의학신문",
+      "categories": [],
+      "pub_date": "Thu, 20 Aug 2026 20:50:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "전남대 대학일자리플러스센터 'Physical AI' 실무인재 양성 나선다 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DSU1kS1V0RGdfazhXbVZjT0NqLWZ4eWJHb1Jza1F6ZkJ6MU15ZDFmUF9UMERqcTNUQXh1a2RmNUdYTEVvQzRMOWwtN2llS3NiNnd5elFoR2p5YUNQMG0tMWdmcF8zdFk0Mkdrcw?oc=5",
+      "snippet": "",
+      "source": "베리타스알파",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 00:01:16 GMT"
+    }
+  ]
 }
