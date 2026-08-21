@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Physical AI 최신 소식</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+  }
+  #paf-root {
+    --paf-bg: #0f1b24;
+    --paf-panel: #ffffff;
+    --paf-accent: #3ddc97;
+    --paf-text: #14212b;
+    --paf-muted: #6b7785;
+    --paf-border: #e3e8eb;
+    --paf-radius: 14px;
+    --paf-font: -apple-system, BlinkMacSystemFont, "Pretendard", "Noto Sans KR", "Malgun Gothic", sans-serif;
+    --paf-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+
+    max-width: 560px;
+    margin: 0 auto;
+    font-family: var(--paf-font);
+    border-radius: var(--paf-radius);
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 8px 24px rgba(15,27,36,0.10);
+    border: 1px solid var(--paf-border);
+    background: var(--paf-panel);
+  }
+  .paf-header {
+    background: var(--paf-bg);
+    color: #fff;
+    padding: 16px 20px 0;
+  }
+  .paf-title-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  .paf-title {
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .paf-updated {
+    font-size: 11px;
+    color: rgba(255,255,255,0.6);
+    white-space: nowrap;
+  }
+  .paf-tabs {
+    display: flex;
+    gap: 4px;
+  }
+  .paf-tab {
+    flex: 1;
+    text-align: center;
+    padding: 9px 0;
+    font-size: 13px;
+    font-weight: 600;
+    color: rgba(255,255,255,0.55);
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid transparent;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .paf-tab.paf-active {
+    color: var(--paf-accent);
+    border-bottom-color: var(--paf-accent);
+  }
+  .paf-list {
+    list-style: none;
+    margin: 0;
+    padding: 6px 0;
+  }
+  .paf-list[hidden] { display: none; }
+  .paf-item {
+    display: block;
+    padding: 12px 20px;
+    text-decoration: none;
+    color: var(--paf-text);
+    border-bottom: 1px solid var(--paf-border);
+    transition: background 0.15s ease;
+  }
+  .paf-item:last-child { border-bottom: none; }
+  .paf-item:hover { background: #f7f9fa; }
+  .paf-meta {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 11px;
+    color: var(--paf-muted);
+    font-family: var(--paf-mono);
+    margin-bottom: 4px;
+  }
+  .paf-source {
+    color: var(--paf-accent);
+    font-weight: 700;
+  }
+  .paf-item-title {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .paf-snippet {
+    margin-top: 3px;
+    font-size: 12px;
+    color: var(--paf-muted);
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .paf-footer {
+    padding: 10px 20px 14px;
+    font-size: 11px;
+    color: var(--paf-muted);
+    text-align: center;
+  }
+  .paf-state {
+    padding: 32px 20px;
+    text-align: center;
+    font-size: 13px;
+    color: var(--paf-muted);
+  }
+</style>
+</head>
+<body>
+<div id="paf-root"></div>
+<script>
+(function () {
+  var CONFIG = {
+    REPO_URL: "yun2985-lab/physicalai-feed",
+    BRANCH: "main",
+    DATA_PATH: "data/feed.json"
+  };
+
+  var root = document.getElementById("paf-root");
+
+  function timeAgo(isoString) {
+    if (!isoString) return "업데이트 대기 중";
+    var updated = new Date(isoString);
+    var diffMin = Math.floor((Date.now() - updated.getTime()) / 60000);
+    if (diffMin < 1) return "방금 업데이트";
+    if (diffMin < 60) return diffMin + "분 전 업데이트";
+    var diffHr = Math.floor(diffMin / 60);
+    if (diffHr < 24) return diffHr + "시간 전 업데이트";
+    return Math.floor(diffHr / 24) + "일 전 업데이트";
+  }
+
+  function shortDate(pubDate) {
+    if (!pubDate) return "";
+    var d = new Date(pubDate);
+    if (isNaN(d.getTime())) return "";
+    return (d.getMonth() + 1) + "." + d.getDate();
+  }
+
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function renderList(items, emptyMsg) {
+    if (!items.length) {
+      return '<div class="paf-state">' + emptyMsg + '</div>';
+    }
+    return items.map(function (item) {
+      return (
+        '<a class="paf-item" href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener noreferrer">' +
+          '<div class="paf-meta"><span class="paf-source">' + escapeHtml(item.source) + '</span><span>· ' + shortDate(item.pub_date) + '</span></div>' +
+          '<div class="paf-item-title">' + escapeHtml(item.title) + '</div>' +
+          (item.snippet ? '<div class="paf-snippet">' + escapeHtml(item.snippet) + '</div>' : '') +
+        '</a>'
+      );
+    }).join("");
+  }
+
+  function render(data) {
+    var papersHtml = renderList(data.papers || [], "표시할 논문이 아직 없어요.");
+    var newsHtml = renderList(data.news || [], "표시할 뉴스가 아직 없어요.");
+
+    root.innerHTML =
+      '<div class="paf-header">' +
+        '<div class="paf-title-row">' +
+          '<span class="paf-title">🤖 Physical AI 최신 소식</span>' +
+          '<span class="paf-updated">' + timeAgo(data.updated_at) + '</span>' +
+        '</div>' +
+        '<div class="paf-tabs">' +
+          '<button class="paf-tab paf-active" data-tab="papers">최신 논문</button>' +
+          '<button class="paf-tab" data-tab="news">관련 뉴스</button>' +
+        '</div>' +
+      '</div>' +
+      '<ul class="paf-list" data-panel="papers">' + papersHtml + '</ul>' +
+      '<ul class="paf-list" data-panel="news" hidden>' + newsHtml + '</ul>' +
+      '<div class="paf-footer">arXiv cs.RO · Google 뉴스 기준 · 자동 갱신</div>';
+
+    var tabs = root.querySelectorAll(".paf-tab");
+    var panels = root.querySelectorAll(".paf-list");
+    tabs.forEach(function (tab) {
+      tab.addEventListener("click", function () {
+        tabs.forEach(function (t) { t.classList.remove("paf-active"); });
+        tab.classList.add("paf-active");
+        var target = tab.getAttribute("data-tab");
+        panels.forEach(function (p) {
+          p.hidden = p.getAttribute("data-panel") !== target;
+        });
+      });
+    });
+
+    // 부모(iframe host)에게 실제 컨텐츠 높이를 전달 — 워드프레스 쪽에서 iframe 높이를 맞출 수 있도록
+    if (window.parent !== window) {
+      var height = document.body.scrollHeight;
+      window.parent.postMessage({ pafHeight: height }, "*");
+    }
+  }
+
+  function renderError() {
+    root.innerHTML =
+      '<div class="paf-header"><div class="paf-title-row"><span class="paf-title">🤖 Physical AI 최신 소식</span></div></div>' +
+      '<div class="paf-state">데이터를 불러오지 못했어요. 잠시 후 새로고침 해주세요.</div>';
+  }
+
+  var jsonUrl =
+    "https://raw.githubusercontent.com/" + CONFIG.REPO_URL + "/" + CONFIG.BRANCH + "/" + CONFIG.DATA_PATH +
+    "?t=" + Date.now();
+
+  fetch(jsonUrl)
+    .then(function (res) {
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      return res.json();
+    })
+    .then(render)
+    .catch(renderError);
+})();
+</script>
+</body>
+</html>
