@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T18:56:22Z",
+  "updated_at": "2026-08-21T21:39:29Z",
   "papers": [
     {
       "type": "paper",
@@ -102,21 +102,21 @@
   "news": [
     {
       "type": "news",
-      "title": "제조기업 10곳 중 8곳 “피지컬 AI 도입했거나 도입 예정”…생산성 향상 기대 - 드론매거진 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtU3pjRFVHTlVPQ1FZTkhLWVA2Mi1vUGZMdE9obEZKQTZvTVhvSzZENDRTeXJvRUxMR3JpQzRfam53clp0em1wajlST1ZYajFkVzhFRWRrQklXMnNHZ2QtTnZVaGo?oc=5",
-      "snippet": "",
-      "source": "드론매거진 뉴스",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 06:24:46 GMT"
-    },
-    {
-      "type": "news",
       "title": "필수의료 인력난 해법 부상 ‘피지컬 AI 로봇’ - 데일리메디",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtakZSUEpFczBNbVdlU3BWb05BTnNDaWhIZzlYeXNrdXdBbDV2ZHdseHVYcmlSbUp5WGFXVUM5RHdNMVlJclR0UHRaOFVYR29Oc216NFM0SkJZWlJCTTA3OVRmQkFpV3RU?oc=5",
       "snippet": "",
       "source": "데일리메디",
       "categories": [],
       "pub_date": "Wed, 19 Aug 2026 20:48:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "제조기업 10곳 중 8곳 “피지컬 AI 도입했거나 도입 예정”…생산성 향상 기대 - 드론매거진 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtU3pjRFVHTlVPQ1FZTkhLWVA2Mi1vUGZMdE9obEZKQTZvTVhvSzZENDRTeXJvRUxMR3JpQzRfam53clp0em1wajlST1ZYajFkVzhFRWRrQklXMnNHZ2QtTnZVaGo?oc=5",
+      "snippet": "",
+      "source": "드론매거진 뉴스",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 06:24:46 GMT"
     },
     {
       "type": "news",
@@ -147,21 +147,21 @@
     },
     {
       "type": "news",
-      "title": "인텔 \"韓, 로봇 도입 기대 높지만 전략 마련은 미흡\" - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rN21WSGJTVnBaTzYwYU9mcHlhVkM2NVNGSWxHTlZHd3N3NnU0VDJjcnQzWTlhalY4ejRkcDd4dmZiUnBCUWNOa2k5NUYwM2p3WWhoM0dn?oc=5",
-      "snippet": "",
-      "source": "지디넷코리아",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 00:00:02 GMT"
-    },
-    {
-      "type": "news",
       "title": "시잉머신스, 자율주행 기술 확장… 차세대 로봇 시장 공략 선언 - 글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkdwWmdYSFU1cFRud3laNnJMdjQ5Rm5OaFhZczk2U2Q4UnJZM0EtdWV2MkZHSk5SSVd3RTh6Z3JNR2NFOFVhSWhNY3g2eC1wYjZqXzFDTzdVZzVUTlFxU3VORXY2MjY3QTV2RVRxUEYtcktUWjBFbndhRUdKaGw5TWQ1OFpkYWpC?oc=5",
       "snippet": "",
       "source": "글로벌이코노믹",
       "categories": [],
       "pub_date": "Wed, 19 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "인텔 \"韓, 로봇 도입 기대 높지만 전략 마련은 미흡\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rN21WSGJTVnBaTzYwYU9mcHlhVkM2NVNGSWxHTlZHd3N3NnU0VDJjcnQzWTlhalY4ejRkcDd4dmZiUnBCUWNOa2k5NUYwM2p3WWhoM0dn?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 00:00:02 GMT"
     },
     {
       "type": "news",
