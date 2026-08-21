@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:05:15Z",
+  "updated_at": "2026-08-21T15:49:06Z",
   "papers": [
     {
       "type": "paper",
@@ -111,21 +111,21 @@
     },
     {
       "type": "news",
-      "title": "최홍선 “피지컬AI, 경단위 시장 연다” - 중소기업신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VDJkRlAwQzlMQTk2d2NUZU1qZENXS2RZMm1WaU5TNFRxVnl5cDJuTmJ0ZVkwV1JBUDJsbXV3ZG5SNnE5SDk4MklVRFFUYkloY2NLTFY4VllsR0hBRllmcmxEYTlvQU40cXlSSA?oc=5",
-      "snippet": "",
-      "source": "중소기업신문",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 10:32:38 GMT"
-    },
-    {
-      "type": "news",
       "title": "필수의료 인력난 해법 부상 ‘피지컬 AI 로봇’ - 데일리메디",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtakZSUEpFczBNbVdlU3BWb05BTnNDaWhIZzlYeXNrdXdBbDV2ZHdseHVYcmlSbUp5WGFXVUM5RHdNMVlJclR0UHRaOFVYR29Oc216NFM0SkJZWlJCTTA3OVRmQkFpV3RU?oc=5",
       "snippet": "",
       "source": "데일리메디",
       "categories": [],
       "pub_date": "Wed, 19 Aug 2026 20:48:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "최홍선 “피지컬AI, 경단위 시장 연다” - 중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VDJkRlAwQzlMQTk2d2NUZU1qZENXS2RZMm1WaU5TNFRxVnl5cDJuTmJ0ZVkwV1JBUDJsbXV3ZG5SNnE5SDk4MklVRFFUYkloY2NLTFY4VllsR0hBRllmcmxEYTlvQU40cXlSSA?oc=5",
+      "snippet": "",
+      "source": "중소기업신문",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 10:32:38 GMT"
     },
     {
       "type": "news",
@@ -138,21 +138,21 @@
     },
     {
       "type": "news",
-      "title": "인텔 \"韓, 로봇 도입 기대 높지만 전략 마련은 미흡\" - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rN21WSGJTVnBaTzYwYU9mcHlhVkM2NVNGSWxHTlZHd3N3NnU0VDJjcnQzWTlhalY4ejRkcDd4dmZiUnBCUWNOa2k5NUYwM2p3WWhoM0dn?oc=5",
-      "snippet": "",
-      "source": "지디넷코리아",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 00:00:02 GMT"
-    },
-    {
-      "type": "news",
       "title": "로봇 지능용 GPU 확충한 엑스와이지, 피지컬 AI 상용화 표준 구축 ‘속도’ - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hQkFxblctc3g1NXlWQnYtd282QmhlNXVGdmQwcmhzdy02NGNYN3c3c293c1JPRlpfdVh1YkZjUF9xRU9aZXQ4STVtcElNcVNYU0tuZURXTVhVUTBLSEtJ?oc=5",
       "snippet": "",
       "source": "헬로티",
       "categories": [],
       "pub_date": "Tue, 18 Aug 2026 05:55:55 GMT"
+    },
+    {
+      "type": "news",
+      "title": "인텔 \"韓, 로봇 도입 기대 높지만 전략 마련은 미흡\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rN21WSGJTVnBaTzYwYU9mcHlhVkM2NVNGSWxHTlZHd3N3NnU0VDJjcnQzWTlhalY4ejRkcDd4dmZiUnBCUWNOa2k5NUYwM2p3WWhoM0dn?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 00:00:02 GMT"
     },
     {
       "type": "news",
