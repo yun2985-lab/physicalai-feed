@@ -1,5 +1,78 @@
 {
-  "updated_at": "2026-08-22T15:35:22Z",
+  "updated_at": "2026-08-22T18:49:14Z",
   "papers": [],
-  "news": []
+  "news": [
+    {
+      "type": "news",
+      "title": "최용호 대표 “K팝 다음은 피지컬 AI…배우IP로도 로봇 사업 도전” - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0UGdEMWhJdTlyVFlGcGtuc1dUVjl0TGpqRVJpQzBFNW1EY1VyaVFHQk1OOVh4MFhldzd4eU5HS2VCZkE1b2NON1YyZlVrMlljblctdVhhNnV0aVlaaDJ2ejhhNS0?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 01:41:54 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[기고] 현대자동차의 피지컬 AI 도입 허들과 극복과제 - 기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WV1FzT0F1VzFpQ1k4VnVmS3l6OVFPVnFnS1pBSmllRkVZNmROVXQwZjEzektPUUIxQTBOX2tDakVrZUZXLTZEUjl0ZDVpNWVua1I2OG1haWtZYlFqeXV4TUNOcFo5ZVU?oc=5",
+      "snippet": "",
+      "source": "기계신문",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 01:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "필수의료 인력난 해법 부상 ‘피지컬 AI 로봇’ - 데일리메디",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtakZSUEpFczBNbVdlU3BWb05BTnNDaWhIZzlYeXNrdXdBbDV2ZHdseHVYcmlSbUp5WGFXVUM5RHdNMVlJclR0UHRaOFVYR29Oc216NFM0SkJZWlJCTTA3OVRmQkFpV3RU?oc=5",
+      "snippet": "",
+      "source": "데일리메디",
+      "categories": [],
+      "pub_date": "Wed, 19 Aug 2026 20:48:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "제조기업 84% “피지컬AI 도입”…휴머노이드형 선호 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjY0WG1BY2phVVVfRVJWZ0lDN3RrckZ3eC1vWWROR3NKTXIwQllfTmlZYmpGeGhsX2JJZ0tVS08yckNpb3M4N1d4TjhtYXVXcm05dXNnVW5KRHRraFAxZHMxeC1NeTZXb1NCZ1VmOGQxUkZEMTJXUGRaZzhUQUgwWno1Vkl2Z0wyQkZxblpCbFVqUjBQTFg3SQ?oc=5",
+      "snippet": "",
+      "source": "국제신문",
+      "categories": [],
+      "pub_date": "Thu, 20 Aug 2026 05:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇이 춤 배우고 아이돌 도전…'피지컬 AI'로 진화한 엔터테크(종합) - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pNmttZkl2TE9Kb1dWeVg4bG1KYWVLTVc4bFd3bVRTRk5FVmZqRnJuRTFJR3ppN2xOTFBDbWJSZVJzV3ZkTWhOQkpLWGx3SHhWMXE0UkpzYlo3bGvSAWBBVV95cUxOdEVqcnQ0TDBFY2k1ZkdkTENVcU0ydEdNWUpTZ3hWYzNuVWlsTVF1Q3pkLXBEbEFlYVFrMXJEcDhCWVhBY2hQWVlCUndZa0x0V3R4U1NZUkdibTM5OUdaOEc?oc=5",
+      "snippet": "",
+      "source": "연합뉴스",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 08:19:55 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇 지능용 GPU 확충한 엑스와이지, 피지컬 AI 상용화 표준 구축 ‘속도’ - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hQkFxblctc3g1NXlWQnYtd282QmhlNXVGdmQwcmhzdy02NGNYN3c3c293c1JPRlpfdVh1YkZjUF9xRU9aZXQ4STVtcElNcVNYU0tuZURXTVhVUTBLSEtJ?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Tue, 18 Aug 2026 05:55:55 GMT"
+    },
+    {
+      "type": "news",
+      "title": "한국경총 '제조기업 84%, 피지컬 AI 도입 혹은 도입 예정' 실태 조사 - 전국구직노조신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11OGJEQmdmcXVFZ2g0MjRLT1RJX1ZNcWRDTThfeTFwbWJuWVFZaDQ4cC1ERDhPNmtQSlpnN3gyMnQwT180Rmhycl9fV3U0bkU2RzRDSGpGYmJiNVhyUFBia3o3YkhMdnM?oc=5",
+      "snippet": "",
+      "source": "전국구직노조신문",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 08:18:46 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇 도입 확대되는데… 전략 갖춘 조직은 10곳 중 4곳 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ZnpNLXM3eVp0TlphMWg1ZXVLR1o0THlEekowZEVTWTQ1S0FkWVlwemxnQ3FoWUI3Y2pmOS1tMXh1LU1kb1REajdjZi11a0hkR3pzbHBEVUE0SkF5U0dLa0JVM2kxcF9mczNFNFJHZXDSAXRBVV95cUxNOFZaeHRpV0N5V2R0bTFuakZrSXV1R3JoeXhyXzJmbEJsd2JhTE0ySHNJNWtYRm9sR0cyWFdoUlJLZ29oYUVGcEZkb2dwREZRMlRaM0hYVXpwb2ZhT1JheHVBQU52aUYxdnRERHdCRWRwUEtBZg?oc=5",
+      "snippet": "",
+      "source": "IT조선",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 00:14:40 GMT"
+    }
+  ]
 }
