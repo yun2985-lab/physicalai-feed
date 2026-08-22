@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-22T09:42:39Z",
+  "updated_at": "2026-08-22T13:01:09Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "최용호 대표 “K팝 다음은 피지컬 AI…배우IP로도 로봇 사업 도전” - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0UGdEMWhJdTlyVFlGcGtuc1dUVjl0TGpqRVJpQzBFNW1EY1VyaVFHQk1OOVh4MFhldzd4eU5HS2VCZkE1b2NON1YyZlVrMlljblctdVhhNnV0aVlaaDJ2ejhhNS0?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 01:41:54 GMT"
+    },
     {
       "type": "news",
       "title": "[기고] 현대자동차의 피지컬 AI 도입 허들과 극복과제 - 기계신문",
@@ -10,15 +19,6 @@
       "source": "기계신문",
       "categories": [],
       "pub_date": "Sat, 22 Aug 2026 01:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[AI 클로즈업] 피지컬AI 뛰어든 AI·SW 상장사… 매출 늘어도 수익화는 과제 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tNXR3SFNkYjJqamFuVS1ZWWpvdExMMmZkMEVXWHJ4V21HLW5scjhNNDZSTmlOUlRNUC1KbnlJRzdXXzJIMmluRmNwT0d6amFfQmd3VlIxdWRpczFUaGRPREdaVlM?oc=5",
-      "snippet": "",
-      "source": "디지털데일리",
-      "categories": [],
-      "pub_date": "Sat, 22 Aug 2026 06:25:58 GMT"
     },
     {
       "type": "news",
@@ -37,6 +37,15 @@
       "source": "국제신문",
       "categories": [],
       "pub_date": "Thu, 20 Aug 2026 05:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇이 춤 배우고 아이돌 도전…'피지컬 AI'로 진화한 엔터테크(종합) - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pNmttZkl2TE9Kb1dWeVg4bG1KYWVLTVc4bFd3bVRTRk5FVmZqRnJuRTFJR3ppN2xOTFBDbWJSZVJzV3ZkTWhOQkpLWGx3SHhWMXE0UkpzYlo3bGvSAWBBVV95cUxOdEVqcnQ0TDBFY2k1ZkdkTENVcU0ydEdNWUpTZ3hWYzNuVWlsTVF1Q3pkLXBEbEFlYVFrMXJEcDhCWVhBY2hQWVlCUndZa0x0V3R4U1NZUkdibTM5OUdaOEc?oc=5",
+      "snippet": "",
+      "source": "연합뉴스",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 08:19:55 GMT"
     },
     {
       "type": "news",
@@ -64,15 +73,6 @@
       "source": "전국구직노조신문",
       "categories": [],
       "pub_date": "Sat, 22 Aug 2026 08:18:46 GMT"
-    },
-    {
-      "type": "news",
-      "title": "세계 최대 로봇산업 축제 ‘WRC 2026’ 19일 베이징서 막 오른다 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qX1pJNGhKWWhNTkhlSzNCeE9uNnJIdlEzQzFodER2a01TZmtmUXp5dkNRcTc0T3A3N1ZJbjFPZUp0Q0ZnNVJpdlhrLU9rbk9jbVY1dk1vd05oS2NJZmVwWVYxMlBadkFFS0NKbQ?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Tue, 18 Aug 2026 09:02:39 GMT"
     }
   ]
 }
