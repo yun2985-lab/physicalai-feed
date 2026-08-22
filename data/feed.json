@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:39:29Z",
+  "updated_at": "2026-08-22T01:50:20Z",
   "papers": [
     {
       "type": "paper",
@@ -102,30 +102,30 @@
   "news": [
     {
       "type": "news",
+      "title": "[기고] 현대자동차의 피지컬 AI 도입 허들과 극복과제 - 기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WV1FzT0F1VzFpQ1k4VnVmS3l6OVFPVnFnS1pBSmllRkVZNmROVXQwZjEzektPUUIxQTBOX2tDakVrZUZXLTZEUjl0ZDVpNWVua1I2OG1haWtZYlFqeXV4TUNOcFo5ZVU?oc=5",
+      "snippet": "",
+      "source": "기계신문",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 01:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇 도입 확대되는데… 전략 갖춘 조직은 10곳 중 4곳 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ZnpNLXM3eVp0TlphMWg1ZXVLR1o0THlEekowZEVTWTQ1S0FkWVlwemxnQ3FoWUI3Y2pmOS1tMXh1LU1kb1REajdjZi11a0hkR3pzbHBEVUE0SkF5U0dLa0JVM2kxcF9mczNFNFJHZXDSAXRBVV95cUxNOFZaeHRpV0N5V2R0bTFuakZrSXV1R3JoeXhyXzJmbEJsd2JhTE0ySHNJNWtYRm9sR0cyWFdoUlJLZ29oYUVGcEZkb2dwREZRMlRaM0hYVXpwb2ZhT1JheHVBQU52aUYxdnRERHdCRWRwUEtBZg?oc=5",
+      "snippet": "",
+      "source": "IT조선",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 00:14:40 GMT"
+    },
+    {
+      "type": "news",
       "title": "필수의료 인력난 해법 부상 ‘피지컬 AI 로봇’ - 데일리메디",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtakZSUEpFczBNbVdlU3BWb05BTnNDaWhIZzlYeXNrdXdBbDV2ZHdseHVYcmlSbUp5WGFXVUM5RHdNMVlJclR0UHRaOFVYR29Oc216NFM0SkJZWlJCTTA3OVRmQkFpV3RU?oc=5",
       "snippet": "",
       "source": "데일리메디",
       "categories": [],
       "pub_date": "Wed, 19 Aug 2026 20:48:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "제조기업 10곳 중 8곳 “피지컬 AI 도입했거나 도입 예정”…생산성 향상 기대 - 드론매거진 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtU3pjRFVHTlVPQ1FZTkhLWVA2Mi1vUGZMdE9obEZKQTZvTVhvSzZENDRTeXJvRUxMR3JpQzRfam53clp0em1wajlST1ZYajFkVzhFRWRrQklXMnNHZ2QtTnZVaGo?oc=5",
-      "snippet": "",
-      "source": "드론매거진 뉴스",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 06:24:46 GMT"
-    },
-    {
-      "type": "news",
-      "title": "제조기업 84% “피지컬AI 도입”…휴머노이드형 선호 - 국제신문",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjY0WG1BY2phVVVfRVJWZ0lDN3RrckZ3eC1vWWROR3NKTXIwQllfTmlZYmpGeGhsX2JJZ0tVS08yckNpb3M4N1d4TjhtYXVXcm05dXNnVW5KRHRraFAxZHMxeC1NeTZXb1NCZ1VmOGQxUkZEMTJXUGRaZzhUQUgwWno1Vkl2Z0wyQkZxblpCbFVqUjBQTFg3SQ?oc=5",
-      "snippet": "",
-      "source": "국제신문",
-      "categories": [],
-      "pub_date": "Thu, 20 Aug 2026 05:52:00 GMT"
     },
     {
       "type": "news",
@@ -138,12 +138,21 @@
     },
     {
       "type": "news",
-      "title": "최홍선 “피지컬AI, 경단위 시장 연다” - 중소기업신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VDJkRlAwQzlMQTk2d2NUZU1qZENXS2RZMm1WaU5TNFRxVnl5cDJuTmJ0ZVkwV1JBUDJsbXV3ZG5SNnE5SDk4MklVRFFUYkloY2NLTFY4VllsR0hBRllmcmxEYTlvQU40cXlSSA?oc=5",
+      "title": "제조기업 84% “피지컬AI 도입”…휴머노이드형 선호 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjY0WG1BY2phVVVfRVJWZ0lDN3RrckZ3eC1vWWROR3NKTXIwQllfTmlZYmpGeGhsX2JJZ0tVS08yckNpb3M4N1d4TjhtYXVXcm05dXNnVW5KRHRraFAxZHMxeC1NeTZXb1NCZ1VmOGQxUkZEMTJXUGRaZzhUQUgwWno1Vkl2Z0wyQkZxblpCbFVqUjBQTFg3SQ?oc=5",
       "snippet": "",
-      "source": "중소기업신문",
+      "source": "국제신문",
       "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 10:32:38 GMT"
+      "pub_date": "Thu, 20 Aug 2026 05:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "제조기업 10곳 중 8곳 “피지컬 AI 도입했거나 도입 예정”…생산성 향상 기대 - 드론매거진 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtU3pjRFVHTlVPQ1FZTkhLWVA2Mi1vUGZMdE9obEZKQTZvTVhvSzZENDRTeXJvRUxMR3JpQzRfam53clp0em1wajlST1ZYajFkVzhFRWRrQklXMnNHZ2QtTnZVaGo?oc=5",
+      "snippet": "",
+      "source": "드론매거진 뉴스",
+      "categories": [],
+      "pub_date": "Fri, 21 Aug 2026 06:24:46 GMT"
     },
     {
       "type": "news",
@@ -156,21 +165,12 @@
     },
     {
       "type": "news",
-      "title": "인텔 \"韓, 로봇 도입 기대 높지만 전략 마련은 미흡\" - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rN21WSGJTVnBaTzYwYU9mcHlhVkM2NVNGSWxHTlZHd3N3NnU0VDJjcnQzWTlhalY4ejRkcDd4dmZiUnBCUWNOa2k5NUYwM2p3WWhoM0dn?oc=5",
+      "title": "최홍선 “피지컬AI, 경단위 시장 연다” - 중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VDJkRlAwQzlMQTk2d2NUZU1qZENXS2RZMm1WaU5TNFRxVnl5cDJuTmJ0ZVkwV1JBUDJsbXV3ZG5SNnE5SDk4MklVRFFUYkloY2NLTFY4VllsR0hBRllmcmxEYTlvQU40cXlSSA?oc=5",
       "snippet": "",
-      "source": "지디넷코리아",
+      "source": "중소기업신문",
       "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 00:00:02 GMT"
-    },
-    {
-      "type": "news",
-      "title": "10명 중 6명 \"로봇 도입\" 외치지만 전략은 4명뿐…장미빛 착시 `로보틱스 레디니스 갭` - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HVHpEYUE3Ym01STNrMUlMT29NMTBlVk9DRHczcEVCcHI2MUlQWTdPMjI0Wm9renpqUDc3NGJRWnotMmY3MmZKaVNpUXFUaEtkWUVQVUNEcWVzcTNrSzd4WXFB?oc=5",
-      "snippet": "",
-      "source": "디지털데일리",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 04:05:56 GMT"
+      "pub_date": "Fri, 21 Aug 2026 10:32:38 GMT"
     }
   ]
 }
