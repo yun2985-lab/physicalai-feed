@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T06:59:39Z",
+  "updated_at": "2026-08-22T09:42:39Z",
   "papers": [],
   "news": [
     {
@@ -13,30 +13,21 @@
     },
     {
       "type": "news",
+      "title": "[AI 클로즈업] 피지컬AI 뛰어든 AI·SW 상장사… 매출 늘어도 수익화는 과제 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tNXR3SFNkYjJqamFuVS1ZWWpvdExMMmZkMEVXWHJ4V21HLW5scjhNNDZSTmlOUlRNUC1KbnlJRzdXXzJIMmluRmNwT0d6amFfQmd3VlIxdWRpczFUaGRPREdaVlM?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 06:25:58 GMT"
+    },
+    {
+      "type": "news",
       "title": "필수의료 인력난 해법 부상 ‘피지컬 AI 로봇’ - 데일리메디",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtakZSUEpFczBNbVdlU3BWb05BTnNDaWhIZzlYeXNrdXdBbDV2ZHdseHVYcmlSbUp5WGFXVUM5RHdNMVlJclR0UHRaOFVYR29Oc216NFM0SkJZWlJCTTA3OVRmQkFpV3RU?oc=5",
       "snippet": "",
       "source": "데일리메디",
       "categories": [],
       "pub_date": "Wed, 19 Aug 2026 20:48:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로봇 도입 확대되는데… 전략 갖춘 조직은 10곳 중 4곳 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ZnpNLXM3eVp0TlphMWg1ZXVLR1o0THlEekowZEVTWTQ1S0FkWVlwemxnQ3FoWUI3Y2pmOS1tMXh1LU1kb1REajdjZi11a0hkR3pzbHBEVUE0SkF5U0dLa0JVM2kxcF9mczNFNFJHZXDSAXRBVV95cUxNOFZaeHRpV0N5V2R0bTFuakZrSXV1R3JoeXhyXzJmbEJsd2JhTE0ySHNJNWtYRm9sR0cyWFdoUlJLZ29oYUVGcEZkb2dwREZRMlRaM0hYVXpwb2ZhT1JheHVBQU52aUYxdnRERHdCRWRwUEtBZg?oc=5",
-      "snippet": "",
-      "source": "IT조선",
-      "categories": [],
-      "pub_date": "Sat, 22 Aug 2026 00:14:40 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로봇 지능용 GPU 확충한 엑스와이지, 피지컬 AI 상용화 표준 구축 ‘속도’ - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hQkFxblctc3g1NXlWQnYtd282QmhlNXVGdmQwcmhzdy02NGNYN3c3c293c1JPRlpfdVh1YkZjUF9xRU9aZXQ4STVtcElNcVNYU0tuZURXTVhVUTBLSEtJ?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Tue, 18 Aug 2026 05:55:55 GMT"
     },
     {
       "type": "news",
@@ -49,30 +40,39 @@
     },
     {
       "type": "news",
+      "title": "로봇 지능용 GPU 확충한 엑스와이지, 피지컬 AI 상용화 표준 구축 ‘속도’ - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hQkFxblctc3g1NXlWQnYtd282QmhlNXVGdmQwcmhzdy02NGNYN3c3c293c1JPRlpfdVh1YkZjUF9xRU9aZXQ4STVtcElNcVNYU0tuZURXTVhVUTBLSEtJ?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Tue, 18 Aug 2026 05:55:55 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇 도입 확대되는데… 전략 갖춘 조직은 10곳 중 4곳 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ZnpNLXM3eVp0TlphMWg1ZXVLR1o0THlEekowZEVTWTQ1S0FkWVlwemxnQ3FoWUI3Y2pmOS1tMXh1LU1kb1REajdjZi11a0hkR3pzbHBEVUE0SkF5U0dLa0JVM2kxcF9mczNFNFJHZXDSAXRBVV95cUxNOFZaeHRpV0N5V2R0bTFuakZrSXV1R3JoeXhyXzJmbEJsd2JhTE0ySHNJNWtYRm9sR0cyWFdoUlJLZ29oYUVGcEZkb2dwREZRMlRaM0hYVXpwb2ZhT1JheHVBQU52aUYxdnRERHdCRWRwUEtBZg?oc=5",
+      "snippet": "",
+      "source": "IT조선",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 00:14:40 GMT"
+    },
+    {
+      "type": "news",
+      "title": "한국경총 '제조기업 84%, 피지컬 AI 도입 혹은 도입 예정' 실태 조사 - 전국구직노조신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11OGJEQmdmcXVFZ2g0MjRLT1RJX1ZNcWRDTThfeTFwbWJuWVFZaDQ4cC1ERDhPNmtQSlpnN3gyMnQwT180Rmhycl9fV3U0bkU2RzRDSGpGYmJiNVhyUFBia3o3YkhMdnM?oc=5",
+      "snippet": "",
+      "source": "전국구직노조신문",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 08:18:46 GMT"
+    },
+    {
+      "type": "news",
       "title": "세계 최대 로봇산업 축제 ‘WRC 2026’ 19일 베이징서 막 오른다 - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qX1pJNGhKWWhNTkhlSzNCeE9uNnJIdlEzQzFodER2a01TZmtmUXp5dkNRcTc0T3A3N1ZJbjFPZUp0Q0ZnNVJpdlhrLU9rbk9jbVY1dk1vd05oS2NJZmVwWVYxMlBadkFFS0NKbQ?oc=5",
       "snippet": "",
       "source": "로봇신문",
       "categories": [],
       "pub_date": "Tue, 18 Aug 2026 09:02:39 GMT"
-    },
-    {
-      "type": "news",
-      "title": "제조기업 10곳 중 8곳 “피지컬 AI 도입했거나 도입 예정”…생산성 향상 기대 - 드론매거진 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtU3pjRFVHTlVPQ1FZTkhLWVA2Mi1vUGZMdE9obEZKQTZvTVhvSzZENDRTeXJvRUxMR3JpQzRfam53clp0em1wajlST1ZYajFkVzhFRWRrQklXMnNHZ2QtTnZVaGo?oc=5",
-      "snippet": "",
-      "source": "드론매거진 뉴스",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 06:24:46 GMT"
-    },
-    {
-      "type": "news",
-      "title": "최홍선 “피지컬AI, 경단위 시장 연다” - 중소기업신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VDJkRlAwQzlMQTk2d2NUZU1qZENXS2RZMm1WaU5TNFRxVnl5cDJuTmJ0ZVkwV1JBUDJsbXV3ZG5SNnE5SDk4MklVRFFUYkloY2NLTFY4VllsR0hBRllmcmxEYTlvQU40cXlSSA?oc=5",
-      "snippet": "",
-      "source": "중소기업신문",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 10:32:38 GMT"
     }
   ]
 }
