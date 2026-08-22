@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T18:49:14Z",
+  "updated_at": "2026-08-22T21:35:41Z",
   "papers": [],
   "news": [
     {
@@ -10,15 +10,6 @@
       "source": "디지털데일리",
       "categories": [],
       "pub_date": "Sat, 22 Aug 2026 01:41:54 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[기고] 현대자동차의 피지컬 AI 도입 허들과 극복과제 - 기계신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WV1FzT0F1VzFpQ1k4VnVmS3l6OVFPVnFnS1pBSmllRkVZNmROVXQwZjEzektPUUIxQTBOX2tDakVrZUZXLTZEUjl0ZDVpNWVua1I2OG1haWtZYlFqeXV4TUNOcFo5ZVU?oc=5",
-      "snippet": "",
-      "source": "기계신문",
-      "categories": [],
-      "pub_date": "Sat, 22 Aug 2026 01:00:00 GMT"
     },
     {
       "type": "news",
@@ -37,6 +28,15 @@
       "source": "국제신문",
       "categories": [],
       "pub_date": "Thu, 20 Aug 2026 05:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[기고] 현대자동차의 피지컬 AI 도입 허들과 극복과제 - 기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WV1FzT0F1VzFpQ1k4VnVmS3l6OVFPVnFnS1pBSmllRkVZNmROVXQwZjEzektPUUIxQTBOX2tDakVrZUZXLTZEUjl0ZDVpNWVua1I2OG1haWtZYlFqeXV4TUNOcFo5ZVU?oc=5",
+      "snippet": "",
+      "source": "기계신문",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 01:00:00 GMT"
     },
     {
       "type": "news",
@@ -67,12 +67,12 @@
     },
     {
       "type": "news",
-      "title": "로봇 도입 확대되는데… 전략 갖춘 조직은 10곳 중 4곳 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ZnpNLXM3eVp0TlphMWg1ZXVLR1o0THlEekowZEVTWTQ1S0FkWVlwemxnQ3FoWUI3Y2pmOS1tMXh1LU1kb1REajdjZi11a0hkR3pzbHBEVUE0SkF5U0dLa0JVM2kxcF9mczNFNFJHZXDSAXRBVV95cUxNOFZaeHRpV0N5V2R0bTFuakZrSXV1R3JoeXhyXzJmbEJsd2JhTE0ySHNJNWtYRm9sR0cyWFdoUlJLZ29oYUVGcEZkb2dwREZRMlRaM0hYVXpwb2ZhT1JheHVBQU52aUYxdnRERHdCRWRwUEtBZg?oc=5",
+      "title": "세계 최대 로봇산업 축제 ‘WRC 2026’ 19일 베이징서 막 오른다 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qX1pJNGhKWWhNTkhlSzNCeE9uNnJIdlEzQzFodER2a01TZmtmUXp5dkNRcTc0T3A3N1ZJbjFPZUp0Q0ZnNVJpdlhrLU9rbk9jbVY1dk1vd05oS2NJZmVwWVYxMlBadkFFS0NKbQ?oc=5",
       "snippet": "",
-      "source": "IT조선",
+      "source": "로봇신문",
       "categories": [],
-      "pub_date": "Sat, 22 Aug 2026 00:14:40 GMT"
+      "pub_date": "Tue, 18 Aug 2026 09:02:39 GMT"
     }
   ]
 }
