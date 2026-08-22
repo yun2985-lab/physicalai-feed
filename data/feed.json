@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T01:50:20Z",
+  "updated_at": "2026-08-22T03:56:53Z",
   "papers": [
     {
       "type": "paper",
@@ -156,21 +156,21 @@
     },
     {
       "type": "news",
-      "title": "시잉머신스, 자율주행 기술 확장… 차세대 로봇 시장 공략 선언 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkdwWmdYSFU1cFRud3laNnJMdjQ5Rm5OaFhZczk2U2Q4UnJZM0EtdWV2MkZHSk5SSVd3RTh6Z3JNR2NFOFVhSWhNY3g2eC1wYjZqXzFDTzdVZzVUTlFxU3VORXY2MjY3QTV2RVRxUEYtcktUWjBFbndhRUdKaGw5TWQ1OFpkYWpC?oc=5",
-      "snippet": "",
-      "source": "글로벌이코노믹",
-      "categories": [],
-      "pub_date": "Wed, 19 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "type": "news",
       "title": "최홍선 “피지컬AI, 경단위 시장 연다” - 중소기업신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VDJkRlAwQzlMQTk2d2NUZU1qZENXS2RZMm1WaU5TNFRxVnl5cDJuTmJ0ZVkwV1JBUDJsbXV3ZG5SNnE5SDk4MklVRFFUYkloY2NLTFY4VllsR0hBRllmcmxEYTlvQU40cXlSSA?oc=5",
       "snippet": "",
       "source": "중소기업신문",
       "categories": [],
       "pub_date": "Fri, 21 Aug 2026 10:32:38 GMT"
+    },
+    {
+      "type": "news",
+      "title": "세계 최대 로봇산업 축제 ‘WRC 2026’ 19일 베이징서 막 오른다 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qX1pJNGhKWWhNTkhlSzNCeE9uNnJIdlEzQzFodER2a01TZmtmUXp5dkNRcTc0T3A3N1ZJbjFPZUp0Q0ZnNVJpdlhrLU9rbk9jbVY1dk1vd05oS2NJZmVwWVYxMlBadkFFS0NKbQ?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Tue, 18 Aug 2026 09:02:39 GMT"
     }
   ]
 }
