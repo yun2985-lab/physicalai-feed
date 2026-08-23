@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-23T18:48:55Z",
+  "updated_at": "2026-08-23T21:36:06Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "[미리 보는 2026 GGGF] 미·중 AI 패권 경쟁 속 한국의 AI와 피지컬 AI 가능성을 묻다 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNU0RxN2pXZDc2NnNNXzMwbW1DcW5seUh6RlhDTHNfT3dCQkFGVFZXY3N0WFkzUjNkWkVTdTFIQk50dFFjRzNrUEtwcmJrSnY5a0ZoUU4wZUdsQdIBWEFVX3lxTE44djhxZVczZFlicURJcm51OXNBWU1rYmw1eEZ1V3FDNlZZTlRzT2hQM0k5Vk9VbWxDTlowMlRMRlJ4ODRvZ20zT19XeG9ScVpTY0xaaDlyRGk?oc=5",
+      "snippet": "",
+      "source": "아주경제",
+      "categories": [],
+      "pub_date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
     {
       "type": "news",
       "title": "필수의료 인력난 해법 부상 ‘피지컬 AI 로봇’ - 데일리메디",
@@ -40,6 +49,15 @@
     },
     {
       "type": "news",
+      "title": "[기고] 현대자동차의 피지컬 AI 도입 허들과 극복과제 - 기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WV1FzT0F1VzFpQ1k4VnVmS3l6OVFPVnFnS1pBSmllRkVZNmROVXQwZjEzektPUUIxQTBOX2tDakVrZUZXLTZEUjl0ZDVpNWVua1I2OG1haWtZYlFqeXV4TUNOcFo5ZVU?oc=5",
+      "snippet": "",
+      "source": "기계신문",
+      "categories": [],
+      "pub_date": "Sat, 22 Aug 2026 01:00:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "시잉머신스, 자율주행 기술 확장… 차세대 로봇 시장 공략 선언 - 글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkdwWmdYSFU1cFRud3laNnJMdjQ5Rm5OaFhZczk2U2Q4UnJZM0EtdWV2MkZHSk5SSVd3RTh6Z3JNR2NFOFVhSWhNY3g2eC1wYjZqXzFDTzdVZzVUTlFxU3VORXY2MjY3QTV2RVRxUEYtcktUWjBFbndhRUdKaGw5TWQ1OFpkYWpC?oc=5",
       "snippet": "",
@@ -55,24 +73,6 @@
       "source": "디지털데일리",
       "categories": [],
       "pub_date": "Sat, 22 Aug 2026 01:41:54 GMT"
-    },
-    {
-      "type": "news",
-      "title": "제조기업 10곳 중 8곳 “피지컬 AI 도입했거나 도입 예정”…생산성 향상 기대 - 드론매거진 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtU3pjRFVHTlVPQ1FZTkhLWVA2Mi1vUGZMdE9obEZKQTZvTVhvSzZENDRTeXJvRUxMR3JpQzRfam53clp0em1wajlST1ZYajFkVzhFRWRrQklXMnNHZ2QtTnZVaGo?oc=5",
-      "snippet": "",
-      "source": "드론매거진 뉴스",
-      "categories": [],
-      "pub_date": "Fri, 21 Aug 2026 06:24:46 GMT"
-    },
-    {
-      "type": "news",
-      "title": "세계 최대 로봇산업 축제 ‘WRC 2026’ 19일 베이징서 막 오른다 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qX1pJNGhKWWhNTkhlSzNCeE9uNnJIdlEzQzFodER2a01TZmtmUXp5dkNRcTc0T3A3N1ZJbjFPZUp0Q0ZnNVJpdlhrLU9rbk9jbVY1dk1vd05oS2NJZmVwWVYxMlBadkFFS0NKbQ?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Tue, 18 Aug 2026 09:02:39 GMT"
     }
   ]
 }
