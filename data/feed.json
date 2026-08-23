@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T09:43:21Z",
+  "updated_at": "2026-08-23T13:02:14Z",
   "papers": [],
   "news": [
     {
@@ -22,21 +22,21 @@
     },
     {
       "type": "news",
-      "title": "로봇 지능용 GPU 확충한 엑스와이지, 피지컬 AI 상용화 표준 구축 ‘속도’ - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hQkFxblctc3g1NXlWQnYtd282QmhlNXVGdmQwcmhzdy02NGNYN3c3c293c1JPRlpfdVh1YkZjUF9xRU9aZXQ4STVtcElNcVNYU0tuZURXTVhVUTBLSEtJ?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Tue, 18 Aug 2026 05:55:55 GMT"
-    },
-    {
-      "type": "news",
       "title": "제조기업 84% “피지컬AI 도입”…휴머노이드형 선호 - 국제신문",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTBKMVp6V2NJWndBd2YydVU5c3BTM2lxbkZaZDZPaEpjZE5CUTI1dnd2NWIzTzFnX1NCTnRsRHZYMnQxanNzbUs3UXBEV2JXT3VQcVhzMm5vak9mSGZRa0lZTmRFUjhvUHBSWGs4ekREd3dhQkVUaVUyNTMxeVl5SDBkM3MtbmhLSFBlNTdB?oc=5",
       "snippet": "",
       "source": "국제신문",
       "categories": [],
       "pub_date": "Thu, 20 Aug 2026 05:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇 지능용 GPU 확충한 엑스와이지, 피지컬 AI 상용화 표준 구축 ‘속도’ - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hQkFxblctc3g1NXlWQnYtd282QmhlNXVGdmQwcmhzdy02NGNYN3c3c293c1JPRlpfdVh1YkZjUF9xRU9aZXQ4STVtcElNcVNYU0tuZURXTVhVUTBLSEtJ?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Tue, 18 Aug 2026 05:55:55 GMT"
     },
     {
       "type": "news",
