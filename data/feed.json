@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T18:59:47Z",
+  "updated_at": "2026-08-24T21:44:25Z",
   "papers": [
     {
       "type": "paper",
@@ -116,21 +116,21 @@
     },
     {
       "type": "news",
+      "title": "마음AI-삼정오토메이션, 국산 피지컬AI 교육 확대 협력 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FWGljbVVNa2xnNWtjU01YUnk4SnN0dDFScmdRemUxd2hhX0tPclZ5TE5scFdjNGhGWE9xR1dBMEtRVEgtZHVueTFXcWN5d1o3eGdfVzRn?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Mon, 24 Aug 2026 10:46:58 GMT"
+    },
+    {
+      "type": "news",
       "title": "피지컬 AI·휴머노이드 로봇에 거는 기대감…현대차냐 LG냐 - 리더스팩트",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YaFo4VmFraC1iTzZybVM2RW1LWmkwN1MyMWtFc1RKaFNKaXNYYUd2OFk2LUxIc0V6RS1RbVJsRzhkTzBGczJkRDlhb2RQME1uZW9PRlpFaktoUDdYajVuUk52N0F6ZXR4OHNEeUpiZEE?oc=5",
       "snippet": "",
       "source": "리더스팩트",
       "categories": [],
       "pub_date": "Mon, 24 Aug 2026 08:10:13 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[피지컬 AI ㉞] 현장으로 들어온 지능형 로봇 ① - 제조·물류 현장의 혁신 - 미디어피아",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pTWpqdTNCVWE3Y0JiUVZfMUxGRWZUSFNKR3RjaWwtZjA5RmdYRWxkektMTHpELWhHYXcxSWxBS0hNVGJmRlc4R3dYTEFOYUdWb3UtbWhaaTA0S1dEMGtmT3NldDBucGU0emlPdw?oc=5",
-      "snippet": "",
-      "source": "미디어피아",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 04:13:54 GMT"
     },
     {
       "type": "news",
@@ -143,12 +143,12 @@
     },
     {
       "type": "news",
-      "title": "디케이티, 테슬라 로봇에 배터리 모듈 단다…이달 양산 개시 - 파이낸스스코프",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GNFJPbXNRbkFOTDdFZmpFV3ZkWDdoZTdaN3ZIbHdxT0JkdWc4OVhFYXpoYWllOGxMQVdMRldtYTVuM0NIcTRKTFNuM2Q0U1FsTE5SU2NadlF6Tnc5N1h0bUNuMUhpOUhSbFE?oc=5",
+      "title": "[피지컬 AI ㉞] 현장으로 들어온 지능형 로봇 ① - 제조·물류 현장의 혁신 - 미디어피아",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pTWpqdTNCVWE3Y0JiUVZfMUxGRWZUSFNKR3RjaWwtZjA5RmdYRWxkektMTHpELWhHYXcxSWxBS0hNVGJmRlc4R3dYTEFOYUdWb3UtbWhaaTA0S1dEMGtmT3NldDBucGU0emlPdw?oc=5",
       "snippet": "",
-      "source": "파이낸스스코프",
+      "source": "미디어피아",
       "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 05:00:00 GMT"
+      "pub_date": "Mon, 24 Aug 2026 04:13:54 GMT"
     },
     {
       "type": "news",
@@ -161,12 +161,12 @@
     },
     {
       "type": "news",
-      "title": "[최봉혁 ESG경영 칼럼] 아파트를 순찰하는 AI 로봇, 안전을 지키는 기술이 감시자가 되지 않으려면 - 웰페어뉴스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOYVpWQlMxWmVseXNUN1BjSVEyR1pUR3NRVjdBQXl5SFcwTTN4ZEZlUG1qUzlJMWxYOUhjNWowb1Bfc1hDUEJUYUtubW1XVGdLdVRST1lpYXlabGRCZC0xR09XRDh5UlJja2J1XzRQMA?oc=5",
+      "title": "디케이티, 테슬라 로봇에 배터리 모듈 단다…이달 양산 개시 - 파이낸스스코프",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GNFJPbXNRbkFOTDdFZmpFV3ZkWDdoZTdaN3ZIbHdxT0JkdWc4OVhFYXpoYWllOGxMQVdMRldtYTVuM0NIcTRKTFNuM2Q0U1FsTE5SU2NadlF6Tnc5N1h0bUNuMUhpOUhSbFE?oc=5",
       "snippet": "",
-      "source": "웰페어뉴스",
+      "source": "파이낸스스코프",
       "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 01:28:29 GMT"
+      "pub_date": "Mon, 24 Aug 2026 05:00:00 GMT"
     }
   ]
 }
