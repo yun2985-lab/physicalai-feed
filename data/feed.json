@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T15:56:34Z",
+  "updated_at": "2026-08-24T18:59:47Z",
   "papers": [
     {
       "type": "paper",
@@ -125,6 +125,15 @@
     },
     {
       "type": "news",
+      "title": "[피지컬 AI ㉞] 현장으로 들어온 지능형 로봇 ① - 제조·물류 현장의 혁신 - 미디어피아",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pTWpqdTNCVWE3Y0JiUVZfMUxGRWZUSFNKR3RjaWwtZjA5RmdYRWxkektMTHpELWhHYXcxSWxBS0hNVGJmRlc4R3dYTEFOYUdWb3UtbWhaaTA0S1dEMGtmT3NldDBucGU0emlPdw?oc=5",
+      "snippet": "",
+      "source": "미디어피아",
+      "categories": [],
+      "pub_date": "Mon, 24 Aug 2026 04:13:54 GMT"
+    },
+    {
+      "type": "news",
       "title": "마음AI·삼정오토메이션 맞손 '피지컬AI' 생태계 확장 - 경제타임스",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0dEYtdVJjTjJUUHQyeWh6XzNxa3VfOEl0eTdEVmJtb1VOMzBXYzRzUGRWdm9rWlhMdG1tdHY5Q2dDU0hGMWpIN2UtMXJxRWg2OTFN?oc=5",
       "snippet": "",
@@ -134,21 +143,12 @@
     },
     {
       "type": "news",
-      "title": "로봇 뛰어다니는 비결 있었네…피지컬 AI용 통신망 구축한 중국 - edaily.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcXhHZTcyNmxIelN3SkdjemZ0Vmt6UDdZRDNmUGhTWW1KNFloTWJXUUpUa1lwdVA4RzJCZlJHQ0N1b21odjBaY1A2OFUxRk5jNWFfOXdSSF9MRzZCc3NBSHZ1TGNMc3BXdTQ5Q2FBVTZrdVROMGttOFdOMnZYWHY4aQ?oc=5",
+      "title": "디케이티, 테슬라 로봇에 배터리 모듈 단다…이달 양산 개시 - 파이낸스스코프",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GNFJPbXNRbkFOTDdFZmpFV3ZkWDdoZTdaN3ZIbHdxT0JkdWc4OVhFYXpoYWllOGxMQVdMRldtYTVuM0NIcTRKTFNuM2Q0U1FsTE5SU2NadlF6Tnc5N1h0bUNuMUhpOUhSbFE?oc=5",
       "snippet": "",
-      "source": "edaily.co.kr",
+      "source": "파이낸스스코프",
       "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 08:28:22 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[피지컬 AI ㉞] 현장으로 들어온 지능형 로봇 ① - 제조·물류 현장의 혁신 - 미디어피아",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pTWpqdTNCVWE3Y0JiUVZfMUxGRWZUSFNKR3RjaWwtZjA5RmdYRWxkektMTHpELWhHYXcxSWxBS0hNVGJmRlc4R3dYTEFOYUdWb3UtbWhaaTA0S1dEMGtmT3NldDBucGU0emlPdw?oc=5",
-      "snippet": "",
-      "source": "미디어피아",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 04:13:54 GMT"
+      "pub_date": "Mon, 24 Aug 2026 05:00:00 GMT"
     },
     {
       "type": "news",
