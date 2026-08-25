@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T07:08:43Z",
+  "updated_at": "2026-08-25T09:51:54Z",
   "papers": [
     {
       "type": "paper",
@@ -104,6 +104,24 @@
   "news": [
     {
       "type": "news",
+      "title": "미래 움직일 기술이 쑥쑥…세종교육 '피지컬 AI' 시대 활짝 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05aU1aREVOSHhHQWstbEozbWJ0RjkxRHkta2xJUEc1UjVuSkhzTUExVHRPZ1BLTGpaOU9teHBUUno3bmlGQWJrV1p3RHVnMzQ?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 09:36:03 GMT"
+    },
+    {
+      "type": "news",
+      "title": "에브리봇, 中 엑스스퀘어와 휴머노이드 업무협력…로봇 데이터 사업까지 확장 검토 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcWswMWlBSjFtN3VFeWVtRk8yM19UbFg0OTlWYzEtOWhtcGNhdklyX1p6ZGJfMWpLLVF2NG5JUkRlb2k1OUwyRlBHMWR2R2dESmllUHRpODg0Tk03TGJITC1PQUdTOGs?oc=5",
+      "snippet": "",
+      "source": "인공지능신문",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 02:08:12 GMT"
+    },
+    {
+      "type": "news",
       "title": "IBK투자證 “현대모비스, 전동화 부품주→피지컬 AI 로봇 부품주로… 목표가 76만원 유지” - 조선비즈 - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2VQdk9KQWJJaGJUN0t5eGdlTEExNjVOT2VFeFJQd0habEVPbW5ycjFSR1QyaExael9CVG41ZW8ySHk0R3Q4M2k2ZENBU2EtTjdxMjJpMjNTQU5hUWZJQ1Q5N0o3dmRJb2pBYTRhR0gyN0xWcndMQ245bFlGNDllUkxLSkIzWXBE0gGcAUFVX3lxTE9GcE93eGFfbmZuRTB3enZRVzYtSjVXUmpOVTJzQ3Y1R3F5ZlNpekc5U3pkOGhWdFZSZ0JiVFRlRnFENWVmeG5yOEZXUmJPd3NyeUl1VUxqU0dHeVI1UzZhalFZZ2hkVmxIVlNxQ04tUW43bVYzWUJsQmFnTk1qeUlfNmgzU19RR280c0hvVXE2djhlM1NzUldFajFmQQ?oc=5",
       "snippet": "",
@@ -131,12 +149,12 @@
     },
     {
       "type": "news",
-      "title": "카본식스-세이프틱스, 제조 현장 '피지컬 AI' 안전검증 개발 맞손 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XOEJLY1EyQ2toLWthY1hHYzROOVZjNW9zNUI2MEE5WUdydHV5cFRFNDM5bEFQblJkV3JocFZQLUtvejg5VWJLUXhmcER5TzFOeHlwVzJR?oc=5",
+      "title": "엑스와이지, 일상형 로봇 ‘듀스’ 3지 로봇핸드 공개…Physical AI 데이터 플라이휠 구축 - beSUCCESS",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qc1pNa2p5WVJrM2NtcWJOU205anBLbWJaUlZFWEVKSXRfdzY1ZG9aUG0tN1IyYkVoSHRsNGZtdXc3eEZCOWc?oc=5",
       "snippet": "",
-      "source": "지디넷코리아",
+      "source": "beSUCCESS",
       "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 01:08:40 GMT"
+      "pub_date": "Tue, 25 Aug 2026 07:59:23 GMT"
     },
     {
       "type": "news",
@@ -149,30 +167,12 @@
     },
     {
       "type": "news",
-      "title": "카본식스·세이프틱스, 제조 현장 피지컬 AI 양산 적용 협력 - 플래텀(Platum)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mTXRwNC0zMnh4aWV6b0lNQ0VNT21ORl9PeTlQMjQ1aXdzSVlwdUduVEhFdXVfa2ZDZE9teW1kdUtqZ0g2VVQ5OQ?oc=5",
+      "title": "카본식스-세이프틱스, 제조 현장 '피지컬 AI' 안전검증 개발 맞손 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XOEJLY1EyQ2toLWthY1hHYzROOVZjNW9zNUI2MEE5WUdydHV5cFRFNDM5bEFQblJkV3JocFZQLUtvejg5VWJLUXhmcER5TzFOeHlwVzJR?oc=5",
       "snippet": "",
-      "source": "플래텀(Platum)",
+      "source": "지디넷코리아",
       "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 02:29:32 GMT"
-    },
-    {
-      "type": "news",
-      "title": "마음AI, 삼정오토메이션과 피지컬 AI 교육 플랫폼 고도화 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kSUpqRTNSQkFqUFBYQ2xBNy1va1dLa3JDdGQtdkcyNFpQQ194N0FRaGl0WmdjZUpwa0xaMFdPUkNNbzNIYjViOEdHNHhFN2tGUTc3eEh3em5OcWoxRGhQZDBqWXFrX2hu?oc=5",
-      "snippet": "",
-      "source": "테크월드",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 23:20:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "카본식스·세이프틱스, AI 로봇 티칭부터 안전검증까지…제조업 피지컬 AI 양산 적용 협력 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QSURvek1jTXQtdE0xN0RnRWRTREt2ZDktYkZZRFBJdy1RT3pGNWRiNThZamJpa1czcFpLLXJzOHRudnhvVWF6Y1NQSHFGWDlIXzVsOGlJUE9lT3dVYnBXVFh3VlFlUUoxaXdtM0xwN0lyT2JycjR5eg?oc=5",
-      "snippet": "",
-      "source": "네이트",
-      "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 05:45:00 GMT"
+      "pub_date": "Tue, 25 Aug 2026 01:08:40 GMT"
     }
   ]
 }
