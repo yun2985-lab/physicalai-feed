@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T21:44:25Z",
+  "updated_at": "2026-08-25T01:53:03Z",
   "papers": [
     {
       "type": "paper",
@@ -98,6 +98,33 @@
   "news": [
     {
       "type": "news",
+      "title": "IBK투자證 “현대모비스, 전동화 부품주→피지컬 AI 로봇 부품주로… 목표가 76만원 유지” - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2VQdk9KQWJJaGJUN0t5eGdlTEExNjVOT2VFeFJQd0habEVPbW5ycjFSR1QyaExael9CVG41ZW8ySHk0R3Q4M2k2ZENBU2EtTjdxMjJpMjNTQU5hUWZJQ1Q5N0o3dmRJb2pBYTRhR0gyN0xWcndMQ245bFlGNDllUkxLSkIzWXBE0gGcAUFVX3lxTE9GcE93eGFfbmZuRTB3enZRVzYtSjVXUmpOVTJzQ3Y1R3F5ZlNpekc5U3pkOGhWdFZSZ0JiVFRlRnFENWVmeG5yOEZXUmJPd3NyeUl1VUxqU0dHeVI1UzZhalFZZ2hkVmxIVlNxQ04tUW43bVYzWUJsQmFnTk1qeUlfNmgzU19RR280c0hvVXE2djhlM1NzUldFajFmQQ?oc=5",
+      "snippet": "",
+      "source": "Chosunbiz",
+      "categories": [],
+      "pub_date": "Mon, 24 Aug 2026 23:39:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[더벨]마음AI·삼정오토메이션 피지컬AI 교육 맞손 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kSWJNaFdab0xoak1LbExCR0ZuME04dFZkR3RxdnAxTlZmVmV0SXFBeGhBcVpTTlBBNXRRMzg4YmdIc3JNZTRGelVjQ0YxTTdYN0ZuZ1JKLWxvMC04Z2JQNHFQYXhXRUZJaExLUVVB0gFuQVVfeXFMT2RJYk1oV1pvTGhqTUtsTEJHRm4wTTh0VmRHdHF2cDFOVmZWZXRJcUF4aEFxWlNOUEE1dFEzODhiZ0hzck1lNEZ6VWNDRjFNN1g3Rm5nUkotbG8wLThnYlA0cVBheFdFRkloTEtRVUE?oc=5",
+      "snippet": "",
+      "source": "머니투데이",
+      "categories": [],
+      "pub_date": "Mon, 24 Aug 2026 22:56:57 GMT"
+    },
+    {
+      "type": "news",
+      "title": "카본식스-세이프틱스, 제조 현장 '피지컬 AI' 안전검증 개발 맞손 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XOEJLY1EyQ2toLWthY1hHYzROOVZjNW9zNUI2MEE5WUdydHV5cFRFNDM5bEFQblJkV3JocFZQLUtvejg5VWJLUXhmcER5TzFOeHlwVzJR?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 01:08:40 GMT"
+    },
+    {
+      "type": "news",
       "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
       "snippet": "",
@@ -107,66 +134,39 @@
     },
     {
       "type": "news",
+      "title": "마음AI, 삼정오토메이션과 피지컬 AI 교육 플랫폼 고도화 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kSUpqRTNSQkFqUFBYQ2xBNy1va1dLa3JDdGQtdkcyNFpQQ194N0FRaGl0WmdjZUpwa0xaMFdPUkNNbzNIYjViOEdHNHhFN2tGUTc3eEh3em5OcWoxRGhQZDBqWXFrX2hu?oc=5",
+      "snippet": "",
+      "source": "테크월드",
+      "categories": [],
+      "pub_date": "Mon, 24 Aug 2026 23:20:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[대덕포럼] AI, 세상을 움직이다 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yZ1pMdDZIZEwwZHZOYTRybEVhNG5UWjNtRFZMNDU3VFJtSmllX1p0U0FUZllmTVFVeGFRZ0kyZ045ZmQ2cTFHRFUtZk1qSE5fMXlQa01wXy1DU2VETDluVHhDRHBlSUQ2Zm9YUDFXY9IBc0FVX3lxTE9PQ0Z5MjRXNm9FbVFjbGJsbzZpaHhkOVNWU3FhTUYybDFnOVhvbm1UVXZrTFd4QmZ4VlVVUERHbUZpUFJYUERXMmhpbVNrdXpNeE5QcU9tTHcyZjNjX19INFNIc0pJU2txcWhVWmFYVVJTbGM?oc=5",
+      "snippet": "",
+      "source": "대전일보",
+      "categories": [],
+      "pub_date": "Mon, 24 Aug 2026 22:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "현대차 정의선의 대망···자동차 넘어 피지컬 AI로 - 스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82S2Q0WHpIRzlPaEt6czY2ZmpaMjlsNE10cVZYSGdZU3dfS0Via3Q4SVIxMFN6MUtKQzBaTFA3aVE4M2RYYWpaM0U2RDJlWXJlOF9kOWpZVldiTjRrb0o4clBQRU9KaEJvLU1ZTg?oc=5",
+      "snippet": "",
+      "source": "스마트비즈",
+      "categories": [],
+      "pub_date": "Mon, 24 Aug 2026 23:51:34 GMT"
+    },
+    {
+      "type": "news",
       "title": "피지컬 AI 시대, 현대자동차그룹이 주목받는 이유 | 영상미디어 | 현대자동차그룹 - Hyundai Motor Group",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN001QzRFVkplZTRPVGw1RnpyNjFYUFhsQlUtbHM3eU92UnhQQ085OTZ5RDFROE5pQ1psMGJtT280cDFxeUtPR24waUh6N2U3cjVORENTUHZnbmVqMFJmbDVGYlFKREFLQVYtTVo5R2hWZV9GZUJEamxsczl0cXhMQg?oc=5",
       "snippet": "",
       "source": "Hyundai Motor Group",
       "categories": [],
       "pub_date": "Mon, 24 Aug 2026 07:51:12 GMT"
-    },
-    {
-      "type": "news",
-      "title": "마음AI-삼정오토메이션, 국산 피지컬AI 교육 확대 협력 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FWGljbVVNa2xnNWtjU01YUnk4SnN0dDFScmdRemUxd2hhX0tPclZ5TE5scFdjNGhGWE9xR1dBMEtRVEgtZHVueTFXcWN5d1o3eGdfVzRn?oc=5",
-      "snippet": "",
-      "source": "지디넷코리아",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 10:46:58 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI·휴머노이드 로봇에 거는 기대감…현대차냐 LG냐 - 리더스팩트",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YaFo4VmFraC1iTzZybVM2RW1LWmkwN1MyMWtFc1RKaFNKaXNYYUd2OFk2LUxIc0V6RS1RbVJsRzhkTzBGczJkRDlhb2RQME1uZW9PRlpFaktoUDdYajVuUk52N0F6ZXR4OHNEeUpiZEE?oc=5",
-      "snippet": "",
-      "source": "리더스팩트",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 08:10:13 GMT"
-    },
-    {
-      "type": "news",
-      "title": "마음AI·삼정오토메이션 맞손 '피지컬AI' 생태계 확장 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0dEYtdVJjTjJUUHQyeWh6XzNxa3VfOEl0eTdEVmJtb1VOMzBXYzRzUGRWdm9rWlhMdG1tdHY5Q2dDU0hGMWpIN2UtMXJxRWg2OTFN?oc=5",
-      "snippet": "",
-      "source": "경제타임스",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 10:27:19 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[피지컬 AI ㉞] 현장으로 들어온 지능형 로봇 ① - 제조·물류 현장의 혁신 - 미디어피아",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pTWpqdTNCVWE3Y0JiUVZfMUxGRWZUSFNKR3RjaWwtZjA5RmdYRWxkektMTHpELWhHYXcxSWxBS0hNVGJmRlc4R3dYTEFOYUdWb3UtbWhaaTA0S1dEMGtmT3NldDBucGU0emlPdw?oc=5",
-      "snippet": "",
-      "source": "미디어피아",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 04:13:54 GMT"
-    },
-    {
-      "type": "news",
-      "title": "휴머닉스, 딥테크 밸류업 선정…체성능 측정·운동 AI 로봇 세짐 27년 초 현대百 팝업 개최 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sOENyVE1jZEtHVzY4RV8za2ZldENrcXBGVkd3bWtmeWpvZlVFRUpkejByMlFzQ2ZObzAwZDdyMV9KYVM3MTlpY1BuV0VXRDRVc1JValZrM0NGeW1wbnlkaDlfX2xVRHlm?oc=5",
-      "snippet": "",
-      "source": "테크월드",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 08:31:18 GMT"
-    },
-    {
-      "type": "news",
-      "title": "디케이티, 테슬라 로봇에 배터리 모듈 단다…이달 양산 개시 - 파이낸스스코프",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GNFJPbXNRbkFOTDdFZmpFV3ZkWDdoZTdaN3ZIbHdxT0JkdWc4OVhFYXpoYWllOGxMQVdMRldtYTVuM0NIcTRKTFNuM2Q0U1FsTE5SU2NadlF6Tnc5N1h0bUNuMUhpOUhSbFE?oc=5",
-      "snippet": "",
-      "source": "파이낸스스코프",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 05:00:00 GMT"
     }
   ]
 }
