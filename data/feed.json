@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T13:11:52Z",
+  "updated_at": "2026-08-25T16:00:59Z",
   "papers": [
     {
       "type": "paper",
@@ -131,12 +131,30 @@
     },
     {
       "type": "news",
+      "title": "엑스와이지, 일상형 로봇 ‘듀스’ 3지 로봇핸드 공개…Physical AI 데이터 플라이휠 구축 - beSUCCESS",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qc1pNa2p5WVJrM2NtcWJOU205anBLbWJaUlZFWEVKSXRfdzY1ZG9aUG0tN1IyYkVoSHRsNGZtdXc3eEZCOWc?oc=5",
+      "snippet": "",
+      "source": "beSUCCESS",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 07:59:23 GMT"
+    },
+    {
+      "type": "news",
       "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
       "snippet": "",
       "source": "매일경제",
       "categories": [],
       "pub_date": "Mon, 24 Aug 2026 00:45:33 GMT"
+    },
+    {
+      "type": "news",
+      "title": "카본식스·세이프틱스, 제조 현장 피지컬 AI 양산 적용 협력 - 플래텀(Platum)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mTXRwNC0zMnh4aWV6b0lNQ0VNT21ORl9PeTlQMjQ1aXdzSVlwdUduVEhFdXVfa2ZDZE9teW1kdUtqZ0g2VVQ5OQ?oc=5",
+      "snippet": "",
+      "source": "플래텀(Platum)",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 02:29:32 GMT"
     },
     {
       "type": "news",
@@ -149,30 +167,12 @@
     },
     {
       "type": "news",
-      "title": "엑스와이지, 일상형 로봇 ‘듀스’ 3지 로봇핸드 공개…Physical AI 데이터 플라이휠 구축 - beSUCCESS",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qc1pNa2p5WVJrM2NtcWJOU205anBLbWJaUlZFWEVKSXRfdzY1ZG9aUG0tN1IyYkVoSHRsNGZtdXc3eEZCOWc?oc=5",
-      "snippet": "",
-      "source": "beSUCCESS",
-      "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 07:59:23 GMT"
-    },
-    {
-      "type": "news",
       "title": "[피지컬 AI ㊲] HMGMA ①: 피지컬 AI의 글로벌 실증 (HMGMA & RMAC) - 미디어피아",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hZHZ4LUJxV0I3aFh0Z05DM01yM2Y0d2kwRG5Qa0xOS05YUjZzTzNiRnNYa1drRDJGN1p5emg2VzVTZTF4VkNRcDhKWFNseGFVZ21wQkdlcjg2RE1PaTVMRi1sLUJxemhDWHVJVQ?oc=5",
       "snippet": "",
       "source": "미디어피아",
       "categories": [],
       "pub_date": "Tue, 25 Aug 2026 05:00:59 GMT"
-    },
-    {
-      "type": "news",
-      "title": "카본식스-세이프틱스, 제조 현장 '피지컬 AI' 안전검증 개발 맞손 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XOEJLY1EyQ2toLWthY1hHYzROOVZjNW9zNUI2MEE5WUdydHV5cFRFNDM5bEFQblJkV3JocFZQLUtvejg5VWJLUXhmcER5TzFOeHlwVzJR?oc=5",
-      "snippet": "",
-      "source": "지디넷코리아",
-      "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 01:08:40 GMT"
     }
   ]
 }
