@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T18:57:24Z",
+  "updated_at": "2026-08-25T21:44:24Z",
   "papers": [
     {
       "type": "paper",
@@ -104,21 +104,21 @@
   "news": [
     {
       "type": "news",
+      "title": "\"테슬라 나와라\"… 샤오펑, 로봇 자회사 '도고틱스' 9억 달러 초대형 펀딩 유치 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHMxNlg1ZDRDMVFMck9CLUZoN01QeEFkVFdXU1p6R0ZSejBBTzZPM25JZmdldllYVEdJREN5YXdsRHQ4a0g5VG44ZWFYUEhoYzJUaTV6MzdGV1VGTnR4bTJpTmVSbkcxYV9EV0VMRV9wRHhfUDR3amV6N2EwSUNUNm5jUXR5NjdM?oc=5",
+      "snippet": "",
+      "source": "글로벌이코노믹",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 20:45:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "미래 움직일 기술이 쑥쑥…세종교육 '피지컬 AI' 시대 활짝 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05aU1aREVOSHhHQWstbEozbWJ0RjkxRHkta2xJUEc1UjVuSkhzTUExVHRPZ1BLTGpaOU9teHBUUno3bmlGQWJrV1p3RHVnMzQ?oc=5",
       "snippet": "",
       "source": "v.daum.net",
       "categories": [],
       "pub_date": "Tue, 25 Aug 2026 09:36:03 GMT"
-    },
-    {
-      "type": "news",
-      "title": "에브리봇, 中 엑스스퀘어와 휴머노이드 업무협력…로봇 데이터 사업까지 확장 검토 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcWswMWlBSjFtN3VFeWVtRk8yM19UbFg0OTlWYzEtOWhtcGNhdklyX1p6ZGJfMWpLLVF2NG5JUkRlb2k1OUwyRlBHMWR2R2dESmllUHRpODg0Tk03TGJITC1PQUdTOGs?oc=5",
-      "snippet": "",
-      "source": "인공지능신문",
-      "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 02:08:12 GMT"
     },
     {
       "type": "news",
@@ -131,12 +131,21 @@
     },
     {
       "type": "news",
-      "title": "IBK투자證 “현대모비스, 전동화 부품주→피지컬 AI 로봇 부품주로… 목표가 76만원 유지” - 조선비즈 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2VQdk9KQWJJaGJUN0t5eGdlTEExNjVOT2VFeFJQd0habEVPbW5ycjFSR1QyaExael9CVG41ZW8ySHk0R3Q4M2k2ZENBU2EtTjdxMjJpMjNTQU5hUWZJQ1Q5N0o3dmRJb2pBYTRhR0gyN0xWcndMQ245bFlGNDllUkxLSkIzWXBE0gGcAUFVX3lxTE9GcE93eGFfbmZuRTB3enZRVzYtSjVXUmpOVTJzQ3Y1R3F5ZlNpekc5U3pkOGhWdFZSZ0JiVFRlRnFENWVmeG5yOEZXUmJPd3NyeUl1VUxqU0dHeVI1UzZhalFZZ2hkVmxIVlNxQ04tUW43bVYzWUJsQmFnTk1qeUlfNmgzU19RR280c0hvVXE2djhlM1NzUldFajFmQQ?oc=5",
+      "title": "카본식스·세이프틱스, AI 로봇 티칭부터 안전검증까지…제조업 피지컬 AI 양산 적용 협력 - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjJmaDY1TFA5NUJMX19yTHZja2phV296R09iRWluTEFvbFJKakZ0Uk9SbGdWN3VzSWd2TzBmZ09VbENVc3dDdXdabDlKbmRKcjlrbmZMcUFXRWJORWtOWkZaZ1RMeXJqSzdvUk1jcEwxNV9aTWUzX3ZNVE81V3NCUWZB0gGWAUFVX3lxTE1SUG5HVHZUTno2MWFLUWhMbzh1RjlVdFR6WmVxR3NQVDZkR1lHNDFHOWpETG9MVlBRUndxazhYRFA5Mm5LRUtkWHgyTnc0eVMzWWZ5cTRaYlhLTGl2cldhVk1FVTBUamVCLXdTS2pEVWQtck8wQUFYNVE1N1RVem02cjJpQngyWU9UdW8zOXg2TFVMTDVjUQ?oc=5",
       "snippet": "",
       "source": "Chosunbiz",
       "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 23:39:00 GMT"
+      "pub_date": "Tue, 25 Aug 2026 05:44:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "에브리봇, 中 엑스스퀘어와 휴머노이드 업무협력…로봇 데이터 사업까지 확장 검토 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcWswMWlBSjFtN3VFeWVtRk8yM19UbFg0OTlWYzEtOWhtcGNhdklyX1p6ZGJfMWpLLVF2NG5JUkRlb2k1OUwyRlBHMWR2R2dESmllUHRpODg0Tk03TGJITC1PQUdTOGs?oc=5",
+      "snippet": "",
+      "source": "인공지능신문",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 02:08:12 GMT"
     },
     {
       "type": "news",
@@ -164,15 +173,6 @@
       "source": "미디어피아",
       "categories": [],
       "pub_date": "Tue, 25 Aug 2026 05:00:59 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[더벨]마음AI·삼정오토메이션 피지컬AI 교육 맞손 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kSWJNaFdab0xoak1LbExCR0ZuME04dFZkR3RxdnAxTlZmVmV0SXFBeGhBcVpTTlBBNXRRMzg4YmdIc3JNZTRGelVjQ0YxTTdYN0ZuZ1JKLWxvMC04Z2JQNHFQYXhXRUZJaExLUVVB0gFuQVVfeXFMT2RJYk1oV1pvTGhqTUtsTEJHRm4wTTh0VmRHdHF2cDFOVmZWZXRJcUF4aEFxWlNOUEE1dFEzODhiZ0hzck1lNEZ6VWNDRjFNN1g3Rm5nUkotbG8wLThnYlA0cVBheFdFRkloTEtRVUE?oc=5",
-      "snippet": "",
-      "source": "머니투데이",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 22:56:57 GMT"
     }
   ]
 }
