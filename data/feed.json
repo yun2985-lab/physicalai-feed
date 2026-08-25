@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:53:03Z",
+  "updated_at": "2026-08-25T03:59:53Z",
   "papers": [
     {
       "type": "paper",
@@ -125,6 +125,15 @@
     },
     {
       "type": "news",
+      "title": "[특별기고] AI 시대, 일본을 걷다 - 물류신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ienhCclVyWDRMTzNnbzFwbE5EVW95dGpaU1pyS3d1ZXB0UllsRXZBd2ItbHZGR1VuUnkzSzRrRXQ3UkMybW9CalF3TlF3SENrNU1LOG1NVDhPeWticGdWLTNyUHhiaHk1QUtN?oc=5",
+      "snippet": "",
+      "source": "물류신문",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 00:10:22 GMT"
+    },
+    {
+      "type": "news",
       "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
       "snippet": "",
@@ -134,39 +143,30 @@
     },
     {
       "type": "news",
+      "title": "카본식스·세이프틱스, 제조 현장 피지컬 AI 양산 적용 협력 - 플래텀(Platum)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mTXRwNC0zMnh4aWV6b0lNQ0VNT21ORl9PeTlQMjQ1aXdzSVlwdUduVEhFdXVfa2ZDZE9teW1kdUtqZ0g2VVQ5OQ?oc=5",
+      "snippet": "",
+      "source": "플래텀(Platum)",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 02:29:32 GMT"
+    },
+    {
+      "type": "news",
+      "title": "에브리봇, 中 피지컬 AI 기업 엑스스퀘어와 MOU…휴머노이드 사업 확대 - edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkFRZU16LVBub0J1ZEpRSk5jSnc0UkxfVmVrbnYtZ3lCSU0zbmJlZE1GejMxaWpDV1RKck16VWM2TU9VcjNBcHFlS0hMWVN6S0h6aFNDUHZ6MkVIZkJRbzBEcGJrZnY0MDNNQ3N3S2wzWjhISHRvdkJSUzhtYVpENg?oc=5",
+      "snippet": "",
+      "source": "edaily.co.kr",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 01:32:49 GMT"
+    },
+    {
+      "type": "news",
       "title": "마음AI, 삼정오토메이션과 피지컬 AI 교육 플랫폼 고도화 - 테크월드",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kSUpqRTNSQkFqUFBYQ2xBNy1va1dLa3JDdGQtdkcyNFpQQ194N0FRaGl0WmdjZUpwa0xaMFdPUkNNbzNIYjViOEdHNHhFN2tGUTc3eEh3em5OcWoxRGhQZDBqWXFrX2hu?oc=5",
       "snippet": "",
       "source": "테크월드",
       "categories": [],
       "pub_date": "Mon, 24 Aug 2026 23:20:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[대덕포럼] AI, 세상을 움직이다 - 대전일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yZ1pMdDZIZEwwZHZOYTRybEVhNG5UWjNtRFZMNDU3VFJtSmllX1p0U0FUZllmTVFVeGFRZ0kyZ045ZmQ2cTFHRFUtZk1qSE5fMXlQa01wXy1DU2VETDluVHhDRHBlSUQ2Zm9YUDFXY9IBc0FVX3lxTE9PQ0Z5MjRXNm9FbVFjbGJsbzZpaHhkOVNWU3FhTUYybDFnOVhvbm1UVXZrTFd4QmZ4VlVVUERHbUZpUFJYUERXMmhpbVNrdXpNeE5QcU9tTHcyZjNjX19INFNIc0pJU2txcWhVWmFYVVJTbGM?oc=5",
-      "snippet": "",
-      "source": "대전일보",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 22:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "현대차 정의선의 대망···자동차 넘어 피지컬 AI로 - 스마트비즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82S2Q0WHpIRzlPaEt6czY2ZmpaMjlsNE10cVZYSGdZU3dfS0Via3Q4SVIxMFN6MUtKQzBaTFA3aVE4M2RYYWpaM0U2RDJlWXJlOF9kOWpZVldiTjRrb0o4clBQRU9KaEJvLU1ZTg?oc=5",
-      "snippet": "",
-      "source": "스마트비즈",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 23:51:34 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI 시대, 현대자동차그룹이 주목받는 이유 | 영상미디어 | 현대자동차그룹 - Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN001QzRFVkplZTRPVGw1RnpyNjFYUFhsQlUtbHM3eU92UnhQQ085OTZ5RDFROE5pQ1psMGJtT280cDFxeUtPR24waUh6N2U3cjVORENTUHZnbmVqMFJmbDVGYlFKREFLQVYtTVo5R2hWZV9GZUJEamxsczl0cXhMQg?oc=5",
-      "snippet": "",
-      "source": "Hyundai Motor Group",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 07:51:12 GMT"
     }
   ]
 }
