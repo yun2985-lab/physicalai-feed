@@ -1,98 +1,104 @@
 {
-  "updated_at": "2026-08-25T03:59:53Z",
+  "updated_at": "2026-08-25T07:08:43Z",
   "papers": [
     {
       "type": "paper",
-      "title": "Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion",
-      "url": "https://arxiv.org/abs/2608.20433",
-      "snippet": "Advances in technology have led to increasingly sophisticated musical humanoid robots. However, their use has largely been limited to performance and related research in human-robot interaction. In this position paper,…",
+      "title": "RoboShape: Information-Theoretic Point Cloud Representations for Privacy-Aware Robot Perception",
+      "url": "https://arxiv.org/abs/2608.21380",
+      "snippet": "With the increased adoption of robotic agents operating in human environments by scanning and sharing 3D representations (e.g., for fleet learning, cloud-based planning, or collaborative mapping), collected point clouds…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.HC",
-        "cs.MM"
+        "cs.AI",
+        "cs.CV"
       ],
-      "pub_date": "Mon, 24 Aug 2026 00:00:00 -0400"
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "EndoLIFT: Language-Disambiguated Latent-Conditioned Rectified Flow for Bidirectional Endoscopic Control",
-      "url": "https://arxiv.org/abs/2608.20478",
-      "snippet": "Routine gastrointestinal endoscopy is intrinsically bidirectional: the instrument is advanced to reach target anatomy and later withdrawn or retroflexed for inspection, while an external cue may require earlier…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Mon, 24 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Koala Gripper: Co-designing Robotic Grippers and Data-Capture Devices for Scaling Dexterous Manipulation Learning",
-      "url": "https://arxiv.org/abs/2608.20546",
-      "snippet": "As the demand for larger manipulation datasets grows, handheld robotic gripper data collection and the associated gripper designs become more vital. Current data collection device designs trend towards matching the…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Mon, 24 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model",
-      "url": "https://arxiv.org/abs/2608.20556",
-      "snippet": "Vision-language-action (VLA) models can follow natural-language (NL) task instructions, but such instructions may not precisely specify safety-critical or spatiotemporal requirements on the resulting behavior. We…",
+      "title": "Multimodal-Language-Model-Driven Interaction and Companionship for Service Robots in Elderly-Care Facilities",
+      "url": "https://arxiv.org/abs/2608.21387",
+      "snippet": "Service robots are increasingly deployed in elderly-care facilities to alleviate caregiver workload and enhance the quality of daily care. However, most existing studies focus on isolated service functions and lack…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.LO",
-        "cs.SY"
+        "cs.SY",
+        "eess.SY"
       ],
-      "pub_date": "Mon, 24 Aug 2026 00:00:00 -0400"
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Nonlinear Model Predictive Control for Trajectory Tracking of Differentially Flat Fixed-Wing Aerial Systems",
-      "url": "https://arxiv.org/abs/2608.20655",
-      "snippet": "Planning and control of fixed-wing Unmanned Aerial Vehicles (UAVs) are challenging due to nonlinear dynamics, aerodynamic limits, and environmental disturbances. Differential flatness offers a principled way to generate…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Mon, 24 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Rethinking Demonstration Unlearning in Imitation Learning for Robotics",
-      "url": "https://arxiv.org/abs/2608.20784",
-      "snippet": "Imitation learning for robotics depends on human demonstrations, some of which people may later ask to remove. Retraining without them is the natural reference, but its cost grows with policy and dataset scale,…",
+      "title": "Gimbal-Based Human Tracking for Companion Robots Using Continual Learning",
+      "url": "https://arxiv.org/abs/2608.21388",
+      "snippet": "Reliable and continuous human tracking is essential for natural human-robot interaction, particularly for companion robots. However, many existing approaches rely on wearable tags or fixed cameras with limited fields of…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.LG"
+        "cs.SY",
+        "eess.SY"
       ],
-      "pub_date": "Mon, 24 Aug 2026 00:00:00 -0400"
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewards",
-      "url": "https://arxiv.org/abs/2608.20823",
-      "snippet": "A humanoid has infinitely many ways to stand up from sitting while maintaining balance, making sit-to-stand (STS) a challenging control problem. We synthesise natural humanoid STS motion from scratch using reinforcement…",
+      "title": "On the Optimized Use of Non-Orthonormality Constraints for the Quasi-Static INS Alignment of Autonomous Underwater and Surface Vehicles",
+      "url": "https://arxiv.org/abs/2608.21390",
+      "snippet": "Inertial navigation systems are specialized navigation apparatuses that equip almost all autonomous underwater and surface vehicles. They require precise initial alignment, i.e., determination of their initial attitude,…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "ODG-NoMaD: Overhead-Camera Direction-Guided NoMaD",
+      "url": "https://arxiv.org/abs/2608.21395",
+      "snippet": "NoMaD [31] is a learned vision-navigation policy that unifies goal-conditioned navigation and exploration in a single goal-masked diffusion policy. In an unseen environment, however - where neither a goal image nor a…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Active Interaction-Aware Model Predictive Path Integral via Ego-Conditioned Generative Predictions",
+      "url": "https://arxiv.org/abs/2608.21400",
+      "snippet": "Dense traffic is inherently interactive. The ego vehicle and surrounding agents continuously influence each other's reactions, making \"what-if\" reasoning essential for safe and efficient driving. To enable such an…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Mon, 24 Aug 2026 00:00:00 -0400"
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Demonstration-Guided Humanoid Stand-Up on an Emulated Deformable Surface",
-      "url": "https://arxiv.org/abs/2608.20852",
-      "snippet": "This paper presents a reference-guided reinforcement learning framework to generate stand-up motion for a 29-DOF Unitree G1 humanoid on deformable soft ground, using a human demonstration recorded on hard ground. The…",
+      "title": "Selective Cross-View Consistency for World Action Models: Held-Out Viewpoint Robustness Without Test-Time Camera Information",
+      "url": "https://arxiv.org/abs/2608.21402",
+      "snippet": "World action models (WAMs) jointly denoise future video frames and robot actions, and the video prior is expected to generalize their control. Camera viewpoint change remains one of their hardest perturbation axes. We…",
       "source": "arXiv cs.RO",
       "categories": [
-        "cs.RO"
+        "cs.RO",
+        "cs.CV"
       ],
-      "pub_date": "Mon, 24 Aug 2026 00:00:00 -0400"
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Tolerance-Dependent Inspection Disagreement Between a Fixed CMM and a Portable Articulated-Arm CMM",
+      "url": "https://arxiv.org/abs/2608.21404",
+      "snippet": "Fixed coordinate measuring machines (CMMs) and portable articulated-arm CMMs are often assigned to the same inspection task, but their nominal accuracy specifications do not show whether a change of instrument will…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "eess.SP"
+      ],
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
     }
   ],
   "news": [
@@ -104,6 +110,15 @@
       "source": "Chosunbiz",
       "categories": [],
       "pub_date": "Mon, 24 Aug 2026 23:39:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[피지컬 AI ㊲] HMGMA ①: 피지컬 AI의 글로벌 실증 (HMGMA & RMAC) - 미디어피아",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hZHZ4LUJxV0I3aFh0Z05DM01yM2Y0d2kwRG5Qa0xOS05YUjZzTzNiRnNYa1drRDJGN1p5emg2VzVTZTF4VkNRcDhKWFNseGFVZ21wQkdlcjg2RE1PaTVMRi1sLUJxemhDWHVJVQ?oc=5",
+      "snippet": "",
+      "source": "미디어피아",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 05:00:59 GMT"
     },
     {
       "type": "news",
@@ -125,15 +140,6 @@
     },
     {
       "type": "news",
-      "title": "[특별기고] AI 시대, 일본을 걷다 - 물류신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ienhCclVyWDRMTzNnbzFwbE5EVW95dGpaU1pyS3d1ZXB0UllsRXZBd2ItbHZGR1VuUnkzSzRrRXQ3UkMybW9CalF3TlF3SENrNU1LOG1NVDhPeWticGdWLTNyUHhiaHk1QUtN?oc=5",
-      "snippet": "",
-      "source": "물류신문",
-      "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 00:10:22 GMT"
-    },
-    {
-      "type": "news",
       "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
       "snippet": "",
@@ -152,21 +158,21 @@
     },
     {
       "type": "news",
-      "title": "에브리봇, 中 피지컬 AI 기업 엑스스퀘어와 MOU…휴머노이드 사업 확대 - edaily.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkFRZU16LVBub0J1ZEpRSk5jSnc0UkxfVmVrbnYtZ3lCSU0zbmJlZE1GejMxaWpDV1RKck16VWM2TU9VcjNBcHFlS0hMWVN6S0h6aFNDUHZ6MkVIZkJRbzBEcGJrZnY0MDNNQ3N3S2wzWjhISHRvdkJSUzhtYVpENg?oc=5",
-      "snippet": "",
-      "source": "edaily.co.kr",
-      "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 01:32:49 GMT"
-    },
-    {
-      "type": "news",
       "title": "마음AI, 삼정오토메이션과 피지컬 AI 교육 플랫폼 고도화 - 테크월드",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kSUpqRTNSQkFqUFBYQ2xBNy1va1dLa3JDdGQtdkcyNFpQQ194N0FRaGl0WmdjZUpwa0xaMFdPUkNNbzNIYjViOEdHNHhFN2tGUTc3eEh3em5OcWoxRGhQZDBqWXFrX2hu?oc=5",
       "snippet": "",
       "source": "테크월드",
       "categories": [],
       "pub_date": "Mon, 24 Aug 2026 23:20:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "카본식스·세이프틱스, AI 로봇 티칭부터 안전검증까지…제조업 피지컬 AI 양산 적용 협력 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QSURvek1jTXQtdE0xN0RnRWRTREt2ZDktYkZZRFBJdy1RT3pGNWRiNThZamJpa1czcFpLLXJzOHRudnhvVWF6Y1NQSHFGWDlIXzVsOGlJUE9lT3dVYnBXVFh3VlFlUUoxaXdtM0xwN0lyT2JycjR5eg?oc=5",
+      "snippet": "",
+      "source": "네이트",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 05:45:00 GMT"
     }
   ]
 }
