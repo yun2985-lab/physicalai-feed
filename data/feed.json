@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T07:09:19Z",
+  "updated_at": "2026-08-26T09:57:38Z",
   "papers": [
     {
       "type": "paper",
@@ -123,7 +123,7 @@
       "snippet": "",
       "source": "뉴스투데이",
       "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 03:32:25 GMT"
+      "pub_date": "Wed, 26 Aug 2026 06:38:00 GMT"
     },
     {
       "type": "news",
@@ -133,6 +133,24 @@
       "source": "비욘드포스트",
       "categories": [],
       "pub_date": "Wed, 26 Aug 2026 06:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[2026 자율주행모빌리티산업전] “AI로 판 바뀐 자율주행… 늦었지만 3년 골든타임 잡는다” - 아시아타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KZ09RdE4xN0l5OGk5RGVzOXZYSmJoQlR3NGw0Z05JaWFSR0d1VFNCZUJlMVlsb3lIelNGX1h4RjdfNlRrblRzeFZpZVNfclRMbHZJY0JHa1haY3BQYmc?oc=5",
+      "snippet": "",
+      "source": "아시아타임즈",
+      "categories": [],
+      "pub_date": "Wed, 26 Aug 2026 09:45:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
+      "snippet": "",
+      "source": "매일경제",
+      "categories": [],
+      "pub_date": "Mon, 24 Aug 2026 00:45:33 GMT"
     },
     {
       "type": "news",
@@ -151,24 +169,6 @@
       "source": "아주경제",
       "categories": [],
       "pub_date": "Wed, 26 Aug 2026 05:26:52 GMT"
-    },
-    {
-      "type": "news",
-      "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
-      "snippet": "",
-      "source": "매일경제",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 00:45:33 GMT"
-    },
-    {
-      "type": "news",
-      "title": "손병희 \"로봇 경험을 국가AI 자산으로\"…피지컬AI 행동데이터 표준 제안 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8za1U3Q0NFVkVSVV93UzhManFnbnB3YjhQc29hTFltY2h2dkFvRVBRSTdNMlpyRzZiMGtFT2FhRWlFaS0tdzIxdll1a3FGR0ZYTUttQXZ3?oc=5",
-      "snippet": "",
-      "source": "지디넷코리아",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 00:01:05 GMT"
     }
   ]
 }
