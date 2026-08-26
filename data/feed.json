@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T09:57:38Z",
+  "updated_at": "2026-08-26T13:16:57Z",
   "papers": [
     {
       "type": "paper",
@@ -109,6 +109,24 @@
     },
     {
       "type": "news",
+      "title": "[피지컬 AI ㊳] HMGMA ② - 완성차 제조를 넘어 로봇 파운드리로 - 미디어피아",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83QlBQM19CZ2thSi12QWl2SUJwcWNCcmJDazd3RzNqYkgtdHdDckROUEVlcjlwY3hLamNvZE1YNWd5N29IWGctTG1DclVMLTN3YncxM0RvZm4xQ3I0WWdueVlYUTFjOXdZNGR3bA?oc=5",
+      "snippet": "",
+      "source": "미디어피아",
+      "categories": [],
+      "pub_date": "Wed, 26 Aug 2026 11:50:52 GMT"
+    },
+    {
+      "type": "news",
+      "title": "배충식 KAIST 총장, “피지컬AI, 향후 5년이 승부처…대한민국 세계 1등 국가 만들어야” - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DclRoVmhCcXpnenNhYVRZRldUNWV6S1NFOFRZWHBIZmtlc1gzdkxpQ25KYUhZOEpVNXRndmJDZThqbUJvTTFQYnFfeGttRUxpOU1rU2dkMWxyZjhiSl9XWGxFbDlhWmc?oc=5",
+      "snippet": "",
+      "source": "인공지능신문",
+      "categories": [],
+      "pub_date": "Wed, 26 Aug 2026 10:44:05 GMT"
+    },
+    {
+      "type": "news",
       "title": "아이엘, 제조현장 기반 '피지컬AI 데이터 플라이휠' 구축 나선다 - 전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Db2xXRmNLUjZxUHYwR0VUWVFzYnlYNVZpeWRfTTI0N0ZlZ0tkd1pKWXBqQXpFcmx6VGZtSkZDNUhybktwbXl1ZE56YzZHdw?oc=5",
       "snippet": "",
@@ -124,15 +142,6 @@
       "source": "뉴스투데이",
       "categories": [],
       "pub_date": "Wed, 26 Aug 2026 06:38:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "아이엘, 제조 현장 기반 Physical AI 플랫폼 구축 추진 - 비욘드포스트",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiRllUNWNlQTRFalliU095ZXhFTTd6bndpZzJWR0lQcUV2R1ZCbGg5ZVpIeVlraW8yVXJ1UHI2VHlBOU43TEp0dTI5R0NEejIyNVFlclRMcmRWT2VMY0VBb0VNWnZKSXAyYV9KX2x1UlVmd3JHX2tESmNUT1k?oc=5",
-      "snippet": "",
-      "source": "비욘드포스트",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 06:00:00 GMT"
     },
     {
       "type": "news",
@@ -154,21 +163,12 @@
     },
     {
       "type": "news",
-      "title": "지티지오·엑스와이지, 글로벌 팁스 선정…Physical AI 무인 외식매장 개발 - beSUCCESS",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yUl9XazVMalFSVHVMdDlNaEVOZXdsdDd2UXYyRi0zWWlORndGc2tIeVlFVUtwcHNWSXZ0SXlkUnR0NW1WT0E?oc=5",
+      "title": "아이엘, 제조 현장 기반 Physical AI 플랫폼 구축 추진 - 비욘드포스트",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiRllUNWNlQTRFalliU095ZXhFTTd6bndpZzJWR0lQcUV2R1ZCbGg5ZVpIeVlraW8yVXJ1UHI2VHlBOU43TEp0dTI5R0NEejIyNVFlclRMcmRWT2VMY0VBb0VNWnZKSXAyYV9KX2x1UlVmd3JHX2tESmNUT1k?oc=5",
       "snippet": "",
-      "source": "beSUCCESS",
+      "source": "비욘드포스트",
       "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 06:04:29 GMT"
-    },
-    {
-      "type": "news",
-      "title": "경북산업직업전문학교 AI캠퍼스 첫 결실…AI첨단로봇 자율주행 과정 모집률 100% 달성 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HeHlwSXhIU3JtZmluZXg5ZlhTLUFYV3kxaXIxaHExM2R4VHljQ3VtUkVBRWw3Zm1UakpSU3YyV1g4QzZOVXJEbmhiR19OeG1UMUNxSGVwY3JOUdIBWEFVX3lxTE5KRDVTRjdsRUV4dGRyVjNheGdJNWhUX2FtekV2VERHQVJTNFdFUlJvZHJoTG9QSmp2eHdOeDU5WlVJNVR5MXJ5aGRwY3g1V0FsXzRTa3lvbWw?oc=5",
-      "snippet": "",
-      "source": "아주경제",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 05:26:52 GMT"
+      "pub_date": "Wed, 26 Aug 2026 06:00:00 GMT"
     }
   ]
 }
