@@ -1,104 +1,100 @@
 {
-  "updated_at": "2026-08-26T01:58:57Z",
+  "updated_at": "2026-08-26T04:03:31Z",
   "papers": [
     {
       "type": "paper",
-      "title": "RoboShape: Information-Theoretic Point Cloud Representations for Privacy-Aware Robot Perception",
-      "url": "https://arxiv.org/abs/2608.21380",
-      "snippet": "With the increased adoption of robotic agents operating in human environments by scanning and sharing 3D representations (e.g., for fleet learning, cloud-based planning, or collaborative mapping), collected point clouds…",
+      "title": "Pattern-Derived Visual Swarm Games: Multi-Scale Drone-Vision States for Interception and Sustainability Audits",
+      "url": "https://arxiv.org/abs/2608.23575",
+      "snippet": "We convert drone-vision annotation streams into virtual swarm-game states without controlling physical drones. VisDrone and UAVSwarm metadata are compressed into a Bloom representation; deterministic probes produce…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.AI",
-        "cs.CV"
+        "cs.GT",
+        "eess.IV"
       ],
-      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Multimodal-Language-Model-Driven Interaction and Companionship for Service Robots in Elderly-Care Facilities",
-      "url": "https://arxiv.org/abs/2608.21387",
-      "snippet": "Service robots are increasingly deployed in elderly-care facilities to alleviate caregiver workload and enhance the quality of daily care. However, most existing studies focus on isolated service functions and lack…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.SY",
-        "eess.SY"
-      ],
-      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Gimbal-Based Human Tracking for Companion Robots Using Continual Learning",
-      "url": "https://arxiv.org/abs/2608.21388",
-      "snippet": "Reliable and continuous human tracking is essential for natural human-robot interaction, particularly for companion robots. However, many existing approaches rely on wearable tags or fixed cameras with limited fields of…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.SY",
-        "eess.SY"
-      ],
-      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "On the Optimized Use of Non-Orthonormality Constraints for the Quasi-Static INS Alignment of Autonomous Underwater and Surface Vehicles",
-      "url": "https://arxiv.org/abs/2608.21390",
-      "snippet": "Inertial navigation systems are specialized navigation apparatuses that equip almost all autonomous underwater and surface vehicles. They require precise initial alignment, i.e., determination of their initial attitude,…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.SY",
-        "eess.SY"
-      ],
-      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "ODG-NoMaD: Overhead-Camera Direction-Guided NoMaD",
-      "url": "https://arxiv.org/abs/2608.21395",
-      "snippet": "NoMaD [31] is a learned vision-navigation policy that unifies goal-conditioned navigation and exploration in a single goal-masked diffusion policy. In an unseen environment, however - where neither a goal image nor a…",
+      "title": "Macro-Operator Generation and Predicate Selection for TAMP Operator Learning",
+      "url": "https://arxiv.org/abs/2608.23629",
+      "snippet": "Creating symbolic operators by hand is one of the main bottlenecks in deploying Task and Motion Planning systems (TAMP). Recent works show that these operators can instead be learned directly from demonstration data.…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.AI"
       ],
-      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Active Interaction-Aware Model Predictive Path Integral via Ego-Conditioned Generative Predictions",
-      "url": "https://arxiv.org/abs/2608.21400",
-      "snippet": "Dense traffic is inherently interactive. The ego vehicle and surrounding agents continuously influence each other's reactions, making \"what-if\" reasoning essential for safe and efficient driving. To enable such an…",
+      "title": "Concept-Guided Exploration: Building Persistent, Actionable Scene Graphs",
+      "url": "https://arxiv.org/abs/2608.23650",
+      "snippet": "The perception of 3D space by mobile robots is rapidly moving from flat metric grid representations to hybrid metric-semantic graphs built from human-interpretable concepts. While most approaches first build metric maps…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Selective Cross-View Consistency for World Action Models: Held-Out Viewpoint Robustness Without Test-Time Camera Information",
-      "url": "https://arxiv.org/abs/2608.21402",
-      "snippet": "World action models (WAMs) jointly denoise future video frames and robot actions, and the video prior is expected to generalize their control. Camera viewpoint change remains one of their hardest perturbation axes. We…",
+      "title": "Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency",
+      "url": "https://arxiv.org/abs/2608.23831",
+      "snippet": "While reinforcement learning (RL) allows generalist robot policies to continually improve during deployment, the large model size of modern generalist policies, such as VLAs, poses a fundamental obstacle to effective RL…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.CV"
+        "cs.LG"
       ],
-      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Tolerance-Dependent Inspection Disagreement Between a Fixed CMM and a Portable Articulated-Arm CMM",
-      "url": "https://arxiv.org/abs/2608.21404",
-      "snippet": "Fixed coordinate measuring machines (CMMs) and portable articulated-arm CMMs are often assigned to the same inspection task, but their nominal accuracy specifications do not show whether a change of instrument will…",
+      "title": "Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization",
+      "url": "https://arxiv.org/abs/2608.23839",
+      "snippet": "Embodied Agents System (EAS) are increasingly deployed in open-world physical domains, where reliability directly dictates deployment quality and human-agent trust. However, existing evaluations rely on outcome-centric…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "eess.SP"
+        "cs.AI"
       ],
-      "pub_date": "Tue, 25 Aug 2026 00:00:00 -0400"
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "DreamLedger: Execution-Settled Credit Files for World-Model Imagination in Robot Decision Loops",
+      "url": "https://arxiv.org/abs/2608.23863",
+      "snippet": "Robots are beginning to act on world-model predictions, yet reliability is still expressed through instantaneous, model-internal signals. DreamLedger instead treats reliability as a persistent deployment object: an…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Interpreting Control Latents for System Identification via Conditional Flow Matching",
+      "url": "https://arxiv.org/abs/2608.23887",
+      "snippet": "Latent-conditioned adaptive policies can control robots across changing dynamics, but their learned latents remain internal representations of the policy rather than physical models that can be inspected, rolled out, or…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Safety-aware Model Predictive Path Integral Control with Signal Temporal Logic",
+      "url": "https://arxiv.org/abs/2608.23972",
+      "snippet": "Safety-aware motion planning remains a challenge in robotics, especially when missions are time-critical and are under complex specifications. In this paper, we propose safety-aware-stl-mppi, a computationally efficient…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 -0400"
     }
   ],
   "news": [
@@ -110,6 +106,15 @@
       "source": "디지털포용뉴스",
       "categories": [],
       "pub_date": "Tue, 25 Aug 2026 22:52:12 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[LGX엔비디아 로봇동맹 ③] 로봇 넘어 AI 팩토리까지…LG CNS, 피지컬 AI 허브로 - 뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFRk9qYVphSzVUeHdYTjE2TEZ4dTc4RXhKR29VX0RKY3RwRENrTWgwWVF4NHVaX09QbmQxa3JaU2F5Zm12MVVieUwySm12eUNKQWJ2RWxIY1ZRbTJnTVE?oc=5",
+      "snippet": "",
+      "source": "뉴스투데이",
+      "categories": [],
+      "pub_date": "Wed, 26 Aug 2026 03:32:25 GMT"
     },
     {
       "type": "news",
@@ -131,15 +136,6 @@
     },
     {
       "type": "news",
-      "title": "엔비디아, ‘젯슨 오린 나노 2’ 공개…엔트리급 엣지 AI 성능 2배 높인다 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GTE1xRTFJZ1NxV1Y0YzBfT29Vd2hMT1NyVy1aV0NELWt3dUVkMzY1Y2tNODFPSUM2TS14Y1JwMzI2a21mSnBhbVpWaDVlNHFLNVRNWTJUUG9odUdBMTFaOTVmQmNtQ2s?oc=5",
-      "snippet": "",
-      "source": "인공지능신문",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 00:06:08 GMT"
-    },
-    {
-      "type": "news",
       "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
       "snippet": "",
@@ -149,21 +145,21 @@
     },
     {
       "type": "news",
+      "title": "엔비디아, ‘젯슨 오린 나노 2’ 공개…엔트리급 엣지 AI 성능 2배 높인다 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GTE1xRTFJZ1NxV1Y0YzBfT29Vd2hMT1NyVy1aV0NELWt3dUVkMzY1Y2tNODFPSUM2TS14Y1JwMzI2a21mSnBhbVpWaDVlNHFLNVRNWTJUUG9odUdBMTFaOTVmQmNtQ2s?oc=5",
+      "snippet": "",
+      "source": "인공지능신문",
+      "categories": [],
+      "pub_date": "Wed, 26 Aug 2026 00:06:08 GMT"
+    },
+    {
+      "type": "news",
       "title": "알에스오토메이션, 피지컬AI·구동플랫폼 발전·협력 방안 논의 - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GMjRHeHFhYlBYRHVES3dsUVJ6VDBqUHprWlo1WWNuSDFmTjY1U3RsUWpCTFZyTmRydlNRemNuZG5KMUtzcGw0Ym52YmRRdXNQYTlTUG9VdGxtekYtbDZ2ddIBeEFVX3lxTFByV0JKQWtWX0p5SEpEVHEtYm4tN3E5TWNxRGk5bmpWWk1LbjduM3dRVjRSUi1zTG5ZWkQ1Rzh0Um1aU1JVMno2NjhVUENSaWlTWmU4amFZa1ItNE9ldy1YLU5MOHBHUjJ2eU1reC0wbW16ano0RkNyeg?oc=5",
       "snippet": "",
       "source": "뉴시스",
       "categories": [],
       "pub_date": "Wed, 26 Aug 2026 00:52:45 GMT"
-    },
-    {
-      "type": "news",
-      "title": "미래 움직일 기술이 쑥쑥…세종교육 '피지컬 AI' 시대 활짝 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05aU1aREVOSHhHQWstbEozbWJ0RjkxRHkta2xJUEc1UjVuSkhzTUExVHRPZ1BLTGpaOU9teHBUUno3bmlGQWJrV1p3RHVnMzQ?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 09:36:03 GMT"
     },
     {
       "type": "news",
