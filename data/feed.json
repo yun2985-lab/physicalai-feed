@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T20:03:33Z",
+  "updated_at": "2026-08-27T00:47:50Z",
   "papers": [
     {
       "type": "paper",
@@ -109,6 +109,33 @@
     },
     {
       "type": "news",
+      "title": "\"로봇 손·관절·촉각이 핵심 기술\"…피지컬 AI 투자처로 구동계 부상 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qZy1ON3piRS1La29jQVlDeGhtcWR0ZHNCTmw2aU9pbVMzTTViS2hhSUF2TExRQV80Vk92SFF2TFRzd1htUlF5TUhTWG8tWnRPZ0VVMVpEOGR1N09W0gFiQVVfeXFMTXQ1MjNXQVRpS3puNkE2MmNCemNRTEtsZmlPMjNaZlNTN2lCZWFnOWdKYjV3SURraUlXWVRMVTAyNmZnZEFERzFHWHRiNHktR1BvSGxLVTMtN056SDZxaWRTSXc?oc=5",
+      "snippet": "",
+      "source": "뉴스1",
+      "categories": [],
+      "pub_date": "Wed, 26 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "MDS테크, 유니컨과 '피지컬 AI 사업' MOU 체결 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0ZWYwb2dxNE56UE5JTURVUEJQa1NvQ3QwUkFFMDZMSmIyRVJDZUUzTDFpYXd2YmlZN3c5T3VPX3htTTBYV1g4TEhXNkR6bUQ0LTR3UHlTR19BbGVM?oc=5",
+      "snippet": "",
+      "source": "뉴스핌",
+      "categories": [],
+      "pub_date": "Thu, 27 Aug 2026 00:17:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "MDS테크, 피지컬 AI '연결'까지 확장…유니컨과 자율주행·휴머노이드 공략 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DM0ZDWlFIbEVPa240Umc4eWgtWHFUcG9rMlAyamdBbzdoeDZIY2NDcmxtZmVGZGI5U3F4aUJpT0FnRkJFRnMtdVpEU0FjaXpjdVppUC1iSTRidw?oc=5",
+      "snippet": "",
+      "source": "파이낸셜뉴스",
+      "categories": [],
+      "pub_date": "Thu, 27 Aug 2026 00:07:04 GMT"
+    },
+    {
+      "type": "news",
       "title": "[피지컬 AI ㊳] HMGMA ② - 완성차 제조를 넘어 로봇 파운드리로 - 미디어피아",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83QlBQM19CZ2thSi12QWl2SUJwcWNCcmJDazd3RzNqYkgtdHdDckROUEVlcjlwY3hLamNvZE1YNWd5N29IWGctTG1DclVMLTN3YncxM0RvZm4xQ3I0WWdueVlYUTFjOXdZNGR3bA?oc=5",
       "snippet": "",
@@ -127,33 +154,6 @@
     },
     {
       "type": "news",
-      "title": "2026년 최고의 휴머노이드 로봇 관련주…진짜 돈 버는 곳은 어디? - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gc0I1d2lQMXBQTDVpTFFYS2N1TW5zVHB2YmtrYXR4dHo3TFUzdHpNdXpWNjlsa2pTMHRVOU0yc2ZfSzFSUGhnb0Z5Skhxb1VxN25Kc2pqOHM5dVdWR0lMWjdOTzYyd2RRWDdlS0pGbzhqR1U?oc=5",
-      "snippet": "",
-      "source": "디지털투데이",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 15:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로봇이 사람처럼 생각한다? AI, 로봇 몸속으로 들어가다 - 디지털포용뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtWHBBbEJWZ25lSTlodUx2ek5WUkd0YUVPRTlxNnpYXzZaR3lrcE12VUpvQ2pXVjdEc2J3YTVlbXRUbEo0T3NoaTU2Q0JmbjFGejg5aTg1OFBUdUtDQUJaN1g5VFY1NEtzRGNNcg?oc=5",
-      "snippet": "",
-      "source": "디지털포용뉴스",
-      "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 22:52:12 GMT"
-    },
-    {
-      "type": "news",
-      "title": "아이엘, 제조현장 기반 '피지컬AI 데이터 플라이휠' 구축 나선다 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Db2xXRmNLUjZxUHYwR0VUWVFzYnlYNVZpeWRfTTI0N0ZlZ0tkd1pKWXBqQXpFcmx6VGZtSkZDNUhybktwbXl1ZE56YzZHdw?oc=5",
-      "snippet": "",
-      "source": "전자신문",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 04:17:57 GMT"
-    },
-    {
-      "type": "news",
       "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
       "snippet": "",
@@ -163,12 +163,12 @@
     },
     {
       "type": "news",
-      "title": "[LGX엔비디아 로봇동맹 ③] 로봇 넘어 AI 팩토리까지…LG CNS, 피지컬 AI 허브로 - 뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFRk9qYVphSzVUeHdYTjE2TEZ4dTc4RXhKR29VX0RKY3RwRENrTWgwWVF4NHVaX09QbmQxa3JaU2F5Zm12MVVieUwySm12eUNKQWJ2RWxIY1ZRbTJnTVE?oc=5",
+      "title": "2026년 최고의 휴머노이드 로봇 관련주…진짜 돈 버는 곳은 어디? - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gc0I1d2lQMXBQTDVpTFFYS2N1TW5zVHB2YmtrYXR4dHo3TFUzdHpNdXpWNjlsa2pTMHRVOU0yc2ZfSzFSUGhnb0Z5Skhxb1VxN25Kc2pqOHM5dVdWR0lMWjdOTzYyd2RRWDdlS0pGbzhqR1U?oc=5",
       "snippet": "",
-      "source": "뉴스투데이",
+      "source": "디지털투데이",
       "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 06:38:00 GMT"
+      "pub_date": "Wed, 26 Aug 2026 15:01:00 GMT"
     }
   ]
 }
