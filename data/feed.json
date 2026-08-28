@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T14:12:55Z",
+  "updated_at": "2026-08-28T00:25:10Z",
   "papers": [
     {
       "type": "paper",
@@ -96,12 +96,39 @@
   "news": [
     {
       "type": "news",
+      "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTldQU3RnTGpkS2hyc0tHM1FVUVhIdmNpcDkxUThaUDRsOVJobTc2eUZ0TzlBbmNQX2haX1lxNWY1aEo1SERHVlpCM1kwWTg3NGFxSlVqSzc?oc=5",
+      "snippet": "",
+      "source": "매일경제",
+      "categories": [],
+      "pub_date": "Thu, 27 Aug 2026 19:30:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "MDS테크, 유니컨과 피지컬 AI 사업 협력…자율주행·휴머노이드 적용 확대 - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZTZ2UHJQVHhiSC0zb3Q5MXJZakRYX2U2N2otWjdwcE9XdDdadlpJdVFlX3E2cmthQV91eTRKaUFXLU15MUY5QWJwZDFmMkNUWVVzNFNPZWNtZ1VjRndWZUR3Y2NpWFoza2IzTw?oc=5",
       "snippet": "",
       "source": "로봇신문",
       "categories": [],
       "pub_date": "Thu, 27 Aug 2026 05:05:06 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[인터뷰] 피지컬 AI가 데모를 넘어 현장으로 가려면…릴리오가 내세운 ‘결정론적 로봇 두뇌’ - 테크42",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPaWc4YWJUSERtdnBqR1JRWXRnSmRldEZqcU04STljbnZKdjlxTEtVZTJyekRzVm05bFB6SFkteS0ybkJ4VlhJVTJZbTBwS3l1V21XWC10UmlKd05TcDBjMll0UloxVldMWlZxNV9sZ0cza2I0Z3dheGppbHVFQlpwTTdkSHFyMW1UWHhUeVNxMHBOaGFhazBfUHg1amtYNXN3ODcyQXhmQzl5UElKNkJEcEx6VjdQOEIxblRWZkJaS09iSmtIZUZBWXVDV3ZiY2xtTUhnUmZyY216RV9CYk1YZ2o4OEhhbXlVQ09ETkRESElSQ19iVmkwdmpIQmE3RmYwaHItcE5wUVQxRUg3VDBLdl9LSXlDYnh4Q0dvNlFLMGx1YmxrUnNPdlNrUTJKQUZQX3p6VHNwT21adw?oc=5",
+      "snippet": "",
+      "source": "테크42",
+      "categories": [],
+      "pub_date": "Thu, 27 Aug 2026 23:54:47 GMT"
+    },
+    {
+      "type": "news",
+      "title": "전남광주특별시, ‘피지컬AI 휴머노이드 제조혁신센터’ 본격 착수… 164억 투입해 로봇 산업 거점 조성 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnb3B2NERxaWdBWHVwMEFmdFprMl9tOWg2elM3bllITGxfX2VfTEN5Sko1YXB2UGVETDR6N182andYUQ?oc=5",
+      "snippet": "",
+      "source": "브레이크뉴스",
+      "categories": [],
+      "pub_date": "Thu, 27 Aug 2026 14:10:00 GMT"
     },
     {
       "type": "news",
@@ -114,48 +141,12 @@
     },
     {
       "type": "news",
-      "title": "구미 로봇직업혁신센터, ‘로봇AI교육혁신센터’로 새 출발 - kyongbuk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12ODVlOG8tdVNQVjdGR045R0YzaDlHUTBweXVScVFWd3hSZU9BS1NYMTZEcWZTV2ZyQmZwOTJsbkVrLWVCNUV2V1BOS0kxNlFuM1ZBeGhwUU9uVUhySWtYWmRWWVpfcnU1RnZhQzFrUQ?oc=5",
+      "title": "구미 로봇직업혁신센터, ‘로봇AI교육혁신센터’로 새 출발 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wYkJNU3lqNkRuaG5hWXZ5OVdzZ1BFS01oSDdId1hlOWlNUVJXNTFtQ256YkZ5OE9GcXNyWU9KZ294OU9PUDE0ZFV6TVA2aWpVMDF3c3BPdDB3N0p1cVo1TldiRUhXQWlpelhrc1R1RFQ?oc=5",
       "snippet": "",
-      "source": "kyongbuk.co.kr",
+      "source": "신아일보",
       "categories": [],
-      "pub_date": "Thu, 27 Aug 2026 07:41:21 GMT"
-    },
-    {
-      "type": "news",
-      "title": "\"로봇 손·관절·촉각이 핵심 기술\"…피지컬 AI 투자처로 구동계 부상 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CdWFtWVo5c1Y0ZUtGRzRmQ285bGFuRExqc1dqR1dzaW9RNGlGcUVMazI2QnpmRUduX3A1QUh3alN5WXlrMkxCUC1sTQ?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 21:02:37 GMT"
-    },
-    {
-      "type": "news",
-      "title": "美 피규어 AI, 실세계 로봇 훈련 데이터 수집 플랫폼 ‘인덱스’ 출시 - 티스토리",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Y0MyLV9EZmR5WEEycUNrNU9Ha3RsWFcwcXk4T2E4Z3M2TXZBYzRPclo5VjhVMzdGNVV3MHpjMFUyaElQRGhWQ1J2QQ?oc=5",
-      "snippet": "",
-      "source": "티스토리",
-      "categories": [],
-      "pub_date": "Thu, 27 Aug 2026 08:37:16 GMT"
-    },
-    {
-      "type": "news",
-      "title": "구미시, ‘로봇AI교육혁신센터’ 출범…미래 제조인재 양성 본격화 - hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVlFYdUlDTkdvcHc5RjNKUFVzaWc0TnVkSVV0Sng2TldIWkI4RFVHaTJqVzJHVk9sQUdPemtZV3BMLTlid2N1MTdtdzdCcUxtUEp0QmJrWXBUenZIdE1lNmgzTEVqMGM0d1E?oc=5",
-      "snippet": "",
-      "source": "hidomin.com",
-      "categories": [],
-      "pub_date": "Thu, 27 Aug 2026 05:41:35 GMT"
-    },
-    {
-      "type": "news",
-      "title": "엑소텍이 그린 물류 자동화 미래는?…고정형 설비 넘어 ‘피지컬 AI’로 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xb1JtN2JhdHZFTnFrUEFwM3I5Z3p0UWxTX2xLQ3JUb1c5cXJCM2tMSnVUOTdvR0tlcnBKQWd3R0M2M1F1N0FLQXAwb1lqRVlZLU5LWlJxcm5rV29IbXdodnlIek1tVDFy?oc=5",
-      "snippet": "",
-      "source": "테크월드",
-      "categories": [],
-      "pub_date": "Thu, 27 Aug 2026 05:00:00 GMT"
+      "pub_date": "Fri, 28 Aug 2026 00:05:05 GMT"
     },
     {
       "type": "news",
@@ -165,6 +156,15 @@
       "source": "헬로티",
       "categories": [],
       "pub_date": "Wed, 26 Aug 2026 13:21:04 GMT"
+    },
+    {
+      "type": "news",
+      "title": "구미 로봇직업혁신센터, ‘로봇AI교육혁신센터’로 새 출발 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12ODVlOG8tdVNQVjdGR045R0YzaDlHUTBweXVScVFWd3hSZU9BS1NYMTZEcWZTV2ZyQmZwOTJsbkVrLWVCNUV2V1BOS0kxNlFuM1ZBeGhwUU9uVUhySWtYWmRWWVpfcnU1RnZhQzFrUQ?oc=5",
+      "snippet": "",
+      "source": "kyongbuk.co.kr",
+      "categories": [],
+      "pub_date": "Thu, 27 Aug 2026 07:41:21 GMT"
     }
   ]
 }
