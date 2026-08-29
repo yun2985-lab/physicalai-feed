@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T15:23:17Z",
+  "updated_at": "2026-08-29T01:45:34Z",
   "papers": [
     {
       "type": "paper",
@@ -98,30 +98,12 @@
   "news": [
     {
       "type": "news",
-      "title": "국립순천대 전남 동반성장 ConneXus 프로젝트 'Physical AI 기반 로봇 모방학습 실무교육'운영 - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZjJSSzhwWHd4LTU2VTJoemdZQXh6VHpRT1dtMllOaGpmWnRIbW44dnh3b1oyd3ctY0ItQl82b0pyNi14MDE3UXNQQUtqYmtNdFZua05MQkVrZ2ZCZmVYNHBHaTlzM2lveUQwZw?oc=5",
-      "snippet": "",
-      "source": "베리타스알파",
-      "categories": [],
-      "pub_date": "Fri, 28 Aug 2026 03:06:49 GMT"
-    },
-    {
-      "type": "news",
       "title": "앤트로픽의 피지컬AI 첫 단추 'MHS' 공개…물리장비 연결 - 디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNQ2lJOVdxSDR5M1lqVzZ3aDg2X3JCWkdrU25VZ2Q3eURPNHhteGRyR0pjY2NtbmVnQmVGaHdteU5MNldSV1hhSGpCUFBxQkhIX1RmZllWbV9KYkZ1ekh4SUZwaWxkUQ?oc=5",
       "snippet": "",
       "source": "디일렉",
       "categories": [],
       "pub_date": "Fri, 28 Aug 2026 11:04:38 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로봇융합硏, ‘로봇AI교육혁신센터’ 출범 - 철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbnBWMXdaOS1HaEpISnBXeUotS1J0ejZkQjVPNlUxOXBDd2p1RkRSNVV6NTczT0ZfQ0x1M2VVR0pNZF9hZUFKcXQxdjY2UGtMbjd4UVN5OWJtbEJNdG1JcmJDQWY4eE5BNEE?oc=5",
-      "snippet": "",
-      "source": "철강금속신문",
-      "categories": [],
-      "pub_date": "Fri, 28 Aug 2026 03:17:14 GMT"
     },
     {
       "type": "news",
@@ -134,39 +116,57 @@
     },
     {
       "type": "news",
-      "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTldQU3RnTGpkS2hyc0tHM1FVUVhIdmNpcDkxUThaUDRsOVJobTc2eUZ0TzlBbmNQX2haX1lxNWY1aEo1SERHVlpCM1kwWTg3NGFxSlVqSzc?oc=5",
-      "snippet": "",
-      "source": "매일경제",
-      "categories": [],
-      "pub_date": "Thu, 27 Aug 2026 19:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI 시대, 자율주행 준비해야…\"월드모델 선점 중요\" : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX2d1U0dYblhiZUx1OUVfUm9lMnBJQ2cxdHlJWHREc2ZRMDd1aVRmS1V4Mk5BRW5hcFlqcG80emdWTWdCX1dzdGozZ1NNVmRZeFphZ0Rad2p0YkgzUmExTkNRclQyc2dDdWlYX1NXbHpsVDVJdThtMVdiRUNaSHIxbFNleDl3TkxZVkZXQkp6bw?oc=5",
-      "snippet": "",
-      "source": "Naver Blog",
-      "categories": [],
-      "pub_date": "Fri, 28 Aug 2026 07:58:01 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[연중기획 기고] 휴머노이드의 진실 혹은 거짓, 물류에서 돈 만들 수 있을까 - 물류신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbjBSZ1pXRk40ZDZnREUyWjFSZUZCb19ZR2s1anNzTGl3VVQtX1hsOTNkZHUwMFVUWmJKZWRNU3FaUlF6NV9vXzA3NzA5VGVqLU5seFpnZG5XVlVEYTlPc3lROXJfQ25BeERj?oc=5",
-      "snippet": "",
-      "source": "물류신문",
-      "categories": [],
-      "pub_date": "Fri, 28 Aug 2026 00:34:04 GMT"
-    },
-    {
-      "type": "news",
       "title": "MDS테크, 유니컨과 피지컬 AI 사업 협력…자율주행·휴머노이드 적용 확대 - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZTZ2UHJQVHhiSC0zb3Q5MXJZakRYX2U2N2otWjdwcE9XdDdadlpJdVFlX3E2cmthQV91eTRKaUFXLU15MUY5QWJwZDFmMkNUWVVzNFNPZWNtZ1VjRndWZUR3Y2NpWFoza2IzTw?oc=5",
       "snippet": "",
       "source": "로봇신문",
       "categories": [],
       "pub_date": "Thu, 27 Aug 2026 05:05:06 GMT"
+    },
+    {
+      "type": "news",
+      "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
+      "snippet": "",
+      "source": "매일경제",
+      "categories": [],
+      "pub_date": "Mon, 24 Aug 2026 00:45:33 GMT"
+    },
+    {
+      "type": "news",
+      "title": "가상 세계를 넘어 물리적 현실로 진입한 '피지컬 AI' - 규제 패러다임의 변화 [린 AI리포트] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iQTFyUmlMUTA4UU5oYkkxQTEtYUpuVkNyU3hoS0Y0aWlPZmN5U1dLeEVnQ2JxLVpsSlVhak4tajRwZ0lqT2FocHoxMW1FeFBQVHFF?oc=5",
+      "snippet": "",
+      "source": "네이트",
+      "categories": [],
+      "pub_date": "Fri, 28 Aug 2026 22:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇이 사람처럼 생각한다? AI, 로봇 몸속으로 들어가다 - 디지털포용뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtWHBBbEJWZ25lSTlodUx2ek5WUkd0YUVPRTlxNnpYXzZaR3lrcE12VUpvQ2pXVjdEc2J3YTVlbXRUbEo0T3NoaTU2Q0JmbjFGejg5aTg1OFBUdUtDQUJaN1g5VFY1NEtzRGNNcg?oc=5",
+      "snippet": "",
+      "source": "디지털포용뉴스",
+      "categories": [],
+      "pub_date": "Tue, 25 Aug 2026 22:52:12 GMT"
+    },
+    {
+      "type": "news",
+      "title": "국립순천대 전남 동반성장 ConneXus 프로젝트 'Physical AI 기반 로봇 모방학습 실무교육'운영 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZjJSSzhwWHd4LTU2VTJoemdZQXh6VHpRT1dtMllOaGpmWnRIbW44dnh3b1oyd3ctY0ItQl82b0pyNi14MDE3UXNQQUtqYmtNdFZua05MQkVrZ2ZCZmVYNHBHaTlzM2lveUQwZw?oc=5",
+      "snippet": "",
+      "source": "베리타스알파",
+      "categories": [],
+      "pub_date": "Fri, 28 Aug 2026 03:06:49 GMT"
+    },
+    {
+      "type": "news",
+      "title": "\"로봇 손·관절·촉각이 핵심 기술\"…피지컬 AI 투자처로 구동계 부상 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HYnFTNFNBam9ZODE3U1RvZWNGM1kyLWdlYy10aVNTci1yX01uY3kwUEx1c0NZWlVnaXIwUVVPSmtpclprMWFaMEpDSTVuVnc?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Wed, 26 Aug 2026 21:02:37 GMT"
     }
   ]
 }
