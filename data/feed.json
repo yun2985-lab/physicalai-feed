@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:55:46Z",
+  "updated_at": "2026-08-29T23:20:35Z",
   "papers": [],
   "news": [
     {
@@ -22,15 +22,6 @@
     },
     {
       "type": "news",
-      "title": "아우토크립트, 상하이 로봇산업기술연구원과 로봇 보안 공동연구 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSklDeDZXQ2N5NXY5T2JzRjZDRTRYZ0x5WkRzTWx1X29DSUpMVDFOajRRZTA2Z2xwcEJLWU9JMk82SWdwdDhtNUNQRzFqVzlhOEpPc3lyQ3JHWHZGWGVUN3F2OG5tTVBpNk1ya3F1a2JCSmdhMks2amF6dThOcTI5NXFkY2xZUGlDR1JvRlFNbw?oc=5",
-      "snippet": "",
-      "source": "Naver Blog",
-      "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 13:35:59 GMT"
-    },
-    {
-      "type": "news",
       "title": "WRC로 중국 로봇산업 이해하면 안 되는 5가지 이유 - OhmyNews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xWDdpdFZKRmlSaGNiU09mMF9ab0RPdV93TGdrN2FHYnlhMk9lazZTcGNWZGVWcHhOLUl1cG80VXRTNnVVaHNmX1lIZWJLNlB3UjFpSnhFVU4xdFA0enFOcmVPN09sNUVGSmJOM1lvMWxRU3JqdWZZ?oc=5",
       "snippet": "",
@@ -49,21 +40,12 @@
     },
     {
       "type": "news",
-      "title": "해외 매체, 갤럭시코퍼레이션 Physical AI 사업 조명…글로벌 시장 확대 추진 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BbDhzUjl3Y0VTay0wT3hpQ0NmcVk3WnNXblhiaUtNVlE1R1Zfck5FQ3ZRWFVBRlhGMjJvTHRNYXJ6NkN5dWJqLUZkcVNfbG5OYzVMSjdFaDBaQQ?oc=5",
+      "title": "아우토크립트, 상하이 로봇산업기술연구원과 로봇 보안 공동연구 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSklDeDZXQ2N5NXY5T2JzRjZDRTRYZ0x5WkRzTWx1X29DSUpMVDFOajRRZTA2Z2xwcEJLWU9JMk82SWdwdDhtNUNQRzFqVzlhOEpPc3lyQ3JHWHZGWGVUN3F2OG5tTVBpNk1ya3F1a2JCSmdhMks2amF6dThOcTI5NXFkY2xZUGlDR1JvRlFNbw?oc=5",
       "snippet": "",
-      "source": "한국경제",
+      "source": "Naver Blog",
       "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 04:00:01 GMT"
-    },
-    {
-      "type": "news",
-      "title": "MDS테크, 유니컨과 피지컬 AI 사업 협력…자율주행·휴머노이드 적용 확대 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZTZ2UHJQVHhiSC0zb3Q5MXJZakRYX2U2N2otWjdwcE9XdDdadlpJdVFlX3E2cmthQV91eTRKaUFXLU15MUY5QWJwZDFmMkNUWVVzNFNPZWNtZ1VjRndWZUR3Y2NpWFoza2IzTw?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Thu, 27 Aug 2026 05:05:06 GMT"
+      "pub_date": "Sat, 29 Aug 2026 13:35:59 GMT"
     },
     {
       "type": "news",
@@ -73,6 +55,24 @@
       "source": "v.daum.net",
       "categories": [],
       "pub_date": "Sat, 29 Aug 2026 04:02:09 GMT"
+    },
+    {
+      "type": "news",
+      "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTldQU3RnTGpkS2hyc0tHM1FVUVhIdmNpcDkxUThaUDRsOVJobTc2eUZ0TzlBbmNQX2haX1lxNWY1aEo1SERHVlpCM1kwWTg3NGFxSlVqSzc?oc=5",
+      "snippet": "",
+      "source": "매일경제",
+      "categories": [],
+      "pub_date": "Thu, 27 Aug 2026 19:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "MDS테크, 유니컨과 피지컬 AI 사업 협력…자율주행·휴머노이드 적용 확대 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZTZ2UHJQVHhiSC0zb3Q5MXJZakRYX2U2N2otWjdwcE9XdDdadlpJdVFlX3E2cmthQV91eTRKaUFXLU15MUY5QWJwZDFmMkNUWVVzNFNPZWNtZ1VjRndWZUR3Y2NpWFoza2IzTw?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Thu, 27 Aug 2026 05:05:06 GMT"
     }
   ]
 }
