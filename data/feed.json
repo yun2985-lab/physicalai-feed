@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-29T10:05:34Z",
+  "updated_at": "2026-08-29T16:43:37Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "[피지컬 AI ㊷] 글로벌 산업용 로봇 및 협동로봇 Top Tier 분석 - 미디어피아",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zXzFkRnNZRDllWTc5ZEVUUldhc3VjdjJhbGw4WUFjeHNINGxCTjNYUlFzamVsYkRYSkZHWHRjdkdOcmJqdHB5WHdWWkluUHAzWGRNX0s2a3Y3ZkV6T2diOEdkX2t5dGVteXJ6dg?oc=5",
+      "snippet": "",
+      "source": "미디어피아",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 10:04:18 GMT"
+    },
+    {
+      "type": "news",
+      "title": "아우토크립트, 상하이 로봇산업기술연구원과 로봇 보안 공동연구 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSklDeDZXQ2N5NXY5T2JzRjZDRTRYZ0x5WkRzTWx1X29DSUpMVDFOajRRZTA2Z2xwcEJLWU9JMk82SWdwdDhtNUNQRzFqVzlhOEpPc3lyQ3JHWHZGWGVUN3F2OG5tTVBpNk1ya3F1a2JCSmdhMks2amF6dThOcTI5NXFkY2xZUGlDR1JvRlFNbw?oc=5",
+      "snippet": "",
+      "source": "Naver Blog",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 13:35:59 GMT"
+    },
     {
       "type": "news",
       "title": "WRC로 중국 로봇산업 이해하면 안 되는 5가지 이유 - OhmyNews",
@@ -40,39 +58,21 @@
     },
     {
       "type": "news",
-      "title": "아우토크립트, 상하이 로봇산업기술연구원과 로봇 보안 공동연구 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSklDeDZXQ2N5NXY5T2JzRjZDRTRYZ0x5WkRzTWx1X29DSUpMVDFOajRRZTA2Z2xwcEJLWU9JMk82SWdwdDhtNUNQRzFqVzlhOEpPc3lyQ3JHWHZGWGVUN3F2OG5tTVBpNk1ya3F1a2JCSmdhMks2amF6dThOcTI5NXFkY2xZUGlDR1JvRlFNbw?oc=5",
-      "snippet": "",
-      "source": "Naver Blog",
-      "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 07:35:59 GMT"
-    },
-    {
-      "type": "news",
-      "title": "“美 AI 100이면 中 70·韓 35”…한국, 피지컬 AI에서 반전 노린다 - 뉴스비전e",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fS2dtTThPNFYyV3FuVHZNZ29OQXVIZ25PRGlSSXBlaUpQUmtRN1REOUJrY1RyUlNHWTgzcWo0WkZSbDEybnJYT1RwUWFEWFdSR2g5YVVNXy05QXRvUnV6a3h3MVpLZw?oc=5",
-      "snippet": "",
-      "source": "뉴스비전e",
-      "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 01:38:50 GMT"
-    },
-    {
-      "type": "news",
-      "title": "체화된 지능이 후반전에 접어들면서, 자동차 기업을 빼놓을 수 없게 되었다 - PANews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGdnpXWEV3MTh0Mkw0eTFPXzdnM3dNV1Rndmt0RE5vWUlFbV9UQ1BRenZ0eklaR1p0M2R3QlNQNjBSc0t2VHZJSFFqTjU0NjN0VjJJWmU2YVlVUkdYak0wRUlWYU9YcWRmN1hILUQtTkFEUHFPVjZMdG5lQXFiUmc?oc=5",
-      "snippet": "",
-      "source": "PANews",
-      "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 09:44:19 GMT"
-    },
-    {
-      "type": "news",
       "title": "[봇규의 헬로BOT] ‘피지컬 AI 1강’으로 ① | 韓, ‘풀스택 자립’ 판 깐다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Fam92RTdGV0Z3LWhqRUlkUTZwcC1XaDJDTUdVUkZqTVB0VmMxZnpyLTM0VzVGUjE5OTNOMEJEc1d2ZjlXenE4dWd4cXVoSzB4aTBGV1Y0MXRScV95SWMw?oc=5",
       "snippet": "",
       "source": "헬로티",
       "categories": [],
       "pub_date": "Wed, 26 Aug 2026 13:21:04 GMT"
+    },
+    {
+      "type": "news",
+      "title": "갤럭시코퍼레이션, K-POP과 Physical AI 결합 모델에 글로벌 미디어 잇따라 주목 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pdk9GWXNoR0VMWUhSclFkd3c5WTNGTUpRMVJ0SXM2d0doX29tc3NwV2ZKbjl1bUVYcmMzQ1Q2em5feG5HY1gzbVljNmlaWlRwTHVxWmRoVkVVR3ZyZ2NyTzNIdkNoejJyTEFGLUVvWQ?oc=5",
+      "snippet": "",
+      "source": "서울신문",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 04:00:00 GMT"
     }
   ]
 }
