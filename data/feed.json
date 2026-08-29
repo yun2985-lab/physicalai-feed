@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-29T16:43:37Z",
+  "updated_at": "2026-08-29T20:55:46Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "현대차, 완성차 넘어 '피지컬 AI' 전면 전환 가속하는 이유 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEhBbm83XzhhZlpuMkhFLUJPT09QaFRaQ2N4UWlPbWJYQ3JLeTdjUjJCam1VRy1nel9oT0tNdzMtV0N4eTNiNUk4cUpLeHZyOVFVZzZUb0U5dElrTVItY0c4azJZYWVzeURMaWdFZUdFa0daWW8tY3lYVjJsS3NEc19FNUVURGVw?oc=5",
+      "snippet": "",
+      "source": "글로벌이코노믹",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 19:26:23 GMT"
+    },
     {
       "type": "news",
       "title": "[피지컬 AI ㊷] 글로벌 산업용 로봇 및 협동로봇 Top Tier 분석 - 미디어피아",
@@ -31,33 +40,6 @@
     },
     {
       "type": "news",
-      "title": "해외 매체, 갤럭시코퍼레이션 Physical AI 사업 조명…글로벌 시장 확대 추진 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BbDhzUjl3Y0VTay0wT3hpQ0NmcVk3WnNXblhiaUtNVlE1R1Zfck5FQ3ZRWFVBRlhGMjJvTHRNYXJ6NkN5dWJqLUZkcVNfbG5OYzVMSjdFaDBaQQ?oc=5",
-      "snippet": "",
-      "source": "한국경제",
-      "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 04:00:01 GMT"
-    },
-    {
-      "type": "news",
-      "title": "갤럭시코퍼레이션, Physical AI 엔터테크 해외 확장 본격화… 글로벌 매체 관심 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zOE9neGcyLTZCaGZrZk45WEQ3U1pBYm80QUdVZWtGcXZ2ckFRYm1ySk9fclBZZzJDRlZVZTRIb0docWdyelR1Y28wRnVxVkU?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 04:02:09 GMT"
-    },
-    {
-      "type": "news",
-      "title": "갤럭시코퍼레이션, 글로벌 외신서 ‘Physical AI 엔터테크’ 조명…세계시장 확장 추진 - 경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDlHYUlRWVU3c19RVGpmWE1SSmZlSUtfekdSVDlEeWIxX3N1NzFlZmpoTEE1aUlwemZLNUZZQnRNZUFkbWRUYzhhbWJpMFNvNWNnbnlmUGJoUTVBeHpqN2phNGVUbHBGalV5MEpudUx2N29yREwwMnU0SnVHeDNlU3pfNy10UkplRzNvcUIxb0JYUThPZ21IVVhROF9pbHJYS0xQN1ZkUGlnd9IBX0FVX3lxTE95R3JpZC1TaFlQRlpJMEQ2TE9qY2d2Tm81YWUwNEgtR1Z6aDFha01UaUl2QXU3SE9DbTRhZ0p2MUhWQVRtZ2VZMlctTFpzSTVVWmNGbzZSazdibU5HRXVz?oc=5",
-      "snippet": "",
-      "source": "경향신문",
-      "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 03:55:00 GMT"
-    },
-    {
-      "type": "news",
       "title": "[봇규의 헬로BOT] ‘피지컬 AI 1강’으로 ① | 韓, ‘풀스택 자립’ 판 깐다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Fam92RTdGV0Z3LWhqRUlkUTZwcC1XaDJDTUdVUkZqTVB0VmMxZnpyLTM0VzVGUjE5OTNOMEJEc1d2ZjlXenE4dWd4cXVoSzB4aTBGV1Y0MXRScV95SWMw?oc=5",
       "snippet": "",
@@ -67,12 +49,30 @@
     },
     {
       "type": "news",
-      "title": "갤럭시코퍼레이션, K-POP과 Physical AI 결합 모델에 글로벌 미디어 잇따라 주목 - 서울신문",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pdk9GWXNoR0VMWUhSclFkd3c5WTNGTUpRMVJ0SXM2d0doX29tc3NwV2ZKbjl1bUVYcmMzQ1Q2em5feG5HY1gzbVljNmlaWlRwTHVxWmRoVkVVR3ZyZ2NyTzNIdkNoejJyTEFGLUVvWQ?oc=5",
+      "title": "해외 매체, 갤럭시코퍼레이션 Physical AI 사업 조명…글로벌 시장 확대 추진 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BbDhzUjl3Y0VTay0wT3hpQ0NmcVk3WnNXblhiaUtNVlE1R1Zfck5FQ3ZRWFVBRlhGMjJvTHRNYXJ6NkN5dWJqLUZkcVNfbG5OYzVMSjdFaDBaQQ?oc=5",
       "snippet": "",
-      "source": "서울신문",
+      "source": "한국경제",
       "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 04:00:00 GMT"
+      "pub_date": "Sat, 29 Aug 2026 04:00:01 GMT"
+    },
+    {
+      "type": "news",
+      "title": "MDS테크, 유니컨과 피지컬 AI 사업 협력…자율주행·휴머노이드 적용 확대 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZTZ2UHJQVHhiSC0zb3Q5MXJZakRYX2U2N2otWjdwcE9XdDdadlpJdVFlX3E2cmthQV91eTRKaUFXLU15MUY5QWJwZDFmMkNUWVVzNFNPZWNtZ1VjRndWZUR3Y2NpWFoza2IzTw?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Thu, 27 Aug 2026 05:05:06 GMT"
+    },
+    {
+      "type": "news",
+      "title": "갤럭시코퍼레이션, Physical AI 엔터테크 해외 확장 본격화… 글로벌 매체 관심 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zOE9neGcyLTZCaGZrZk45WEQ3U1pBYm80QUdVZWtGcXZ2ckFRYm1ySk9fclBZZzJDRlZVZTRIb0docWdyelR1Y28wRnVxVkU?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 04:02:09 GMT"
     }
   ]
 }
