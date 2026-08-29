@@ -1,109 +1,69 @@
 {
-  "updated_at": "2026-08-29T01:45:34Z",
-  "papers": [
-    {
-      "type": "paper",
-      "title": "WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression",
-      "url": "https://arxiv.org/abs/2608.26239",
-      "snippet": "Generative world models provide robots with predictive models of how the world evolves under interaction, with growing potential for simulation, planning, policy evaluation, and robot learning. Beyond clip-level future…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 28 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Constraint-Aware Physics-Informed Neural Networks for Static Shape Estimation of Co-Manipulative Continuum Robots",
-      "url": "https://arxiv.org/abs/2608.26273",
-      "snippet": "Static shape estimation of co-manipulative continuum robots (CCRs) is challenging because the continuum arms and manipulated flexible object form a closed chain that must satisfy both static equilibrium and geometric…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.LG"
-      ],
-      "pub_date": "Fri, 28 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Dispersive Forward Tree Search for Optimal Control: Coverage, Complexity, and Computation",
-      "url": "https://arxiv.org/abs/2608.26314",
-      "snippet": "Steering-based planners require solutions to state-to-state boundary value problems, which can be inaccessible for nonlinear platforms. Forward propagation evades the steering requirement, but the finite-sample behavior…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "math.OC"
-      ],
-      "pub_date": "Fri, 28 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots",
-      "url": "https://arxiv.org/abs/2608.26383",
-      "snippet": "Autonomous robots performing laboratory tasks depend on 3D reconstruction pipelines that can turn raw camera streams into actionable object representations within the latency budget of a physical control loop. Neural 3D…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 28 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "RTNav: Towards Real-Time Zero-Shot Object Navigation",
-      "url": "https://arxiv.org/abs/2608.26496",
-      "snippet": "Navigation in unknown environments to find unforeseen objects has become increasingly feasible with capable vision and language foundation models. However, these models also introduce non-negligible inference latency,…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.AI",
-        "cs.CV"
-      ],
-      "pub_date": "Fri, 28 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Closing the Loop on the Poppy Humanoid: Bipedal Locomotion with Linear-Quadratic Control and Learned Cost Functions",
-      "url": "https://arxiv.org/abs/2608.26505",
-      "snippet": "The Poppy Humanoid is an open-source, low-cost robot suitable for research and education in artificial intelligence. However, we are unaware of any published methodology that achieves reliable, unassisted bipedal…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 28 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Memory Anchors for Continual Robot Learning",
-      "url": "https://arxiv.org/abs/2608.26545",
-      "snippet": "Robot policies deployed in the wild should have the capability to continually learn new tasks without forgetting existing behaviors. A common approach to combat such catastrophic forgetting is to train on new task data…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 28 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "TrapVLA: Trapping Vision-Language-Action Models in Configured Failure Modes",
-      "url": "https://arxiv.org/abs/2608.26578",
-      "snippet": "This work introduces Configured Failure Trapping, a novel backdoor attack task against Vision-Language-Action (VLA) models, which aims to activate attacks through stealthy textual triggers and induce configured failure…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "pub_date": "Fri, 28 Aug 2026 00:00:00 -0400"
-    }
-  ],
+  "updated_at": "2026-08-29T10:05:34Z",
+  "papers": [],
   "news": [
     {
       "type": "news",
-      "title": "앤트로픽의 피지컬AI 첫 단추 'MHS' 공개…물리장비 연결 - 디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNQ2lJOVdxSDR5M1lqVzZ3aDg2X3JCWkdrU25VZ2Q3eURPNHhteGRyR0pjY2NtbmVnQmVGaHdteU5MNldSV1hhSGpCUFBxQkhIX1RmZllWbV9KYkZ1ekh4SUZwaWxkUQ?oc=5",
+      "title": "WRC로 중국 로봇산업 이해하면 안 되는 5가지 이유 - OhmyNews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xWDdpdFZKRmlSaGNiU09mMF9ab0RPdV93TGdrN2FHYnlhMk9lazZTcGNWZGVWcHhOLUl1cG80VXRTNnVVaHNmX1lIZWJLNlB3UjFpSnhFVU4xdFA0enFOcmVPN09sNUVGSmJOM1lvMWxRU3JqdWZZ?oc=5",
       "snippet": "",
-      "source": "디일렉",
+      "source": "OhmyNews",
       "categories": [],
-      "pub_date": "Fri, 28 Aug 2026 11:04:38 GMT"
+      "pub_date": "Sat, 29 Aug 2026 06:22:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "해외 매체, 갤럭시코퍼레이션 Physical AI 사업 조명…글로벌 시장 확대 추진 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BbDhzUjl3Y0VTay0wT3hpQ0NmcVk3WnNXblhiaUtNVlE1R1Zfck5FQ3ZRWFVBRlhGMjJvTHRNYXJ6NkN5dWJqLUZkcVNfbG5OYzVMSjdFaDBaQQ?oc=5",
+      "snippet": "",
+      "source": "한국경제",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 04:00:01 GMT"
+    },
+    {
+      "type": "news",
+      "title": "갤럭시코퍼레이션, Physical AI 엔터테크 해외 확장 본격화… 글로벌 매체 관심 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zOE9neGcyLTZCaGZrZk45WEQ3U1pBYm80QUdVZWtGcXZ2ckFRYm1ySk9fclBZZzJDRlZVZTRIb0docWdyelR1Y28wRnVxVkU?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 04:02:09 GMT"
+    },
+    {
+      "type": "news",
+      "title": "갤럭시코퍼레이션, 글로벌 외신서 ‘Physical AI 엔터테크’ 조명…세계시장 확장 추진 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDlHYUlRWVU3c19RVGpmWE1SSmZlSUtfekdSVDlEeWIxX3N1NzFlZmpoTEE1aUlwemZLNUZZQnRNZUFkbWRUYzhhbWJpMFNvNWNnbnlmUGJoUTVBeHpqN2phNGVUbHBGalV5MEpudUx2N29yREwwMnU0SnVHeDNlU3pfNy10UkplRzNvcUIxb0JYUThPZ21IVVhROF9pbHJYS0xQN1ZkUGlnd9IBX0FVX3lxTE95R3JpZC1TaFlQRlpJMEQ2TE9qY2d2Tm81YWUwNEgtR1Z6aDFha01UaUl2QXU3SE9DbTRhZ0p2MUhWQVRtZ2VZMlctTFpzSTVVWmNGbzZSazdibU5HRXVz?oc=5",
+      "snippet": "",
+      "source": "경향신문",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 03:55:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "아우토크립트, 상하이 로봇산업기술연구원과 로봇 보안 공동연구 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSklDeDZXQ2N5NXY5T2JzRjZDRTRYZ0x5WkRzTWx1X29DSUpMVDFOajRRZTA2Z2xwcEJLWU9JMk82SWdwdDhtNUNQRzFqVzlhOEpPc3lyQ3JHWHZGWGVUN3F2OG5tTVBpNk1ya3F1a2JCSmdhMks2amF6dThOcTI5NXFkY2xZUGlDR1JvRlFNbw?oc=5",
+      "snippet": "",
+      "source": "Naver Blog",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 07:35:59 GMT"
+    },
+    {
+      "type": "news",
+      "title": "“美 AI 100이면 中 70·韓 35”…한국, 피지컬 AI에서 반전 노린다 - 뉴스비전e",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fS2dtTThPNFYyV3FuVHZNZ29OQXVIZ25PRGlSSXBlaUpQUmtRN1REOUJrY1RyUlNHWTgzcWo0WkZSbDEybnJYT1RwUWFEWFdSR2g5YVVNXy05QXRvUnV6a3h3MVpLZw?oc=5",
+      "snippet": "",
+      "source": "뉴스비전e",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 01:38:50 GMT"
+    },
+    {
+      "type": "news",
+      "title": "체화된 지능이 후반전에 접어들면서, 자동차 기업을 빼놓을 수 없게 되었다 - PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGdnpXWEV3MTh0Mkw0eTFPXzdnM3dNV1Rndmt0RE5vWUlFbV9UQ1BRenZ0eklaR1p0M2R3QlNQNjBSc0t2VHZJSFFqTjU0NjN0VjJJWmU2YVlVUkdYak0wRUlWYU9YcWRmN1hILUQtTkFEUHFPVjZMdG5lQXFiUmc?oc=5",
+      "snippet": "",
+      "source": "PANews",
+      "categories": [],
+      "pub_date": "Sat, 29 Aug 2026 09:44:19 GMT"
     },
     {
       "type": "news",
@@ -113,60 +73,6 @@
       "source": "헬로티",
       "categories": [],
       "pub_date": "Wed, 26 Aug 2026 13:21:04 GMT"
-    },
-    {
-      "type": "news",
-      "title": "MDS테크, 유니컨과 피지컬 AI 사업 협력…자율주행·휴머노이드 적용 확대 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZTZ2UHJQVHhiSC0zb3Q5MXJZakRYX2U2N2otWjdwcE9XdDdadlpJdVFlX3E2cmthQV91eTRKaUFXLU15MUY5QWJwZDFmMkNUWVVzNFNPZWNtZ1VjRndWZUR3Y2NpWFoza2IzTw?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Thu, 27 Aug 2026 05:05:06 GMT"
-    },
-    {
-      "type": "news",
-      "title": "“피지컬 AI 시장 선점하자”…심상찮은 중국, 현지서 로봇 행사 ‘봇물’ - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlRsSVg0YkkwNmlKRmZkUEZhb3hSMTJFMGxuemp5NWdMTjROdTBRN1RRWmJXallBOGlyTl80TVo5SnlWaEZnTFgzV3pNc0Z0OURHd2dB?oc=5",
-      "snippet": "",
-      "source": "매일경제",
-      "categories": [],
-      "pub_date": "Mon, 24 Aug 2026 00:45:33 GMT"
-    },
-    {
-      "type": "news",
-      "title": "가상 세계를 넘어 물리적 현실로 진입한 '피지컬 AI' - 규제 패러다임의 변화 [린 AI리포트] - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iQTFyUmlMUTA4UU5oYkkxQTEtYUpuVkNyU3hoS0Y0aWlPZmN5U1dLeEVnQ2JxLVpsSlVhak4tajRwZ0lqT2FocHoxMW1FeFBQVHFF?oc=5",
-      "snippet": "",
-      "source": "네이트",
-      "categories": [],
-      "pub_date": "Fri, 28 Aug 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로봇이 사람처럼 생각한다? AI, 로봇 몸속으로 들어가다 - 디지털포용뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtWHBBbEJWZ25lSTlodUx2ek5WUkd0YUVPRTlxNnpYXzZaR3lrcE12VUpvQ2pXVjdEc2J3YTVlbXRUbEo0T3NoaTU2Q0JmbjFGejg5aTg1OFBUdUtDQUJaN1g5VFY1NEtzRGNNcg?oc=5",
-      "snippet": "",
-      "source": "디지털포용뉴스",
-      "categories": [],
-      "pub_date": "Tue, 25 Aug 2026 22:52:12 GMT"
-    },
-    {
-      "type": "news",
-      "title": "국립순천대 전남 동반성장 ConneXus 프로젝트 'Physical AI 기반 로봇 모방학습 실무교육'운영 - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZjJSSzhwWHd4LTU2VTJoemdZQXh6VHpRT1dtMllOaGpmWnRIbW44dnh3b1oyd3ctY0ItQl82b0pyNi14MDE3UXNQQUtqYmtNdFZua05MQkVrZ2ZCZmVYNHBHaTlzM2lveUQwZw?oc=5",
-      "snippet": "",
-      "source": "베리타스알파",
-      "categories": [],
-      "pub_date": "Fri, 28 Aug 2026 03:06:49 GMT"
-    },
-    {
-      "type": "news",
-      "title": "\"로봇 손·관절·촉각이 핵심 기술\"…피지컬 AI 투자처로 구동계 부상 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HYnFTNFNBam9ZODE3U1RvZWNGM1kyLWdlYy10aVNTci1yX01uY3kwUEx1c0NZWlVnaXIwUVVPSmtpclprMWFaMEpDSTVuVnc?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 21:02:37 GMT"
     }
   ]
 }
