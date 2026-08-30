@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T16:41:20Z",
+  "updated_at": "2026-08-30T21:06:47Z",
   "papers": [],
   "news": [
     {
@@ -31,12 +31,21 @@
     },
     {
       "type": "news",
-      "title": "현대차, 완성차 넘어 '피지컬 AI' 전면 전환 가속하는 이유 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEhBbm83XzhhZlpuMkhFLUJPT09QaFRaQ2N4UWlPbWJYQ3JLeTdjUjJCam1VRy1nel9oT0tNdzMtV0N4eTNiNUk4cUpLeHZyOVFVZzZUb0U5dElrTVItY0c4azJZYWVzeURMaWdFZUdFa0daWW8tY3lYVjJsS3NEc19FNUVURGVw?oc=5",
+      "title": "[류재철의 로봇 전략] 엔비디아와 휴머노이드 동맹…'원 LG' 이끄는 지휘자 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG5mUGhJcnlIeXRjUGFrUmNoNGRKQTIwVUtUcTFxWVVhTkZBb1EzcGk0a1RqbEF3SXVJRkJuSDZ0UGlRZEcyXzhZd0MtVFFwZVk4UlBrMnNMcTA4c0RfODdzTDRpVHJjTk5aX0p2VUJ0MDdMRXdDX1NobnY1S0dpeW1VTGlXUTJFT05sRnItZw?oc=5",
       "snippet": "",
-      "source": "글로벌이코노믹",
+      "source": "Naver Blog",
       "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 19:26:23 GMT"
+      "pub_date": "Sun, 30 Aug 2026 17:29:56 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[2026 하반기 혁신 IT 대상] AI 비전 기술로 로봇 자동화 선도 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoTGY0bEdHQmtFMktRUV9mS0ZWUGVPMGhTX0pReVNsS3R0a1I5ZEZoUW9UbWQ0cENlNHNpbHhEQVFmMVJPVjE2YU1Wc2hXX015bTRKdUt6Z09TWWJCUk9jdg?oc=5",
+      "snippet": "",
+      "source": "네이트",
+      "categories": [],
+      "pub_date": "Sun, 30 Aug 2026 20:31:00 GMT"
     },
     {
       "type": "news",
@@ -55,15 +64,6 @@
       "source": "뉴스비전e",
       "categories": [],
       "pub_date": "Sun, 30 Aug 2026 04:27:44 GMT"
-    },
-    {
-      "type": "news",
-      "title": "중국 질주하는 피지컬AI…한국의 미래 묻거든 관악을 보라 [황순민의 더테크웨이브] - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SYU1hTjFBbHNxcll6RGhWN3NoYjUwSkFDZ1BaOFNwN2NtbzNmYjZiVlNONEpCS0QtMU1wX096Y0pNbmVieVdtTXhNQ1BtU190SEF3?oc=5",
-      "snippet": "",
-      "source": "네이트",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 08:31:00 GMT"
     },
     {
       "type": "news",
