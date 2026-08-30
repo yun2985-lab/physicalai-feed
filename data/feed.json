@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-30T05:25:07Z",
+  "updated_at": "2026-08-30T11:55:22Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "이스라엘 리미틀리스 랩스, 정밀 제조용 피지컬 AI로 280억원 유치 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMcDM5dXczWUVKMVZidko4NHF1Skl1cmY1REk3YXRJRTlaRnkyQ3VVQ0l5RmFmQl9rNl9lOThwQjNsR3FpOXl2SE1VUGtBeUg3Y25STDh5ZUFmSzRnWTNFWDAxZmV2RzFaWXBmUw?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Sun, 30 Aug 2026 10:49:48 GMT"
+    },
     {
       "type": "news",
       "title": "현대차, 완성차 넘어 '피지컬 AI' 전면 전환 가속하는 이유 - 글로벌이코노믹",
@@ -10,24 +19,6 @@
       "source": "글로벌이코노믹",
       "categories": [],
       "pub_date": "Sat, 29 Aug 2026 19:26:23 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI 패권 경쟁, ‘하드웨어’ 넘어 ‘현장 데이터’로… 한·중 수성·추격전 치열 - 뉴스비전e",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zczNmUzZvdnFBczBaMThpZlB6bW53dnVYazdMMFQwRXBucFRGdUZWbkFGMWF2TTVqX3huaXBubHdFLWlMX2o0RGhWSWtfaGprZzFsNkNrcmQ5QlFWelZybkQySktQdw?oc=5",
-      "snippet": "",
-      "source": "뉴스비전e",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 04:27:44 GMT"
-    },
-    {
-      "type": "news",
-      "title": "“로봇이 韓 건설현장 누비려면”···EU·中·日·홍콩 ‘피지컬 AI’ 안전부터 탑재 - 이뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aQ21Xa0NYemVpbGVBNkdZWVFZRU9JXzdXTkJidHcyU3VIMmF5R2gwODlCLXdyZ01LblB0VF8wWDhhdklqN0YwR0hZcGNBRGkzZWkzcVhMVy1PbW9raXB0S2dWX3R0al8xTmFuY21aVkvSAXRBVV95cUxPN1NDcEdENTNfSFdEa3Y2bXdtb3A1cVdWaG1fSU9iUWhuWmNjQlNNdkxnSkx4bl9sajFZYnFoLXU5RXVPbk1GVFRsWklfWFZLaVVqSmR3eHAtSTRybWhJMURLXzlxMmtLZThsQm85amFRUmhndw?oc=5",
-      "snippet": "",
-      "source": "이뉴스투데이",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 00:00:12 GMT"
     },
     {
       "type": "news",
@@ -40,6 +31,33 @@
     },
     {
       "type": "news",
+      "title": "피지컬 AI 패권 경쟁, ‘하드웨어’ 넘어 ‘현장 데이터’로… 한·중 수성·추격전 치열 - 뉴스비전e",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zczNmUzZvdnFBczBaMThpZlB6bW53dnVYazdMMFQwRXBucFRGdUZWbkFGMWF2TTVqX3huaXBubHdFLWlMX2o0RGhWSWtfaGprZzFsNkNrcmQ5QlFWelZybkQySktQdw?oc=5",
+      "snippet": "",
+      "source": "뉴스비전e",
+      "categories": [],
+      "pub_date": "Sun, 30 Aug 2026 04:27:44 GMT"
+    },
+    {
+      "type": "news",
+      "title": "중국 질주하는 피지컬AI…한국의 미래 묻거든 관악을 보라 [황순민의 더테크웨이브] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SYU1hTjFBbHNxcll6RGhWN3NoYjUwSkFDZ1BaOFNwN2NtbzNmYjZiVlNONEpCS0QtMU1wX096Y0pNbmVieVdtTXhNQ1BtU190SEF3?oc=5",
+      "snippet": "",
+      "source": "네이트",
+      "categories": [],
+      "pub_date": "Sun, 30 Aug 2026 08:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "“로봇이 韓 건설현장 누비려면”···EU·中·日·홍콩 ‘피지컬 AI’ 안전부터 탑재 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aQ21Xa0NYemVpbGVBNkdZWVFZRU9JXzdXTkJidHcyU3VIMmF5R2gwODlCLXdyZ01LblB0VF8wWDhhdklqN0YwR0hZcGNBRGkzZWkzcVhMVy1PbW9raXB0S2dWX3R0al8xTmFuY21aVkvSAXRBVV95cUxPN1NDcEdENTNfSFdEa3Y2bXdtb3A1cVdWaG1fSU9iUWhuWmNjQlNNdkxnSkx4bl9sajFZYnFoLXU5RXVPbk1GVFRsWklfWFZLaVVqSmR3eHAtSTRybWhJMURLXzlxMmtLZThsQm85amFRUmhndw?oc=5",
+      "snippet": "",
+      "source": "이뉴스투데이",
+      "categories": [],
+      "pub_date": "Sun, 30 Aug 2026 00:00:12 GMT"
+    },
+    {
+      "type": "news",
       "title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.9 로봇] “공장에서 휴머노이드까지”…K-로봇, AI와 결합해 향후 10년 한국 수출 새 성장축으로 - 코리아포스트 한글판",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PN0E2Q085OXNMRG1EZ3RrODBuREgya1dfc19XdXh1cllQZHNkcDVzTDkwbXc4Vm56RnpRSTZHb3RtcEJUcUhRN2lrLS1zZnFkMXpDSlVhRU1VYThHc0lwVVJFTmVlVzN2SUtCTk9B?oc=5",
       "snippet": "",
@@ -49,30 +67,12 @@
     },
     {
       "type": "news",
-      "title": "해외 언론 관심 이어지는 갤럭시코퍼레이션…Physical AI 엔터테인먼트 글로벌 확장 나선다 - 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91eHJZQWRxUGRJSjhSMV85Y1cyMWRGQ0QzSkowQjJsZVNoelV1Q090enVzQmVYT1RTTFAxUTlKS3FMZGktUkFsZDBiZEZFeEhzcG5reE1n?oc=5",
+      "title": "[기자수첩]전북, 새만금 통해 ‘피지컬 AI’ 승부수 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yUXZ5V0JtOXUzUGZSTkhab0NmVWkzTTdaUFZ6SjZfUThTaURYcEZqWC05bWNQUlBOdTZjTWczWHZvN2RHSjR2TXd5RHlHUXJNZDBWSDB3OTY0eDhGT2R1WF9LbldESm83ejl1QtIBb0FVX3lxTFBnREhFSmV5SGRBTTg4TGVKSUgzOWVraU1GVFcyTEFhOTBYWXBDWUhkMmdGcnZGMVVZR3kzOHZFN2hqbzJMZ18zVnBYeUFfTUFQenptbk5ZNVpJd0V0SkNONGVELUVXY1JPUzZpVlduRQ?oc=5",
       "snippet": "",
-      "source": "헤럴드경제",
+      "source": "한스경제",
       "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[피지컬 AI ㊷] 글로벌 산업용 로봇 및 협동로봇 Top Tier 분석 - 미디어피아",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zXzFkRnNZRDllWTc5ZEVUUldhc3VjdjJhbGw4WUFjeHNINGxCTjNYUlFzamVsYkRYSkZHWHRjdkdOcmJqdHB5WHdWWkluUHAzWGRNX0s2a3Y3ZkV6T2diOEdkX2t5dGVteXJ6dg?oc=5",
-      "snippet": "",
-      "source": "미디어피아",
-      "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 10:04:18 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[봇규의 헬로BOT] ‘피지컬 AI 1강’으로 ① | 韓, ‘풀스택 자립’ 판 깐다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Fam92RTdGV0Z3LWhqRUlkUTZwcC1XaDJDTUdVUkZqTVB0VmMxZnpyLTM0VzVGUjE5OTNOMEJEc1d2ZjlXenE4dWd4cXVoSzB4aTBGV1Y0MXRScV95SWMw?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 13:21:04 GMT"
+      "pub_date": "Sun, 30 Aug 2026 08:40:50 GMT"
     }
   ]
 }
