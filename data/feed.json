@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-08-30T11:55:22Z",
+  "updated_at": "2026-08-30T16:41:20Z",
   "papers": [],
   "news": [
     {
       "type": "news",
-      "title": "이스라엘 리미틀리스 랩스, 정밀 제조용 피지컬 AI로 280억원 유치 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMcDM5dXczWUVKMVZidko4NHF1Skl1cmY1REk3YXRJRTlaRnkyQ3VVQ0l5RmFmQl9rNl9lOThwQjNsR3FpOXl2SE1VUGtBeUg3Y25STDh5ZUFmSzRnWTNFWDAxZmV2RzFaWXBmUw?oc=5",
+      "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTldQU3RnTGpkS2hyc0tHM1FVUVhIdmNpcDkxUThaUDRsOVJobTc2eUZ0TzlBbmNQX2haX1lxNWY1aEo1SERHVlpCM1kwWTg3NGFxSlVqSzc?oc=5",
+      "snippet": "",
+      "source": "매일경제",
+      "categories": [],
+      "pub_date": "Sun, 30 Aug 2026 15:28:14 GMT"
+    },
+    {
+      "type": "news",
+      "title": "2026 세계로봇대회(2026 세계로봇대회(WRC) 참관기 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XVDRUdzlZclJYNmJXa1NjOGhOeVRTZDFwb21xYWp2ZFRSdmNmWFdLRC1UWGlYcHczc0FqVWY4bWJJZW5WMlRDQU1sSWJFQjBEbUhKRlRNaUFYOE9Sb3R1aXR2ekJzZ2xnQ2llZA?oc=5",
       "snippet": "",
       "source": "로봇신문",
       "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 10:49:48 GMT"
+      "pub_date": "Sun, 30 Aug 2026 14:37:12 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[피지컬 AI ㊸] 차세대 휴머노이드 로봇 글로벌 시장 현황 및 전망 (Tesla, Figure, BD, Unitree) - 미디어피아",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XS1dqdFZIMmRxV3hWRjVUdTFwX3JyVU9BVGpjSkVkalptTG1SOUNaZmpWWmZnWTcwaFZfVDg5WTlQMC1SdHYyNU4ta0NqY0VNVGVSYjBGWGZDTFY5ZDctR1lYbWdHVFNoellNWQ?oc=5",
+      "snippet": "",
+      "source": "미디어피아",
+      "categories": [],
+      "pub_date": "Sun, 30 Aug 2026 15:45:02 GMT"
     },
     {
       "type": "news",
@@ -49,30 +67,12 @@
     },
     {
       "type": "news",
-      "title": "“로봇이 韓 건설현장 누비려면”···EU·中·日·홍콩 ‘피지컬 AI’ 안전부터 탑재 - 이뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aQ21Xa0NYemVpbGVBNkdZWVFZRU9JXzdXTkJidHcyU3VIMmF5R2gwODlCLXdyZ01LblB0VF8wWDhhdklqN0YwR0hZcGNBRGkzZWkzcVhMVy1PbW9raXB0S2dWX3R0al8xTmFuY21aVkvSAXRBVV95cUxPN1NDcEdENTNfSFdEa3Y2bXdtb3A1cVdWaG1fSU9iUWhuWmNjQlNNdkxnSkx4bl9sajFZYnFoLXU5RXVPbk1GVFRsWklfWFZLaVVqSmR3eHAtSTRybWhJMURLXzlxMmtLZThsQm85amFRUmhndw?oc=5",
+      "title": "[봇규의 헬로BOT] ‘피지컬 AI 1강’으로 ① | 韓, ‘풀스택 자립’ 판 깐다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Fam92RTdGV0Z3LWhqRUlkUTZwcC1XaDJDTUdVUkZqTVB0VmMxZnpyLTM0VzVGUjE5OTNOMEJEc1d2ZjlXenE4dWd4cXVoSzB4aTBGV1Y0MXRScV95SWMw?oc=5",
       "snippet": "",
-      "source": "이뉴스투데이",
+      "source": "헬로티",
       "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 00:00:12 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.9 로봇] “공장에서 휴머노이드까지”…K-로봇, AI와 결합해 향후 10년 한국 수출 새 성장축으로 - 코리아포스트 한글판",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PN0E2Q085OXNMRG1EZ3RrODBuREgya1dfc19XdXh1cllQZHNkcDVzTDkwbXc4Vm56RnpRSTZHb3RtcEJUcUhRN2lrLS1zZnFkMXpDSlVhRU1VYThHc0lwVVJFTmVlVzN2SUtCTk9B?oc=5",
-      "snippet": "",
-      "source": "코리아포스트 한글판",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 00:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[기자수첩]전북, 새만금 통해 ‘피지컬 AI’ 승부수 - 한스경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yUXZ5V0JtOXUzUGZSTkhab0NmVWkzTTdaUFZ6SjZfUThTaURYcEZqWC05bWNQUlBOdTZjTWczWHZvN2RHSjR2TXd5RHlHUXJNZDBWSDB3OTY0eDhGT2R1WF9LbldESm83ejl1QtIBb0FVX3lxTFBnREhFSmV5SGRBTTg4TGVKSUgzOWVraU1GVFcyTEFhOTBYWXBDWUhkMmdGcnZGMVVZR3kzOHZFN2hqbzJMZ18zVnBYeUFfTUFQenptbk5ZNVpJd0V0SkNONGVELUVXY1JPUzZpVlduRQ?oc=5",
-      "snippet": "",
-      "source": "한스경제",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 08:40:50 GMT"
+      "pub_date": "Wed, 26 Aug 2026 13:21:04 GMT"
     }
   ]
 }
