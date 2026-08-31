@@ -1,7 +1,136 @@
 {
-  "updated_at": "2026-08-30T23:30:17Z",
-  "papers": [],
+  "updated_at": "2026-08-31T05:35:54Z",
+  "papers": [
+    {
+      "type": "paper",
+      "title": "Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics",
+      "url": "https://arxiv.org/abs/2608.27497",
+      "snippet": "Recent embodied models increasingly leverage geometric representations to improve spatial reasoning and robotic manipulation. However, existing reconstruction methods only reconstruct relative geometry with arbitrary…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Remote Human and Robot Interaction for Greenhouse Gardening Using Virtual Reality",
+      "url": "https://arxiv.org/abs/2608.27545",
+      "snippet": "This study evaluates the effectiveness of remote human-robot interaction using virtual reality for leaf inspection and soil moisture assessment in a greenhouse environment. The robotic system comprised an unmanned…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "pub_date": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2608.27550",
+      "snippet": "Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is costly and sparsely…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2608.27609",
+      "snippet": "Vision-language-action models (VLAs) have shown strong promise for general-purpose robotic manipulation by mapping language instructions and vision observations directly to actions. However, most VLAs primarily…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pub_date": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments",
+      "url": "https://arxiv.org/abs/2608.27628",
+      "snippet": "Subarctic regions have the potential to see increased deployment of autonomous robots in applications including forestry, mining, and environmental monitoring. In these conditions, an autonomous system's reliance on…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Distributed Model-Based Diffusion: Finite Horizon Contraction under Bounded Delay",
+      "url": "https://arxiv.org/abs/2608.27685",
+      "snippet": "Simultaneously optimizing the trajectories of multiple agents is a challenging problem plagued by nonlinearity, nonconvexity, and the curse of dimensionality. A collection of interacting aerial vehicles or self-driving…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Coordinated Motion Planning for Multi-Arm Systems via Iterative LQ Games",
+      "url": "https://arxiv.org/abs/2608.27726",
+      "snippet": "Multi-agent motion planning for high-degree-of-freedom robotics manipulators in shared workspaces remains a fundamental yet challenging problem. Centralized planners often suffer from poor scalability, while…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments",
+      "url": "https://arxiv.org/abs/2608.27793",
+      "snippet": "Autonomous navigation in underwater cave environments is essential for search-and-rescue operations, scientific exploration, and emergency egress. Traditional navigation systems commonly depend on dense visual features…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 31 Aug 2026 00:00:00 -0400"
+    }
+  ],
   "news": [
+    {
+      "type": "news",
+      "title": "日, 후쿠시마 원전 폐로에 ‘피지컬 AI’ 투입…고방사선 작업 로봇으로 대체 By 알파경제 alphabiz - Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUbExURVgyWDB5TS01YzJjdnlUNDV6d0h0ZlhGeE9pTEhmbWt6ZkVUZVViUEpoWGtsbENWYXA2cThSZmp0NElJYTVUSkp3Zzh5d0RtU0hJVnRPWVBUd2pPWnA1QjRQeExLREkwS2ZLRzQ?oc=5",
+      "snippet": "",
+      "source": "Investing.com 한국어",
+      "categories": [],
+      "pub_date": "Mon, 31 Aug 2026 01:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "서울 아닌 문경서 ‘피지컬 AI 인재’ 키운다…286억 투입 로봇 마이스터고 뜬다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Nal93V3V6YWpaRHU1RjFZN2l4VEZvb1dEekREZEJOT2NQeVluZXlub28zVjhFMWRjYXZNQ21mQ2NpZnBnRWhiVW5uS3R3eTA?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Mon, 31 Aug 2026 02:19:07 GMT"
+    },
+    {
+      "type": "news",
+      "title": "질주하는 엔비디아·中 로봇 동맹, 플랫폼 종속 기로 선 한국 제조업 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanZBUGhRUjVIWktzQ3pkTDlWZTQybG1Ra3VycHZqcVZBR0h2WGFPWGxTQUY0RzBtQzdrMXhXcjlOV2xTNm5QVmR1SlJ5ZC1VcTcxblRVWnlVNVVSaFVqejZPdHJxOFA1N1Qta0ZtbG5GdFduNGxhLTU0VmNubm5mbFJhWFhONTMt?oc=5",
+      "snippet": "",
+      "source": "글로벌이코노믹",
+      "categories": [],
+      "pub_date": "Mon, 31 Aug 2026 02:03:46 GMT"
+    },
+    {
+      "type": "news",
+      "title": "한국공학대·광운대, 베이징서 글로벌 IC-PBL 진행 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIZFZyR18wQlplSmdWanZ5bDFVU1hLeUtUaTdwemtCVnVTUnUzeEdQdS03V0FqTGw2bU9yYlVHRjRjMDI3MVZmZ2d5NFExbkF3Z0JwREZSQ3FMTjdoTUV3X0JIVXFMSEc1TzNwTdIBcEFVX3lxTFBBQ01Tb1h4UXo5U3BtSFYta25BTXNKQXhBcnZLek8yNzlYRXNZam1FbF81Ym04dUJ0V3hmaGhFWlhfSVZIS3RkRzRiVDJtdHJydFAzckhkNDgtMU5RT0FZVWdkcVgxeVZqdGUyMXU3Y2w?oc=5",
+      "snippet": "",
+      "source": "전기신문",
+      "categories": [],
+      "pub_date": "Mon, 31 Aug 2026 01:39:29 GMT"
+    },
     {
       "type": "news",
       "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
@@ -13,12 +142,12 @@
     },
     {
       "type": "news",
-      "title": "[피지컬 AI ㊸] 차세대 휴머노이드 로봇 글로벌 시장 현황 및 전망 (Tesla, Figure, BD, Unitree) - 미디어피아",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XS1dqdFZIMmRxV3hWRjVUdTFwX3JyVU9BVGpjSkVkalptTG1SOUNaZmpWWmZnWTcwaFZfVDg5WTlQMC1SdHYyNU4ta0NqY0VNVGVSYjBGWGZDTFY5ZDctR1lYbWdHVFNoellNWQ?oc=5",
+      "title": "[피지컬 AI ㊺] K-로보틱스 버티컬 전문기업과 특수 목적 AI - 미디어피아",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pSGE5LXNIYi1oZTVPTXdPYXBNMFJObmIyOFhDeU05ZGJPeVAxM054YmlQRDNkWkZwN3haYjBmQ0RGSUlFRnFyMW9PR0tUVU95aHd0cWpoMHhFd0FpNnNsOE9MMm9WNDBFX0VVNw?oc=5",
       "snippet": "",
       "source": "미디어피아",
       "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 15:45:02 GMT"
+      "pub_date": "Mon, 31 Aug 2026 03:54:31 GMT"
     },
     {
       "type": "news",
@@ -31,48 +160,12 @@
     },
     {
       "type": "news",
-      "title": "[2026 하반기 혁신 IT 대상] AI 비전 기술로 로봇 자동화 선도 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoTGY0bEdHQmtFMktRUV9mS0ZWUGVPMGhTX0pReVNsS3R0a1I5ZEZoUW9UbWQ0cENlNHNpbHhEQVFmMVJPVjE2YU1Wc2hXX015bTRKdUt6Z09TWWJCUk9jdg?oc=5",
+      "title": "한국공학대 베이징서 글로벌 IC-PBL.. '휴머노이드/피지컬AI 현장교육' - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03M3M2dHc3OXRFRVNPOThjRmpueFVQZnF2dUxocklGcWtFQVlpNUlWeWhXZTcxV0pkOERpNHByVzAzalctaTB4cFk5Um5rWmt5RDA0ZlM1amJLVlhSZ1dNeGtNUE83cm1zdzdkVg?oc=5",
       "snippet": "",
-      "source": "네이트",
+      "source": "베리타스알파",
       "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 20:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[류재철의 로봇 전략] 엔비디아와 휴머노이드 동맹…'원 LG' 이끄는 지휘자 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG5mUGhJcnlIeXRjUGFrUmNoNGRKQTIwVUtUcTFxWVVhTkZBb1EzcGk0a1RqbEF3SXVJRkJuSDZ0UGlRZEcyXzhZd0MtVFFwZVk4UlBrMnNMcTA4c0RfODdzTDRpVHJjTk5aX0p2VUJ0MDdMRXdDX1NobnY1S0dpeW1VTGlXUTJFT05sRnItZw?oc=5",
-      "snippet": "",
-      "source": "Naver Blog",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 17:29:56 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[봇규의 헬로BOT] ‘피지컬 AI 1강’으로 ① | 韓, ‘풀스택 자립’ 판 깐다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Fam92RTdGV0Z3LWhqRUlkUTZwcC1XaDJDTUdVUkZqTVB0VmMxZnpyLTM0VzVGUjE5OTNOMEJEc1d2ZjlXenE4dWd4cXVoSzB4aTBGV1Y0MXRScV95SWMw?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Wed, 26 Aug 2026 13:21:04 GMT"
-    },
-    {
-      "type": "news",
-      "title": "현대차, 완성차 넘어 '피지컬 AI' 전면 전환 가속하는 이유 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEhBbm83XzhhZlpuMkhFLUJPT09QaFRaQ2N4UWlPbWJYQ3JLeTdjUjJCam1VRy1nel9oT0tNdzMtV0N4eTNiNUk4cUpLeHZyOVFVZzZUb0U5dElrTVItY0c4azJZYWVzeURMaWdFZUdFa0daWW8tY3lYVjJsS3NEc19FNUVURGVw?oc=5",
-      "snippet": "",
-      "source": "글로벌이코노믹",
-      "categories": [],
-      "pub_date": "Sat, 29 Aug 2026 19:26:23 GMT"
-    },
-    {
-      "type": "news",
-      "title": "AI가 공장장·로봇들 끼리 '척척'...전북 피지컬AI 실증랩 가보니 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iYlBqbWpUQkdNWFNEMUEwTkRPUkd0QUdzLVpLZmhnclk1bFpHM1c5TlB6VE5VX2NETVRzekIwc3pZbmNuYmtZN2FsQ2d4WnFXbTdnaWN6RTYxR0RGYi1PQUVKaFU5TTRqM0RCN3NQeXBGaWs?oc=5",
-      "snippet": "",
-      "source": "디지털투데이",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 05:00:00 GMT"
+      "pub_date": "Sun, 30 Aug 2026 23:56:30 GMT"
     }
   ]
 }
