@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:51:40Z",
+  "updated_at": "2026-08-31T20:50:07Z",
   "papers": [
     {
       "type": "paper",
@@ -97,6 +97,15 @@
   "news": [
     {
       "type": "news",
+      "title": "필수의료 인력 수급 불균형 심화…해법은 ‘로봇’ - 데일리메디",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16dEtzbjYtWGYtS1dGV1poWGFnemlYUlBZcGVJQlFDMGFFWE1wdWh1MzF6UUR2eXRscUpEb1RJRzItRmJaLVV5Ty1aUlpDM3d6ZUlHS05hem5fdUlXLXItQ2N6eE5PNEJtMldNQUxZaHBVOWVQ?oc=5",
+      "snippet": "",
+      "source": "데일리메디",
+      "categories": [],
+      "pub_date": "Mon, 31 Aug 2026 20:27:36 GMT"
+    },
+    {
+      "type": "news",
       "title": "서울 아닌 문경서 ‘피지컬 AI 인재’ 키운다…286억 투입 로봇 마이스터고 뜬다 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ERnJiMmxFNElOeExLZV9mV3AyMmZwdjVuR1g5emdSQ3d0el9iR1dkRXc5OHNlckxzZVVFenE1akVDcXhYZFE?oc=5",
       "snippet": "",
@@ -115,21 +124,21 @@
     },
     {
       "type": "news",
+      "title": "한국공학대·광운대, 베이징서 글로벌 IC-PBL 진행 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIZFZyR18wQlplSmdWanZ5bDFVU1hLeUtUaTdwemtCVnVTUnUzeEdQdS03V0FqTGw2bU9yYlVHRjRjMDI3MVZmZ2d5NFExbkF3Z0JwREZSQ3FMTjdoTUV3X0JIVXFMSEc1TzNwTdIBcEFVX3lxTFBBQ01Tb1h4UXo5U3BtSFYta25BTXNKQXhBcnZLek8yNzlYRXNZam1FbF81Ym04dUJ0V3hmaGhFWlhfSVZIS3RkRzRiVDJtdHJydFAzckhkNDgtMU5RT0FZVWdkcVgxeVZqdGUyMXU3Y2w?oc=5",
+      "snippet": "",
+      "source": "전기신문",
+      "categories": [],
+      "pub_date": "Mon, 31 Aug 2026 01:39:29 GMT"
+    },
+    {
+      "type": "news",
       "title": "日, 후쿠시마 원전 폐로에 ‘피지컬 AI’ 투입…고방사선 작업 로봇으로 대체 - 알파경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54eGdYOTVZTDdfVHZQTkhZZ05lQk5BeWVzNUVPbUpiclFma1ZDYmFPc29KTS1SUXdzdnhiU2o2SnVMOUstcC1MSUtGVlhYU2tlOW5XY0hwUXYyX09UOHEzeUhGQ0hxZUpCRXF2OExB?oc=5",
       "snippet": "",
       "source": "알파경제",
       "categories": [],
       "pub_date": "Mon, 31 Aug 2026 00:18:11 GMT"
-    },
-    {
-      "type": "news",
-      "title": "엑스와이지, 대우건설과 푸르지오 로봇 도입 업무협약 체결∙∙∙주거 공간 진출 본격화 - 한국M&A경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vUDNURnVseGVLTS13dE41T0ViM3l3Mk1IZVJHYXNRcGstUDRoZThzdTRTYURWLUpWUHNBVFZ1Y21BY1lmMWRITDlPQTlqYURGMU5KSGpOTmNmNDAwV0xwWk9UYXRjNGJfdGc?oc=5",
-      "snippet": "",
-      "source": "한국M&A경제신문",
-      "categories": [],
-      "pub_date": "Mon, 31 Aug 2026 07:38:26 GMT"
     },
     {
       "type": "news",
@@ -142,30 +151,21 @@
     },
     {
       "type": "news",
-      "title": "한국공학대·광운대, 베이징서 글로벌 IC-PBL 진행 - 전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIZFZyR18wQlplSmdWanZ5bDFVU1hLeUtUaTdwemtCVnVTUnUzeEdQdS03V0FqTGw2bU9yYlVHRjRjMDI3MVZmZ2d5NFExbkF3Z0JwREZSQ3FMTjdoTUV3X0JIVXFMSEc1TzNwTdIBcEFVX3lxTFBBQ01Tb1h4UXo5U3BtSFYta25BTXNKQXhBcnZLek8yNzlYRXNZam1FbF81Ym04dUJ0V3hmaGhFWlhfSVZIS3RkRzRiVDJtdHJydFAzckhkNDgtMU5RT0FZVWdkcVgxeVZqdGUyMXU3Y2w?oc=5",
+      "title": "엑스와이지, 대우건설과 푸르지오 로봇 도입 업무협약 체결∙∙∙주거 공간 진출 본격화 - kmnanews.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vUDNURnVseGVLTS13dE41T0ViM3l3Mk1IZVJHYXNRcGstUDRoZThzdTRTYURWLUpWUHNBVFZ1Y21BY1lmMWRITDlPQTlqYURGMU5KSGpOTmNmNDAwV0xwWk9UYXRjNGJfdGc?oc=5",
       "snippet": "",
-      "source": "전기신문",
+      "source": "kmnanews.com",
       "categories": [],
-      "pub_date": "Mon, 31 Aug 2026 01:39:29 GMT"
+      "pub_date": "Mon, 31 Aug 2026 07:38:26 GMT"
     },
     {
       "type": "news",
-      "title": "한국공학대-광운대, 중국 최첨단 로봇 기업 시설 참관 - 교수신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nU0FLcFo4d2lsakItUTRscHBBdXNvSWZrYkdSNV8yaWJsM0FuWl9ud2dqZ1pvQWlIWl9nTVFUdU1pM192VmpwRV9VZVdjanNpOURQMzllVVJoU0N3aExoZmk5d2NpdU0?oc=5",
+      "title": "서울 AI 허브, 차세대 ‘피지컬 AI’ 고급 전문인력 75명 배출 - beSUCCESS",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvVDBjZjdUQnBydnBZa3JWR0E2Zk5YT2FReDhEek5wVkJVOUswTndkdm5qMTMzTXoxdnI3TF9yWWNuX1NlQnc?oc=5",
       "snippet": "",
-      "source": "교수신문",
+      "source": "beSUCCESS",
       "categories": [],
-      "pub_date": "Mon, 31 Aug 2026 02:43:30 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[피지컬 AI ㊺] K-로보틱스 버티컬 전문기업과 특수 목적 AI - 미디어피아",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pSGE5LXNIYi1oZTVPTXdPYXBNMFJObmIyOFhDeU05ZGJPeVAxM054YmlQRDNkWkZwN3haYjBmQ0RGSUlFRnFyMW9PR0tUVU95aHd0cWpoMHhFd0FpNnNsOE9MMm9WNDBFX0VVNw?oc=5",
-      "snippet": "",
-      "source": "미디어피아",
-      "categories": [],
-      "pub_date": "Mon, 31 Aug 2026 03:54:31 GMT"
+      "pub_date": "Mon, 31 Aug 2026 06:32:42 GMT"
     }
   ]
 }
