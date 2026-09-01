@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T18:31:24Z",
+  "updated_at": "2026-09-01T23:18:40Z",
   "papers": [
     {
       "type": "paper",
@@ -100,6 +100,15 @@
   "news": [
     {
       "type": "news",
+      "title": "\"빠른 실패 데이터가 더 중요\"…K-피지컬AI 승부처 '데이터 선순환' - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmX3hROUZmTWVjSTBaeXBkUl9OWlZPdWRLZGFqSWVxSVRhZm5jMTdjaEtUVlY3WEw2cFRQamo5SHF1QkJIbGFxSkFyTTM2RTd0RTNLbUNzWHdlR2Rw0gFiQVVfeXFMTXhiOWlEUkIxekMyTDJyZml4MnhQOVV4MmhXbFZ4Rkg5UmRmeHJZQW5HOWVkbnJQQy1uM0hVYUhNbFEyaDRHclhiSkZQMElPRnhydWZMbW1lV3ZLZF82TEE5R1E?oc=5",
+      "snippet": "",
+      "source": "news1.kr",
+      "categories": [],
+      "pub_date": "Tue, 01 Sep 2026 21:05:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "피지컬 AI 로봇 상용화 성큼...삼성·현대차·LG, 미중 패권 속 전략 행보 - 우먼타임스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xQU0xaDFvVjB3b3ZUbnpSaDhiOXJwS3RsTUVVRHVGNnJYLXRVZmw3Szh0WHR0SkwwTjFkZF9qZVZpTXhfSENsaU9KaE51cUJXYU1aRDlOdU9nRG8zZWtuU3RUQmRsX1dVNjh5dmdDOWnSAXRBVV95cUxOcVVUZGhqcFBDTllIZHVyTk1YTG5mNU5wYVFNYmJDR3N5SkF5Y0VzQU8xdDJXTXhmZ3dhblkwS19sVXpib1diaFItQ2FCbXJLV3dnbWhJSGpWeHFjOHh4YXFVdDZYNG1VY29LOXpPUVh6b0FlNg?oc=5",
       "snippet": "",
@@ -109,12 +118,12 @@
     },
     {
       "type": "news",
-      "title": "시즐(SIZL), 자율 이동·대화 가능한 제조 휴머노이드 시연 성공… ‘피지컬 AI’ 시대 연다 - 한경매거진&북",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfUkczSnZ0cHpKMXlCUVk1eGhQVFdhSTUwclZmd1pGcEdHYnFObjZBNXFVYWxUQ1ZVWldrTkoxMUdTUnFEcHFYTkVEakdHbkRHYVotejRKZ0hxcDh6QWc2bVo0YW0tTU5qMFc2WA?oc=5",
+      "title": "코윈로보틱스 공식 출범…피지컬 AI 기반 지능형 로봇사업 확대 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsQzI5SGFKT1AyYVNhM1pnTEd1OHJKVHFQTEozRDhkTTRYb2xhczB5TTJ4alFra0lsRjk1eVZ3V1ZMNnk3WFVXZ2Q4Yk14RHVlNDFYZW8wbTM0QUlMdWRKVmNGbmk?oc=5",
       "snippet": "",
-      "source": "한경매거진&북",
+      "source": "디지털데일리",
       "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 01:00:00 GMT"
+      "pub_date": "Tue, 01 Sep 2026 09:16:58 GMT"
     },
     {
       "type": "news",
@@ -127,6 +136,24 @@
     },
     {
       "type": "news",
+      "title": "뉴빌리티, 자율주행 로봇 상용 서비스 기반 ‘공간 RFM’ 전략 팔걷었다 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NSlZ5Zzg3cWlEc0J5NGRjaVdGUExyTHVKcFlWYzRRZWJjTk9VOEpKcEUxOFVmVzZ4M1hNalZoY2NsWjJpNHUyenJlbTVFN2dsYm5qelFNNy02VkdSbW53Nm5mRER4TDY1SmxCWg?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Tue, 01 Sep 2026 02:01:43 GMT"
+    },
+    {
+      "type": "news",
+      "title": "시즐(SIZL), 자율 이동·대화 가능한 제조 휴머노이드 시연 성공… ‘피지컬 AI’ 시대 연다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SemJ4aERvUXhJanF3MTYwTS0zcmVZQVRBRmMteDlBSWVxY0RsQnRxUDRNN2JSSGxXLW1VUTZyM0txbXpmOWhYbWRnQzVCR3M?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Tue, 01 Sep 2026 01:02:09 GMT"
+    },
+    {
+      "type": "news",
       "title": "필수의료 인력 수급 불균형 심화…해법은 ‘로봇’ - 데일리메디",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16dEtzbjYtWGYtS1dGV1poWGFnemlYUlBZcGVJQlFDMGFFWE1wdWh1MzF6UUR2eXRscUpEb1RJRzItRmJaLVV5Ty1aUlpDM3d6ZUlHS05hem5fdUlXLXItQ2N6eE5PNEJtMldNQUxZaHBVOWVQ?oc=5",
       "snippet": "",
@@ -136,39 +163,12 @@
     },
     {
       "type": "news",
-      "title": "[2027 전문대 수시] 피지컬 AI 인재 양성…한국폴리텍대학 로봇캠퍼스 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiWTBaSWxER2NYLXlWdjZEQmV0WHJncDFVZnFQQnZIMnFKYi1jRUtJVzFtUjJrci1KVEhDQTVvWW1CbW4ydHJ0Z2cxQUJEUms?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 07:05:15 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[로봇 주식 투자, 어떻게 평가할 것인가] 휴머노이드 로봇은 거대한 시장을 창출할 잠재력을 가졌다. 하지만 기존 자동화 기업들은 이미 고객, 제품, 현금 흐름이라는 실질적 자산을 보유 - AI넷",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBzTElDMGR2dW9wUGJzb2xENXBvNWo2UkFsSHpZRWZpdWVIOWE0VC1nMkRxaGNSQU5tY0dfcXBKcUU?oc=5",
-      "snippet": "",
-      "source": "AI넷",
-      "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 13:36:46 GMT"
-    },
-    {
-      "type": "news",
       "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTldQU3RnTGpkS2hyc0tHM1FVUVhIdmNpcDkxUThaUDRsOVJobTc2eUZ0TzlBbmNQX2haX1lxNWY1aEo1SERHVlpCM1kwWTg3NGFxSlVqSzc?oc=5",
       "snippet": "",
       "source": "매일경제",
       "categories": [],
       "pub_date": "Sun, 30 Aug 2026 15:28:14 GMT"
-    },
-    {
-      "type": "news",
-      "title": "질주하는 엔비디아·中 로봇 동맹...플랫폼 종속 기로 선 한국 제조업 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanZBUGhRUjVIWktzQ3pkTDlWZTQybG1Ra3VycHZqcVZBR0h2WGFPWGxTQUY0RzBtQzdrMXhXcjlOV2xTNm5QVmR1SlJ5ZC1VcTcxblRVWnlVNVVSaFVqejZPdHJxOFA1N1Qta0ZtbG5GdFduNGxhLTU0VmNubm5mbFJhWFhONTMt?oc=5",
-      "snippet": "",
-      "source": "글로벌이코노믹",
-      "categories": [],
-      "pub_date": "Mon, 31 Aug 2026 02:03:46 GMT"
     }
   ]
 }
