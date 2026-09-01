@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T08:39:46Z",
+  "updated_at": "2026-09-01T14:09:15Z",
   "papers": [
     {
       "type": "paper",
@@ -100,6 +100,15 @@
   "news": [
     {
       "type": "news",
+      "title": "코윈로보틱스 공식 출범…피지컬 AI 기반 지능형 로봇사업 확대 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsQzI5SGFKT1AyYVNhM1pnTEd1OHJKVHFQTEozRDhkTTRYb2xhczB5TTJ4alFra0lsRjk1eVZ3V1ZMNnk3WFVXZ2Q4Yk14RHVlNDFYZW8wbTM0QUlMdWRKVmNGbmk?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Tue, 01 Sep 2026 09:16:58 GMT"
+    },
+    {
+      "type": "news",
       "title": "피지컬 AI 로봇 상용화 성큼...삼성·현대차·LG, 미중 패권 속 전략 행보 - 우먼타임스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xQU0xaDFvVjB3b3ZUbnpSaDhiOXJwS3RsTUVVRHVGNnJYLXRVZmw3Szh0WHR0SkwwTjFkZF9qZVZpTXhfSENsaU9KaE51cUJXYU1aRDlOdU9nRG8zZWtuU3RUQmRsX1dVNjh5dmdDOWnSAXRBVV95cUxOcVVUZGhqcFBDTllIZHVyTk1YTG5mNU5wYVFNYmJDR3N5SkF5Y0VzQU8xdDJXTXhmZ3dhblkwS19sVXpib1diaFItQ2FCbXJLV3dnbWhJSGpWeHFjOHh4YXFVdDZYNG1VY29LOXpPUVh6b0FlNg?oc=5",
       "snippet": "",
@@ -136,15 +145,6 @@
     },
     {
       "type": "news",
-      "title": "로봇을 FIX에 가둘 것인가, 대구의 미래산업으로 키울 것인가 - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01b3k1T2VqRDhMb2tWTjZtY203NDkzeG9BRGRnUGNUWDZYeEZtaEhJOGJsankyS09TdlRWVWpZSFlEMGNzM2pFMTI3SmxBa291clA3bGxZdV9QN1pQVlhZRlZB?oc=5",
-      "snippet": "",
-      "source": "매일신문",
-      "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 06:21:45 GMT"
-    },
-    {
-      "type": "news",
       "title": "[2027 전문대 수시] 피지컬 AI 인재 양성…한국폴리텍대학 로봇캠퍼스 - 영남일보",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmVG9YemUxV3ZLb3hQWHRNZm9ydDlWSElxNXRfeWpuRlZRZXNGSkl6Mm11VEpoeFp2OTVEaDJlYmR3aE9QYVBfdzJBbERUbGF4SjNhTjVHT3ZTcjJfeUpFdU90ZEF1NUZZQms0?oc=5",
       "snippet": "",
@@ -154,21 +154,21 @@
     },
     {
       "type": "news",
+      "title": "[기고-서민교] 로봇, FIX 넘어 대구 미래산업으로 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01b3k1T2VqRDhMb2tWTjZtY203NDkzeG9BRGRnUGNUWDZYeEZtaEhJOGJsankyS09TdlRWVWpZSFlEMGNzM2pFMTI3SmxBa291clA3bGxZdV9QN1pQVlhZRlZB?oc=5",
+      "snippet": "",
+      "source": "매일신문",
+      "categories": [],
+      "pub_date": "Tue, 01 Sep 2026 06:21:45 GMT"
+    },
+    {
+      "type": "news",
       "title": "[2027 전문대 수시] 피지컬 AI 인재 양성…한국폴리텍대학 로봇캠퍼스 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiWTBaSWxER2NYLXlWdjZEQmV0WHJncDFVZnFQQnZIMnFKYi1jRUtJVzFtUjJrci1KVEhDQTVvWW1CbW4ydHJ0Z2cxQUJEUms?oc=5",
       "snippet": "",
       "source": "v.daum.net",
       "categories": [],
       "pub_date": "Tue, 01 Sep 2026 07:05:15 GMT"
-    },
-    {
-      "type": "news",
-      "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTldQU3RnTGpkS2hyc0tHM1FVUVhIdmNpcDkxUThaUDRsOVJobTc2eUZ0TzlBbmNQX2haX1lxNWY1aEo1SERHVlpCM1kwWTg3NGFxSlVqSzc?oc=5",
-      "snippet": "",
-      "source": "매일경제",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 15:28:14 GMT"
     }
   ]
 }
