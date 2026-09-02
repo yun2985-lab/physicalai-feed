@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T23:18:40Z",
+  "updated_at": "2026-09-02T04:35:00Z",
   "papers": [
     {
       "type": "paper",
@@ -11,7 +11,7 @@
         "cs.RO",
         "cs.CV"
       ],
-      "pub_date": "Tue, 01 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
@@ -24,7 +24,7 @@
         "cs.CV",
         "cs.MM"
       ],
-      "pub_date": "Tue, 01 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
@@ -35,7 +35,7 @@
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Tue, 01 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
@@ -47,7 +47,7 @@
         "cs.RO",
         "cs.CV"
       ],
-      "pub_date": "Tue, 01 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
@@ -58,7 +58,7 @@
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Tue, 01 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
@@ -71,7 +71,7 @@
         "cs.AI",
         "cs.CV"
       ],
-      "pub_date": "Tue, 01 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
@@ -82,7 +82,7 @@
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Tue, 01 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
@@ -94,18 +94,54 @@
         "cs.RO",
         "cs.LG"
       ],
-      "pub_date": "Tue, 01 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
     {
       "type": "news",
-      "title": "\"빠른 실패 데이터가 더 중요\"…K-피지컬AI 승부처 '데이터 선순환' - news1.kr",
+      "title": "교실서 키우고 연구실로 보내 도로까지...KIRO, ‘AI 로봇 현장화’ 판 키운다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXay1jcnhqeG80ZVBlMEFmR2ZXSUlCcjlwWVF5RzZYMGNuMTM3RG0wcjBWSWd0YXpjcFBsM1EtYV8xTzlESDlZWVZMTm5kb0NyNmxuTjdsajlJcGE3QzBV?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Wed, 02 Sep 2026 02:36:53 GMT"
+    },
+    {
+      "type": "news",
+      "title": "허깅페이스 ‘오리 로봇’ 마이크로덕에 주문 몰린 이유…피지컬 AI 진입장벽 낮췄다 - 플래텀(Platum)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FZ1N6ekRGTnpQUWxDTTZjd3RUSXBRVkxnUWFLeHdJZmFDSV9vaDlzUl9sbHlFaC1weXBsQVpjRFgwUXBXTVJHSA?oc=5",
+      "snippet": "",
+      "source": "플래텀(Platum)",
+      "categories": [],
+      "pub_date": "Wed, 02 Sep 2026 02:43:40 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[IFA 미리보기 ④] IFA NEXT ‘로봇판’ 키운다…휴머노이드 베를린 집결 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jUml4eTN0dGhVSW1hZWI2U0pienY0TTBJU2J2LXZGTzRyTmZZd3JPR0Y2NEw3b2RodElHZTlLYlpGUmtwaUpmc3pQNU5vdUFRMXdqLUNyS2ljLWxFQ3pIWlp2Y2c?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Tue, 01 Sep 2026 23:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "\"빠른 실패 데이터가 더 중요\"…K-피지컬AI 승부처 '데이터 선순환' - 뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmX3hROUZmTWVjSTBaeXBkUl9OWlZPdWRLZGFqSWVxSVRhZm5jMTdjaEtUVlY3WEw2cFRQamo5SHF1QkJIbGFxSkFyTTM2RTd0RTNLbUNzWHdlR2Rw0gFiQVVfeXFMTXhiOWlEUkIxekMyTDJyZml4MnhQOVV4MmhXbFZ4Rkg5UmRmeHJZQW5HOWVkbnJQQy1uM0hVYUhNbFEyaDRHclhiSkZQMElPRnhydWZMbW1lV3ZLZF82TEE5R1E?oc=5",
       "snippet": "",
-      "source": "news1.kr",
+      "source": "뉴스1",
       "categories": [],
       "pub_date": "Tue, 01 Sep 2026 21:05:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "르네사스, 베이징에 피지컬 AI 및 로보틱스 연구소 설립 - 캐드앤그래픽스",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYldCSy10NUUtU2lSNS1rMFd5VHFOR3Y3UTdBTVRka2lzR2NnYnZVcnJLU3RBNXcxSzRoVXJFbmg4WmxkQjdUa1hoVVR4VE5aQXQ4QmxnRXBkMFFGRmdRWl9uS2ZJYXFKVGU4aUMtMWJmd183R05FTGxqWFdudzNsbHpfSlpmenRseWswYjBn?oc=5",
+      "snippet": "",
+      "source": "캐드앤그래픽스",
+      "categories": [],
+      "pub_date": "Wed, 02 Sep 2026 01:47:50 GMT"
     },
     {
       "type": "news",
@@ -118,57 +154,21 @@
     },
     {
       "type": "news",
-      "title": "코윈로보틱스 공식 출범…피지컬 AI 기반 지능형 로봇사업 확대 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsQzI5SGFKT1AyYVNhM1pnTEd1OHJKVHFQTEozRDhkTTRYb2xhczB5TTJ4alFra0lsRjk1eVZ3V1ZMNnk3WFVXZ2Q4Yk14RHVlNDFYZW8wbTM0QUlMdWRKVmNGbmk?oc=5",
+      "title": "시선AI 子 유온로보틱스-한화로보틱스, 비정형·난공정 로봇 자동화 추진 - 컨슈머타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JdFNITGRDSEUtR0VFS1ZnOXdjdW9vTThWUGxtRk5VdHlHOHRMT2JpSlI0OWFmRnlEaGVuTFk4TkdZdUN2ZWFvU3pla1ZJNC1JWGR6R3g0V0V5M1R1bDBTaXAxX0RTZ2xFaEE?oc=5",
       "snippet": "",
-      "source": "디지털데일리",
+      "source": "컨슈머타임스",
       "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 09:16:58 GMT"
+      "pub_date": "Tue, 01 Sep 2026 23:41:39 GMT"
     },
     {
       "type": "news",
-      "title": "[2027 전문대 수시] 피지컬 AI 인재 양성…한국폴리텍대학 로봇캠퍼스 - 영남일보",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmVG9YemUxV3ZLb3hQWHRNZm9ydDlWSElxNXRfeWpuRlZRZXNGSkl6Mm11VEpoeFp2OTVEaDJlYmR3aE9QYVBfdzJBbERUbGF4SjNhTjVHT3ZTcjJfeUpFdU90ZEF1NUZZQms0?oc=5",
+      "title": "현대모비스, 아틀라스 31개 액추에이터 전량수주…LG유플러스, 배당・자사주 매입 함께 늘린다 [株토피아] - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ieFlaZDN2Tms3TXRlMDliTFNmWW9NRUpMeF9rQWVpN1E5RVpBYmFKYjFqMVBOdTRjMkdCNWsyVFlKT28tSDhaX2ctWmFvemMzZ1NPWFcwN19MZw?oc=5",
       "snippet": "",
-      "source": "영남일보",
+      "source": "파이낸셜뉴스",
       "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 07:04:51 GMT"
-    },
-    {
-      "type": "news",
-      "title": "뉴빌리티, 자율주행 로봇 상용 서비스 기반 ‘공간 RFM’ 전략 팔걷었다 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NSlZ5Zzg3cWlEc0J5NGRjaVdGUExyTHVKcFlWYzRRZWJjTk9VOEpKcEUxOFVmVzZ4M1hNalZoY2NsWjJpNHUyenJlbTVFN2dsYm5qelFNNy02VkdSbW53Nm5mRER4TDY1SmxCWg?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 02:01:43 GMT"
-    },
-    {
-      "type": "news",
-      "title": "시즐(SIZL), 자율 이동·대화 가능한 제조 휴머노이드 시연 성공… ‘피지컬 AI’ 시대 연다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SemJ4aERvUXhJanF3MTYwTS0zcmVZQVRBRmMteDlBSWVxY0RsQnRxUDRNN2JSSGxXLW1VUTZyM0txbXpmOWhYbWRnQzVCR3M?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 01:02:09 GMT"
-    },
-    {
-      "type": "news",
-      "title": "필수의료 인력 수급 불균형 심화…해법은 ‘로봇’ - 데일리메디",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16dEtzbjYtWGYtS1dGV1poWGFnemlYUlBZcGVJQlFDMGFFWE1wdWh1MzF6UUR2eXRscUpEb1RJRzItRmJaLVV5Ty1aUlpDM3d6ZUlHS05hem5fdUlXLXItQ2N6eE5PNEJtMldNQUxZaHBVOWVQ?oc=5",
-      "snippet": "",
-      "source": "데일리메디",
-      "categories": [],
-      "pub_date": "Mon, 31 Aug 2026 20:27:36 GMT"
-    },
-    {
-      "type": "news",
-      "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTldQU3RnTGpkS2hyc0tHM1FVUVhIdmNpcDkxUThaUDRsOVJobTc2eUZ0TzlBbmNQX2haX1lxNWY1aEo1SERHVlpCM1kwWTg3NGFxSlVqSzc?oc=5",
-      "snippet": "",
-      "source": "매일경제",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 15:28:14 GMT"
+      "pub_date": "Wed, 02 Sep 2026 02:38:41 GMT"
     }
   ]
 }
