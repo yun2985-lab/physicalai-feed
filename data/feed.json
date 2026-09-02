@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T04:35:00Z",
+  "updated_at": "2026-09-02T11:19:26Z",
   "papers": [
     {
       "type": "paper",
@@ -109,6 +109,15 @@
     },
     {
       "type": "news",
+      "title": "새만금개발청, 현대차 로봇공장·AIDC 연계 ‘피지컬AI’ 생태계 조성 - 기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GdWlSRlY4eEVrYUVubG42OHREMV9uRDRuclQ2eDE3V050LUg5WnlfaWdnOXVsOUFNVUZuRC1RUF9FZ2theUtGRy1hZ0dtd0JMMWtuS2RsckdsR1ZPYU9ITXpQSXB2YjA?oc=5",
+      "snippet": "",
+      "source": "기계신문",
+      "categories": [],
+      "pub_date": "Wed, 02 Sep 2026 02:43:42 GMT"
+    },
+    {
+      "type": "news",
       "title": "허깅페이스 ‘오리 로봇’ 마이크로덕에 주문 몰린 이유…피지컬 AI 진입장벽 낮췄다 - 플래텀(Platum)",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FZ1N6ekRGTnpQUWxDTTZjd3RUSXBRVkxnUWFLeHdJZmFDSV9vaDlzUl9sbHlFaC1weXBsQVpjRFgwUXBXTVJHSA?oc=5",
       "snippet": "",
@@ -118,19 +127,19 @@
     },
     {
       "type": "news",
-      "title": "[IFA 미리보기 ④] IFA NEXT ‘로봇판’ 키운다…휴머노이드 베를린 집결 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jUml4eTN0dGhVSW1hZWI2U0pienY0TTBJU2J2LXZGTzRyTmZZd3JPR0Y2NEw3b2RodElHZTlLYlpGUmtwaUpmc3pQNU5vdUFRMXdqLUNyS2ljLWxFQ3pIWlp2Y2c?oc=5",
+      "title": "경기도, 5일 ‘AI 페스티벌’…휴머노이드 로봇부터 자율주행까지 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJa2NVWnZMampNNjRKc2lLdGVnUXBtV2RNajRjeVVEWkp6UXBDMkR3R1VGaE1kdHppdURaT1VtVTdPZl9XZGo4Z2Y1NXZLSms?oc=5",
       "snippet": "",
-      "source": "디지털데일리",
+      "source": "v.daum.net",
       "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 23:00:00 GMT"
+      "pub_date": "Wed, 02 Sep 2026 00:03:29 GMT"
     },
     {
       "type": "news",
-      "title": "\"빠른 실패 데이터가 더 중요\"…K-피지컬AI 승부처 '데이터 선순환' - 뉴스1",
+      "title": "\"빠른 실패 데이터가 더 중요\"…K-피지컬AI 승부처 '데이터 선순환' - news1.kr",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmX3hROUZmTWVjSTBaeXBkUl9OWlZPdWRLZGFqSWVxSVRhZm5jMTdjaEtUVlY3WEw2cFRQamo5SHF1QkJIbGFxSkFyTTM2RTd0RTNLbUNzWHdlR2Rw0gFiQVVfeXFMTXhiOWlEUkIxekMyTDJyZml4MnhQOVV4MmhXbFZ4Rkg5UmRmeHJZQW5HOWVkbnJQQy1uM0hVYUhNbFEyaDRHclhiSkZQMElPRnhydWZMbW1lV3ZLZF82TEE5R1E?oc=5",
       "snippet": "",
-      "source": "뉴스1",
+      "source": "news1.kr",
       "categories": [],
       "pub_date": "Tue, 01 Sep 2026 21:05:00 GMT"
     },
@@ -154,21 +163,12 @@
     },
     {
       "type": "news",
-      "title": "시선AI 子 유온로보틱스-한화로보틱스, 비정형·난공정 로봇 자동화 추진 - 컨슈머타임스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JdFNITGRDSEUtR0VFS1ZnOXdjdW9vTThWUGxtRk5VdHlHOHRMT2JpSlI0OWFmRnlEaGVuTFk4TkdZdUN2ZWFvU3pla1ZJNC1JWGR6R3g0V0V5M1R1bDBTaXAxX0RTZ2xFaEE?oc=5",
+      "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTldQU3RnTGpkS2hyc0tHM1FVUVhIdmNpcDkxUThaUDRsOVJobTc2eUZ0TzlBbmNQX2haX1lxNWY1aEo1SERHVlpCM1kwWTg3NGFxSlVqSzc?oc=5",
       "snippet": "",
-      "source": "컨슈머타임스",
+      "source": "매일경제",
       "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 23:41:39 GMT"
-    },
-    {
-      "type": "news",
-      "title": "현대모비스, 아틀라스 31개 액추에이터 전량수주…LG유플러스, 배당・자사주 매입 함께 늘린다 [株토피아] - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ieFlaZDN2Tms3TXRlMDliTFNmWW9NRUpMeF9rQWVpN1E5RVpBYmFKYjFqMVBOdTRjMkdCNWsyVFlKT28tSDhaX2ctWmFvemMzZ1NPWFcwN19MZw?oc=5",
-      "snippet": "",
-      "source": "파이낸셜뉴스",
-      "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 02:38:41 GMT"
+      "pub_date": "Sun, 30 Aug 2026 15:28:14 GMT"
     }
   ]
 }
