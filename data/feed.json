@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T21:02:40Z",
+  "updated_at": "2026-09-03T23:17:24Z",
   "papers": [
     {
       "type": "paper",
@@ -96,21 +96,12 @@
   "news": [
     {
       "type": "news",
-      "title": "[기업 최전선을 가다-(주)피넛AI] - irobotnews.com",
+      "title": "[기업 최전선을 가다-(주)피넛AI] - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YVTI3b0ZydlpTZExyMHFZTk4tMFo2RmY1cEtWX1RXbS14YlJCU2tlVWgzckFBVGF1Y2Ixb3JwVDc2eTV3cC0ySjRKOEhlc3lJVE5XSjBtdnh0TWY3WmRLcGRvTlIwZHMzMDNONQ?oc=5",
       "snippet": "",
-      "source": "irobotnews.com",
+      "source": "로봇신문",
       "categories": [],
       "pub_date": "Thu, 03 Sep 2026 18:42:11 GMT"
-    },
-    {
-      "type": "news",
-      "title": "엔비디아 이어 아마존까지...LG이노텍 로봇·자율주행용 '피지컬 AI' 센서 시장 동시 공략 - 리버티코리아포스트",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tQm9rQXB5anZrVnpJWkVqSUVHOGYzcHBRZFBXUzI0UzNic0tzMEswN1FBVmdsUGg1TzBFbDNCWldqaHQ4cUdmdkh1MUctTWZOMGFZU0plU3NyZTRfN3lKZDRENNIBZ0FVX3lxTE4wN25lSFJMU083ZXhGdWlUd2locEw1dmEtcHJ4VWZOSW9renVsbzNFS3A3LVZZLWR4Rmk4Q1hHck9EbWFFRVNEbEduWUpOQlFfQl9BMTdkWkx2S21IQlY0WU14SDVFNGM?oc=5",
-      "snippet": "",
-      "source": "리버티코리아포스트",
-      "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 06:41:45 GMT"
     },
     {
       "type": "news",
@@ -123,12 +114,30 @@
     },
     {
       "type": "news",
+      "title": "[홍콩 AI 현장①] 韓 AI·피지컬AI 기업, 홍콩서 기회 찾는다 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZGV5c21adFZHa1NodjBJM2RTMU9VdV8yNVJVUnRQRTVCUm5KWG5Lb2h6TEFnbV9nTHF1NzhZVTNsWXhzYmFpZ1RrS2tfMXFRb2V4RzNuWEJGNHNnWVNYR2cySEE?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "교실서 키우고 연구실로 보내 도로까지...KIRO, ‘AI 로봇 현장화’ 판 키운다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXay1jcnhqeG80ZVBlMEFmR2ZXSUlCcjlwWVF5RzZYMGNuMTM3RG0wcjBWSWd0YXpjcFBsM1EtYV8xTzlESDlZWVZMTm5kb0NyNmxuTjdsajlJcGE3QzBV?oc=5",
       "snippet": "",
       "source": "헬로티",
       "categories": [],
       "pub_date": "Wed, 02 Sep 2026 02:36:53 GMT"
+    },
+    {
+      "type": "news",
+      "title": "엔비디아 이어 아마존까지...LG이노텍 로봇·자율주행용 '피지컬 AI' 센서 시장 동시 공략 - 리버티코리아포스트",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tQm9rQXB5anZrVnpJWkVqSUVHOGYzcHBRZFBXUzI0UzNic0tzMEswN1FBVmdsUGg1TzBFbDNCWldqaHQ4cUdmdkh1MUctTWZOMGFZU0plU3NyZTRfN3lKZDRENNIBZ0FVX3lxTE4wN25lSFJMU083ZXhGdWlUd2locEw1dmEtcHJ4VWZOSW9renVsbzNFS3A3LVZZLWR4Rmk4Q1hHck9EbWFFRVNEbEduWUpOQlFfQl9BMTdkWkx2S21IQlY0WU14SDVFNGM?oc=5",
+      "snippet": "",
+      "source": "리버티코리아포스트",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 06:41:45 GMT"
     },
     {
       "type": "news",
@@ -156,15 +165,6 @@
       "source": "v.daum.net",
       "categories": [],
       "pub_date": "Thu, 03 Sep 2026 00:43:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI 로봇 상용화 성큼...삼성·현대차·LG, 미중 패권 속 전략 행보 - 우먼타임스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xQU0xaDFvVjB3b3ZUbnpSaDhiOXJwS3RsTUVVRHVGNnJYLXRVZmw3Szh0WHR0SkwwTjFkZF9qZVZpTXhfSENsaU9KaE51cUJXYU1aRDlOdU9nRG8zZWtuU3RUQmRsX1dVNjh5dmdDOWnSAXRBVV95cUxOcVVUZGhqcFBDTllIZHVyTk1YTG5mNU5wYVFNYmJDR3N5SkF5Y0VzQU8xdDJXTXhmZ3dhblkwS19sVXpib1diaFItQ2FCbXJLV3dnbWhJSGpWeHFjOHh4YXFVdDZYNG1VY29LOXpPUVh6b0FlNg?oc=5",
-      "snippet": "",
-      "source": "우먼타임스",
-      "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 04:46:09 GMT"
     }
   ]
 }
