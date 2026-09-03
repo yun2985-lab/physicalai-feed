@@ -1,120 +1,134 @@
 {
-  "updated_at": "2026-09-02T23:19:32Z",
+  "updated_at": "2026-09-03T04:34:12Z",
   "papers": [
     {
       "type": "paper",
-      "title": "RedLight-VLA: Models for traffic-rule grounding and behavioral emphasis in driving policies",
-      "url": "https://arxiv.org/abs/2608.28656",
-      "snippet": "Behavior-cloned Vision-Language-Action (VLA) driving policies struggle with rare rule-governed maneuvers at signalized intersections. Braking and launching examples contribute little to averaged trajectory loss, while…",
+      "title": "Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration",
+      "url": "https://arxiv.org/abs/2609.01662",
+      "snippet": "For embodied systems, predictive agreement alone does not determine whether evidence warrants action; evidential origin matters. Repeated inference over one observation can multiply agreement without adding evidence,…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "TriSAR: Task Coordination and Collision Avoidance for Aerial Robot Teams in Disaster Response",
+      "url": "https://arxiv.org/abs/2609.01731",
+      "snippet": "Multi-Unmanned Aerial Vehicle (UAV) disaster-response systems require coordinated task assignment and local trajectory control, yet the individual and combined contributions of these coordination layers to mission…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Designing Versatile Samples for Learned Trajectory Scoring",
+      "url": "https://arxiv.org/abs/2609.01799",
+      "snippet": "Many current end-to-end driving policies emit a pool of candidate trajectories and select one, which makes selection a separable component: a scorer can be retrained while the planner, its backbone, and its trajectory…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.CV"
       ],
-      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "The Potential of Haptic Foundation Models",
-      "url": "https://arxiv.org/abs/2608.28664",
-      "snippet": "Despite the success of foundation models in language and vision, their expansion into embodied AI is bottlenecked by a lack of generalized touch sensing. This limitation is especially relevant to consumer electronics,…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV",
-        "cs.MM"
-      ],
-      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Cognitively-Grounded On-Device Runtime Learning for Ground Robots in Unknown Physical Environments",
-      "url": "https://arxiv.org/abs/2608.28677",
-      "snippet": "This paper presents \\ul{CogRun}, a framework that enables safety-critical ground robots to perform cognitively-grounded runtime learning entirely on edge-AI devices in unknown physical environments, without prior maps…",
+      "title": "One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry",
+      "url": "https://arxiv.org/abs/2609.01938",
+      "snippet": "Dexterous manipulation with multi-fingered robot hands promises human-level dexterity, but collecting large-scale dexterous robot hand data remains difficult. Learning from human demonstrations has emerged as a scalable…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "RoboGesture: Real-Time Semantic-aligned Co-Speech Gestures Generation for Humanoid Interaction",
-      "url": "https://arxiv.org/abs/2608.28693",
-      "snippet": "Enabling humanoid robots to respond to human speech with synchronized and semantically meaningful gestures is fundamental to natural human-robot interaction. However, this task faces three critical barriers: the…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Multi-Group Pipe Routing under Permanent Geometric Occupancy: Problem, Benchmark, and Classical Baselines",
-      "url": "https://arxiv.org/abs/2608.28697",
-      "snippet": "Additive manufacturing (AM) enables compact hydraulic components whose internal fluid channels can follow free-form 3D paths rather than conventionally drilled holes. A representative case is multi-group channel layout…",
+      "title": "MACAW: Reliable And Efficient Surgical Debridement Using Monocular Adaptive Compact Attention Windows",
+      "url": "https://arxiv.org/abs/2609.01961",
+      "snippet": "Augmenting the dexterity of human surgeons has the potential to free them from tedious subtasks. We consider debridement (removal of diseased or dead tissue fragments), which is challenging due to imprecision in spatial…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction",
-      "url": "https://arxiv.org/abs/2608.28718",
-      "snippet": "Video world models increasingly serve as data engines, action planners, and simulators for embodied AI, but conventional embodied world model (EWM) benchmarks lack a unified 3D-grounded protocol for establishing whether…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.AI",
-        "cs.CV"
-      ],
-      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Vehicle Drift Emergence: Continuous Evolution from Grip Driving to the Handling Limit via Boundary Exploration Learning Model Predictive Control",
-      "url": "https://arxiv.org/abs/2608.28723",
-      "snippet": "Automated drift controllers commonly track a prescribed drift equilibrium, sideslip reference, or trajectory. These formulations establish how to execute drift, whereas the continuous transition from grip driving to…",
+      "title": "Design and Validation of a Lightweight, Low-Profile Powered Knee Prosthesis with Quasi-Direct Drive Actuation",
+      "url": "https://arxiv.org/abs/2609.02003",
+      "snippet": "Fully-powered knee prostheses, unlike traditional passive knees, can perform controlled positive work, reducing the need for compensatory behaviors by users during energy-intensive activities. While quasi-direct drive…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Generation of High-Level Concepts in 3D Scene Graphs via Autoregressive Diffusion",
-      "url": "https://arxiv.org/abs/2608.28733",
-      "snippet": "Indoor 3D Scene Graphs (3DSGs) represent environments as multi-layer hierarchies that connect observed geometric primitives (e.g., planes) to higher-level metric-semantic concepts (e.g., rooms, floors, buildings),…",
+      "title": "Real-Time Dynamics-Based Torque-Sampling MPPI for Compliant and Force Aware Manipulation",
+      "url": "https://arxiv.org/abs/2609.02020",
+      "snippet": "This study proposes a novel Model Predictive Path Integral (MPPI)-based task-space control framework. The proposed framework explicitly solves rigid-body dynamics within a real-time MPC formulation and enforces safety…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Modeling What Changes: Sparse, Residual World Models for Object-Centric Manipulation",
+      "url": "https://arxiv.org/abs/2609.02046",
+      "snippet": "Monolithic world models predict the entire next state at every step, spending capacity re-predicting the static majority of a scene and injecting error into it. We ask whether explicitly modeling change (a per-object…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.LG"
+        "cs.AI"
       ],
-      "pub_date": "Wed, 02 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
     {
       "type": "news",
-      "title": "교실서 키우고 연구실로 보내 도로까지...KIRO, ‘AI 로봇 현장화’ 판 키운다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXay1jcnhqeG80ZVBlMEFmR2ZXSUlCcjlwWVF5RzZYMGNuMTM3RG0wcjBWSWd0YXpjcFBsM1EtYV8xTzlESDlZWVZMTm5kb0NyNmxuTjdsajlJcGE3QzBV?oc=5",
+      "title": "[봇규의 헬로BOT] ‘피지컬 AI 1강’으로 ② | 실증은 늘렸다, 근데 산업은 아직...‘진짜’ 공장으로 가는 법 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82OXlQM2c5dW52Q18zemxTWWZ3Z09uTXNXVWZWMVZ0MUQ5emw0TkpTRDFBM1M3NVM2Q0xrV0pFYnZ4WlR3U3VpVFRtUVd4WHBraGZRNUR5a2JLWkhOSFNn?oc=5",
       "snippet": "",
       "source": "헬로티",
       "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 02:36:53 GMT"
+      "pub_date": "Wed, 02 Sep 2026 15:07:55 GMT"
     },
     {
       "type": "news",
-      "title": "새만금개발청, 현대차 로봇공장·AIDC 연계 ‘피지컬AI’ 생태계 조성 - 기계신문",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oelFUSzZjcHRaNEFIcFhSNXhSalR2VDBvTFUzaEN4WFNaZmZYMXlqQzBydlFUU2dEMlNZUVVwWXlKUTJ3ODhYNlk4WUM1X0lMeGFfR2Iwcmw0ZWNqMzd6M1VLaXU2dw?oc=5",
+      "title": "삼성SDS, RX 전략 본격화…피지컬 AI 기반 자동화 가능성 확인 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43dGptVzJRU0dGZlRGVnNoTy1BTERKeWdoT0Q2UDhsY3ZLUDB2cnZUUEF2V2U0YlViSGNjNnZLbXpOMml6OXYtMl9hSnQyWHBDdEFHNVc0ZWducy1OOHBRR2ZlYXQ?oc=5",
       "snippet": "",
-      "source": "기계신문",
+      "source": "디지털데일리",
       "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 02:43:42 GMT"
+      "pub_date": "Thu, 03 Sep 2026 00:11:20 GMT"
+    },
+    {
+      "type": "news",
+      "title": "아이엘, 휴머노이드 로봇 공급량 전월比 200% 급증…제조 산업 현장 침투 가속화 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHa01UblR6RzE4LXd2eUQ5T080NkxNNmZqZ2thazdTUkNrME1QM0hsY1pzN3VFOXp1cnZfcTR0ZjRGX0pmQk1jSE9tbTlSOFdubk44?oc=5",
+      "snippet": "",
+      "source": "네이트",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 00:18:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "브릴스, 포스코센터에 ‘무인 바리스타 로봇 카페’ 구현··· 스마트 사옥 편의성 높인다 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UOGc3S1NfNGo0aWFoWDYwS1dBRG1DRTlrQ21aU1lfVy1PanZHU1RDQnZhYnVxNjBxc0pYYW1FdjJ5djlZYWtMM1NrYnNrTERZYWY3OXFfanZNUW1Yck1FOWczRjk1Nmc?oc=5",
+      "snippet": "",
+      "source": "인공지능신문",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 03:39:32 GMT"
     },
     {
       "type": "news",
@@ -127,12 +141,21 @@
     },
     {
       "type": "news",
-      "title": "경기도, 5일 ‘AI 페스티벌’…휴머노이드 로봇부터 자율주행까지 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJa2NVWnZMampNNjRKc2lLdGVnUXBtV2RNajRjeVVEWkp6UXBDMkR3R1VGaE1kdHppdURaT1VtVTdPZl9XZGo4Z2Y1NXZLSms?oc=5",
+      "title": "NC AI, LG전자와 ‘K-온디바이스 AI’ 휴머노이드 국책과제 선정 - edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHZQc3NoS3UyWVlvZ1NyeFdtU25CT2JEZEltWjlKMmV0R3FGaE5SeWxFYW1GVkZ5VnRQeTFyZFA4ZVBTdzVDVHVPNWVKT0d1dlV2cnBXZlV1Ym50MXJBc01CT05BU3hPb0FpYUM3YXpUbW9DWVVac21laEVXdjRLbg?oc=5",
       "snippet": "",
-      "source": "v.daum.net",
+      "source": "edaily.co.kr",
       "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 00:03:29 GMT"
+      "pub_date": "Wed, 02 Sep 2026 23:49:51 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇 무기체계 공급망 중단 대응...엣지 AI로 국가 자체 운용 역량 확보 - 지티티코리아",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoS2RuRVBONVJYZjh5TzE5bGFjQVNEaGxvY3ZIQjRMNmpESlFTR2ttMlhEcW5RVUpJaU8tU1ZnaTRBdVdtYUN1MWdyaVY3a1NRRDQ1WEpKNW5YaURBdnNwcEtzWUhBcjQyWkE?oc=5",
+      "snippet": "",
+      "source": "지티티코리아",
+      "categories": [],
+      "pub_date": "Wed, 02 Sep 2026 16:00:00 GMT"
     },
     {
       "type": "news",
@@ -142,33 +165,6 @@
       "source": "로봇신문",
       "categories": [],
       "pub_date": "Tue, 01 Sep 2026 02:01:43 GMT"
-    },
-    {
-      "type": "news",
-      "title": "중국 질주하는 피지컬AI … 한국의 미래 묻거든 관악을 보라 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTldQU3RnTGpkS2hyc0tHM1FVUVhIdmNpcDkxUThaUDRsOVJobTc2eUZ0TzlBbmNQX2haX1lxNWY1aEo1SERHVlpCM1kwWTg3NGFxSlVqSzc?oc=5",
-      "snippet": "",
-      "source": "매일경제",
-      "categories": [],
-      "pub_date": "Sun, 30 Aug 2026 15:28:14 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[2027 전문대 수시] 피지컬 AI 인재 양성…한국폴리텍대학 로봇캠퍼스 - 영남일보",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yeG5MM2g5cF9IaUtOWEZPRHAtaExnYXdxNG5GOFU4dm9EVnZzYWtOOENVQVlHVFY5NE1Ja3hlakJVSkdsdXRYNlh0VUZsRUE3eFRFdDJXY0Q0MGphR3l6V01mNA?oc=5",
-      "snippet": "",
-      "source": "영남일보",
-      "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 07:04:51 GMT"
-    },
-    {
-      "type": "news",
-      "title": "日, 후쿠시마 원전 폐로에 ‘피지컬 AI’ 투입…고방사선 작업 로봇으로 대체 By 알파경제 alphabiz - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUbExURVgyWDB5TS01YzJjdnlUNDV6d0h0ZlhGeE9pTEhmbWt6ZkVUZVViUEpoWGtsbENWYXA2cThSZmp0NElJYTVUSkp3Zzh5d0RtU0hJVnRPWVBUd2pPWnA1QjRQeExLREkwS2ZLRzQ?oc=5",
-      "snippet": "",
-      "source": "Investing.com 한국어",
-      "categories": [],
-      "pub_date": "Mon, 31 Aug 2026 01:15:00 GMT"
     }
   ]
 }
