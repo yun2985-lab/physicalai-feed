@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:15:22Z",
+  "updated_at": "2026-09-03T16:26:09Z",
   "papers": [
     {
       "type": "paper",
@@ -96,30 +96,48 @@
   "news": [
     {
       "type": "news",
-      "title": "[봇규의 헬로BOT] ‘피지컬 AI 1강’으로 ② | 실증은 늘렸다, 근데 산업은 아직...‘진짜’ 공장으로 가는 법 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82OXlQM2c5dW52Q18zemxTWWZ3Z09uTXNXVWZWMVZ0MUQ5emw0TkpTRDFBM1M3NVM2Q0xrV0pFYnZ4WlR3U3VpVFRtUVd4WHBraGZRNUR5a2JLWkhOSFNn?oc=5",
+      "title": "엔비디아 이어 아마존까지...LG이노텍 로봇·자율주행용 '피지컬 AI' 센서 시장 동시 공략 - 리버티코리아포스트",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tQm9rQXB5anZrVnpJWkVqSUVHOGYzcHBRZFBXUzI0UzNic0tzMEswN1FBVmdsUGg1TzBFbDNCWldqaHQ4cUdmdkh1MUctTWZOMGFZU0plU3NyZTRfN3lKZDRENNIBZ0FVX3lxTE4wN25lSFJMU083ZXhGdWlUd2locEw1dmEtcHJ4VWZOSW9renVsbzNFS3A3LVZZLWR4Rmk4Q1hHck9EbWFFRVNEbEduWUpOQlFfQl9BMTdkWkx2S21IQlY0WU14SDVFNGM?oc=5",
+      "snippet": "",
+      "source": "리버티코리아포스트",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 06:41:45 GMT"
+    },
+    {
+      "type": "news",
+      "title": "삼성SDS, 美서 글로벌 로봇 기업들과 피지컬 AI 현장 검증 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jS3MtUEpkUFRZM190SkVuTlpuOWdGTENiRzNzRjNsMVJvc0tVMFlwcVlhbF85V2lndGZ3YThfbGFoRWtUc0FUVGM2VEgydFg2djlrdDZuZzNzelZYZUdsZTE1U0x1N2h3VmdjQjhkdzDSAXRBVV95cUxQbVlCb01aZkUxb0czOFU4U1BkcWE0VmlWSHc4dUVOdFhpaU42cnV5eWpEZ19Cc2pLUVAyYnZKYWJiODg5STA3eThyNEhFZUxma19qWDI0VFZVbEhHZVNrNkFMbzlveHV1ZnZlU09Fc240UzBjbw?oc=5",
+      "snippet": "",
+      "source": "IT조선",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 00:04:30 GMT"
+    },
+    {
+      "type": "news",
+      "title": "교실서 키우고 연구실로 보내 도로까지...KIRO, ‘AI 로봇 현장화’ 판 키운다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXay1jcnhqeG80ZVBlMEFmR2ZXSUlCcjlwWVF5RzZYMGNuMTM3RG0wcjBWSWd0YXpjcFBsM1EtYV8xTzlESDlZWVZMTm5kb0NyNmxuTjdsajlJcGE3QzBV?oc=5",
       "snippet": "",
       "source": "헬로티",
       "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 15:07:55 GMT"
+      "pub_date": "Wed, 02 Sep 2026 02:36:53 GMT"
     },
     {
       "type": "news",
-      "title": "일상 파고든 물리적 AI와 로봇…IFA 시대 방향성 제시 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4QzFNWlFHV2RqMFE4Yzd0d1JxRWt4TjJ2U1Z1NzVtOUgyTVdIaTNYbVBxN0VSTEtsVnZ5UUlveHF1bW9aTXJIdVVQTjNDb0pqbHZZeHFubHhnMXBVamxBTHoyOUo?oc=5",
+      "title": "안심엘피씨, '소고기 지방 자동 제거' AI 로봇 시스템 개발 - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hUk43NW82dVNFYVBVNzZJOVBVSEU5N1dEY25jdFNMY1lsMjJBMEFvSzBxbzZmTXhHcF9ScFR2UVlJbHlMemUzZTVrZFJmV21OZXIzcWZ3b1FlbzYwNXB6bUxZSG5JZllwNXJIdA?oc=5",
       "snippet": "",
-      "source": "디지털데일리",
+      "source": "농수축산신문",
       "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 23:41:44 GMT"
+      "pub_date": "Thu, 03 Sep 2026 05:36:27 GMT"
     },
     {
       "type": "news",
-      "title": "부산대, 의료현장에 ‘피지컬 AI’ 붙인다…휴머노이드 의료로봇 센터 문 열어 - 더쎈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LZGxvZkF2VVRfV3JpUFhkZWVmYUpDTlJ6TWhrbHJ5YjZtaVZNeGVWU29oRG1Ob1VKdE84dkxiMFhHNWt5MjhuUmhrQTVIQnhRelF5d1EySEllVGVsdW1YeDgtcUlqX00?oc=5",
+      "title": "브릴스, 포스코센터에 ‘무인 바리스타 로봇 카페’ 구현··· 스마트 사옥 편의성 높인다 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UOGc3S1NfNGo0aWFoWDYwS1dBRG1DRTlrQ21aU1lfVy1PanZHU1RDQnZhYnVxNjBxc0pYYW1FdjJ5djlZYWtMM1NrYnNrTERZYWY3OXFfanZNUW1Yck1FOWczRjk1Nmc?oc=5",
       "snippet": "",
-      "source": "더쎈뉴스",
+      "source": "인공지능신문",
       "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 06:37:23 GMT"
+      "pub_date": "Thu, 03 Sep 2026 03:39:32 GMT"
     },
     {
       "type": "news",
@@ -132,12 +150,12 @@
     },
     {
       "type": "news",
-      "title": "아이엘, 휴머노이드 로봇 공급량 전월比 200% 급증…제조 산업 현장 침투 가속화 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHa01UblR6RzE4LXd2eUQ5T080NkxNNmZqZ2thazdTUkNrME1QM0hsY1pzN3VFOXp1cnZfcTR0ZjRGX0pmQk1jSE9tbTlSOFdubk44?oc=5",
+      "title": "일상 파고든 물리적 AI와 로봇…IFA 시대 방향성 제시 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4QzFNWlFHV2RqMFE4Yzd0d1JxRWt4TjJ2U1Z1NzVtOUgyTVdIaTNYbVBxN0VSTEtsVnZ5UUlveHF1bW9aTXJIdVVQTjNDb0pqbHZZeHFubHhnMXBVamxBTHoyOUo?oc=5",
       "snippet": "",
-      "source": "네이트",
+      "source": "디지털데일리",
       "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 00:18:00 GMT"
+      "pub_date": "Wed, 02 Sep 2026 23:41:44 GMT"
     },
     {
       "type": "news",
@@ -147,24 +165,6 @@
       "source": "데일리메디",
       "categories": [],
       "pub_date": "Mon, 31 Aug 2026 20:27:36 GMT"
-    },
-    {
-      "type": "news",
-      "title": "새만금개발청, 현대차 로봇공장·AIDC 연계 ‘피지컬AI’ 생태계 조성 - 기계신문",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oelFUSzZjcHRaNEFIcFhSNXhSalR2VDBvTFUzaEN4WFNaZmZYMXlqQzBydlFUU2dEMlNZUVVwWXlKUTJ3ODhYNlk4WUM1X0lMeGFfR2Iwcmw0ZWNqMzd6M1VLaXU2dw?oc=5",
-      "snippet": "",
-      "source": "기계신문",
-      "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 02:43:42 GMT"
-    },
-    {
-      "type": "news",
-      "title": "뉴빌리티, 자율주행 로봇 상용 서비스 기반 ‘공간 RFM’ 전략 팔걷었다 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NSlZ5Zzg3cWlEc0J5NGRjaVdGUExyTHVKcFlWYzRRZWJjTk9VOEpKcEUxOFVmVzZ4M1hNalZoY2NsWjJpNHUyenJlbTVFN2dsYm5qelFNNy02VkdSbW53Nm5mRER4TDY1SmxCWg?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Tue, 01 Sep 2026 02:01:43 GMT"
     }
   ]
 }
