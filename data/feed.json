@@ -1,99 +1,112 @@
 {
-  "updated_at": "2026-09-03T23:17:24Z",
+  "updated_at": "2026-09-04T04:34:30Z",
   "papers": [
     {
       "type": "paper",
-      "title": "Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration",
-      "url": "https://arxiv.org/abs/2609.01662",
-      "snippet": "For embodied systems, predictive agreement alone does not determine whether evidence warrants action; evidential origin matters. Repeated inference over one observation can multiply agreement without adding evidence,…",
+      "title": "Seeing Less Is Not Seeing Safely: Privacy Leakage from Task-Scoped Robot Perception Exports",
+      "url": "https://arxiv.org/abs/2609.03055",
+      "snippet": "Domestic robots rely on rich perception to operate in private homes, but privacy risk persists even when raw sensor data remain local. Structured representations exported to downstream planners, cloud services, logs, or…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.AI"
+        "cs.CR"
       ],
-      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "TriSAR: Task Coordination and Collision Avoidance for Aerial Robot Teams in Disaster Response",
-      "url": "https://arxiv.org/abs/2609.01731",
-      "snippet": "Multi-Unmanned Aerial Vehicle (UAV) disaster-response systems require coordinated task assignment and local trajectory control, yet the individual and combined contributions of these coordination layers to mission…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Designing Versatile Samples for Learned Trajectory Scoring",
-      "url": "https://arxiv.org/abs/2609.01799",
-      "snippet": "Many current end-to-end driving policies emit a pool of candidate trajectories and select one, which makes selection a separable component: a scorer can be retrained while the planner, its backbone, and its trajectory…",
+      "title": "GPU-Accelerated Astrodynamics World Models for Spacecraft Rendezvous and Proximity Operations",
+      "url": "https://arxiv.org/abs/2609.03067",
+      "snippet": "World models are an emerging paradigm in representation learning in which an agent jointly learns state-action dynamics and observation models from offline trajectory data, enabling multi-step planning and trajectory…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.CV"
+        "cs.SY",
+        "eess.SY"
       ],
-      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry",
-      "url": "https://arxiv.org/abs/2609.01938",
-      "snippet": "Dexterous manipulation with multi-fingered robot hands promises human-level dexterity, but collecting large-scale dexterous robot hand data remains difficult. Learning from human demonstrations has emerged as a scalable…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "MACAW: Reliable And Efficient Surgical Debridement Using Monocular Adaptive Compact Attention Windows",
-      "url": "https://arxiv.org/abs/2609.01961",
-      "snippet": "Augmenting the dexterity of human surgeons has the potential to free them from tedious subtasks. We consider debridement (removal of diseased or dead tissue fragments), which is challenging due to imprecision in spatial…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Design and Validation of a Lightweight, Low-Profile Powered Knee Prosthesis with Quasi-Direct Drive Actuation",
-      "url": "https://arxiv.org/abs/2609.02003",
-      "snippet": "Fully-powered knee prostheses, unlike traditional passive knees, can perform controlled positive work, reducing the need for compensatory behaviors by users during energy-intensive activities. While quasi-direct drive…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Real-Time Dynamics-Based Torque-Sampling MPPI for Compliant and Force Aware Manipulation",
-      "url": "https://arxiv.org/abs/2609.02020",
-      "snippet": "This study proposes a novel Model Predictive Path Integral (MPPI)-based task-space control framework. The proposed framework explicitly solves rigid-body dynamics within a real-time MPC formulation and enforces safety…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Modeling What Changes: Sparse, Residual World Models for Object-Centric Manipulation",
-      "url": "https://arxiv.org/abs/2609.02046",
-      "snippet": "Monolithic world models predict the entire next state at every step, spending capacity re-predicting the static majority of a scene and injecting error into it. We ask whether explicitly modeling change (a per-object…",
+      "title": "Sensing Which Modality Matters: Evidence-Gated Regularization for Robust VLA Policies",
+      "url": "https://arxiv.org/abs/2609.03142",
+      "snippet": "Vision-Language-Action (VLA) policies fuse multimodal sensory inputs, but training on limited and homogeneous robot demonstrations encourages spurious inter-sensor correlations rather than task-relevant signal, a…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.AI"
+        "cs.CV",
+        "cs.LG"
       ],
-      "pub_date": "Thu, 03 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Real-Time Shape Control of Multi-Segment Soft Robotic Arms Using Koopman Operators with Global and Local Observables",
+      "url": "https://arxiv.org/abs/2609.03175",
+      "snippet": "Multi-segment soft robotic arms can continuously reconfigure their body shapes for safe interaction, but tip control alone is insufficient for constrained-space tasks. Therefore, shape control is a more important task…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Following a Unique Path: A Fast Certifier Applied to Outlier-Robust Pose Registration",
+      "url": "https://arxiv.org/abs/2609.03222",
+      "snippet": "Certifiable methods have arisen as a means to guarantee global optimality of solutions to non-convex problems using convex semidefinite programming (SDP) relaxations. The most performant of these methods use a local…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving",
+      "url": "https://arxiv.org/abs/2609.03225",
+      "snippet": "End-to-end autonomous driving has increasingly adopted world model-based reinforcement learning frameworks to improve learning efficiency through \\textit{imagined rollouts}. However, existing world models suffer from…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Establishing a Dynamic Multimodal HRI Dataset for Engagement Analysis with a Humanoid Robot",
+      "url": "https://arxiv.org/abs/2609.03255",
+      "snippet": "This paper presents an experimental design for constructing a multimodal dataset to analyze user engagement in human-robot interaction (HRI). Prior studies have mainly relied on observable behavioral cues, with limited…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.03276",
+      "snippet": "Evaluating robot manipulation policies is becoming increasingly important as generalist models, particularly vision-language-action (VLA) models, are deployed on physical robots. However, conventional real-world…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
+    {
+      "type": "news",
+      "title": "성큼 다가온 피지컬 AI 시대…“의료현장 철저 준비” - 데일리메디",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSW9GZ1V6VWtDdTEtenZ4SDdEekRlMElNc0FlRnNNYXYzUE1CSnJoMV93TTNEXzAzZ1Z5bkptQk5iT3h2Y09LcUpWZ1lYLV9Tb3IzZFFwNmo1QnBUcFVHSmk0bWwydGtt?oc=5",
+      "snippet": "",
+      "source": "데일리메디",
+      "categories": [],
+      "pub_date": "Fri, 04 Sep 2026 02:49:00 GMT"
+    },
     {
       "type": "news",
       "title": "[기업 최전선을 가다-(주)피넛AI] - 로봇신문",
@@ -105,21 +118,12 @@
     },
     {
       "type": "news",
-      "title": "\"IT 넘어 제조업까지 품는다\"… 日 NEC, '물리적 AI·항공우주' 인수합병에 1.3조 엔 실탄 장전 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0ZtSWdCTTlIQTZFeEZzWFRWWHNwRnV3NTI0RzFSdUI5czEyNk5DdHVvWHRVcFlSbFlMTzM5UDR2SlZ0b3l6NzFLdm9kekxIYk5hZHZyTWhQa1NEZFVHYXd4Nk91S01kc3N1Nm5FdXRHdDl0V1JqVDEwMVZMUkJUamVVd0NlOXY2?oc=5",
+      "title": "[IFA 2026] 韓 'AI 홈' vs 中 로봇 기반 '피지컬 AI' 경연…공중 제비 시연하는 로봇 '주목' - 뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sb0xvOGVwNjlMbC1hcnEwU1VHQk9uTnM2azBkSFJ2TmVxRzRpdngtZzRNN0NNNVNmamVLMzBRMFhteEF5d3ZkU3dTMjFjR0hjNEZkVVRJV3E1b3ZjT0Rod1RoNTVGQVQ2eTg0cVFNONIBc0FVX3lxTE94LXRYdHFWOGpCamlrczhDT0FXa1A0UTFiOUczdkQxN0NBMFlyS1BFTHBqWGh3b1hILXBMMkZHYjY3UGIxOEY1elRSNlFDOUF5MTRjY19KLTBhQm5xS0ZZS19XVktCWU05MGpJa3MwaHZIVHM?oc=5",
       "snippet": "",
-      "source": "글로벌이코노믹",
+      "source": "뉴스웍스",
       "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 20:25:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[홍콩 AI 현장①] 韓 AI·피지컬AI 기업, 홍콩서 기회 찾는다 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZGV5c21adFZHa1NodjBJM2RTMU9VdV8yNVJVUnRQRTVCUm5KWG5Lb2h6TEFnbV9nTHF1NzhZVTNsWXhzYmFpZ1RrS2tfMXFRb2V4RzNuWEJGNHNnWVNYR2cySEE?oc=5",
-      "snippet": "",
-      "source": "디지털데일리",
-      "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 21:00:00 GMT"
+      "pub_date": "Fri, 04 Sep 2026 04:08:27 GMT"
     },
     {
       "type": "news",
@@ -132,39 +136,39 @@
     },
     {
       "type": "news",
-      "title": "엔비디아 이어 아마존까지...LG이노텍 로봇·자율주행용 '피지컬 AI' 센서 시장 동시 공략 - 리버티코리아포스트",
+      "title": "[홍콩 AI 현장 ①] 韓 AI·피지컬AI 기업, 홍콩서 기회 찾는다 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZGV5c21adFZHa1NodjBJM2RTMU9VdV8yNVJVUnRQRTVCUm5KWG5Lb2h6TEFnbV9nTHF1NzhZVTNsWXhzYmFpZ1RrS2tfMXFRb2V4RzNuWEJGNHNnWVNYR2cySEE?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "\"IT 넘어 제조업까지 품는다\"… 日 NEC, '물리적 AI·항공우주' 인수합병에 1.3조 엔 실탄 장전 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0ZtSWdCTTlIQTZFeEZzWFRWWHNwRnV3NTI0RzFSdUI5czEyNk5DdHVvWHRVcFlSbFlMTzM5UDR2SlZ0b3l6NzFLdm9kekxIYk5hZHZyTWhQa1NEZFVHYXd4Nk91S01kc3N1Nm5FdXRHdDl0V1JqVDEwMVZMUkJUamVVd0NlOXY2?oc=5",
+      "snippet": "",
+      "source": "글로벌이코노믹",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 20:25:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[피지컬 AI ㊿] 현대차그룹과 삼성그룹의 휴머노이드 메가 전략과 국내 생태계 활성화 - mediapia.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVbHprZ1IwY2M5MmdORW5zVmtNNmRtNWQzb0lIVWJrUWtvYjFMdk9hd1R4THJ0U3NMMzVsMVJmVXVoNkI3TXFDZUh0TkVTT0tfTU56VFd3aW5KMUFNRVZrY2xGLUJ1OVM5VU5FdQ?oc=5",
+      "snippet": "",
+      "source": "mediapia.co.kr",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 13:15:25 GMT"
+    },
+    {
+      "type": "news",
+      "title": "엔비디아 이어 아마존까지...LG이노텍 로봇·자율주행용 '피지컬 AI' 센서 시장 동시 공략 - lkp.news",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tQm9rQXB5anZrVnpJWkVqSUVHOGYzcHBRZFBXUzI0UzNic0tzMEswN1FBVmdsUGg1TzBFbDNCWldqaHQ4cUdmdkh1MUctTWZOMGFZU0plU3NyZTRfN3lKZDRENNIBZ0FVX3lxTE4wN25lSFJMU083ZXhGdWlUd2locEw1dmEtcHJ4VWZOSW9renVsbzNFS3A3LVZZLWR4Rmk4Q1hHck9EbWFFRVNEbEduWUpOQlFfQl9BMTdkWkx2S21IQlY0WU14SDVFNGM?oc=5",
       "snippet": "",
-      "source": "리버티코리아포스트",
+      "source": "lkp.news",
       "categories": [],
       "pub_date": "Thu, 03 Sep 2026 06:41:45 GMT"
-    },
-    {
-      "type": "news",
-      "title": "삼성SDS, 美서 글로벌 로봇 기업들과 피지컬 AI 현장 검증 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jS3MtUEpkUFRZM190SkVuTlpuOWdGTENiRzNzRjNsMVJvc0tVMFlwcVlhbF85V2lndGZ3YThfbGFoRWtUc0FUVGM2VEgydFg2djlrdDZuZzNzelZYZUdsZTE1U0x1N2h3VmdjQjhkdzDSAXRBVV95cUxQbVlCb01aZkUxb0czOFU4U1BkcWE0VmlWSHc4dUVOdFhpaU42cnV5eWpEZ19Cc2pLUVAyYnZKYWJiODg5STA3eThyNEhFZUxma19qWDI0VFZVbEhHZVNrNkFMbzlveHV1ZnZlU09Fc240UzBjbw?oc=5",
-      "snippet": "",
-      "source": "IT조선",
-      "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 00:04:30 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[AI픽] 삼성SDS, 삼성 공장에 '피지컬 AI' 심는다…미국서 로봇 검증 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4SGVldXJHSGpSX3V2TmkzNW5mRkVmaEplaVYzMFlxQ09OY0E3dnRHWDVoeXJrbXRoVTdEcG15VHI2RXZIT2JUaHgyekxhVGZsRGFEeDJIQ0hjZUHSAWBBVV95cUxQMnBXdFNRLW1yWGkxRzl6QXR1aGFLMVBXVm9nSUlMVEl1RlcyZ2ExbjJvWlhrZWdhbFRVT1ZNMTU0Z0w5N0JWVnExSS1MMjUtbnRrNUY3QU5VM3F6T3dHbW8?oc=5",
-      "snippet": "",
-      "source": "연합뉴스",
-      "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 23:41:13 GMT"
-    },
-    {
-      "type": "news",
-      "title": "\"로봇이 포장한 올리브영 박스\"…CJ대한통운, 휴머노이드 로봇 투입 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NTXU0Ymg5Z0dRMlZyN1dfeW55bkJQc3IwSXREczA2eUpQM1cyLW16Q1hEUVZHakx5TE11M0ZrY05vbm96ZHMwdEN1UDhyZEk?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 00:43:00 GMT"
     }
   ]
 }
