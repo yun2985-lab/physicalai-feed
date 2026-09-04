@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:18:47Z",
+  "updated_at": "2026-09-04T16:21:54Z",
   "papers": [
     {
       "type": "paper",
@@ -100,10 +100,19 @@
   "news": [
     {
       "type": "news",
-      "title": "[기업 최전선을 가다-(주)피넛AI] - irobotnews.com",
+      "title": "[특징주] 로봇주, ‘피지컬 AI’ 타고 질주…로보티즈(22.54% 상승) 등 강세 - moneystorm.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uTnZIaFdmcWVYaTJoYlZpSFFQR1RSZTlWWFJvV09DNE9yMU9qMGtPWVZ2WXB6MkRjN1VIMzhoTFllUXpDaUdqQ3hIVFUtRzJwdDZlWG5GdnYyZXI2YWZlVzZ6Y0dhWVRINHc?oc=5",
+      "snippet": "",
+      "source": "moneystorm.kr",
+      "categories": [],
+      "pub_date": "Fri, 04 Sep 2026 08:10:56 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[기업 최전선을 가다-(주)피넛AI] - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YVTI3b0ZydlpTZExyMHFZTk4tMFo2RmY1cEtWX1RXbS14YlJCU2tlVWgzckFBVGF1Y2Ixb3JwVDc2eTV3cC0ySjRKOEhlc3lJVE5XSjBtdnh0TWY3WmRLcGRvTlIwZHMzMDNONQ?oc=5",
       "snippet": "",
-      "source": "irobotnews.com",
+      "source": "로봇신문",
       "categories": [],
       "pub_date": "Fri, 04 Sep 2026 06:30:52 GMT"
     },
@@ -115,6 +124,15 @@
       "source": "데일리메디",
       "categories": [],
       "pub_date": "Fri, 04 Sep 2026 02:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "교실서 키우고 연구실로 보내 도로까지...KIRO, ‘AI 로봇 현장화’ 판 키운다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXay1jcnhqeG80ZVBlMEFmR2ZXSUlCcjlwWVF5RzZYMGNuMTM3RG0wcjBWSWd0YXpjcFBsM1EtYV8xTzlESDlZWVZMTm5kb0NyNmxuTjdsajlJcGE3QzBV?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Wed, 02 Sep 2026 02:36:53 GMT"
     },
     {
       "type": "news",
@@ -136,15 +154,6 @@
     },
     {
       "type": "news",
-      "title": "교실서 키우고 연구실로 보내 도로까지...KIRO, ‘AI 로봇 현장화’ 판 키운다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXay1jcnhqeG80ZVBlMEFmR2ZXSUlCcjlwWVF5RzZYMGNuMTM3RG0wcjBWSWd0YXpjcFBsM1EtYV8xTzlESDlZWVZMTm5kb0NyNmxuTjdsajlJcGE3QzBV?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 02:36:53 GMT"
-    },
-    {
-      "type": "news",
       "title": "피지컬 AI 혁명 시대 ― 韓·美·中 휴머노이드 경쟁 - 네이트",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHdERhY0xUX3B5Ym5vaDg1RFh3b01qb1JSUmloeVUwUDFTeEMzNTNYaWhKMHR3SzUwSFAyYmdJTDV0ZDNiOWtDbzRNTlpWaDV2czhB?oc=5",
       "snippet": "",
@@ -154,21 +163,12 @@
     },
     {
       "type": "news",
-      "title": "\"IT 넘어 제조업까지 품는다\"… 日 NEC, '물리적 AI·항공우주' 인수합병에 1.3조 엔 실탄 장전 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0ZtSWdCTTlIQTZFeEZzWFRWWHNwRnV3NTI0RzFSdUI5czEyNk5DdHVvWHRVcFlSbFlMTzM5UDR2SlZ0b3l6NzFLdm9kekxIYk5hZHZyTWhQa1NEZFVHYXd4Nk91S01kc3N1Nm5FdXRHdDl0V1JqVDEwMVZMUkJUamVVd0NlOXY2?oc=5",
+      "title": "삼성SDS, 美서 글로벌 로봇 기업들과 피지컬 AI 현장 검증 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWUJvTVpmRTFvRzM4VThTUGRxYTRWaVZIdzh1RU50WGlpTjZydXl5akRnX0JzaktRUDJidkphYmI4ODlJMDd5OHI0SEVlTGZrX2pYMjRUVlVsSEdlU2s2QUxvOW94dXVmdmVTT0VzbjRTMGNv0gF0QVVfeXFMUG1ZQm9NWmZFMW9HMzhVOFNQZHFhNFZpVkh3OHVFTnRYaWlONnJ1eXlqRGdfQnNqS1FQMmJ2SmFiYjg4OUkwN3k4cjRIRWVMZmtfalgyNFRWVWxIR2VTazZBTG85b3h1dWZ2ZVNPRXNuNFMwY28?oc=5",
       "snippet": "",
-      "source": "글로벌이코노믹",
+      "source": "IT조선",
       "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 20:25:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[홍콩 AI 현장 ①] 韓 AI·피지컬AI 기업, 홍콩서 기회 찾는다 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZGV5c21adFZHa1NodjBJM2RTMU9VdV8yNVJVUnRQRTVCUm5KWG5Lb2h6TEFnbV9nTHF1NzhZVTNsWXhzYmFpZ1RrS2tfMXFRb2V4RzNuWEJGNHNnWVNYR2cySEE?oc=5",
-      "snippet": "",
-      "source": "디지털데일리",
-      "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 21:00:00 GMT"
+      "pub_date": "Thu, 03 Sep 2026 01:17:18 GMT"
     }
   ]
 }
