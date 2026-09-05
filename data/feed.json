@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T04:30:23Z",
+  "updated_at": "2026-09-05T10:36:22Z",
   "papers": [],
   "news": [
     {
@@ -22,15 +22,6 @@
     },
     {
       "type": "news",
-      "title": "[기업 최전선을 가다-(주)피넛AI] - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YVTI3b0ZydlpTZExyMHFZTk4tMFo2RmY1cEtWX1RXbS14YlJCU2tlVWgzckFBVGF1Y2Ixb3JwVDc2eTV3cC0ySjRKOEhlc3lJVE5XSjBtdnh0TWY3WmRLcGRvTlIwZHMzMDNONQ?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 06:30:52 GMT"
-    },
-    {
-      "type": "news",
       "title": "피지컬 AI·휴머노이드주에 올라탈까… 로보티즈·유진로봇 주가 '신바람' - 핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxcloyaGt1akVxSkJGWF9TN181eDN4TkVTM25TeGFnTjVQemt0MkVIbUVCc1EwUnVocjNCUnNwX2c1V2ZyR2VZcWljTTBMNTFYNmIyR2g3ZFVnSXg1U2Vnd1dRTGtvYkxPSHNZOGlQV3U2LTJBb3ln0gF3QVVfeXFMUDFyWjJoa3VqRXFKQkZYX1M3XzV4M3hORVMzblN4YWdONVB6a3QyRUhtRUJzUTBSdWhyM0JSc3BfZzVXZnJHZVlxaWNNMEw1MVg2YjJHaDdkVWdJeDVTZWd3V1FMa29iTE9Ic1k4aVBXdTYtMkFveWc?oc=5",
       "snippet": "",
@@ -40,12 +31,12 @@
     },
     {
       "type": "news",
-      "title": "[AI Innovation 2026 ③] 韓, '피지컬 AI'에 초일류 제조강국 명운 달렸다 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rR2tMT0VMVU5oaXVBc3dlV3lWYjNYaXg3OFMwQXRjMnZiVU9SeE9PTmljbVo4VkktLWJUU25VeG5NbWMzaGh3NW10c25acWlSUnBn?oc=5",
+      "title": "[기업 최전선을 가다-(주)피넛AI] - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YVTI3b0ZydlpTZExyMHFZTk4tMFo2RmY1cEtWX1RXbS14YlJCU2tlVWgzckFBVGF1Y2Ixb3JwVDc2eTV3cC0ySjRKOEhlc3lJVE5XSjBtdnh0TWY3WmRLcGRvTlIwZHMzMDNONQ?oc=5",
       "snippet": "",
-      "source": "네이트",
+      "source": "로봇신문",
       "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 21:01:34 GMT"
+      "pub_date": "Fri, 04 Sep 2026 06:30:52 GMT"
     },
     {
       "type": "news",
@@ -64,6 +55,15 @@
       "source": "데일리메디",
       "categories": [],
       "pub_date": "Fri, 04 Sep 2026 02:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[AI Innovation 2026 ③] 韓, '피지컬 AI'에 초일류 제조강국 명운 달렸다 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rR2tMT0VMVU5oaXVBc3dlV3lWYjNYaXg3OFMwQXRjMnZiVU9SeE9PTmljbVo4VkktLWJUU25VeG5NbWMzaGh3NW10c25acWlSUnBn?oc=5",
+      "snippet": "",
+      "source": "네이트",
+      "categories": [],
+      "pub_date": "Fri, 04 Sep 2026 21:01:34 GMT"
     },
     {
       "type": "news",
