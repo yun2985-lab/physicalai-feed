@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-05T17:21:03Z",
+  "updated_at": "2026-09-05T20:21:29Z",
   "papers": [],
   "news": [
     {
       "type": "news",
-      "title": "피지컬 AI 기반 비정형 로봇 자동화 파트너십 나왔다 - 헬로티",
+      "title": "피지컬 AI 기반 비정형 로봇 자동화 파트너십 나왔다 - hellot.net",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JQjgwTDl2RXFyMWtOYjFOdGQ1MHVGUk9WYm10QjAzT3l5eGVmTXBWVEM2MTBza0x1Z0tSYVZJTDBDU2ttYVJLUDNGME9Xa3cwREg1LWR5cXNiUnVNWXpR?oc=5",
       "snippet": "",
-      "source": "헬로티",
+      "source": "hellot.net",
       "categories": [],
       "pub_date": "Sat, 05 Sep 2026 03:59:10 GMT"
     },
@@ -50,20 +50,11 @@
     {
       "type": "news",
       "title": "삼성SDS, 美서 글로벌 로봇 기업들과 피지컬 AI 현장 검증 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWUJvTVpmRTFvRzM4VThTUGRxYTRWaVZIdzh1RU50WGlpTjZydXl5akRnX0JzaktRUDJidkphYmI4ODlJMDd5OHI0SEVlTGZrX2pYMjRUVlVsSEdlU2s2QUxvOW94dXVmdmVTT0VzbjRTMGNv0gF0QVVfeXFMUG1ZQm9NWmZFMW9HMzhVOFNQZHFhNFZpVkh3OHVFTnRYaWlONnJ1eXlqRGdfQnNqS1FQMmJ2SmFiYjg4OUkwN3k4cjRIRWVMZmtfalgyNFRWVWxIR2VTazZBTG85b3h1dWZ2ZVNPRXNuNFMwY28?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jS3MtUEpkUFRZM190SkVuTlpuOWdGTENiRzNzRjNsMVJvc0tVMFlwcVlhbF85V2lndGZ3YThfbGFoRWtUc0FUVGM2VEgydFg2djlrdDZuZzNzelZYZUdsZTE1U0x1N2h3VmdjQjhkdzDSAXRBVV95cUxQbVlCb01aZkUxb0czOFU4U1BkcWE0VmlWSHc4dUVOdFhpaU42cnV5eWpEZ19Cc2pLUVAyYnZKYWJiODg5STA3eThyNEhFZUxma19qWDI0VFZVbEhHZVNrNkFMbzlveHV1ZnZlU09Fc240UzBjbw?oc=5",
       "snippet": "",
       "source": "IT조선",
       "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 01:17:18 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[기고] 전북의 피지컬 AI와 태권도를 결합, ‘태권AI 메카’로 - 뉴스비전e",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CY200VFVZeTllNHdUNUhEM2ZWUE5NRHR5VWZFV2tyTGVGaEpnMTd2UE12WHVCZ2pjWi1STTZ0aGJFSUtzN1V4LXVfX2laT0UwWEJWWVpJZFlJUmVKS0F6Ty01VXhFdw?oc=5",
-      "snippet": "",
-      "source": "뉴스비전e",
-      "categories": [],
-      "pub_date": "Sat, 05 Sep 2026 11:01:31 GMT"
+      "pub_date": "Thu, 03 Sep 2026 00:04:30 GMT"
     },
     {
       "type": "news",
@@ -73,6 +64,15 @@
       "source": "데일리메디",
       "categories": [],
       "pub_date": "Fri, 04 Sep 2026 02:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "엔비디아 이어 아마존까지...LG이노텍 로봇·자율주행용 '피지컬 AI' 센서 시장 동시 공략 - 리버티코리아포스트",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tQm9rQXB5anZrVnpJWkVqSUVHOGYzcHBRZFBXUzI0UzNic0tzMEswN1FBVmdsUGg1TzBFbDNCWldqaHQ4cUdmdkh1MUctTWZOMGFZU0plU3NyZTRfN3lKZDRENNIBZ0FVX3lxTE4wN25lSFJMU083ZXhGdWlUd2locEw1dmEtcHJ4VWZOSW9renVsbzNFS3A3LVZZLWR4Rmk4Q1hHck9EbWFFRVNEbEduWUpOQlFfQl9BMTdkWkx2S21IQlY0WU14SDVFNGM?oc=5",
+      "snippet": "",
+      "source": "리버티코리아포스트",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 06:41:45 GMT"
     }
   ]
 }
