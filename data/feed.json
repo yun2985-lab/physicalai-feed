@@ -1,103 +1,16 @@
 {
-  "updated_at": "2026-09-04T23:03:14Z",
-  "papers": [
-    {
-      "type": "paper",
-      "title": "Seeing Less Is Not Seeing Safely: Privacy Leakage from Task-Scoped Robot Perception Exports",
-      "url": "https://arxiv.org/abs/2609.03055",
-      "snippet": "Domestic robots rely on rich perception to operate in private homes, but privacy risk persists even when raw sensor data remain local. Structured representations exported to downstream planners, cloud services, logs, or…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CR"
-      ],
-      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "GPU-Accelerated Astrodynamics World Models for Spacecraft Rendezvous and Proximity Operations",
-      "url": "https://arxiv.org/abs/2609.03067",
-      "snippet": "World models are an emerging paradigm in representation learning in which an agent jointly learns state-action dynamics and observation models from offline trajectory data, enabling multi-step planning and trajectory…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.SY",
-        "eess.SY"
-      ],
-      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Sensing Which Modality Matters: Evidence-Gated Regularization for Robust VLA Policies",
-      "url": "https://arxiv.org/abs/2609.03142",
-      "snippet": "Vision-Language-Action (VLA) policies fuse multimodal sensory inputs, but training on limited and homogeneous robot demonstrations encourages spurious inter-sensor correlations rather than task-relevant signal, a…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV",
-        "cs.LG"
-      ],
-      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Real-Time Shape Control of Multi-Segment Soft Robotic Arms Using Koopman Operators with Global and Local Observables",
-      "url": "https://arxiv.org/abs/2609.03175",
-      "snippet": "Multi-segment soft robotic arms can continuously reconfigure their body shapes for safe interaction, but tip control alone is insufficient for constrained-space tasks. Therefore, shape control is a more important task…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.SY",
-        "eess.SY"
-      ],
-      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Following a Unique Path: A Fast Certifier Applied to Outlier-Robust Pose Registration",
-      "url": "https://arxiv.org/abs/2609.03222",
-      "snippet": "Certifiable methods have arisen as a means to guarantee global optimality of solutions to non-convex problems using convex semidefinite programming (SDP) relaxations. The most performant of these methods use a local…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving",
-      "url": "https://arxiv.org/abs/2609.03225",
-      "snippet": "End-to-end autonomous driving has increasingly adopted world model-based reinforcement learning frameworks to improve learning efficiency through \\textit{imagined rollouts}. However, existing world models suffer from…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Establishing a Dynamic Multimodal HRI Dataset for Engagement Analysis with a Humanoid Robot",
-      "url": "https://arxiv.org/abs/2609.03255",
-      "snippet": "This paper presents an experimental design for constructing a multimodal dataset to analyze user engagement in human-robot interaction (HRI). Prior studies have mainly relied on observable behavioral cues, with limited…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models",
-      "url": "https://arxiv.org/abs/2609.03276",
-      "snippet": "Evaluating robot manipulation policies is becoming increasingly important as generalist models, particularly vision-language-action (VLA) models, are deployed on physical robots. However, conventional real-world…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 04 Sep 2026 00:00:00 -0400"
-    }
-  ],
+  "updated_at": "2026-09-05T04:30:23Z",
+  "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "피지컬 AI 기반 비정형 로봇 자동화 파트너십 나왔다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JQjgwTDl2RXFyMWtOYjFOdGQ1MHVGUk9WYm10QjAzT3l5eGVmTXBWVEM2MTBza0x1Z0tSYVZJTDBDU2ttYVJLUDNGME9Xa3cwREg1LWR5cXNiUnVNWXpR?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Sat, 05 Sep 2026 03:59:10 GMT"
+    },
     {
       "type": "news",
       "title": "[특징주] 로봇주, ‘피지컬 AI’ 타고 질주…로보티즈(22.54% 상승) 등 강세 - moneystorm.kr",
@@ -118,21 +31,12 @@
     },
     {
       "type": "news",
-      "title": "교실서 키우고 연구실로 보내 도로까지...KIRO, ‘AI 로봇 현장화’ 판 키운다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXay1jcnhqeG80ZVBlMEFmR2ZXSUlCcjlwWVF5RzZYMGNuMTM3RG0wcjBWSWd0YXpjcFBsM1EtYV8xTzlESDlZWVZMTm5kb0NyNmxuTjdsajlJcGE3QzBV?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Wed, 02 Sep 2026 02:36:53 GMT"
-    },
-    {
-      "type": "news",
       "title": "피지컬 AI·휴머노이드주에 올라탈까… 로보티즈·유진로봇 주가 '신바람' - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRRG10TGR0WFZUMVJGNXRVYWRDOHBxbE1qemVtTTh6VUJyaTlEYU9vZWk2TEtfazd3UTNYdmlnVTVyWl9oVHZtTU91QWNTM09NOU1ldnZpNlA1ZDR5THRTckg4YzJYQTdoZGFsTTBLRFNId3PSAXdBVV95cUxQMXJaMmhrdWpFcUpCRlhfUzdfNXgzeE5FUzNuU3hhZ041UHprdDJFSG1FQnNRMFJ1aHIzQlJzcF9nNVdmckdlWXFpY00wTDUxWDZiMkdoN2RVZ0l4NVNlZ3dXUUxrb2JMT0hzWThpUFd1Ni0yQW95Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxcloyaGt1akVxSkJGWF9TN181eDN4TkVTM25TeGFnTjVQemt0MkVIbUVCc1EwUnVocjNCUnNwX2c1V2ZyR2VZcWljTTBMNTFYNmIyR2g3ZFVnSXg1U2Vnd1dRTGtvYkxPSHNZOGlQV3U2LTJBb3ln0gF3QVVfeXFMUDFyWjJoa3VqRXFKQkZYX1M3XzV4M3hORVMzblN4YWdONVB6a3QyRUhtRUJzUTBSdWhyM0JSc3BfZzVXZnJHZVlxaWNNMEw1MVg2YjJHaDdkVWdJeDVTZWd3V1FMa29iTE9Ic1k4aVBXdTYtMkFveWc?oc=5",
       "snippet": "",
       "source": "핀포인트뉴스",
       "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 05:09:52 GMT"
+      "pub_date": "Fri, 04 Sep 2026 05:45:10 GMT"
     },
     {
       "type": "news",
@@ -145,30 +49,30 @@
     },
     {
       "type": "news",
-      "title": "성큼 다가온 피지컬 AI 시대…“의료현장 철저 준비” - dailymedi.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSW9GZ1V6VWtDdTEtenZ4SDdEekRlMElNc0FlRnNNYXYzUE1CSnJoMV93TTNEXzAzZ1Z5bkptQk5iT3h2Y09LcUpWZ1lYLV9Tb3IzZFFwNmo1QnBUcFVHSmk0bWwydGtt?oc=5",
-      "snippet": "",
-      "source": "dailymedi.com",
-      "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 02:49:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "삼성SDS, 美서 글로벌 로봇 기업들과 피지컬 AI 현장 검증 - it.chosun.com",
+      "title": "삼성SDS, 美서 글로벌 로봇 기업들과 피지컬 AI 현장 검증 - IT조선",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWUJvTVpmRTFvRzM4VThTUGRxYTRWaVZIdzh1RU50WGlpTjZydXl5akRnX0JzaktRUDJidkphYmI4ODlJMDd5OHI0SEVlTGZrX2pYMjRUVlVsSEdlU2s2QUxvOW94dXVmdmVTT0VzbjRTMGNv0gF0QVVfeXFMUG1ZQm9NWmZFMW9HMzhVOFNQZHFhNFZpVkh3OHVFTnRYaWlONnJ1eXlqRGdfQnNqS1FQMmJ2SmFiYjg4OUkwN3k4cjRIRWVMZmtfalgyNFRWVWxIR2VTazZBTG85b3h1dWZ2ZVNPRXNuNFMwY28?oc=5",
       "snippet": "",
-      "source": "it.chosun.com",
+      "source": "IT조선",
       "categories": [],
       "pub_date": "Thu, 03 Sep 2026 01:17:18 GMT"
     },
     {
       "type": "news",
-      "title": "[IFA 2026] 韓 'AI 홈' vs 中 로봇 기반 '피지컬 AI' 경연…공중 제비 시연하는 로봇 '주목' - 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94LXRYdHFWOGpCamlrczhDT0FXa1A0UTFiOUczdkQxN0NBMFlyS1BFTHBqWGh3b1hILXBMMkZHYjY3UGIxOEY1elRSNlFDOUF5MTRjY19KLTBhQm5xS0ZZS19XVktCWU05MGpJa3MwaHZIVHPSAXNBVV95cUxPeC10WHRxVjhqQmppa3M4Q09BV2tQNFExYjlHM3ZEMTdDQTBZcktQRUxwalhod29YSC1wTDJGR2I2N1BiMThGNXpUUjZRQzlBeTE0Y2NfSi0wYUJucUtGWUtfV1ZLQllNOTBqSWtzMGh2SFRz?oc=5",
+      "title": "성큼 다가온 피지컬 AI 시대…“의료현장 철저 준비” - 데일리메디",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSW9GZ1V6VWtDdTEtenZ4SDdEekRlMElNc0FlRnNNYXYzUE1CSnJoMV93TTNEXzAzZ1Z5bkptQk5iT3h2Y09LcUpWZ1lYLV9Tb3IzZFFwNmo1QnBUcFVHSmk0bWwydGtt?oc=5",
       "snippet": "",
-      "source": "뉴스웍스",
+      "source": "데일리메디",
       "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 04:24:43 GMT"
+      "pub_date": "Fri, 04 Sep 2026 02:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "엔비디아 이어 아마존까지...LG이노텍 로봇·자율주행용 '피지컬 AI' 센서 시장 동시 공략 - 리버티코리아포스트",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tQm9rQXB5anZrVnpJWkVqSUVHOGYzcHBRZFBXUzI0UzNic0tzMEswN1FBVmdsUGg1TzBFbDNCWldqaHQ4cUdmdkh1MUctTWZOMGFZU0plU3NyZTRfN3lKZDRENNIBZ0FVX3lxTE4wN25lSFJMU083ZXhGdWlUd2locEw1dmEtcHJ4VWZOSW9renVsbzNFS3A3LVZZLWR4Rmk4Q1hHck9EbWFFRVNEbEduWUpOQlFfQl9BMTdkWkx2S21IQlY0WU14SDVFNGM?oc=5",
+      "snippet": "",
+      "source": "리버티코리아포스트",
+      "categories": [],
+      "pub_date": "Thu, 03 Sep 2026 06:41:45 GMT"
     }
   ]
 }
