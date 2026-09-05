@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T15:14:44Z",
+  "updated_at": "2026-09-05T17:21:03Z",
   "papers": [],
   "news": [
     {
@@ -10,6 +10,15 @@
       "source": "헬로티",
       "categories": [],
       "pub_date": "Sat, 05 Sep 2026 03:59:10 GMT"
+    },
+    {
+      "type": "news",
+      "title": "피지컬 AI 시대, ‘로봇’보다 데이터·현장·제도 준비가 먼저 - 산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LQm45dDV6UDc3Tk1NMUFsWXhRY1Y2cXp6Z1N6UW9ESmdvWjZhTVhwanBSSW1JTDItWEw1ZUE1TElHMnZO?oc=5",
+      "snippet": "",
+      "source": "산업일보",
+      "categories": [],
+      "pub_date": "Fri, 04 Sep 2026 08:13:37 GMT"
     },
     {
       "type": "news",
@@ -58,21 +67,12 @@
     },
     {
       "type": "news",
-      "title": "성큼 다가온 피지컬 AI 시대…“의료현장 철저 준비” - dailymedi.com",
+      "title": "성큼 다가온 피지컬 AI 시대…“의료현장 철저 준비” - 데일리메디",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSW9GZ1V6VWtDdTEtenZ4SDdEekRlMElNc0FlRnNNYXYzUE1CSnJoMV93TTNEXzAzZ1Z5bkptQk5iT3h2Y09LcUpWZ1lYLV9Tb3IzZFFwNmo1QnBUcFVHSmk0bWwydGtt?oc=5",
       "snippet": "",
-      "source": "dailymedi.com",
+      "source": "데일리메디",
       "categories": [],
       "pub_date": "Fri, 04 Sep 2026 02:49:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "엔비디아 이어 아마존까지...LG이노텍 로봇·자율주행용 '피지컬 AI' 센서 시장 동시 공략 - 리버티코리아포스트",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tQm9rQXB5anZrVnpJWkVqSUVHOGYzcHBRZFBXUzI0UzNic0tzMEswN1FBVmdsUGg1TzBFbDNCWldqaHQ4cUdmdkh1MUctTWZOMGFZU0plU3NyZTRfN3lKZDRENNIBZ0FVX3lxTE4wN25lSFJMU083ZXhGdWlUd2locEw1dmEtcHJ4VWZOSW9renVsbzNFS3A3LVZZLWR4Rmk4Q1hHck9EbWFFRVNEbEduWUpOQlFfQl9BMTdkWkx2S21IQlY0WU14SDVFNGM?oc=5",
-      "snippet": "",
-      "source": "리버티코리아포스트",
-      "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 06:41:45 GMT"
     }
   ]
 }
