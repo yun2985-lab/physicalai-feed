@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-09-05T22:55:01Z",
+  "updated_at": "2026-09-06T04:39:56Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "경기도, 청소년 'AI 페스티벌' 개최…피지컬 AI 체험 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNjl1MG1sVFR6a2ZMZGFfZjRZTUdMeWlqTW5fdlVLeWtBLW5iMTc5S0lMWThVZnNid1RyUHJiM2w3WEFsczlwVmdtZjJCNDZ4WktEdzhCQlp5REJldGRtRDdQWG5mbXI0MHZRaThWcTI?oc=5",
+      "snippet": "",
+      "source": "신아일보",
+      "categories": [],
+      "pub_date": "Sun, 06 Sep 2026 03:29:06 GMT"
+    },
+    {
+      "type": "news",
+      "title": "“백플립부터 축구까지”…IFA 2026 무대 장악한 휴머노이드 로봇 - 뉴스탭",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bVpnc0pudDdzbzZyUVdXVW1mUXR3WENKU1VBeE5UQjk5MkJUcEdCdTdwa1htUk93c21TZE9pcHR3Nk1KN1BoMDlmMDR4cjJmRmpGVjM0dHM1VVptN2ptdXhGVVB5Yk1hckJ5Rg?oc=5",
+      "snippet": "",
+      "source": "뉴스탭",
+      "categories": [],
+      "pub_date": "Sat, 05 Sep 2026 23:17:57 GMT"
+    },
+    {
+      "type": "news",
+      "title": "대기업들 로봇 도입 나섰다…PwC, 피지컬 AI 컨설팅 런칭 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdWNFX1RtOW5wRGJGZlNLcGdlZl96cVZiNFVxTXJicVU3Y1pXUGVSejVnSndUM2QtYnJ3TjJkYUh2d3gyQk1VcDhQMG5YS2FjT3AxM0liS2N5WTVEQjVZYm05b3pWM1FKdGxrYUxCWERKLW1VZ1gzaUdZWVRLV3hVRHJjeTJwTG8?oc=5",
+      "snippet": "",
+      "source": "글로벌이코노믹",
+      "categories": [],
+      "pub_date": "Sun, 06 Sep 2026 02:38:35 GMT"
+    },
+    {
+      "type": "news",
+      "title": "경과원, 청소년 2000명과 ‘AI 미래체험’…쯔양도 피지컬 AI 체험 - beyondpost.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wSGFVQ29GWS1qajR4dlNkNlRJTnFjV2VObGd6MlVwRlM3c0o3TWFsUVpDcXRfNWRZRkRfRmJsTVVwQmVYNE41cXIxZGpndUFEbE9KelUyTzVIY1hQUEhNWjRXS1ZKaDVXMUNQUnBwX0xDZ2l4NDhZVjZrVW4?oc=5",
+      "snippet": "",
+      "source": "beyondpost.co.kr",
+      "categories": [],
+      "pub_date": "Sun, 06 Sep 2026 00:14:09 GMT"
+    },
+    {
+      "type": "news",
+      "title": "경과원, AI를 '화면 밖 현실'로…청소년 2000명·쯔양이 만난 피지컬 AI - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pN0JDdFY3LTNwdjJncFRlWFpacU1kRDlZdjhqNmJWc3ZiNXNYQ0xtUGxTUHBXdFZyaU8yN0tBT3FZTzlESlJ2WU0wekNlOEdmVzBZ?oc=5",
+      "snippet": "",
+      "source": "news.nate.com",
+      "categories": [],
+      "pub_date": "Sun, 06 Sep 2026 00:50:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[IFA 2026] 런웨이 넘어 주방·축구장까지…IFA, ‘피지컬 AI’ 키운다 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81QlRpMGFMYWNVbXJWa3ZMYXRrVXN5Ty1mVnFabnRYcmRPQjBtdHNuSmUzaTdWNW8tUjhpWFBGZ2l5YUllYWUyeVFyLUFzWEtzU09qR3RXekZzWW9FZHpGVDRINGY?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Sat, 05 Sep 2026 23:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "상상이 현실이 되는 AI숲⋯‘2026년 경기SW미래채움 AI페스티벌’ 성료 - 기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sTkxBUjgwRTg1OC1wZEVsTzdoamg3anlQZzZVbnQxSU16eHRFNnNuYWt6dUJZUkRCMU1pYi1yNWg2ZnEwczZQWUZaQmljZm9fSDAtX3dCenBtSXgyeWRZMk1SLWdNNGVCdHZMNUo0NA?oc=5",
+      "snippet": "",
+      "source": "기호일보",
+      "categories": [],
+      "pub_date": "Sun, 06 Sep 2026 01:57:04 GMT"
+    },
     {
       "type": "news",
       "title": "피지컬 AI 기반 비정형 로봇 자동화 파트너십 나왔다 - 헬로티",
@@ -10,69 +73,6 @@
       "source": "헬로티",
       "categories": [],
       "pub_date": "Sat, 05 Sep 2026 03:59:10 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI 시대, ‘로봇’보다 데이터·현장·제도 준비가 먼저 - 산업일보",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LQm45dDV6UDc3Tk1NMUFsWXhRY1Y2cXp6Z1N6UW9ESmdvWjZhTVhwanBSSW1JTDItWEw1ZUE1TElHMnZO?oc=5",
-      "snippet": "",
-      "source": "산업일보",
-      "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 08:13:37 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[특징주] 로봇주, ‘피지컬 AI’ 타고 질주…로보티즈(22.54% 상승) 등 강세 - moneystorm.kr",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uTnZIaFdmcWVYaTJoYlZpSFFQR1RSZTlWWFJvV09DNE9yMU9qMGtPWVZ2WXB6MkRjN1VIMzhoTFllUXpDaUdqQ3hIVFUtRzJwdDZlWG5GdnYyZXI2YWZlVzZ6Y0dhWVRINHc?oc=5",
-      "snippet": "",
-      "source": "moneystorm.kr",
-      "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 08:10:56 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI·휴머노이드주에 올라탈까… 로보티즈·유진로봇 주가 '신바람' - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxcloyaGt1akVxSkJGWF9TN181eDN4TkVTM25TeGFnTjVQemt0MkVIbUVCc1EwUnVocjNCUnNwX2c1V2ZyR2VZcWljTTBMNTFYNmIyR2g3ZFVnSXg1U2Vnd1dRTGtvYkxPSHNZOGlQV3U2LTJBb3ln0gF3QVVfeXFMUDFyWjJoa3VqRXFKQkZYX1M3XzV4M3hORVMzblN4YWdONVB6a3QyRUhtRUJzUTBSdWhyM0JSc3BfZzVXZnJHZVlxaWNNMEw1MVg2YjJHaDdkVWdJeDVTZWd3V1FMa29iTE9Ic1k4aVBXdTYtMkFveWc?oc=5",
-      "snippet": "",
-      "source": "핀포인트뉴스",
-      "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 05:45:10 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[기업 최전선을 가다-(주)피넛AI] - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YVTI3b0ZydlpTZExyMHFZTk4tMFo2RmY1cEtWX1RXbS14YlJCU2tlVWgzckFBVGF1Y2Ixb3JwVDc2eTV3cC0ySjRKOEhlc3lJVE5XSjBtdnh0TWY3WmRLcGRvTlIwZHMzMDNONQ?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 06:30:52 GMT"
-    },
-    {
-      "type": "news",
-      "title": "삼성SDS, 美서 글로벌 로봇 기업들과 피지컬 AI 현장 검증 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jS3MtUEpkUFRZM190SkVuTlpuOWdGTENiRzNzRjNsMVJvc0tVMFlwcVlhbF85V2lndGZ3YThfbGFoRWtUc0FUVGM2VEgydFg2djlrdDZuZzNzelZYZUdsZTE1U0x1N2h3VmdjQjhkdzDSAXRBVV95cUxQbVlCb01aZkUxb0czOFU4U1BkcWE0VmlWSHc4dUVOdFhpaU42cnV5eWpEZ19Cc2pLUVAyYnZKYWJiODg5STA3eThyNEhFZUxma19qWDI0VFZVbEhHZVNrNkFMbzlveHV1ZnZlU09Fc240UzBjbw?oc=5",
-      "snippet": "",
-      "source": "IT조선",
-      "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 00:04:30 GMT"
-    },
-    {
-      "type": "news",
-      "title": "성큼 다가온 피지컬 AI 시대…“의료현장 철저 준비” - 데일리메디",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSW9GZ1V6VWtDdTEtenZ4SDdEekRlMElNc0FlRnNNYXYzUE1CSnJoMV93TTNEXzAzZ1Z5bkptQk5iT3h2Y09LcUpWZ1lYLV9Tb3IzZFFwNmo1QnBUcFVHSmk0bWwydGtt?oc=5",
-      "snippet": "",
-      "source": "데일리메디",
-      "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 02:49:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "엔비디아 이어 아마존까지...LG이노텍 로봇·자율주행용 '피지컬 AI' 센서 시장 동시 공략 - 리버티코리아포스트",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tQm9rQXB5anZrVnpJWkVqSUVHOGYzcHBRZFBXUzI0UzNic0tzMEswN1FBVmdsUGg1TzBFbDNCWldqaHQ4cUdmdkh1MUctTWZOMGFZU0plU3NyZTRfN3lKZDRENNIBZ0FVX3lxTE4wN25lSFJMU083ZXhGdWlUd2locEw1dmEtcHJ4VWZOSW9renVsbzNFS3A3LVZZLWR4Rmk4Q1hHck9EbWFFRVNEbEduWUpOQlFfQl9BMTdkWkx2S21IQlY0WU14SDVFNGM?oc=5",
-      "snippet": "",
-      "source": "리버티코리아포스트",
-      "categories": [],
-      "pub_date": "Thu, 03 Sep 2026 06:41:45 GMT"
     }
   ]
 }
