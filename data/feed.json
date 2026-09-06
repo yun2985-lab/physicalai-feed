@@ -1,24 +1,42 @@
 {
-  "updated_at": "2026-09-06T10:57:42Z",
+  "updated_at": "2026-09-06T15:28:34Z",
   "papers": [],
   "news": [
     {
       "type": "news",
-      "title": "대기업들 로봇 도입 나섰다…PwC, 피지컬 AI 컨설팅 런칭 - g-enews.com",
+      "title": "경과원, 경기 청소년 2000명과 ‘피지컬 AI’ 체험… 휴머노이드·자율주행 한자리 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPTVNOOE9YNkhHOUMxVVZqLTlGNEtKVVZvbmJvdGl5a3RoNHhod0tBcmR5bjdzQUdNbkNOVjlWd0RyX1YyTGg5SExobTFYVG9haGFhZm9VOEtMSUlvSUNPV2pXaHJ3UUxrcFE?oc=5",
+      "snippet": "",
+      "source": "천지일보",
+      "categories": [],
+      "pub_date": "Sun, 06 Sep 2026 11:37:25 GMT"
+    },
+    {
+      "type": "news",
+      "title": "대기업들 로봇 도입 나섰다…PwC, 피지컬 AI 컨설팅 런칭 - 글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdWNFX1RtOW5wRGJGZlNLcGdlZl96cVZiNFVxTXJicVU3Y1pXUGVSejVnSndUM2QtYnJ3TjJkYUh2d3gyQk1VcDhQMG5YS2FjT3AxM0liS2N5WTVEQjVZYm05b3pWM1FKdGxrYUxCWERKLW1VZ1gzaUdZWVRLV3hVRHJjeTJwTG8?oc=5",
       "snippet": "",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "categories": [],
       "pub_date": "Sun, 06 Sep 2026 02:38:35 GMT"
     },
     {
       "type": "news",
-      "title": "“백플립부터 축구까지”…IFA 2026 무대 장악한 휴머노이드 로봇 - 뉴스탭",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bVpnc0pudDdzbzZyUVdXVW1mUXR3WENKU1VBeE5UQjk5MkJUcEdCdTdwa1htUk93c21TZE9pcHR3Nk1KN1BoMDlmMDR4cjJmRmpGVjM0dHM1VVptN2ptdXhGVVB5Yk1hckJ5Rg?oc=5",
+      "title": "국제로봇올림피아드 본선 열전···KAIST 들썩인 '로봇 꿈나무' 향연 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RMUM4RG9BMEFiSVVNd0lBa1FqbzFmNFRMV0loVnhjSUpDYThQa0N2bW8xWVRzczM2a18wNkhoanNhcWp0bWQyb19LU3p6R2tpb2VGSDM4ZXhHM1VHTklCd1I5QzQzb1RsN2c?oc=5",
       "snippet": "",
-      "source": "뉴스탭",
+      "source": "헬로디디",
       "categories": [],
-      "pub_date": "Sat, 05 Sep 2026 23:17:57 GMT"
+      "pub_date": "Sun, 06 Sep 2026 08:45:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "쯔양도 체험한 '피지컬 AI'…경과원, 청소년 AI축제 - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83ek9rTExVWmtYLUJKWGFMYW9BS3g1VXhuZ1hyRlFFWmFGUHowb3ZwOW11eV9wRFJHZ0dBNmtlVGtJSmpQZEx6OWNSWXdBSzA5NXZj?oc=5",
+      "snippet": "",
+      "source": "news.nate.com",
+      "categories": [],
+      "pub_date": "Sun, 06 Sep 2026 11:25:00 GMT"
     },
     {
       "type": "news",
@@ -31,6 +49,15 @@
     },
     {
       "type": "news",
+      "title": "“백플립부터 축구까지”…IFA 2026 무대 장악한 휴머노이드 로봇 - 뉴스탭",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bVpnc0pudDdzbzZyUVdXVW1mUXR3WENKU1VBeE5UQjk5MkJUcEdCdTdwa1htUk93c21TZE9pcHR3Nk1KN1BoMDlmMDR4cjJmRmpGVjM0dHM1VVptN2ptdXhGVVB5Yk1hckJ5Rg?oc=5",
+      "snippet": "",
+      "source": "뉴스탭",
+      "categories": [],
+      "pub_date": "Sat, 05 Sep 2026 23:17:57 GMT"
+    },
+    {
+      "type": "news",
       "title": "쯔양도 찾은 경기도 AI페스티벌... 경과원, 청소년 2천 명과 '피지컬 AI' 미래체험 - OhmyNews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91aEZCa0FySzdkOHBWYTROZUFPYkx3OVA4SXYxNXNMY3Jrb2RFZ1JrckdQSDV4YzExc1ZRRXo3X0lvYnh5N2hBYmMxc3piRHRQcU85ZmdfUDZ6TlZOUG9SNVZRU29EUDc2ajhSa21BcmktNVBKVm5n?oc=5",
       "snippet": "",
@@ -40,39 +67,12 @@
     },
     {
       "type": "news",
-      "title": "서울서 AI·로봇 미래기술 한눈에… 스타트업 투자·해외진출 잇는다 - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zZDZib19KRlVaRnFrRENOTWNPVzh3THBSS3FhSjQ1LVBfSG8tREhobzRBYzg0VE9WRTUyQnhnbC1JemxCLXZvaDZKcGRCemdwNS1aOHM0b19FLUNwVnZjcjlaOFNkRGdfVGc?oc=5",
-      "snippet": "",
-      "source": "천지일보",
-      "categories": [],
-      "pub_date": "Sun, 06 Sep 2026 06:29:49 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI 기반 비정형 로봇 자동화 파트너십 나왔다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JQjgwTDl2RXFyMWtOYjFOdGQ1MHVGUk9WYm10QjAzT3l5eGVmTXBWVEM2MTBza0x1Z0tSYVZJTDBDU2ttYVJLUDNGME9Xa3cwREg1LWR5cXNiUnVNWXpR?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Sat, 05 Sep 2026 03:59:10 GMT"
-    },
-    {
-      "type": "news",
       "title": "피지컬 AI 시대, ‘로봇’보다 데이터·현장·제도 준비가 먼저 - 산업일보",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LQm45dDV6UDc3Tk1NMUFsWXhRY1Y2cXp6Z1N6UW9ESmdvWjZhTVhwanBSSW1JTDItWEw1ZUE1TElHMnZO?oc=5",
       "snippet": "",
       "source": "산업일보",
       "categories": [],
       "pub_date": "Fri, 04 Sep 2026 08:13:37 GMT"
-    },
-    {
-      "type": "news",
-      "title": "′피지컬 AI 체험부터 AI 영상전까지′…경과원, ′AI페스티벌′ 성황리 개최 - KPI뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBha2d1X2czZHctTDMwME5nVkhpR2loWEdaSkxWUVoteHNGS2ctQ3pNWG1FN1pDbGREOXdRSnIyeENIWXVtcUZHREpfUk9GRS00bE9tUHV2U0VmNkZw0gFTQVVfeXFMTk1PZTJieEs5REJrSHRRSzRiVF9UVXpPdlAweExxaXJZSTFpbHlQZ0NibTIxRURwWGNGUTRaY054Yy1GRnlldGF1SEFmV1VuY0dHN3c?oc=5",
-      "snippet": "",
-      "source": "KPI뉴스",
-      "categories": [],
-      "pub_date": "Sun, 06 Sep 2026 06:16:02 GMT"
     }
   ]
 }
