@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:33:45Z",
+  "updated_at": "2026-09-07T19:09:58Z",
   "papers": [
     {
       "type": "paper",
@@ -137,6 +137,24 @@
     },
     {
       "type": "news",
+      "title": "장병탁 교수 \"피지컬 AI는 이제 시작…데이터 팩토리 더 투자해야\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjRmIwU2RpRDhxZ3RsdTNqS194UHE2eGJhM0tzZEZlR3NvNXBVN29IbXVlZU1FUS1BSHp1VUVvblpKU2NnSXN1dlJfQ0FGeW9hMEJNVEJ3?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Mon, 07 Sep 2026 13:44:03 GMT"
+    },
+    {
+      "type": "news",
+      "title": "'쯔양과 로봇·AI 체험'…경기도 청소년 2천명 미래기술에 빠졌다 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGVwYTRWN0pOeG00UFNabUJKcEEwLWNxR3owQ3JIRVMwd0VCSGV1VldhX2NaVmhsN09MNTFHVmI2TzRQVW1jaFlNWXFBTHJ3WFluZDdURFBRbC1OdE5DSW5wbGJsZWQwcmluZ2l0SUpiOXdLckhaUUdWQWxIa05iTmRudU9xeTVsMWdz?oc=5",
+      "snippet": "",
+      "source": "글로벌이코노믹",
+      "categories": [],
+      "pub_date": "Mon, 07 Sep 2026 08:00:28 GMT"
+    },
+    {
+      "type": "news",
       "title": "기계연, 창립 50주년 맞아 ‘피지컬 AI’ 미래 논의 - 충청신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbVFBUHdGY1E4T3Q0WmN1cWd1X2FiNDkwN0hRYkFQQWxnelY3UVVCNHBiaHFQNHk2d0xjcU5SQ0RGR1daTDZxSm1YMjBzbE1sQm5pTDBDbTdKVFFjYU9WdzdWQUxGRE5IaDViRjF30gFuQVVfeXFMT2ttUUFQd0ZjUThPdDRaY3VxZ3VfYWI0OTA3SFFiQVBBbGd6VjdRVUI0cGJocVA0eTZ3TGNxTlJDREZHV1pMNnFKbVgyMHNsTWxCbmlMMENtN0pUUWNhT1Z3N1ZBTEZETkhoNWJGMXc?oc=5",
       "snippet": "",
@@ -152,24 +170,6 @@
       "source": "v.daum.net",
       "categories": [],
       "pub_date": "Mon, 07 Sep 2026 08:54:36 GMT"
-    },
-    {
-      "type": "news",
-      "title": "'쯔양과 로봇·AI 체험'…경기도 청소년 2천명 미래기술에 빠졌다 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGVwYTRWN0pOeG00UFNabUJKcEEwLWNxR3owQ3JIRVMwd0VCSGV1VldhX2NaVmhsN09MNTFHVmI2TzRQVW1jaFlNWXFBTHJ3WFluZDdURFBRbC1OdE5DSW5wbGJsZWQwcmluZ2l0SUpiOXdLckhaUUdWQWxIa05iTmRudU9xeTVsMWdz?oc=5",
-      "snippet": "",
-      "source": "글로벌이코노믹",
-      "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 08:00:28 GMT"
-    },
-    {
-      "type": "news",
-      "title": "한국기계연, 로봇·피지컬AI 주제로 산업생태계 전망 포럼 개최 - 중도일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKR1ZDSXFNcEFPOTA1ZVRJcjdnMzhybUhqNU9kUHh0cUdzUWJ1djY2aWFIWGRZN01DS25xWDk4blR2dS02REpOS3g0TnRkbkVDNGYxaEN1V0hfZl9FNEw0SWItVjg?oc=5",
-      "snippet": "",
-      "source": "중도일보",
-      "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 08:53:15 GMT"
     }
   ]
 }
