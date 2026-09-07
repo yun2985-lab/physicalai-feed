@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T04:42:42Z",
+  "updated_at": "2026-09-07T12:33:45Z",
   "papers": [
     {
       "type": "paper",
@@ -101,75 +101,75 @@
   "news": [
     {
       "type": "news",
-      "title": "피규어 AI, 엔스케일과 손잡고 ‘피지컬 AI’ 대규모 학습 인프라 구축 - irobotnews.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HVTRyZmRjUnBjU0FMNEVoSmZ0YXhIa014Rzk4dGQyNmNqajM4a2U2YU5TcGxPQnA5MHk0b0FnUE11dHBiMzdnWUJ4OVpWVW1wQWxYVTV2SUJiX1lsQ3ZKbVY5UDE0eEQyQk1HVQ?oc=5",
+      "title": "기계연 “로봇·피지컬 AI와 함께 K-산업생태계 결정적 진화 곧 도래” - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EMm1DOUZaMzM0b2RlOVBJdF9TM2hodG1nQ3gwV2ZHQzRCMnVUSUtPYjRoeUZRMVN2NFRUTDlSOE5iRTZKUFR6ZnZTaXpiazRTdFU1dmEzLTl4eURqTXhLTUhvaDc2SUlBT1BSZg?oc=5",
       "snippet": "",
-      "source": "irobotnews.com",
+      "source": "로봇신문",
       "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 03:27:19 GMT"
+      "pub_date": "Mon, 07 Sep 2026 10:31:39 GMT"
     },
     {
       "type": "news",
-      "title": "피지컬AI 경쟁의 승부처로 지목된 학습 데이터… 확보 방안은 국가과제로 - 인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tTzRDZnpuUERuWlMwMFNHaVJybFdha1lTNDdhTVBkdzZZanBvQWRzSVRDMmd0YmlxSGtic1k5SzdObjdkYmxQMzFDcTlKb044Qm9SRTJPZk84endfOGNlVUh1WDdDNGZzMkdaTFRLQ3o0Zw?oc=5",
+      "title": "쯔양도 로봇과 ‘한판’…경기도 청소년 2000명, 피지컬 AI에 빠졌다 - 주간한국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tYUJJaV9yek1Zcy1wQzFHZU5jYlIyRVBpbnpMbmpCVFJRTF9lZXB1Y1kxd1NfdktMS1VKOU5RUVBUaEpOWllIYVdIUmxkcjZ3OVFzMElTSG1DUEprNk9uLUFGYnBTYVpoWXFXUXhKajZKZHFW0gF0QVVfeXFMT21hQklpX3J6TVlzLXBDMUdlTmNiUjJFUGluekxuakJUUlFMX2VlcHVjWTF3U192S0xLVUo5TlFRUFRoSk5aWUhhV0hSbGRyNnc5UXMwSVNIbUNQSms2T24tQUZicFNhWmhZcVdReEpqNkpkcVY?oc=5",
       "snippet": "",
-      "source": "인더스트리뉴스",
+      "source": "주간한국",
       "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 02:40:59 GMT"
+      "pub_date": "Mon, 07 Sep 2026 05:14:19 GMT"
     },
     {
       "type": "news",
-      "title": "경과원, 경기 청소년 2000명과 ‘피지컬 AI’ 체험… 휴머노이드·자율주행 한자리 - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPTVNOOE9YNkhHOUMxVVZqLTlGNEtKVVZvbmJvdGl5a3RoNHhod0tBcmR5bjdzQUdNbkNOVjlWd0RyX1YyTGg5SExobTFYVG9haGFhZm9VOEtMSUlvSUNPV2pXaHJ3UUxrcFE?oc=5",
+      "title": "\"탈춤추고 배송하고\"···기계연 50주년, 피지컬 AI 산업생태계 논의 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xMU5acjJrdzZXbzBXUGxvS25BUUlmUVVLM1Y3Ql9KTFJ3X3JKRHJYb3lDaVg5Z1h0ZWk5SmdRc3dZQlVzUHJyQ3NWUmlDLWFISlB2S1dfcmxJVWRnWVEyN2J5a2NNRjB4aGc?oc=5",
       "snippet": "",
-      "source": "천지일보",
+      "source": "헬로디디",
       "categories": [],
-      "pub_date": "Sun, 06 Sep 2026 11:37:25 GMT"
+      "pub_date": "Mon, 07 Sep 2026 08:20:00 GMT"
     },
     {
       "type": "news",
-      "title": "쯔양도 체험한 '피지컬 AI'…경과원, 청소년 AI축제 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QRVBPV0FSNWg1ZGRUWXRoODhHblZzTHVjRGxDX0llY3lyTnFQN0hjbTV5TkFOUHhKT3YyZ1FGQ3B0YnhUTnBQQklhVm1FcF9Ta2RoUHNWNEhCUQ?oc=5",
+      "title": "양산부산대병원, ‘피지컬 AI’ 의료로봇 개발 본격화 - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZVNmTTJMUE8tSDNaVkVlOUZKUS0tZ0pSTkpmeGgxOGx2TkFSNGNCbEtvSWFsXy1SUWZXOTRkWms0LWZ6T3RnanA4bEFkdGZ1b1B4QU1OT2dRd0QzMjhhRDFlWktIMXRsYmc?oc=5",
       "snippet": "",
-      "source": "한국경제",
+      "source": "의학신문",
       "categories": [],
-      "pub_date": "Sun, 06 Sep 2026 11:24:41 GMT"
+      "pub_date": "Mon, 07 Sep 2026 05:40:51 GMT"
     },
     {
       "type": "news",
-      "title": "피지컬 AI 결합한 제조 로봇 다품종 소량공정 완전 자동화 - 공감신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVMW1TanQ0Vm5ySDJVTzBoSVlPbnRqdjNlbGlfbXZfQTVWUzN5VTV0NzNoR292aUJ0NktnV3BmWjR6SHctc2ZUQlZuS3NlTmdZdXpJdkVUTloycVZpWVk5VXB1X01wVENU?oc=5",
+      "title": "기계연, 창립 50주년 맞아 ‘피지컬 AI’ 미래 논의 - 충청신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbVFBUHdGY1E4T3Q0WmN1cWd1X2FiNDkwN0hRYkFQQWxnelY3UVVCNHBiaHFQNHk2d0xjcU5SQ0RGR1daTDZxSm1YMjBzbE1sQm5pTDBDbTdKVFFjYU9WdzdWQUxGRE5IaDViRjF30gFuQVVfeXFMT2ttUUFQd0ZjUThPdDRaY3VxZ3VfYWI0OTA3SFFiQVBBbGd6VjdRVUI0cGJocVA0eTZ3TGNxTlJDREZHV1pMNnFKbVgyMHNsTWxCbmlMMENtN0pUUWNhT1Z3N1ZBTEZETkhoNWJGMXc?oc=5",
       "snippet": "",
-      "source": "공감신문",
+      "source": "충청신문",
       "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 00:47:20 GMT"
+      "pub_date": "Mon, 07 Sep 2026 09:25:30 GMT"
     },
     {
       "type": "news",
-      "title": "[세상보기] 피지컬AI의 심장, 대전이 돼야 - 대전일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6OE52allXa3hEUTZJT3A4SmxDeFBLcnVqaDllalNEX01Yd1NtOWlCN2EwLXdkTWEwZ3piSkhKY3FsdzV6aXVoY2xPdm5aQWZ5eVFhcDZIeXNkVWxTdXJFTHYyQjNsajgxZnhSN2hrc9IBc0FVX3lxTE5VQmIwRk5xSGw0U0hGX21OM0VzM05ybXc2TEJydEN3NjVHeWNadTkwbVBwOEg2bDRKb2FERDFxeEtSNXNNeEg3T1QtUEliYnY5VWs0Tzd4ZEZ4N29TWEtLX0c2bFlhYzk1TkVRT2JNZlVLMHM?oc=5",
+      "title": "탈춤 추는 한국형 휴머노이드… 기계연, 현실 움직이는 피지컬 AI 시대 연다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFM0tKQUNzZXZvMlpQM0E1YTNEVm5jQURHSndoLTlfaVpmWFhTdDVsOUJFcTBlcUxzUkowVEswNXZrTWFXUFBuT2x5OEpDa2M?oc=5",
       "snippet": "",
-      "source": "대전일보",
+      "source": "v.daum.net",
       "categories": [],
-      "pub_date": "Sun, 06 Sep 2026 22:00:00 GMT"
+      "pub_date": "Mon, 07 Sep 2026 08:54:36 GMT"
     },
     {
       "type": "news",
-      "title": "안양산업진흥원, '2026 안양시 피지컬AI 라운드테이블' 개최 - 광흥타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RNTUxQWVnRmV4LVVsNFJWZVFfY2gzNGhycXlKaWlIVy1pd3gzOGVaRlUwZnRmSGxobmc1SWszNFNJUXlvYmNNUGJCdm5zbVJqXy1zcm5rYUJOelNUMEZV?oc=5",
+      "title": "'쯔양과 로봇·AI 체험'…경기도 청소년 2천명 미래기술에 빠졌다 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGVwYTRWN0pOeG00UFNabUJKcEEwLWNxR3owQ3JIRVMwd0VCSGV1VldhX2NaVmhsN09MNTFHVmI2TzRQVW1jaFlNWXFBTHJ3WFluZDdURFBRbC1OdE5DSW5wbGJsZWQwcmluZ2l0SUpiOXdLckhaUUdWQWxIa05iTmRudU9xeTVsMWdz?oc=5",
       "snippet": "",
-      "source": "광흥타임즈",
+      "source": "글로벌이코노믹",
       "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 02:10:13 GMT"
+      "pub_date": "Mon, 07 Sep 2026 08:00:28 GMT"
     },
     {
       "type": "news",
-      "title": "피지컬 AI 시대, ‘로봇’보다 데이터·현장·제도 준비가 먼저 - 산업일보",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LQm45dDV6UDc3Tk1NMUFsWXhRY1Y2cXp6Z1N6UW9ESmdvWjZhTVhwanBSSW1JTDItWEw1ZUE1TElHMnZO?oc=5",
+      "title": "한국기계연, 로봇·피지컬AI 주제로 산업생태계 전망 포럼 개최 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKR1ZDSXFNcEFPOTA1ZVRJcjdnMzhybUhqNU9kUHh0cUdzUWJ1djY2aWFIWGRZN01DS25xWDk4blR2dS02REpOS3g0TnRkbkVDNGYxaEN1V0hfZl9FNEw0SWItVjg?oc=5",
       "snippet": "",
-      "source": "산업일보",
+      "source": "중도일보",
       "categories": [],
-      "pub_date": "Fri, 04 Sep 2026 08:13:37 GMT"
+      "pub_date": "Mon, 07 Sep 2026 08:53:15 GMT"
     }
   ]
 }
