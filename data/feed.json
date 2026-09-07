@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T19:09:58Z",
+  "updated_at": "2026-09-07T23:30:04Z",
   "papers": [
     {
       "type": "paper",
@@ -119,12 +119,21 @@
     },
     {
       "type": "news",
-      "title": "\"탈춤추고 배송하고\"···기계연 50주년, 피지컬 AI 산업생태계 논의 - 헬로디디",
+      "title": "\"탈춤추고 배송하고\"···기계연 50주년, 피지컬 AI 산업생태계 논의 - hellodd.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xMU5acjJrdzZXbzBXUGxvS25BUUlmUVVLM1Y3Ql9KTFJ3X3JKRHJYb3lDaVg5Z1h0ZWk5SmdRc3dZQlVzUHJyQ3NWUmlDLWFISlB2S1dfcmxJVWRnWVEyN2J5a2NNRjB4aGc?oc=5",
       "snippet": "",
-      "source": "헬로디디",
+      "source": "hellodd.com",
       "categories": [],
       "pub_date": "Mon, 07 Sep 2026 08:20:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇·데이터 연결 'AI 공장장' 심는다…中企 피지컬AI 속도전 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fR29zMkJ6ejZZWnFtWTFjZVoweXdYQ2hmTEt4QUJHdTBGeDJPTHFoclp5am9WMXlPbzVTS09vYWRPUVMxeW9icy11X1A2ZE0?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Mon, 07 Sep 2026 21:16:00 GMT"
     },
     {
       "type": "news",
@@ -134,15 +143,6 @@
       "source": "의학신문",
       "categories": [],
       "pub_date": "Mon, 07 Sep 2026 05:40:51 GMT"
-    },
-    {
-      "type": "news",
-      "title": "장병탁 교수 \"피지컬 AI는 이제 시작…데이터 팩토리 더 투자해야\" - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjRmIwU2RpRDhxZ3RsdTNqS194UHE2eGJhM0tzZEZlR3NvNXBVN29IbXVlZU1FUS1BSHp1VUVvblpKU2NnSXN1dlJfQ0FGeW9hMEJNVEJ3?oc=5",
-      "snippet": "",
-      "source": "지디넷코리아",
-      "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 13:44:03 GMT"
     },
     {
       "type": "news",
@@ -164,12 +164,12 @@
     },
     {
       "type": "news",
-      "title": "탈춤 추는 한국형 휴머노이드… 기계연, 현실 움직이는 피지컬 AI 시대 연다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFM0tKQUNzZXZvMlpQM0E1YTNEVm5jQURHSndoLTlfaVpmWFhTdDVsOUJFcTBlcUxzUkowVEswNXZrTWFXUFBuT2x5OEpDa2M?oc=5",
+      "title": "장병탁 교수 \"피지컬 AI는 이제 시작…데이터 팩토리 더 투자해야\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjRmIwU2RpRDhxZ3RsdTNqS194UHE2eGJhM0tzZEZlR3NvNXBVN29IbXVlZU1FUS1BSHp1VUVvblpKU2NnSXN1dlJfQ0FGeW9hMEJNVEJ3?oc=5",
       "snippet": "",
-      "source": "v.daum.net",
+      "source": "지디넷코리아",
       "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 08:54:36 GMT"
+      "pub_date": "Mon, 07 Sep 2026 13:44:03 GMT"
     }
   ]
 }
