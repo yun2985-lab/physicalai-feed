@@ -1,7 +1,122 @@
 {
-  "updated_at": "2026-09-06T22:53:45Z",
-  "papers": [],
+  "updated_at": "2026-09-07T04:42:42Z",
+  "papers": [
+    {
+      "type": "paper",
+      "title": "FailureSpot: Label-Efficient Timestamp-Level Failure Detection for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2609.04277",
+      "snippet": "Vision-language-action (VLA) policies have shown strong potential for general-purpose robotic manipulation, but they can still fail unpredictably during long-horizon execution, making reliable failure detection…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Mon, 07 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2609.04355",
+      "snippet": "Pretrained vision-language-action (VLA) models enable broad manipulation but remain unreliable in tasks demanding precision and repeatability. Applying real-world online reinforcement learning (RL) to VLA post-training…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.HC"
+      ],
+      "pub_date": "Mon, 07 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Scalable Edge-assisted Fusion and Path Prediction for Connected Autonomous Vehicles",
+      "url": "https://arxiv.org/abs/2609.04364",
+      "snippet": "The planning algorithms inside an Autonomous Vehicle (AV) rely on information from on-board sensors whose line of sight is limited by emerging traffic conditions and occlusions. Edge-assisted creation of a unified world…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "pub_date": "Mon, 07 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "AquaBEV: Monocular Underwater BEV Occupancy with 3D Sonar Supervision",
+      "url": "https://arxiv.org/abs/2609.04411",
+      "snippet": "Autonomous underwater robots are widely used for exploration, monitoring, and inspection, where safe navigation depends on understanding the surrounding free and occupied space. Bird's eye view (BEV) occupancy provides…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Mon, 07 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Achieving Asymptotic Near-Optimality Without $\\delta$-Similarity",
+      "url": "https://arxiv.org/abs/2609.04464",
+      "snippet": "Sampling-based motion planning algorithms are a popular class of trajectory planning algorithm due to their speed in complex, high-dimensional environments and ability to handle kinodynamic constraints, specifically…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 07 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "SocioGesture: Real-Time and Adaptive Social Gesture Perception for Human-Robot Interaction",
+      "url": "https://arxiv.org/abs/2609.04545",
+      "snippet": "Robots interacting with people must recognize not only explicit commands, but also social cues such as invitations, refusals, and unavailability. In real deployments, these cues must be inferred from noisy onboard…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Mon, 07 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Continual Field-Adaptive Models (CFAMs) for Post-Deployment Physical AI",
+      "url": "https://arxiv.org/abs/2609.04552",
+      "snippet": "Unattended interactive autonomy - machines that step into danger in place of humans and complete tasks with human tools - remains a missing capability in mission-critical operations. These domains offer scarce training…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pub_date": "Mon, 07 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions",
+      "url": "https://arxiv.org/abs/2609.04602",
+      "snippet": "Fixed 3D Gaussian Splatting (3DGS) reconstructions provide realistic novel views but lack the traversability constraints, valid goals, and closed-loop protocols required for navigation evaluation. We introduce NavArena,…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 07 Sep 2026 00:00:00 -0400"
+    }
+  ],
   "news": [
+    {
+      "type": "news",
+      "title": "피규어 AI, 엔스케일과 손잡고 ‘피지컬 AI’ 대규모 학습 인프라 구축 - irobotnews.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HVTRyZmRjUnBjU0FMNEVoSmZ0YXhIa014Rzk4dGQyNmNqajM4a2U2YU5TcGxPQnA5MHk0b0FnUE11dHBiMzdnWUJ4OVpWVW1wQWxYVTV2SUJiX1lsQ3ZKbVY5UDE0eEQyQk1HVQ?oc=5",
+      "snippet": "",
+      "source": "irobotnews.com",
+      "categories": [],
+      "pub_date": "Mon, 07 Sep 2026 03:27:19 GMT"
+    },
+    {
+      "type": "news",
+      "title": "피지컬AI 경쟁의 승부처로 지목된 학습 데이터… 확보 방안은 국가과제로 - 인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tTzRDZnpuUERuWlMwMFNHaVJybFdha1lTNDdhTVBkdzZZanBvQWRzSVRDMmd0YmlxSGtic1k5SzdObjdkYmxQMzFDcTlKb044Qm9SRTJPZk84endfOGNlVUh1WDdDNGZzMkdaTFRLQ3o0Zw?oc=5",
+      "snippet": "",
+      "source": "인더스트리뉴스",
+      "categories": [],
+      "pub_date": "Mon, 07 Sep 2026 02:40:59 GMT"
+    },
     {
       "type": "news",
       "title": "경과원, 경기 청소년 2000명과 ‘피지컬 AI’ 체험… 휴머노이드·자율주행 한자리 - 천지일보",
@@ -22,21 +137,30 @@
     },
     {
       "type": "news",
-      "title": "[세상보기] 피지컬AI의 심장, 대전이 돼야 - daejonilbo.com",
+      "title": "피지컬 AI 결합한 제조 로봇 다품종 소량공정 완전 자동화 - 공감신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVMW1TanQ0Vm5ySDJVTzBoSVlPbnRqdjNlbGlfbXZfQTVWUzN5VTV0NzNoR292aUJ0NktnV3BmWjR6SHctc2ZUQlZuS3NlTmdZdXpJdkVUTloycVZpWVk5VXB1X01wVENU?oc=5",
+      "snippet": "",
+      "source": "공감신문",
+      "categories": [],
+      "pub_date": "Mon, 07 Sep 2026 00:47:20 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[세상보기] 피지컬AI의 심장, 대전이 돼야 - 대전일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6OE52allXa3hEUTZJT3A4SmxDeFBLcnVqaDllalNEX01Yd1NtOWlCN2EwLXdkTWEwZ3piSkhKY3FsdzV6aXVoY2xPdm5aQWZ5eVFhcDZIeXNkVWxTdXJFTHYyQjNsajgxZnhSN2hrc9IBc0FVX3lxTE5VQmIwRk5xSGw0U0hGX21OM0VzM05ybXc2TEJydEN3NjVHeWNadTkwbVBwOEg2bDRKb2FERDFxeEtSNXNNeEg3T1QtUEliYnY5VWs0Tzd4ZEZ4N29TWEtLX0c2bFlhYzk1TkVRT2JNZlVLMHM?oc=5",
       "snippet": "",
-      "source": "daejonilbo.com",
+      "source": "대전일보",
       "categories": [],
       "pub_date": "Sun, 06 Sep 2026 22:00:00 GMT"
     },
     {
       "type": "news",
-      "title": "대기업들 로봇 도입 나섰다…PwC, 피지컬 AI 컨설팅 런칭 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdWNFX1RtOW5wRGJGZlNLcGdlZl96cVZiNFVxTXJicVU3Y1pXUGVSejVnSndUM2QtYnJ3TjJkYUh2d3gyQk1VcDhQMG5YS2FjT3AxM0liS2N5WTVEQjVZYm05b3pWM1FKdGxrYUxCWERKLW1VZ1gzaUdZWVRLV3hVRHJjeTJwTG8?oc=5",
+      "title": "안양산업진흥원, '2026 안양시 피지컬AI 라운드테이블' 개최 - 광흥타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RNTUxQWVnRmV4LVVsNFJWZVFfY2gzNGhycXlKaWlIVy1pd3gzOGVaRlUwZnRmSGxobmc1SWszNFNJUXlvYmNNUGJCdm5zbVJqXy1zcm5rYUJOelNUMEZV?oc=5",
       "snippet": "",
-      "source": "글로벌이코노믹",
+      "source": "광흥타임즈",
       "categories": [],
-      "pub_date": "Sun, 06 Sep 2026 02:38:35 GMT"
+      "pub_date": "Mon, 07 Sep 2026 02:10:13 GMT"
     },
     {
       "type": "news",
@@ -46,33 +170,6 @@
       "source": "산업일보",
       "categories": [],
       "pub_date": "Fri, 04 Sep 2026 08:13:37 GMT"
-    },
-    {
-      "type": "news",
-      "title": "경기도, 청소년 'AI 페스티벌' 개최…피지컬 AI 체험 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNjl1MG1sVFR6a2ZMZGFfZjRZTUdMeWlqTW5fdlVLeWtBLW5iMTc5S0lMWThVZnNid1RyUHJiM2w3WEFsczlwVmdtZjJCNDZ4WktEdzhCQlp5REJldGRtRDdQWG5mbXI0MHZRaThWcTI?oc=5",
-      "snippet": "",
-      "source": "신아일보",
-      "categories": [],
-      "pub_date": "Sun, 06 Sep 2026 03:29:06 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI 기반 비정형 로봇 자동화 파트너십 나왔다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JQjgwTDl2RXFyMWtOYjFOdGQ1MHVGUk9WYm10QjAzT3l5eGVmTXBWVEM2MTBza0x1Z0tSYVZJTDBDU2ttYVJLUDNGME9Xa3cwREg1LWR5cXNiUnVNWXpR?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Sat, 05 Sep 2026 03:59:10 GMT"
-    },
-    {
-      "type": "news",
-      "title": "국제로봇올림피아드 본선 열전···KAIST 들썩인 '로봇 꿈나무' 향연 - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RMUM4RG9BMEFiSVVNd0lBa1FqbzFmNFRMV0loVnhjSUpDYThQa0N2bW8xWVRzczM2a18wNkhoanNhcWp0bWQyb19LU3p6R2tpb2VGSDM4ZXhHM1VHTklCd1I5QzQzb1RsN2c?oc=5",
-      "snippet": "",
-      "source": "헬로디디",
-      "categories": [],
-      "pub_date": "Sun, 06 Sep 2026 08:45:00 GMT"
     }
   ]
 }
