@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:19:59Z",
+  "updated_at": "2026-09-08T16:39:33Z",
   "papers": [],
   "news": [
     {
@@ -40,6 +40,15 @@
     },
     {
       "type": "news",
+      "title": "스트라드비젼, Arm 생태계 합류…양산 AI 기술 로봇 적용 확대 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZNy1kWTVSa0tHUWZvRDdWQllPbjRqZEEtS2dJRUVGTlZBd2xsZ1A4UV8xVURwTDQxMnlRZEppXzhEa29BVFpMMGxCLXdlRHphR3pQQUpZM3Q4WWl2SkFZ?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Tue, 08 Sep 2026 05:48:01 GMT"
+    },
+    {
+      "type": "news",
       "title": "대구·경북 손잡고 AI·로봇 등 첨단산업 인재 키운다 - yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYbl9vWkdCd0Y0WER2RmpmdDdpbG9lTjFCek1tNWlKLWJfUjdrbmFVd1B6TkJHVnp4U19rTFZxT2dQeG1EM3JVMDBaSGl4dkZZXzJjQ0dhdW10OGN6MS03MNIBYEFVX3lxTFBYbl9vWkdCd0Y0WER2RmpmdDdpbG9lTjFCek1tNWlKLWJfUjdrbmFVd1B6TkJHVnp4U19rTFZxT2dQeG1EM3JVMDBaSGl4dkZZXzJjQ0dhdW10OGN6MS03MA?oc=5",
       "snippet": "",
@@ -55,15 +64,6 @@
       "source": "팍스경제TV",
       "categories": [],
       "pub_date": "Tue, 08 Sep 2026 04:36:42 GMT"
-    },
-    {
-      "type": "news",
-      "title": "스트라드비젼, Arm 생태계 합류…양산 AI 기술 로봇 적용 확대 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZNy1kWTVSa0tHUWZvRDdWQllPbjRqZEEtS2dJRUVGTlZBd2xsZ1A4UV8xVURwTDQxMnlRZEppXzhEa29BVFpMMGxCLXdlRHphR3pQQUpZM3Q4WWl2SkFZ?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Tue, 08 Sep 2026 05:48:01 GMT"
     },
     {
       "type": "news",
