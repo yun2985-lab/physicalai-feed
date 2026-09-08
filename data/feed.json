@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-08T21:10:04Z",
+  "updated_at": "2026-09-08T23:24:11Z",
   "papers": [],
   "news": [
     {
       "type": "news",
-      "title": "피지컬 AI로 진화하는 건설로봇, 반복·위험 작업부터 자동화 - 산업일보",
+      "title": "피지컬 AI로 진화하는 건설로봇, 반복·위험 작업부터 자동화 - kidd.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94cUxlMXRUcDZCVXE5S3dsRzVvZERLMl9ZRC15X3lkVk9kNE10UWNOai1GVVN2LWFGV1ZzNTB2VlNPYjZa?oc=5",
       "snippet": "",
-      "source": "산업일보",
+      "source": "kidd.co.kr",
       "categories": [],
       "pub_date": "Tue, 08 Sep 2026 10:58:04 GMT"
     },
@@ -22,21 +22,21 @@
     },
     {
       "type": "news",
-      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
-      "snippet": "",
-      "source": "철강금속신문",
-      "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
-    },
-    {
-      "type": "news",
       "title": "스트라드비젼, Arm 피지컬 AI 생태계 합류 - 디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MTVBKTXA2U2FFUVVOMWdvaW9FVGVJY05mLXI5TFV2OTkwcjB5aU9KODEzWGNHTEMzOEtpMEwxSEw2aDF3Z3NXNlRuUnd5U19JZDZxcllSZkQ2Vnk5bHhJZWtBS2hSQQ?oc=5",
       "snippet": "",
       "source": "디일렉",
       "categories": [],
       "pub_date": "Tue, 08 Sep 2026 07:45:51 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
+      "snippet": "",
+      "source": "철강금속신문",
+      "categories": [],
+      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
     },
     {
       "type": "news",
@@ -67,12 +67,12 @@
     },
     {
       "type": "news",
-      "title": "스트라드비젼, Arm 피지컬 AI 생태계 합류…\"로봇 인식 기술 확대\" - 팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdXB2NFJGSGFtYzl1d1M4VDE1bU40ZWluOThVV0JYcGdWUFBDWEUwUERZTFdBMlZ1cF8xTEhIQU1aLUYteXJDVy1WUW9vVkJBS24yN2ppdWZFMXJqOEV0RnppZXpqOU9Q?oc=5",
+      "title": "쯔양도 로봇과 ‘한판’…경기도 청소년 2000명, 피지컬 AI에 빠졌다 - 주간한국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tYUJJaV9yek1Zcy1wQzFHZU5jYlIyRVBpbnpMbmpCVFJRTF9lZXB1Y1kxd1NfdktMS1VKOU5RUVBUaEpOWllIYVdIUmxkcjZ3OVFzMElTSG1DUEprNk9uLUFGYnBTYVpoWXFXUXhKajZKZHFW0gF0QVVfeXFMT21hQklpX3J6TVlzLXBDMUdlTmNiUjJFUGluekxuakJUUlFMX2VlcHVjWTF3U192S0xLVUo5TlFRUFRoSk5aWUhhV0hSbGRyNnc5UXMwSVNIbUNQSms2T24tQUZicFNhWmhZcVdReEpqNkpkcVY?oc=5",
       "snippet": "",
-      "source": "팍스경제TV",
+      "source": "주간한국",
       "categories": [],
-      "pub_date": "Tue, 08 Sep 2026 04:36:42 GMT"
+      "pub_date": "Mon, 07 Sep 2026 05:14:19 GMT"
     }
   ]
 }
