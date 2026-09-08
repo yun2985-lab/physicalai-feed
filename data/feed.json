@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-08T16:39:33Z",
+  "updated_at": "2026-09-08T21:10:04Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "피지컬 AI로 진화하는 건설로봇, 반복·위험 작업부터 자동화 - 산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94cUxlMXRUcDZCVXE5S3dsRzVvZERLMl9ZRC15X3lkVk9kNE10UWNOai1GVVN2LWFGV1ZzNTB2VlNPYjZa?oc=5",
+      "snippet": "",
+      "source": "산업일보",
+      "categories": [],
+      "pub_date": "Tue, 08 Sep 2026 10:58:04 GMT"
+    },
+    {
+      "type": "news",
+      "title": "세계 최초 자동화 라인 돌렸다… 샤오펑, 휴머노이드 로봇 연내 양산 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONUkzUjlUWVl2c3hjMm1YM1h6Mlp1X00xeTdudGtYczM2RVE5bUFBM3M3TlBoMkFmWVBRYVBkd0pDRTlXMHVvUGlzMjZnVThTMGxEbVZDZUtDSXdXY19XYWRtVzY4TGlKYkNvNHNVM2dZOWtJUTRtQUY4dGlQQlYzZ3AwNGo0VFE?oc=5",
+      "snippet": "",
+      "source": "글로벌이코노믹",
+      "categories": [],
+      "pub_date": "Tue, 08 Sep 2026 19:15:00 GMT"
+    },
     {
       "type": "news",
       "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
@@ -31,15 +49,6 @@
     },
     {
       "type": "news",
-      "title": "피지컬 AI로 진화하는 건설로봇, 반복·위험 작업부터 자동화 - 산업일보",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94cUxlMXRUcDZCVXE5S3dsRzVvZERLMl9ZRC15X3lkVk9kNE10UWNOai1GVVN2LWFGV1ZzNTB2VlNPYjZa?oc=5",
-      "snippet": "",
-      "source": "산업일보",
-      "categories": [],
-      "pub_date": "Tue, 08 Sep 2026 10:58:04 GMT"
-    },
-    {
-      "type": "news",
       "title": "스트라드비젼, Arm 생태계 합류…양산 AI 기술 로봇 적용 확대 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZNy1kWTVSa0tHUWZvRDdWQllPbjRqZEEtS2dJRUVGTlZBd2xsZ1A4UV8xVURwTDQxMnlRZEppXzhEa29BVFpMMGxCLXdlRHphR3pQQUpZM3Q4WWl2SkFZ?oc=5",
       "snippet": "",
@@ -49,10 +58,10 @@
     },
     {
       "type": "news",
-      "title": "대구·경북 손잡고 AI·로봇 등 첨단산업 인재 키운다 - yna.co.kr",
+      "title": "대구·경북 손잡고 AI·로봇 등 첨단산업 인재 키운다 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYbl9vWkdCd0Y0WER2RmpmdDdpbG9lTjFCek1tNWlKLWJfUjdrbmFVd1B6TkJHVnp4U19rTFZxT2dQeG1EM3JVMDBaSGl4dkZZXzJjQ0dhdW10OGN6MS03MNIBYEFVX3lxTFBYbl9vWkdCd0Y0WER2RmpmdDdpbG9lTjFCek1tNWlKLWJfUjdrbmFVd1B6TkJHVnp4U19rTFZxT2dQeG1EM3JVMDBaSGl4dkZZXzJjQ0dhdW10OGN6MS03MA?oc=5",
       "snippet": "",
-      "source": "yna.co.kr",
+      "source": "연합뉴스",
       "categories": [],
       "pub_date": "Tue, 08 Sep 2026 06:27:11 GMT"
     },
@@ -64,15 +73,6 @@
       "source": "팍스경제TV",
       "categories": [],
       "pub_date": "Tue, 08 Sep 2026 04:36:42 GMT"
-    },
-    {
-      "type": "news",
-      "title": "英 BBC, 갤럭시코퍼레이션 '로봇파크' 집중 조명… K-POP 넘어 'Physical AI'로 - etnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56X0NEYVdIb20wcUI0MExuUEI4SlFsLTdRRmV4bmZBNm5aR0F4OUxfQkFYWDFTeVhwcXFVOFNYcDQtUTgzektGWGlmMlpQQQ?oc=5",
-      "snippet": "",
-      "source": "etnews.com",
-      "categories": [],
-      "pub_date": "Tue, 08 Sep 2026 02:10:39 GMT"
     }
   ]
 }
