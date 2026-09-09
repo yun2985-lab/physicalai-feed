@@ -1,33 +1,145 @@
 {
-  "updated_at": "2026-09-08T23:24:11Z",
-  "papers": [],
+  "updated_at": "2026-09-09T04:43:14Z",
+  "papers": [
+    {
+      "type": "paper",
+      "title": "Observability Analysis of Joint Steering and Extrinsic Calibration",
+      "url": "https://arxiv.org/abs/2609.05498",
+      "snippet": "This technical report studies the local weak observability of a planar bicycle-model vehicle when vehicle pose, planar LiDAR extrinsic calibration, and steering-angle bias are estimated jointly. A Lie-derivative-based…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Multi-robot Learning-based Informative Path Planning Using Spatio-Temporal Gaussian Process Kalman Filter",
+      "url": "https://arxiv.org/abs/2609.05515",
+      "snippet": "Multi-robot informative path planning (IPP) for persistent target monitoring requires robots to reason about spatial uncertainty, temporal evolution, and practical sensing and communication constraints. Recent…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Robots Influencing Humans to Reveal their Goals during Collaboration and Competition",
+      "url": "https://arxiv.org/abs/2609.05519",
+      "snippet": "We propose a unified strategy for fast goal inference in human-robot interaction. The core idea is to drive the human toward Critical Decision Points (CDPs)-states where competing human strategies prescribe different…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Situation Awareness for Intelligent Data Distribution in Connected Vehicles",
+      "url": "https://arxiv.org/abs/2609.05521",
+      "snippet": "The limitations of on-board sensors and blind spots caused by occlusion cause the reduction of perception quality in autonomous vehicles. In such cases, cooperative perception provides additional data via…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Information-Guided Safe Reinforcement Learning for Autonomous Gas Source Localization using sUAS",
+      "url": "https://arxiv.org/abs/2609.05569",
+      "snippet": "The autonomous localization of fugitive gas emissions using small Unmanned Aircraft Systems (sUAS) constitutes a fundamentally ill-posed inverse problem. In turbulent atmospheric boundary layers, highly intermittent…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Benchmarking Dexterity of Multifingered Robot Hands: A Review and Perspective",
+      "url": "https://arxiv.org/abs/2609.05585",
+      "snippet": "Robot hands are a key interface between AI and the physical world, making advances in robotic dexterity essential to realizing the vision of physical AI. While impressive dexterity has been demonstrated with simple…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2609.05588",
+      "snippet": "World-action models (WAM) predict future states to guide robot actions, enabling learning from both action-free video and action-labeled interaction. Most inherit pretrained video generators, leaving WAM pretraining and…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Adaptive Cost-Sensitive Machine Learning for Autonomous Robot Navigation Failure Prediction: When Not All Errors Are Equal",
+      "url": "https://arxiv.org/abs/2609.05593",
+      "snippet": "Autonomous robot navigation failures differ not only in categorical severity but also in the physical context in which they occur. A near-miss at low speed under reliable sensing is not equivalent to the same event…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+    }
+  ],
   "news": [
     {
       "type": "news",
-      "title": "피지컬 AI로 진화하는 건설로봇, 반복·위험 작업부터 자동화 - kidd.co.kr",
+      "title": "AI·로봇이 바꿀 일상 체험…서울 '스마트라이프위크' 내달 개막 - yna.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRnBWSHk1WUJ3d2Fham1kMThvcmE3OFF5T0dxZ242aWZuUmttTmxaVkZJSDRBRWljdjRuMlJ3SEFaRmpha1ZaT2NuUjdPbnRvdkZ3Q0FUWi1qUW5QUmNoc9IBYEFVX3lxTE9yRnBWSHk1WUJ3d2Fham1kMThvcmE3OFF5T0dxZ242aWZuUmttTmxaVkZJSDRBRWljdjRuMlJ3SEFaRmpha1ZaT2NuUjdPbnRvdkZ3Q0FUWi1qUW5QUmNocw?oc=5",
+      "snippet": "",
+      "source": "yna.co.kr",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 02:15:03 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[뉴스 속 경제용어] 뉴스에 등장한 '피지컬 AI'…로봇과 무엇이 다른가 - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBySVRoRW40dFNxcmIwTVVUaGxwTnoyeUFUcG9oY242alZxUERtSWJ6SUYxLVVWVnYwMGYtVEJFWF9Qa0lTWW9SS3pSR3hXZk9Gdk1kaDF6bVRUWmg0QmZtUmd1OFhGR1BHb2NyYm5rNS1iZ9IBckFVX3lxTFBySVRoRW40dFNxcmIwTVVUaGxwTnoyeUFUcG9oY242alZxUERtSWJ6SUYxLVVWVnYwMGYtVEJFWF9Qa0lTWW9SS3pSR3hXZk9Gdk1kaDF6bVRUWmg0QmZtUmd1OFhGR1BHb2NyYm5rNS1iZw?oc=5",
+      "snippet": "",
+      "source": "폴리뉴스 Polinews",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 00:02:32 GMT"
+    },
+    {
+      "type": "news",
+      "title": "피지컬 AI로 진화하는 건설로봇, 반복·위험 작업부터 자동화 - 산업일보",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94cUxlMXRUcDZCVXE5S3dsRzVvZERLMl9ZRC15X3lkVk9kNE10UWNOai1GVVN2LWFGV1ZzNTB2VlNPYjZa?oc=5",
       "snippet": "",
-      "source": "kidd.co.kr",
+      "source": "산업일보",
       "categories": [],
       "pub_date": "Tue, 08 Sep 2026 10:58:04 GMT"
     },
     {
       "type": "news",
-      "title": "세계 최초 자동화 라인 돌렸다… 샤오펑, 휴머노이드 로봇 연내 양산 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONUkzUjlUWVl2c3hjMm1YM1h6Mlp1X00xeTdudGtYczM2RVE5bUFBM3M3TlBoMkFmWVBRYVBkd0pDRTlXMHVvUGlzMjZnVThTMGxEbVZDZUtDSXdXY19XYWRtVzY4TGlKYkNvNHNVM2dZOWtJUTRtQUY4dGlQQlYzZ3AwNGo0VFE?oc=5",
+      "title": "AI·로봇 직접 보고 만진다…'스마트라이프위크' 내달 개막 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzbElCczhoeHIteVpsV0VVT3hYWjRwTS0tOXRSUTFjRlFXV0ItSlJYMV9OM3FmLThLNmFOU3NBTXNaQy16TGNSZ2pEbldBYWwxRFE5dzA5RlFtZlJ1SXdNaEtLd1hYU1g5UmNJUEF3RDFYMU1ZTldXV9IBeEFVX3lxTFAzbElCczhoeHIteVpsV0VVT3hYWjRwTS0tOXRSUTFjRlFXV0ItSlJYMV9OM3FmLThLNmFOU3NBTXNaQy16TGNSZ2pEbldBYWwxRFE5dzA5RlFtZlJ1SXdNaEtLd1hYU1g5UmNJUEF3RDFYMU1ZTldXVw?oc=5",
       "snippet": "",
-      "source": "글로벌이코노믹",
+      "source": "뉴시스",
       "categories": [],
-      "pub_date": "Tue, 08 Sep 2026 19:15:00 GMT"
+      "pub_date": "Wed, 09 Sep 2026 02:15:00 GMT"
     },
     {
       "type": "news",
-      "title": "스트라드비젼, Arm 피지컬 AI 생태계 합류 - 디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MTVBKTXA2U2FFUVVOMWdvaW9FVGVJY05mLXI5TFV2OTkwcjB5aU9KODEzWGNHTEMzOEtpMEwxSEw2aDF3Z3NXNlRuUnd5U19JZDZxcllSZkQ2Vnk5bHhJZWtBS2hSQQ?oc=5",
+      "title": "[IFA 2026 결산 ①] AI는 ‘연결’ 넘어 ‘행동’으로…로봇·모빌리티가 넓힌 가전의 경계 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DV2xlVnROQVZjcml6TWtKVTE4MjZsNldMZEVvX3VXNHRHNGx6RTQxYlhES05hak1HcTlFcmVvZFJVbldGdUNQZ2hpeVZjSDVuWFhQdEtjcWY4SFBxQnk1UkR3?oc=5",
       "snippet": "",
-      "source": "디일렉",
+      "source": "디지털데일리",
       "categories": [],
-      "pub_date": "Tue, 08 Sep 2026 07:45:51 GMT"
+      "pub_date": "Wed, 09 Sep 2026 00:00:00 GMT"
     },
     {
       "type": "news",
@@ -40,39 +152,21 @@
     },
     {
       "type": "news",
-      "title": "Arm, 80개 기업 손잡고 피지컬 AI 생태계 구축…로봇 공통 기준 제시 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTEZKcmFXcGtXNXMtUzlUdHdqaWhiaU1LWHJyLVBOOUlzamhmd2d3Y1FaS1h2Z1JyMVdfVUNuSmEwbGIzT0dHOHplM0dIZ21aT3c0SkQxVFlNQ2RGMXJ5Nzd2QmZSLUtD?oc=5",
+      "title": "세계 최초 자동화 라인 돌렸다… 샤오펑, 휴머노이드 로봇 연내 양산 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONUkzUjlUWVl2c3hjMm1YM1h6Mlp1X00xeTdudGtYczM2RVE5bUFBM3M3TlBoMkFmWVBRYVBkd0pDRTlXMHVvUGlzMjZnVThTMGxEbVZDZUtDSXdXY19XYWRtVzY4TGlKYkNvNHNVM2dZOWtJUTRtQUY4dGlQQlYzZ3AwNGo0VFE?oc=5",
       "snippet": "",
-      "source": "테크월드",
+      "source": "글로벌이코노믹",
       "categories": [],
-      "pub_date": "Tue, 08 Sep 2026 06:00:00 GMT"
+      "pub_date": "Tue, 08 Sep 2026 19:15:00 GMT"
     },
     {
       "type": "news",
-      "title": "스트라드비젼, Arm 생태계 합류…양산 AI 기술 로봇 적용 확대 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZNy1kWTVSa0tHUWZvRDdWQllPbjRqZEEtS2dJRUVGTlZBd2xsZ1A4UV8xVURwTDQxMnlRZEppXzhEa29BVFpMMGxCLXdlRHphR3pQQUpZM3Q4WWl2SkFZ?oc=5",
+      "title": "Arm, 로봇 시스템의 역량 정의 및 발전 위한 공통 기준 마련해 - elec4",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15OGRQRld2LWxUNVJhSjRsb25jQUhTWWNIaVNJS2hBV1lwWUdHeEVqSTJmeU9uNzNjcVZYNENuaVFySmhlYXlmdTVfMy1iR1VLT2xQRXlkNFY3T3Rqb3ZSWWxodXowYXo3a21RS0Zn?oc=5",
       "snippet": "",
-      "source": "헬로티",
+      "source": "elec4",
       "categories": [],
-      "pub_date": "Tue, 08 Sep 2026 05:48:01 GMT"
-    },
-    {
-      "type": "news",
-      "title": "대구·경북 손잡고 AI·로봇 등 첨단산업 인재 키운다 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYbl9vWkdCd0Y0WER2RmpmdDdpbG9lTjFCek1tNWlKLWJfUjdrbmFVd1B6TkJHVnp4U19rTFZxT2dQeG1EM3JVMDBaSGl4dkZZXzJjQ0dhdW10OGN6MS03MNIBYEFVX3lxTFBYbl9vWkdCd0Y0WER2RmpmdDdpbG9lTjFCek1tNWlKLWJfUjdrbmFVd1B6TkJHVnp4U19rTFZxT2dQeG1EM3JVMDBaSGl4dkZZXzJjQ0dhdW10OGN6MS03MA?oc=5",
-      "snippet": "",
-      "source": "연합뉴스",
-      "categories": [],
-      "pub_date": "Tue, 08 Sep 2026 06:27:11 GMT"
-    },
-    {
-      "type": "news",
-      "title": "쯔양도 로봇과 ‘한판’…경기도 청소년 2000명, 피지컬 AI에 빠졌다 - 주간한국",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tYUJJaV9yek1Zcy1wQzFHZU5jYlIyRVBpbnpMbmpCVFJRTF9lZXB1Y1kxd1NfdktMS1VKOU5RUVBUaEpOWllIYVdIUmxkcjZ3OVFzMElTSG1DUEprNk9uLUFGYnBTYVpoWXFXUXhKajZKZHFW0gF0QVVfeXFMT21hQklpX3J6TVlzLXBDMUdlTmNiUjJFUGluekxuakJUUlFMX2VlcHVjWTF3U192S0xLVUo5TlFRUFRoSk5aWUhhV0hSbGRyNnc5UXMwSVNIbUNQSms2T24tQUZicFNhWmhZcVdReEpqNkpkcVY?oc=5",
-      "snippet": "",
-      "source": "주간한국",
-      "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 05:14:19 GMT"
+      "pub_date": "Wed, 09 Sep 2026 04:01:57 GMT"
     }
   ]
 }
