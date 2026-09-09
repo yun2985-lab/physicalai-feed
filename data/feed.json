@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:24:23Z",
+  "updated_at": "2026-09-09T16:39:01Z",
   "papers": [
     {
       "type": "paper",
@@ -98,6 +98,15 @@
   "news": [
     {
       "type": "news",
+      "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aVWNVdEUtcU4zQmNVakQ0N2MxVnVOSVdocXVrcGVrMk9ReDVsZ0FqU3A3dElNWXd3SmFvTndxTXpnR3JVa1lEb0t4dFNvcDNZRXZiblB3?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 10:54:45 GMT"
+    },
+    {
+      "type": "news",
       "title": "AI·로봇이 바꿀 일상 체험…서울 '스마트라이프위크' 내달 개막 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRnBWSHk1WUJ3d2Fham1kMThvcmE3OFF5T0dxZ242aWZuUmttTmxaVkZJSDRBRWljdjRuMlJ3SEFaRmpha1ZaT2NuUjdPbnRvdkZ3Q0FUWi1qUW5QUmNoc9IBYEFVX3lxTE9yRnBWSHk1WUJ3d2Fham1kMThvcmE3OFF5T0dxZ242aWZuUmttTmxaVkZJSDRBRWljdjRuMlJ3SEFaRmpha1ZaT2NuUjdPbnRvdkZ3Q0FUWi1qUW5QUmNocw?oc=5",
       "snippet": "",
@@ -107,66 +116,57 @@
     },
     {
       "type": "news",
-      "title": "“AI·로봇이 바꾸는 서울의 일상”…서울시, ‘SLK 2026’ 내달 6~8일 개최 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1d0RsOGxjOVdKUHVwYW5COW04UkI3TERlb2t3QjhMbnJGX3NTV05OVWIzN3EzdzA2cUFyTEtzajNkYlFQLVprRVVBT0V4UFBfNkdpUDFjNmI3R1R1X1gxb2lTV184U2NVelA0Uw?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 07:05:46 GMT"
-    },
-    {
-      "type": "news",
-      "title": "클라우드 의존 지운 휴머노이드...노타, 온디바이스 AI로 실시간 제어 한계 넘는다 - hellot.net",
+      "title": "클라우드 의존 지운 휴머노이드...노타, 온디바이스 AI로 실시간 제어 한계 넘는다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaRTc2dmpPLU1VMFhNMWgybEhyZmhPSG1pTVBCSm5HdERrV2otNzVSM1VmMzBoUHhDZXpEbkx5TGhVZGQ5QWw4aDAwSW1vZFJYQmVUZ1JtdlkwTWNYbFJF?oc=5",
       "snippet": "",
-      "source": "hellot.net",
+      "source": "헬로티",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 03:26:37 GMT"
     },
     {
       "type": "news",
-      "title": "[뉴스 속 경제용어] 뉴스에 등장한 '피지컬 AI'…로봇과 무엇이 다른가 - 폴리뉴스 Polinews",
+      "title": "마음AI 손병희 대표, ‘스마트시티엑스포’서 피지컬 AI 미래 제시 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OcERjVklsc0hHTVhyclBjY1dpUDZ2aEdKT1dGSU1Mc0tQUl9jSEthNzlYYWlac2Q3WE93eTZkaGZITkhQZWxBRzg1M0xKLTJFUDZUNmUxa0YzSnFtcW1ySGlnODJWQUxRQUthZw?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 08:58:49 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[뉴스 속 경제용어] 뉴스에 등장한 '피지컬 AI'…로봇과 무엇이 다른가 - polinews.co.kr",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBySVRoRW40dFNxcmIwTVVUaGxwTnoyeUFUcG9oY242alZxUERtSWJ6SUYxLVVWVnYwMGYtVEJFWF9Qa0lTWW9SS3pSR3hXZk9Gdk1kaDF6bVRUWmg0QmZtUmd1OFhGR1BHb2NyYm5rNS1iZ9IBckFVX3lxTFBySVRoRW40dFNxcmIwTVVUaGxwTnoyeUFUcG9oY242alZxUERtSWJ6SUYxLVVWVnYwMGYtVEJFWF9Qa0lTWW9SS3pSR3hXZk9Gdk1kaDF6bVRUWmg0QmZtUmd1OFhGR1BHb2NyYm5rNS1iZw?oc=5",
       "snippet": "",
-      "source": "폴리뉴스 Polinews",
+      "source": "polinews.co.kr",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 00:02:32 GMT"
     },
     {
       "type": "news",
-      "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1keEN5NzZYUmQ2cU9leEMtWkZLbnZoaHpOOTZOajR6eDlRWjExSFY0NVd2LUJ4Rm9uU1ZVM3ZveUxjZ2w4djlhcUZxZDFvajQ?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 10:56:50 GMT"
-    },
-    {
-      "type": "news",
-      "title": "한성대 '피지컬 AI' 키운다…AI와 기계·로봇 결합한 신설학과 '첫선' - 교수신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VRGZhVjFwYzlNMXpyZkNzME5id3RGVHBOMHg4cHZUVEFLY29ObFhiNk9kdHl0RXE1dENtLTBFOVdFT2dJMHhyZmQzMFRvdVlab0d6d21RYnE3UjFDcV9OWVZXTk1hWVk?oc=5",
-      "snippet": "",
-      "source": "교수신문",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 08:29:05 GMT"
-    },
-    {
-      "type": "news",
-      "title": "기계연, 피지컬AI 데이터 팩토리 구축… 휴머노이드 25대 동시 운영 - FA저널",
+      "title": "기계연, 피지컬AI 데이터 팩토리 구축… 휴머노이드 25대 동시 운영 - fajournal.com",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KdS15MHZ1X2JJejRXeGtVVzhMaXBEdlE2RUozRnRBaDZzUUNSVm5xWVVpaXZ2UXBxeC0yRlIwZ09ZdDdyQU12TjAtbkpmVFlVRG9NRDRmaDZWSlhLeXZqb1VWRy0zaE5NTWNv?oc=5",
       "snippet": "",
-      "source": "FA저널",
+      "source": "fajournal.com",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 08:58:03 GMT"
     },
     {
       "type": "news",
-      "title": "마음AI, '행동하는 도시' 제시…4족보행 로봇과 스마트시티 공략 - 팝콘뉴스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rSmxialhTN3dMenQ2a2RXWlA3QlBrNTFWbE9TNEpaeUxJMk1uQ3R1ZzQtSmJ0WjRiWEI1WDhjcVVCYnRrbms1MHljeFlOTGhpR3Jldzg4VUgzSVA2Z1pQWFRid2dUM1ZJQkduaWNDZ9IBckFVX3lxTE16U1FNR0Fxc1hCdDhKY3RNRFVPTnpsdkR3N1g5UG5nSFl2eGZMTEt2NHlFZVhuREF0b0lZSENIMGhKaDVrcVI2RHBzZlk4MTZwdlQ4MU9RQV8zRUFlQ0VqcjRqZUtWTzQ1Y1pXbXJiTnE0dw?oc=5",
+      "title": "한성대 '피지컬 AI' 키운다…AI와 기계·로봇 결합한 신설학과 '첫선' - kyosu.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VRGZhVjFwYzlNMXpyZkNzME5id3RGVHBOMHg4cHZUVEFLY29ObFhiNk9kdHl0RXE1dENtLTBFOVdFT2dJMHhyZmQzMFRvdVlab0d6d21RYnE3UjFDcV9OWVZXTk1hWVk?oc=5",
       "snippet": "",
-      "source": "팝콘뉴스",
+      "source": "kyosu.net",
       "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 08:17:12 GMT"
+      "pub_date": "Wed, 09 Sep 2026 08:29:05 GMT"
+    },
+    {
+      "type": "news",
+      "title": "Arm, 로봇 시스템의 역량 정의 및 발전 위한 공통 기준 마련해 - elec4",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15OGRQRld2LWxUNVJhSjRsb25jQUhTWWNIaVNJS2hBV1lwWUdHeEVqSTJmeU9uNzNjcVZYNENuaVFySmhlYXlmdTVfMy1iR1VLT2xQRXlkNFY3T3Rqb3ZSWWxodXowYXo3a21RS0Zn?oc=5",
+      "snippet": "",
+      "source": "elec4",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 16:02:41 GMT"
     }
   ]
 }
