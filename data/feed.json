@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:39:01Z",
+  "updated_at": "2026-09-09T20:56:28Z",
   "papers": [
     {
       "type": "paper",
@@ -116,6 +116,15 @@
     },
     {
       "type": "news",
+      "title": "“AI·로봇이 바꾸는 서울의 일상”…서울시, ‘SLK 2026’ 내달 6~8일 개최 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1d0RsOGxjOVdKUHVwYW5COW04UkI3TERlb2t3QjhMbnJGX3NTV05OVWIzN3EzdzA2cUFyTEtzajNkYlFQLVprRVVBT0V4UFBfNkdpUDFjNmI3R1R1X1gxb2lTV184U2NVelA0Uw?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 07:05:46 GMT"
+    },
+    {
+      "type": "news",
       "title": "클라우드 의존 지운 휴머노이드...노타, 온디바이스 AI로 실시간 제어 한계 넘는다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaRTc2dmpPLU1VMFhNMWgybEhyZmhPSG1pTVBCSm5HdERrV2otNzVSM1VmMzBoUHhDZXpEbkx5TGhVZGQ5QWw4aDAwSW1vZFJYQmVUZ1JtdlkwTWNYbFJF?oc=5",
       "snippet": "",
@@ -125,48 +134,39 @@
     },
     {
       "type": "news",
-      "title": "마음AI 손병희 대표, ‘스마트시티엑스포’서 피지컬 AI 미래 제시 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OcERjVklsc0hHTVhyclBjY1dpUDZ2aEdKT1dGSU1Mc0tQUl9jSEthNzlYYWlac2Q3WE93eTZkaGZITkhQZWxBRzg1M0xKLTJFUDZUNmUxa0YzSnFtcW1ySGlnODJWQUxRQUthZw?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 08:58:49 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[뉴스 속 경제용어] 뉴스에 등장한 '피지컬 AI'…로봇과 무엇이 다른가 - polinews.co.kr",
+      "title": "[뉴스 속 경제용어] 뉴스에 등장한 '피지컬 AI'…로봇과 무엇이 다른가 - 폴리뉴스 Polinews",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBySVRoRW40dFNxcmIwTVVUaGxwTnoyeUFUcG9oY242alZxUERtSWJ6SUYxLVVWVnYwMGYtVEJFWF9Qa0lTWW9SS3pSR3hXZk9Gdk1kaDF6bVRUWmg0QmZtUmd1OFhGR1BHb2NyYm5rNS1iZ9IBckFVX3lxTFBySVRoRW40dFNxcmIwTVVUaGxwTnoyeUFUcG9oY242alZxUERtSWJ6SUYxLVVWVnYwMGYtVEJFWF9Qa0lTWW9SS3pSR3hXZk9Gdk1kaDF6bVRUWmg0QmZtUmd1OFhGR1BHb2NyYm5rNS1iZw?oc=5",
       "snippet": "",
-      "source": "polinews.co.kr",
+      "source": "폴리뉴스 Polinews",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 00:02:32 GMT"
     },
     {
       "type": "news",
-      "title": "기계연, 피지컬AI 데이터 팩토리 구축… 휴머노이드 25대 동시 운영 - fajournal.com",
+      "title": "'피지컬 AI' 앞세운 엑스텐드, 뉴욕증권거래소 오프닝 벨 타종 - g-enews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0RWcndTV2ZqZ0ItYzBuTDV4NmZYQzUzR3cyOWh6QWkwUzduMDdLQXpaM0EybFFwQUhScGlDZ3ZpdWk4cG1XZEZsNnZiSWVVWGlnTmR4U0dFTUNYMUIwVzdmUGtraEF5dXMtNEhPWHg5WExocWdzM1d2WUNiVjVLYlY0ZVBveHBW?oc=5",
+      "snippet": "",
+      "source": "g-enews.com",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 18:40:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
+      "snippet": "",
+      "source": "철강금속신문",
+      "categories": [],
+      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
+    },
+    {
+      "type": "news",
+      "title": "기계연, 피지컬AI 데이터 팩토리 구축… 휴머노이드 25대 동시 운영 - FA저널",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KdS15MHZ1X2JJejRXeGtVVzhMaXBEdlE2RUozRnRBaDZzUUNSVm5xWVVpaXZ2UXBxeC0yRlIwZ09ZdDdyQU12TjAtbkpmVFlVRG9NRDRmaDZWSlhLeXZqb1VWRy0zaE5NTWNv?oc=5",
       "snippet": "",
-      "source": "fajournal.com",
+      "source": "FA저널",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 08:58:03 GMT"
-    },
-    {
-      "type": "news",
-      "title": "한성대 '피지컬 AI' 키운다…AI와 기계·로봇 결합한 신설학과 '첫선' - kyosu.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VRGZhVjFwYzlNMXpyZkNzME5id3RGVHBOMHg4cHZUVEFLY29ObFhiNk9kdHl0RXE1dENtLTBFOVdFT2dJMHhyZmQzMFRvdVlab0d6d21RYnE3UjFDcV9OWVZXTk1hWVk?oc=5",
-      "snippet": "",
-      "source": "kyosu.net",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 08:29:05 GMT"
-    },
-    {
-      "type": "news",
-      "title": "Arm, 로봇 시스템의 역량 정의 및 발전 위한 공통 기준 마련해 - elec4",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15OGRQRld2LWxUNVJhSjRsb25jQUhTWWNIaVNJS2hBV1lwWUdHeEVqSTJmeU9uNzNjcVZYNENuaVFySmhlYXlmdTVfMy1iR1VLT2xQRXlkNFY3T3Rqb3ZSWWxodXowYXo3a21RS0Zn?oc=5",
-      "snippet": "",
-      "source": "elec4",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 16:02:41 GMT"
     }
   ]
 }
