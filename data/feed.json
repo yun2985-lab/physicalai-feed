@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T20:56:28Z",
+  "updated_at": "2026-09-09T23:15:23Z",
   "papers": [
     {
       "type": "paper",
@@ -116,6 +116,15 @@
     },
     {
       "type": "news",
+      "title": "[봇규가 간다] 기업 아닌 출연연이 휴머노이드를 만들면?...KIMM ‘카이로스’ 해부하다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVVRuM0dERW1pbHROU2tZN0g0c3NKeHBzSTg0RUxlcWNFMkZkM2pFbFpnTHNnNTlPX1dMelpmYkxaMUZFeXM3SkdSOTZNSnlCMFdIRWsxT1ZPaU5XNV9V?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 09:21:19 GMT"
+    },
+    {
+      "type": "news",
       "title": "“AI·로봇이 바꾸는 서울의 일상”…서울시, ‘SLK 2026’ 내달 6~8일 개최 - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1d0RsOGxjOVdKUHVwYW5COW04UkI3TERlb2t3QjhMbnJGX3NTV05OVWIzN3EzdzA2cUFyTEtzajNkYlFQLVprRVVBT0V4UFBfNkdpUDFjNmI3R1R1X1gxb2lTV184U2NVelA0Uw?oc=5",
       "snippet": "",
@@ -125,28 +134,10 @@
     },
     {
       "type": "news",
-      "title": "클라우드 의존 지운 휴머노이드...노타, 온디바이스 AI로 실시간 제어 한계 넘는다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaRTc2dmpPLU1VMFhNMWgybEhyZmhPSG1pTVBCSm5HdERrV2otNzVSM1VmMzBoUHhDZXpEbkx5TGhVZGQ5QWw4aDAwSW1vZFJYQmVUZ1JtdlkwTWNYbFJF?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 03:26:37 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[뉴스 속 경제용어] 뉴스에 등장한 '피지컬 AI'…로봇과 무엇이 다른가 - 폴리뉴스 Polinews",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBySVRoRW40dFNxcmIwTVVUaGxwTnoyeUFUcG9oY242alZxUERtSWJ6SUYxLVVWVnYwMGYtVEJFWF9Qa0lTWW9SS3pSR3hXZk9Gdk1kaDF6bVRUWmg0QmZtUmd1OFhGR1BHb2NyYm5rNS1iZ9IBckFVX3lxTFBySVRoRW40dFNxcmIwTVVUaGxwTnoyeUFUcG9oY242alZxUERtSWJ6SUYxLVVWVnYwMGYtVEJFWF9Qa0lTWW9SS3pSR3hXZk9Gdk1kaDF6bVRUWmg0QmZtUmd1OFhGR1BHb2NyYm5rNS1iZw?oc=5",
-      "snippet": "",
-      "source": "폴리뉴스 Polinews",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 00:02:32 GMT"
-    },
-    {
-      "type": "news",
-      "title": "'피지컬 AI' 앞세운 엑스텐드, 뉴욕증권거래소 오프닝 벨 타종 - g-enews.com",
+      "title": "'피지컬 AI' 앞세운 엑스텐드, 뉴욕증권거래소 오프닝 벨 타종 - 글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0RWcndTV2ZqZ0ItYzBuTDV4NmZYQzUzR3cyOWh6QWkwUzduMDdLQXpaM0EybFFwQUhScGlDZ3ZpdWk4cG1XZEZsNnZiSWVVWGlnTmR4U0dFTUNYMUIwVzdmUGtraEF5dXMtNEhPWHg5WExocWdzM1d2WUNiVjVLYlY0ZVBveHBW?oc=5",
       "snippet": "",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 18:40:00 GMT"
     },
@@ -167,6 +158,15 @@
       "source": "FA저널",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 08:58:03 GMT"
+    },
+    {
+      "type": "news",
+      "title": "한성대 '피지컬 AI' 키운다…AI와 기계·로봇 결합한 신설학과 '첫선' - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VRGZhVjFwYzlNMXpyZkNzME5id3RGVHBOMHg4cHZUVEFLY29ObFhiNk9kdHl0RXE1dENtLTBFOVdFT2dJMHhyZmQzMFRvdVlab0d6d21RYnE3UjFDcV9OWVZXTk1hWVk?oc=5",
+      "snippet": "",
+      "source": "교수신문",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 08:29:05 GMT"
     }
   ]
 }
