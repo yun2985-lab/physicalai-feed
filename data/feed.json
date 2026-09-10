@@ -1,101 +1,132 @@
 {
-  "updated_at": "2026-09-09T23:15:23Z",
+  "updated_at": "2026-09-10T04:43:50Z",
   "papers": [
     {
       "type": "paper",
-      "title": "Observability Analysis of Joint Steering and Extrinsic Calibration",
-      "url": "https://arxiv.org/abs/2609.05498",
-      "snippet": "This technical report studies the local weak observability of a planar bicycle-model vehicle when vehicle pose, planar LiDAR extrinsic calibration, and steering-angle bias are estimated jointly. A Lie-derivative-based…",
+      "title": "Identifying Habit, Physics, and Nuisance in Robot World Models",
+      "url": "https://arxiv.org/abs/2609.09210",
+      "snippet": "Teleoperated demonstrations are often multimodal even when the underlying dynamics are nearly deterministic given the executed action. We argue that this multimodality typically mixes three factors--operator habit in…",
       "source": "arXiv cs.RO",
       "categories": [
-        "cs.RO"
+        "cs.RO",
+        "cs.CV"
       ],
-      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 10 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Multi-robot Learning-based Informative Path Planning Using Spatio-Temporal Gaussian Process Kalman Filter",
-      "url": "https://arxiv.org/abs/2609.05515",
-      "snippet": "Multi-robot informative path planning (IPP) for persistent target monitoring requires robots to reason about spatial uncertainty, temporal evolution, and practical sensing and communication constraints. Recent…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Robots Influencing Humans to Reveal their Goals during Collaboration and Competition",
-      "url": "https://arxiv.org/abs/2609.05519",
-      "snippet": "We propose a unified strategy for fast goal inference in human-robot interaction. The core idea is to drive the human toward Critical Decision Points (CDPs)-states where competing human strategies prescribe different…",
+      "title": "Geometry Conditioning in an Embodied SLM: Training Controls and Robustness Diagnostics in a 0.8B Hybrid Model",
+      "url": "https://arxiv.org/abs/2609.09213",
+      "snippet": "We study how physical-state inputs affect a 0.8B hybrid language model adapted for manipulation with 6.2M trainable parameters. Six conditions are trained on three LIBERO-Spatial tasks and evaluated over three seeds and…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.AI"
       ],
-      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 10 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Situation Awareness for Intelligent Data Distribution in Connected Vehicles",
-      "url": "https://arxiv.org/abs/2609.05521",
-      "snippet": "The limitations of on-board sensors and blind spots caused by occlusion cause the reduction of perception quality in autonomous vehicles. In such cases, cooperative perception provides additional data via…",
+      "title": "Design and Attitude Control of an Underwater Quadruped Robot",
+      "url": "https://arxiv.org/abs/2609.09217",
+      "snippet": "Legged robots are versatile on land, but their use in underwater environments remains limited. Extending quadruped locomotion to water enables amphibious mobility with applications in inspection, environmental…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Learning to Fly: Stable Vision-Guided UAV Servoing with Compact Target-Centric Cues and Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.09234",
+      "snippet": "Vision-guided reinforcement learning for Unmanned Aerial Vehicles (UAVs) remains challenging due to unstable policy optimisation, aggressive exploration, and the cost of high-dimensional visual perception. In this work,…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "pub_date": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "No Free Checker: A Survey of Verifiers for Robot Policies",
+      "url": "https://arxiv.org/abs/2609.09250",
+      "snippet": "A verifier for robot policies reads a candidate behavior and returns a score for how well it did, used both to evaluate vision-language-action policies and to train them. Verifiers range from success detectors and…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.AI",
         "cs.CV"
       ],
-      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 10 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Information-Guided Safe Reinforcement Learning for Autonomous Gas Source Localization using sUAS",
-      "url": "https://arxiv.org/abs/2609.05569",
-      "snippet": "The autonomous localization of fugitive gas emissions using small Unmanned Aircraft Systems (sUAS) constitutes a fundamentally ill-posed inverse problem. In turbulent atmospheric boundary layers, highly intermittent…",
+      "title": "AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones",
+      "url": "https://arxiv.org/abs/2609.09380",
+      "snippet": "Unlocking the potential of tiny aerial robots requires order of magnitude improvements in the performance of embedded edge control. In particular, although recent cached model predictive control (MPC) solvers can handle…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "pub_date": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "A Decade of Bayesian Optimization for Controller Tuning and Robot Learning: Tutorial, Review, and Future Prospects",
+      "url": "https://arxiv.org/abs/2609.09403",
+      "snippet": "In the past decade, Bayesian optimization (BO) has emerged as a powerful and adaptable framework for automatic controller tuning and robot learning. This article offers a comprehensive overview of the state-of-the-art…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.SY",
+        "eess.SY"
+      ],
+      "pub_date": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning",
+      "url": "https://arxiv.org/abs/2609.09492",
+      "snippet": "Reinforcement learning has produced capable controllers across a broad range of legged-robot tasks, but a subset of these tasks fail to converge under standard training: those for which most exploration trajectories…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Benchmarking Dexterity of Multifingered Robot Hands: A Review and Perspective",
-      "url": "https://arxiv.org/abs/2609.05585",
-      "snippet": "Robot hands are a key interface between AI and the physical world, making advances in robotic dexterity essential to realizing the vision of physical AI. While impressive dexterity has been demonstrated with simple…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2609.05588",
-      "snippet": "World-action models (WAM) predict future states to guide robot actions, enabling learning from both action-free video and action-labeled interaction. Most inherit pretrained video generators, leaving WAM pretraining and…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Adaptive Cost-Sensitive Machine Learning for Autonomous Robot Navigation Failure Prediction: When Not All Errors Are Equal",
-      "url": "https://arxiv.org/abs/2609.05593",
-      "snippet": "Autonomous robot navigation failures differ not only in categorical severity but also in the physical context in which they occur. A near-miss at low speed under reliable sensing is not equivalent to the same event…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.AI"
-      ],
-      "pub_date": "Wed, 09 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 10 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
+    {
+      "type": "news",
+      "title": "포항영일만산단에 1800억 원 규모 '피지컬 AI 로봇 파운드리' 구축 시동 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DZHFROHZpVTB1cDNHc05aaTJTM2JXamdjODVuZTdBRm04R2JMVGtaREs3UmpRX1RtZl9uY2RnNEcwZjNtR3YtZmRFTURoZw?oc=5",
+      "snippet": "",
+      "source": "전자신문",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 02:00:56 GMT"
+    },
+    {
+      "type": "news",
+      "title": "교보증권 \"핑거, 피지컬 AI 기업으로 변신한다\" - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTW1TVGhadjZBeU9ReWtPRGxlelRwalJiN0QzYk5sSzJWQlF3eFBjWFJkZnhIUFQ1b0hzaEhINk5yeVo2akNQUlYtR2ZUSm5GT2lOOHluaFRCb09YR2JDUEdhbHB2YW9zMlh6NA?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 03:00:56 GMT"
+    },
+    {
+      "type": "news",
+      "title": "포항 영일만산단에 국내 최초 ‘피지컬 AI 로봇 파운드리’ 들어선다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3d0FISGdMVTRBUklBR1djTXUzRy1jdllwZ2FOdnNNRnNfQk84bWVkSExVenJUcjlySFVPRmREYXNXVk9OR1JJVnJyTWNHeWM?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 01:54:56 GMT"
+    },
     {
       "type": "news",
       "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도 - 지디넷코리아",
@@ -104,6 +135,15 @@
       "source": "지디넷코리아",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 10:54:45 GMT"
+    },
+    {
+      "type": "news",
+      "title": "포항 영일만산단에 ‘피지컬 AI 로봇 파운드리’ 구축...1,800억원 규모 - 위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yRjNDZHdJZWE3Q3J6M2dGNHZYUWVPbEZBOVQ4bUVTVkRaYm5yTlZOdkd3SWUtNUl5TDgtWW85cGFGRk5tNVJPVTdZQ1pSM1U4b3NuN3Rn?oc=5",
+      "snippet": "",
+      "source": "위키트리",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 01:50:00 GMT"
     },
     {
       "type": "news",
@@ -116,33 +156,6 @@
     },
     {
       "type": "news",
-      "title": "[봇규가 간다] 기업 아닌 출연연이 휴머노이드를 만들면?...KIMM ‘카이로스’ 해부하다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVVRuM0dERW1pbHROU2tZN0g0c3NKeHBzSTg0RUxlcWNFMkZkM2pFbFpnTHNnNTlPX1dMelpmYkxaMUZFeXM3SkdSOTZNSnlCMFdIRWsxT1ZPaU5XNV9V?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 09:21:19 GMT"
-    },
-    {
-      "type": "news",
-      "title": "“AI·로봇이 바꾸는 서울의 일상”…서울시, ‘SLK 2026’ 내달 6~8일 개최 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1d0RsOGxjOVdKUHVwYW5COW04UkI3TERlb2t3QjhMbnJGX3NTV05OVWIzN3EzdzA2cUFyTEtzajNkYlFQLVprRVVBT0V4UFBfNkdpUDFjNmI3R1R1X1gxb2lTV184U2NVelA0Uw?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 07:05:46 GMT"
-    },
-    {
-      "type": "news",
-      "title": "'피지컬 AI' 앞세운 엑스텐드, 뉴욕증권거래소 오프닝 벨 타종 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0RWcndTV2ZqZ0ItYzBuTDV4NmZYQzUzR3cyOWh6QWkwUzduMDdLQXpaM0EybFFwQUhScGlDZ3ZpdWk4cG1XZEZsNnZiSWVVWGlnTmR4U0dFTUNYMUIwVzdmUGtraEF5dXMtNEhPWHg5WExocWdzM1d2WUNiVjVLYlY0ZVBveHBW?oc=5",
-      "snippet": "",
-      "source": "글로벌이코노믹",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 18:40:00 GMT"
-    },
-    {
-      "type": "news",
       "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
       "snippet": "",
@@ -152,21 +165,12 @@
     },
     {
       "type": "news",
-      "title": "기계연, 피지컬AI 데이터 팩토리 구축… 휴머노이드 25대 동시 운영 - FA저널",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KdS15MHZ1X2JJejRXeGtVVzhMaXBEdlE2RUozRnRBaDZzUUNSVm5xWVVpaXZ2UXBxeC0yRlIwZ09ZdDdyQU12TjAtbkpmVFlVRG9NRDRmaDZWSlhLeXZqb1VWRy0zaE5NTWNv?oc=5",
+      "title": "유일로보틱스·SK온, 휴머노이드 상용화의 마지막 퍼즐 맞춘다…'피지컬 AI 심장' 선점 - 프라임경제",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SZ1ZMMUpTR2YyS3BKWEExZWo0Mkp1eXBERG14MGpIX3hnSnhpV0tQVmJuWndITjB5TGJnamtEYnN2QWFlY2Jzc3p1bjFQTzN0QnBEMURFQXJwSHl0STlFdjdyWQ?oc=5",
       "snippet": "",
-      "source": "FA저널",
+      "source": "프라임경제",
       "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 08:58:03 GMT"
-    },
-    {
-      "type": "news",
-      "title": "한성대 '피지컬 AI' 키운다…AI와 기계·로봇 결합한 신설학과 '첫선' - 교수신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VRGZhVjFwYzlNMXpyZkNzME5id3RGVHBOMHg4cHZUVEFLY29ObFhiNk9kdHl0RXE1dENtLTBFOVdFT2dJMHhyZmQzMFRvdVlab0d6d21RYnE3UjFDcV9OWVZXTk1hWVk?oc=5",
-      "snippet": "",
-      "source": "교수신문",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 08:29:05 GMT"
+      "pub_date": "Wed, 09 Sep 2026 23:05:04 GMT"
     }
   ]
 }
