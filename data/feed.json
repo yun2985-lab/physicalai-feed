@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T20:53:00Z",
+  "updated_at": "2026-09-10T23:11:15Z",
   "papers": [
     {
       "type": "paper",
@@ -102,6 +102,15 @@
   "news": [
     {
       "type": "news",
+      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbkF6X2hTY2xZdURpdDJLSmkzaUc2MU9TWXJPNlNBYWh4ZDEtQWU2WDBiTGxtS1dLaVJFampxSUNuckg0Zl9QNHQ2VTNzRDRQUlVXTGFBYnp4SmYycUFBelVmRVhJbDRLMXRjOWRIOENKWFV4UWQ40gF3QVVfeXFMT2FuQXpfaFNjbFl1RGl0MktKaTNpRzYxT1NZck82U0FhaHhkMS1BZTZYMGJMbG1LV0tpUkVqanFJQ25ySDRmX1A0dDZVM3NENFBSVVdMYUFienhKZjJxQUF6VWZFWElsNEsxdGM5ZEg4Q0pYVXhRZDg?oc=5",
+      "snippet": "",
+      "source": "스트레이트뉴스",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 06:25:44 GMT"
+    },
+    {
+      "type": "news",
       "title": "[패트롤] 포항시-영덕군 - 에너지경제신문",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fa2hrcFRlbEVEWUNaNFdYdE9wOTQ4QndYOXJPcVJ0d1YxcFN2SFc2allJNkdsMXFzNGs3OFI2bG52Y09OcTBTb2JMRHhkY1hic1R2WFZsSzc0Z1U?oc=5",
       "snippet": "",
@@ -120,21 +129,12 @@
     },
     {
       "type": "news",
-      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXTlNtLTRvTGVhQzFTX29FTzl3YjhwVmpjQVVpUXpiSS1MUVgtOEF1Nlp5QU1DQW45dldWdTZ4NmVlX25tYUNGOEFUWVM5MnoyZl9Bd201cGJoZHRnWm5DT0pBM3BMcVNybFg0VEtyaEk3dDTSAXdBVV95cUxPYW5Bel9oU2NsWXVEaXQyS0ppM2lHNjFPU1lyTzZTQWFoeGQxLUFlNlgwYkxsbUtXS2lSRWpqcUlDbnJINGZfUDR0NlUzc0Q0UFJVV0xhQWJ6eEpmMnFBQXpVZkVYSWw0SzF0YzlkSDhDSlhVeFFkOA?oc=5",
+      "title": "포항시, 영일만산단에 국내 첫 피지컬 AI 로봇 파운드리 구축 - 시사경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSWhMWEcxcVM1b2YwSlpwbDNST3VxdjZOd2QwU1VmN1FsVlgyYzBIVGdZcGFabFRGdUlNUmJXeDFjcGUtREdhek5aOTZ6a3NDRHI4VTBNbHNaSTRkREx5TVdFLWdiNFFFY1HSAWxBVV95cUxPQkRnSDdRNFBzZFlJSXA2aGExYTZUMV9QTnF0Q2lFeUNaUldhQVE3WTM3ZHFVWms1YVZoZG1aX0o3SE83WTVGQzNSaFd6R28tcHVjaW45Mm05ZVN4bEExLUVpOGFXVUZKam5Ma0k?oc=5",
       "snippet": "",
-      "source": "스트레이트뉴스",
+      "source": "시사경제신문",
       "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 05:56:03 GMT"
-    },
-    {
-      "type": "news",
-      "title": "교보증권 \"핑거, 피지컬 AI 기업으로 변신한다\" - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTW1TVGhadjZBeU9ReWtPRGxlelRwalJiN0QzYk5sSzJWQlF3eFBjWFJkZnhIUFQ1b0hzaEhINk5yeVo2akNQUlYtR2ZUSm5GT2lOOHluaFRCb09YR2JDUEdhbHB2YW9zMlh6NA?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 03:00:56 GMT"
+      "pub_date": "Thu, 10 Sep 2026 12:55:47 GMT"
     },
     {
       "type": "news",
@@ -156,21 +156,21 @@
     },
     {
       "type": "news",
-      "title": "영일만산단에 1,800억 원 규모 '피지컬 AI 로봇 파운드리' 구축… 포항시-경북도-㈜뉴로메카, MOU 체결 - 폴리뉴스 Polinews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JN3JZWnpsTHRGWnVfcTlTWXZNcEd3X3FEOHlfUDJoQ0NybWM3QkNpeGExczg0LW9hSEpvX2N1ampHTVF4ZlY1VDU5aC1fNEV2c3REMlVVSklFTFhaX1I0MnRTVVEtVlpoV293NklR0gFyQVVfeXFMTl9mMnM4TGJXM1l1aFJ4QV9HYmhqNzJQSnZwLTdZcUd3Sk9LZGFvYVVDUWRjaDdqbmlybDZwWjZwVlNEb0RMQnowNmZaZzZwbTJWVjktc0ZmZGQtNVdzaGZxVEtzQTFNNVZyS2xOWENDUnd3?oc=5",
+      "title": "교보증권 \"핑거, 피지컬 AI 기업으로 변신한다\" - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTW1TVGhadjZBeU9ReWtPRGxlelRwalJiN0QzYk5sSzJWQlF3eFBjWFJkZnhIUFQ1b0hzaEhINk5yeVo2akNQUlYtR2ZUSm5GT2lOOHluaFRCb09YR2JDUEdhbHB2YW9zMlh6NA?oc=5",
       "snippet": "",
-      "source": "폴리뉴스 Polinews",
+      "source": "로봇신문",
       "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 08:22:22 GMT"
+      "pub_date": "Thu, 10 Sep 2026 03:00:56 GMT"
     },
     {
       "type": "news",
-      "title": "포항 영일만산단에 국내 첫 ‘피지컬 AI 로봇 파운드리’ 들어선다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80dV80dnVaTDkzNFlSenlrcGdVdkoxdkM4NGdYbWs0enZVOGRPakM1NjB3QkxReDFPUmRmSDlwX2llWWlPQzFHY1RTV2EyaUE?oc=5",
+      "title": "포항 영일만산단에 국내 최초 ‘피지컬 AI 로봇 파운드리’ 들어선다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jU2NpZXFfa3M4UGRtM2lFQ1JPOVFkWGdnRnd5dEFGbEhTV3ROVVZMY0NBZkN2N2F4QWFBTnZnWXNhRVlEQ0E?oc=5",
       "snippet": "",
       "source": "v.daum.net",
       "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 03:18:51 GMT"
+      "pub_date": "Thu, 10 Sep 2026 01:54:00 GMT"
     }
   ]
 }
