@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T04:43:50Z",
+  "updated_at": "2026-09-10T11:20:54Z",
   "papers": [
     {
       "type": "paper",
@@ -102,6 +102,15 @@
   "news": [
     {
       "type": "news",
+      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbkF6X2hTY2xZdURpdDJLSmkzaUc2MU9TWXJPNlNBYWh4ZDEtQWU2WDBiTGxtS1dLaVJFampxSUNuckg0Zl9QNHQ2VTNzRDRQUlVXTGFBYnp4SmYycUFBelVmRVhJbDRLMXRjOWRIOENKWFV4UWQ40gF3QVVfeXFMT2FuQXpfaFNjbFl1RGl0MktKaTNpRzYxT1NZck82U0FhaHhkMS1BZTZYMGJMbG1LV0tpUkVqanFJQ25ySDRmX1A0dDZVM3NENFBSVVdMYUFienhKZjJxQUF6VWZFWElsNEsxdGM5ZEg4Q0pYVXhRZDg?oc=5",
+      "snippet": "",
+      "source": "스트레이트뉴스",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 06:25:44 GMT"
+    },
+    {
+      "type": "news",
       "title": "포항영일만산단에 1800억 원 규모 '피지컬 AI 로봇 파운드리' 구축 시동 - 전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DZHFROHZpVTB1cDNHc05aaTJTM2JXamdjODVuZTdBRm04R2JMVGtaREs3UmpRX1RtZl9uY2RnNEcwZjNtR3YtZmRFTURoZw?oc=5",
       "snippet": "",
@@ -116,34 +125,43 @@
       "snippet": "",
       "source": "로봇신문",
       "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 03:00:56 GMT"
+      "pub_date": "Thu, 10 Sep 2026 08:48:31 GMT"
     },
     {
       "type": "news",
-      "title": "포항 영일만산단에 국내 최초 ‘피지컬 AI 로봇 파운드리’ 들어선다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3d0FISGdMVTRBUklBR1djTXUzRy1jdllwZ2FOdnNNRnNfQk84bWVkSExVenJUcjlySFVPRmREYXNXVk9OR1JJVnJyTWNHeWM?oc=5",
+      "title": "영일만산단에 1,800억 원 규모 '피지컬 AI 로봇 파운드리' 구축… 포항시-경북도-㈜뉴로메카, MOU 체결 - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JN3JZWnpsTHRGWnVfcTlTWXZNcEd3X3FEOHlfUDJoQ0NybWM3QkNpeGExczg0LW9hSEpvX2N1ampHTVF4ZlY1VDU5aC1fNEV2c3REMlVVSklFTFhaX1I0MnRTVVEtVlpoV293NklR0gFyQVVfeXFMTl9mMnM4TGJXM1l1aFJ4QV9HYmhqNzJQSnZwLTdZcUd3Sk9LZGFvYVVDUWRjaDdqbmlybDZwWjZwVlNEb0RMQnowNmZaZzZwbTJWVjktc0ZmZGQtNVdzaGZxVEtzQTFNNVZyS2xOWENDUnd3?oc=5",
+      "snippet": "",
+      "source": "폴리뉴스 Polinews",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 08:22:22 GMT"
+    },
+    {
+      "type": "news",
+      "title": "포항 영일만산단에 국내 첫 ‘피지컬 AI 로봇 파운드리’ 들어선다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80dV80dnVaTDkzNFlSenlrcGdVdkoxdkM4NGdYbWs0enZVOGRPakM1NjB3QkxReDFPUmRmSDlwX2llWWlPQzFHY1RTV2EyaUE?oc=5",
       "snippet": "",
       "source": "v.daum.net",
       "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 01:54:56 GMT"
+      "pub_date": "Thu, 10 Sep 2026 03:18:51 GMT"
     },
     {
       "type": "news",
-      "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aVWNVdEUtcU4zQmNVakQ0N2MxVnVOSVdocXVrcGVrMk9ReDVsZ0FqU3A3dElNWXd3SmFvTndxTXpnR3JVa1lEb0t4dFNvcDNZRXZiblB3?oc=5",
+      "title": "포항 영일만산단에 1800억 규모 ‘피지컬 AI 로봇 파운드리’ 추진 - 뉴스타운",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05X3FHMWViZnl1MVhtdjNMR3kzWWJQcGwzRXZkd1p0QjB6bjVqdWdZVHZYeUQ1LW1KMm5zbGpZVzBiM3hQUUlQRWk3UHFEYjlJOGE0dG83bkRDODBfNHpYWW96bV9rRE1XalBsM2Nn?oc=5",
       "snippet": "",
-      "source": "지디넷코리아",
+      "source": "뉴스타운",
       "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 10:54:45 GMT"
+      "pub_date": "Thu, 10 Sep 2026 09:41:12 GMT"
     },
     {
       "type": "news",
-      "title": "포항 영일만산단에 ‘피지컬 AI 로봇 파운드리’ 구축...1,800억원 규모 - 위키트리",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yRjNDZHdJZWE3Q3J6M2dGNHZYUWVPbEZBOVQ4bUVTVkRaYm5yTlZOdkd3SWUtNUl5TDgtWW85cGFGRk5tNVJPVTdZQ1pSM1U4b3NuN3Rn?oc=5",
+      "title": "공간제작소, 빅웨이브로보틱스와 맞손…건설 공정 ‘휴머노이드 자동화’ 추진 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6VnduQ0x5Rkp0TWpvOWpES1Job2lWS3JWWXdQS1dRVzJEUTBWQTF5Qk0tXzVoY1ZlLWxPMmM3VlpiQVFFc25keHpFSVlITnM1QzVsYUhRd2tWd0tfZkNnbS1nU0U?oc=5",
       "snippet": "",
-      "source": "위키트리",
+      "source": "서울경제TV",
       "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 01:50:00 GMT"
+      "pub_date": "Thu, 10 Sep 2026 05:54:14 GMT"
     },
     {
       "type": "news",
@@ -153,24 +171,6 @@
       "source": "연합뉴스",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 02:15:03 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
-      "snippet": "",
-      "source": "철강금속신문",
-      "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
-    },
-    {
-      "type": "news",
-      "title": "유일로보틱스·SK온, 휴머노이드 상용화의 마지막 퍼즐 맞춘다…'피지컬 AI 심장' 선점 - 프라임경제",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SZ1ZMMUpTR2YyS3BKWEExZWo0Mkp1eXBERG14MGpIX3hnSnhpV0tQVmJuWndITjB5TGJnamtEYnN2QWFlY2Jzc3p1bjFQTzN0QnBEMURFQXJwSHl0STlFdjdyWQ?oc=5",
-      "snippet": "",
-      "source": "프라임경제",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 23:05:04 GMT"
     }
   ]
 }
