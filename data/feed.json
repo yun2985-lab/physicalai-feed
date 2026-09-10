@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:20:54Z",
+  "updated_at": "2026-09-10T16:25:00Z",
   "papers": [
     {
       "type": "paper",
@@ -120,12 +120,30 @@
     },
     {
       "type": "news",
+      "title": "[패트롤] 포항시-영덕군 - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fa2hrcFRlbEVEWUNaNFdYdE9wOTQ4QndYOXJPcVJ0d1YxcFN2SFc2allJNkdsMXFzNGs3OFI2bG52Y09OcTBTb2JMRHhkY1hic1R2WFZsSzc0Z1U?oc=5",
+      "snippet": "",
+      "source": "에너지경제신문",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 14:40:50 GMT"
+    },
+    {
+      "type": "news",
+      "title": "포항 영일만산단에 국내 최초 ‘피지컬 AI 로봇 파운드리’ 들어선다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jU2NpZXFfa3M4UGRtM2lFQ1JPOVFkWGdnRnd5dEFGbEhTV3ROVVZMY0NBZkN2N2F4QWFBTnZnWXNhRVlEQ0E?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 01:54:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "교보증권 \"핑거, 피지컬 AI 기업으로 변신한다\" - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTW1TVGhadjZBeU9ReWtPRGxlelRwalJiN0QzYk5sSzJWQlF3eFBjWFJkZnhIUFQ1b0hzaEhINk5yeVo2akNQUlYtR2ZUSm5GT2lOOHluaFRCb09YR2JDUEdhbHB2YW9zMlh6NA?oc=5",
       "snippet": "",
       "source": "로봇신문",
       "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 08:48:31 GMT"
+      "pub_date": "Thu, 10 Sep 2026 03:00:56 GMT"
     },
     {
       "type": "news",
@@ -138,30 +156,12 @@
     },
     {
       "type": "news",
-      "title": "포항 영일만산단에 국내 첫 ‘피지컬 AI 로봇 파운드리’ 들어선다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80dV80dnVaTDkzNFlSenlrcGdVdkoxdkM4NGdYbWs0enZVOGRPakM1NjB3QkxReDFPUmRmSDlwX2llWWlPQzFHY1RTV2EyaUE?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 03:18:51 GMT"
-    },
-    {
-      "type": "news",
       "title": "포항 영일만산단에 1800억 규모 ‘피지컬 AI 로봇 파운드리’ 추진 - 뉴스타운",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05X3FHMWViZnl1MVhtdjNMR3kzWWJQcGwzRXZkd1p0QjB6bjVqdWdZVHZYeUQ1LW1KMm5zbGpZVzBiM3hQUUlQRWk3UHFEYjlJOGE0dG83bkRDODBfNHpYWW96bV9rRE1XalBsM2Nn?oc=5",
       "snippet": "",
       "source": "뉴스타운",
       "categories": [],
       "pub_date": "Thu, 10 Sep 2026 09:41:12 GMT"
-    },
-    {
-      "type": "news",
-      "title": "공간제작소, 빅웨이브로보틱스와 맞손…건설 공정 ‘휴머노이드 자동화’ 추진 - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6VnduQ0x5Rkp0TWpvOWpES1Job2lWS3JWWXdQS1dRVzJEUTBWQTF5Qk0tXzVoY1ZlLWxPMmM3VlpiQVFFc25keHpFSVlITnM1QzVsYUhRd2tWd0tfZkNnbS1nU0U?oc=5",
-      "snippet": "",
-      "source": "서울경제TV",
-      "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 05:54:14 GMT"
     },
     {
       "type": "news",
