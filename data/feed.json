@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T20:58:19Z",
+  "updated_at": "2026-09-11T23:16:12Z",
   "papers": [
     {
       "type": "paper",
@@ -98,15 +98,6 @@
   "news": [
     {
       "type": "news",
-      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
-      "snippet": "",
-      "source": "매일신문",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
-    },
-    {
-      "type": "news",
       "title": "마음AI “피지컬 AI 확산, 로봇 임무 이해하는 AI 네트워크 필요” - 테크월드",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGS21hZU4wOXdXNW1LRF9icGJraGFQLS03Y3picEx0dHdiSlY4SndyeTJqeGE5eHAyZEM2QTQwQkFkNGRLYUFZcDFoQWwtQjBLemc1aGtoWFE0QUxfSXZReGc0U09yQUtZ?oc=5",
       "snippet": "",
@@ -122,6 +113,15 @@
       "source": "페로타임즈",
       "categories": [],
       "pub_date": "Fri, 11 Sep 2026 03:03:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
+      "snippet": "",
+      "source": "매일신문",
+      "categories": [],
+      "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
     },
     {
       "type": "news",
@@ -152,21 +152,21 @@
     },
     {
       "type": "news",
-      "title": "\"로봇이 네트워크에 접속하는 시대 끝\"…마음AI, 'AI 네트워크' 청사진 제시 - 팝콘뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13Y3AzSTJBSDBsSXZuN3hXNUUwZkNYX1hkclk2Rk1BcFl2enF0ZHUzUmVUVzZvUHpPU0NrZ255bUdEZENnM3JrOXpNSGpoMHQyZ3RmUDBmc0dKbmJ2bjhBQlNqdlIzWjF3aXdFM09n?oc=5",
+      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
       "snippet": "",
-      "source": "팝콘뉴스",
+      "source": "철강금속신문",
       "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 07:56:53 GMT"
+      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
     },
     {
       "type": "news",
-      "title": "삼성SDS·LG CNS, 피지컬 AI 사업 가속…'AX 넘어 RX' - 데일리한국",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQcWlMeWlmMDZheXVwcGZ1YTdfOE5ZREZramFGZ05pTTdVOFliUGVLQkhSaTVtWF82Yzh4Z085bjlUOEhBUElFMEVuWkttTHhjSHdESlZraDVwZnhoME9nTUo2Tm5Ody1HbkliY1h2Y9IBc0FVX3lxTE1KWGgwNHFwOVQwZFRkWTl5WUlBaGJwa0NRbXBqS0tYLVNBTXhXUGJOY3FPUm5OVDdlR2RuX00xdjU5YmF2ZUJKdWVydXV0WXVMWWxScHUwOVRYZnFkS2RLMTB3ODZpb00tdlBJb2lOVVRqQ1k?oc=5",
+      "title": "기계연 “로봇·피지컬 AI와 함께 K-산업생태계 결정적 진화 곧 도래” - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EMm1DOUZaMzM0b2RlOVBJdF9TM2hodG1nQ3gwV2ZHQzRCMnVUSUtPYjRoeUZRMVN2NFRUTDlSOE5iRTZKUFR6ZnZTaXpiazRTdFU1dmEzLTl4eURqTXhLTUhvaDc2SUlBT1BSZg?oc=5",
       "snippet": "",
-      "source": "데일리한국",
+      "source": "로봇신문",
       "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 06:53:32 GMT"
+      "pub_date": "Mon, 07 Sep 2026 10:31:39 GMT"
     }
   ]
 }
