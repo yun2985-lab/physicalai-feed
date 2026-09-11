@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T04:41:49Z",
+  "updated_at": "2026-09-11T16:29:04Z",
   "papers": [
     {
       "type": "paper",
@@ -107,12 +107,30 @@
     },
     {
       "type": "news",
-      "title": "뉴로메카, 포항 영일만산단에 1800억 규모 '피지컬 AI 로봇 파운드리' 구축 - ferrotimes.com",
+      "title": "뉴로메카, 포항 영일만산단에 1800억 규모 '피지컬 AI 로봇 파운드리' 구축 - 페로타임즈",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DUk11MnU3ZlgybmVpX2RCd2E5c3RkZ2F6RjRmcURldmJNUEs3eDREUGlUSTJ1X2tUSWJUN2ZKRkJSVEV0ek1KellyaHNNWGxQSWlnOEN6Wk5yQndOWUVoaTJPMHZTN3l1V0ZCSA?oc=5",
       "snippet": "",
-      "source": "ferrotimes.com",
+      "source": "페로타임즈",
       "categories": [],
       "pub_date": "Fri, 11 Sep 2026 03:03:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "마음AI “피지컬 AI 확산, 로봇 임무 이해하는 AI 네트워크 필요” - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGS21hZU4wOXdXNW1LRF9icGJraGFQLS03Y3picEx0dHdiSlY4SndyeTJqeGE5eHAyZEM2QTQwQkFkNGRLYUFZcDFoQWwtQjBLemc1aGtoWFE0QUxfSXZReGc0U09yQUtZ?oc=5",
+      "snippet": "",
+      "source": "테크월드",
+      "categories": [],
+      "pub_date": "Fri, 11 Sep 2026 07:53:33 GMT"
+    },
+    {
+      "type": "news",
+      "title": "HD현대로보틱스·삼성벤처투자 손잡은 에이딘로보틱스, 힘·토크 센서 연 3만 대 양산한다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GWXh6U2d4Q1ZwX3l5d1hOV0N1NmtoSXhwajhjSEhrZ3AtQjFsSG5FSmsycDRxS0dwVHhGZjY1V3cxN0hQN0lpakFGZXRiSkdjd0E1cU5aOVotNmQtemVn?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Fri, 11 Sep 2026 05:11:11 GMT"
     },
     {
       "type": "news",
@@ -125,6 +143,15 @@
     },
     {
       "type": "news",
+      "title": "원격조종 넘어 '자율행동'으로… 인티그리트, 로봇의 피지컬 AI 플랫폼 '에어패스' 공급 확대 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WOHhpcGdZM0txR09yclpZNDNUVW9wci03OXItSDhBelFRRVJ0UEc2enFORVBGVjJ1QXdMWHBoczVnSGVlOVh0cjBnV0JQQQ?oc=5",
+      "snippet": "",
+      "source": "전자신문",
+      "categories": [],
+      "pub_date": "Fri, 11 Sep 2026 05:27:01 GMT"
+    },
+    {
+      "type": "news",
       "title": "포항 영일만산단에 1,800억 원 규모 ‘피지컬 AI 로봇 파운드리’ 구축 시동 - 대한투데이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DVUExMzRxWURZc2ZFZ2Q0S1ZaQlRoREh3d3R3ZWRJV2hRWnN6VXhGMElhbS13MXZRdTQ0bjdrekJ0MVEwa2h5QXZ3ZDVJSkNiZWJqbHNFS3daNVkzVHU5Y2hyejVydm5rWEE?oc=5",
       "snippet": "",
@@ -134,39 +161,12 @@
     },
     {
       "type": "news",
-      "title": "“130억원 들여 ‘로봇 손끝 감각’ 잡는다”…HD현대로보틱스, 피지컬 AI 투자 - 더게이트",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yWmZFM2VvT3hfdlh1VnlKUk9TV3c1ZFJRS18tVk1JMXZONUl4bVVzQ195ZWZ6dVVIZFZGclZjbGRoOE15b1o2RU12QVVLaURManpTblhaaExYUUswRFZsWi1lQjliZHpi0gFsQVVfeXFMTUtpLW5zZmlaQjhEa2w5S0xqdHhNd2lLNHl2akZtNzRiMk9yVVNBdUczTTJvXzMwUFgxVlplWHBXTEJvZXEtX2FNckZJZVE2YjRYRkU0MEk2Uk05emtnU3ZvdEFkNW5oczViUC1P?oc=5",
+      "title": "\"로봇이 네트워크에 접속하는 시대 끝\"…마음AI, 'AI 네트워크' 청사진 제시 - 팝콘뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13Y3AzSTJBSDBsSXZuN3hXNUUwZkNYX1hkclk2Rk1BcFl2enF0ZHUzUmVUVzZvUHpPU0NrZ255bUdEZENnM3JrOXpNSGpoMHQyZ3RmUDBmc0dKbmJ2bjhBQlNqdlIzWjF3aXdFM09n?oc=5",
       "snippet": "",
-      "source": "더게이트",
+      "source": "팝콘뉴스",
       "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 01:38:42 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[패트롤] 포항시-영덕군 - ekn.kr",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fa2hrcFRlbEVEWUNaNFdYdE9wOTQ4QndYOXJPcVJ0d1YxcFN2SFc2allJNkdsMXFzNGs3OFI2bG52Y09OcTBTb2JMRHhkY1hic1R2WFZsSzc0Z1U?oc=5",
-      "snippet": "",
-      "source": "ekn.kr",
-      "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 14:40:50 GMT"
-    },
-    {
-      "type": "news",
-      "title": "우리운용 \"피지컬AI TOP2플러스액티브, 한 달만에 동종 ETF 1위\" - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEWTF0LUw1XzFBQkpVNlRJbE9rd19JdnVNYl9MaG0tODNSYXEzdm1nd29EQXp6TXlvTG1KcjU3Q0NkdnVhelE1dW1kMmZRS3U5V08xS19OOHRZNDDSAWBBVV95cUxOMF9sM05VN2tuR1pHclV2RS1DVmhLZGxPemREODRQUmRGYnNiRjBfQThEeV93bV9wUVl6djIySDZPUzNTV1BXaHcwLTQxeGxUX2tzME8tQ1ctRXZWUjVFeFU?oc=5",
-      "snippet": "",
-      "source": "연합뉴스",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 00:04:03 GMT"
-    },
-    {
-      "type": "news",
-      "title": "포항영일만산단에 1800억 원 규모 '피지컬 AI 로봇 파운드리' 구축 시동 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DZHFROHZpVTB1cDNHc05aaTJTM2JXamdjODVuZTdBRm04R2JMVGtaREs3UmpRX1RtZl9uY2RnNEcwZjNtR3YtZmRFTURoZw?oc=5",
-      "snippet": "",
-      "source": "전자신문",
-      "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 02:00:56 GMT"
+      "pub_date": "Fri, 11 Sep 2026 07:56:53 GMT"
     }
   ]
 }
