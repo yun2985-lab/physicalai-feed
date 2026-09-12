@@ -1,127 +1,15 @@
 {
-  "updated_at": "2026-09-11T23:16:12Z",
-  "papers": [
-    {
-      "type": "paper",
-      "title": "HuRo: Robotizing Human Videos for Scalable VLA Pretraining",
-      "url": "https://arxiv.org/abs/2609.10706",
-      "snippet": "Human video datasets have emerged as a compelling alternative to expensive real-robot data, offering rich diversity at scale. To bridge the human-to-robot embodiment gap, existing approaches either robotize videos in…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV",
-        "cs.LG"
-      ],
-      "pub_date": "Fri, 11 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "When Information is Worth the Risk: Behavioral Valuation for Hazardous Robotic Exploration",
-      "url": "https://arxiv.org/abs/2609.10726",
-      "snippet": "Hazardous robotic exploration requires robots to map spatial risks, such as unsafe terrain, radiation, fire, mines, or structural damage, while operating where collecting information can itself cause failure. A highly…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 11 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Lie-Algebraic Bell Recurrences for Arbitrary-Order Twist Jets and Parallel-Mechanism Closure",
-      "url": "https://arxiv.org/abs/2609.10748",
-      "snippet": "This paper develops an arbitrary-order kinematic construction that links serial propagation, parallel-mechanism closure, and rigid-platform point fields within one dual screw framework. A cylindrical joint is retained…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 11 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Expressive Robotic Pianist: Mastering Complex Piano Repertoire with Graph-Mimic and Musical Dynamics",
-      "url": "https://arxiv.org/abs/2609.10844",
-      "snippet": "Enabling robots to perform musical instruments with human-level expressivity represents a frontier in bridging the gap between mechanical precision and artistic interpretation. Despite advances in robotic dexterity,…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 11 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2609.10895",
-      "snippet": "Reacting to sudden physical hazards (catching a slipping plate, dodging a falling knife) is both a meaningful test of embodied intelligence and a hard requirement for deploying multimodal large language models (MLLMs)…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.AI"
-      ],
-      "pub_date": "Fri, 11 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Planning along Differentiable Charts of Constraint Manifolds with General-Purpose IK Solvers",
-      "url": "https://arxiv.org/abs/2609.10905",
-      "snippet": "Planning trajectories for robot manipulators under kinematic equality constraints restricts feasible motions to a measure-zero submanifold of the configuration space, requiring special algorithmic treatment. A promising…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 11 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies",
-      "url": "https://arxiv.org/abs/2609.10915",
-      "snippet": "Vision-language-action (VLA) policies leverage pretrained vision-language backbones to achieve strong cross-task generalization. A leading design couples this backbone with a dedicated continuous action head trained via…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "pub_date": "Fri, 11 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "ObstaDiff: Generalizable Diffusion Policy Learning via Obstacle-aware Representations",
-      "url": "https://arxiv.org/abs/2609.10918",
-      "snippet": "Imitation learning has achieved impressive results in robotic manipulation, yet most existing approaches assume clean backgrounds and lack explicit mechanisms for obstacle-aware motion generation. Extending such…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.LG"
-      ],
-      "pub_date": "Fri, 11 Sep 2026 00:00:00 -0400"
-    }
-  ],
+  "updated_at": "2026-09-12T04:35:23Z",
+  "papers": [],
   "news": [
     {
       "type": "news",
-      "title": "마음AI “피지컬 AI 확산, 로봇 임무 이해하는 AI 네트워크 필요” - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGS21hZU4wOXdXNW1LRF9icGJraGFQLS03Y3picEx0dHdiSlY4SndyeTJqeGE5eHAyZEM2QTQwQkFkNGRLYUFZcDFoQWwtQjBLemc1aGtoWFE0QUxfSXZReGc0U09yQUtZ?oc=5",
+      "title": "롯데글로벌로지스, 물류안전 '피지컬 AI' 전환...휴머노이드·웨어러블 로봇 현실로 - m-economynews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sVmhLMEd3dno0NklINXVjdmxvOFAwdnBmMXN0WlBacTVRb1EyOHBoMkNfWmJNTnQ0b1pBeHg4QV94cE0tOEdnMGJhbExLQTdfb0ZUaVpyRFJfUnhVdkMzckFQdlY5STA?oc=5",
       "snippet": "",
-      "source": "테크월드",
+      "source": "m-economynews.com",
       "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 07:53:33 GMT"
-    },
-    {
-      "type": "news",
-      "title": "뉴로메카, 포항 영일만산단에 1800억 규모 '피지컬 AI 로봇 파운드리' 구축 - 페로타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DUk11MnU3ZlgybmVpX2RCd2E5c3RkZ2F6RjRmcURldmJNUEs3eDREUGlUSTJ1X2tUSWJUN2ZKRkJSVEV0ek1KellyaHNNWGxQSWlnOEN6Wk5yQndOWUVoaTJPMHZTN3l1V0ZCSA?oc=5",
-      "snippet": "",
-      "source": "페로타임즈",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 03:03:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
-      "snippet": "",
-      "source": "매일신문",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
+      "pub_date": "Sat, 12 Sep 2026 00:33:19 GMT"
     },
     {
       "type": "news",
@@ -143,12 +31,12 @@
     },
     {
       "type": "news",
-      "title": "포항 영일만산단에 국내 최초 ‘피지컬 AI 로봇 파운드리’ 들어선다 - hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UT0NWZGdQNG5Wc3ZRUnI3OHZJQktjN0tXcjJqcXVWQU9IOGgyN0RZXzI3VHEwZE9tSDhaRHdoZnlMMWVBNndKOFBsTmV6NWlicUJvSXRVRV91TTRjb2lzZG91aF9HM1ktRnc?oc=5",
+      "title": "마음AI “피지컬 AI 확산, 로봇 임무 이해하는 AI 네트워크 필요” - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGS21hZU4wOXdXNW1LRF9icGJraGFQLS03Y3picEx0dHdiSlY4SndyeTJqeGE5eHAyZEM2QTQwQkFkNGRLYUFZcDFoQWwtQjBLemc1aGtoWFE0QUxfSXZReGc0U09yQUtZ?oc=5",
       "snippet": "",
-      "source": "hidomin.com",
+      "source": "테크월드",
       "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 01:54:40 GMT"
+      "pub_date": "Fri, 11 Sep 2026 07:53:33 GMT"
     },
     {
       "type": "news",
@@ -161,12 +49,30 @@
     },
     {
       "type": "news",
-      "title": "기계연 “로봇·피지컬 AI와 함께 K-산업생태계 결정적 진화 곧 도래” - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EMm1DOUZaMzM0b2RlOVBJdF9TM2hodG1nQ3gwV2ZHQzRCMnVUSUtPYjRoeUZRMVN2NFRUTDlSOE5iRTZKUFR6ZnZTaXpiazRTdFU1dmEzLTl4eURqTXhLTUhvaDc2SUlBT1BSZg?oc=5",
+      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
       "snippet": "",
-      "source": "로봇신문",
+      "source": "매일신문",
       "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 10:31:39 GMT"
+      "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
+    },
+    {
+      "type": "news",
+      "title": "포항 영일만산단에 국내 최초 ‘피지컬 AI 로봇 파운드리’ 들어선다 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UT0NWZGdQNG5Wc3ZRUnI3OHZJQktjN0tXcjJqcXVWQU9IOGgyN0RZXzI3VHEwZE9tSDhaRHdoZnlMMWVBNndKOFBsTmV6NWlicUJvSXRVRV91TTRjb2lzZG91aF9HM1ktRnc?oc=5",
+      "snippet": "",
+      "source": "hidomin.com",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 01:54:40 GMT"
+    },
+    {
+      "type": "news",
+      "title": "뉴로메카, 포항 영일만산단에 1800억 규모 '피지컬 AI 로봇 파운드리' 구축 - 페로타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DUk11MnU3ZlgybmVpX2RCd2E5c3RkZ2F6RjRmcURldmJNUEs3eDREUGlUSTJ1X2tUSWJUN2ZKRkJSVEV0ek1KellyaHNNWGxQSWlnOEN6Wk5yQndOWUVoaTJPMHZTN3l1V0ZCSA?oc=5",
+      "snippet": "",
+      "source": "페로타임즈",
+      "categories": [],
+      "pub_date": "Fri, 11 Sep 2026 03:03:00 GMT"
     }
   ]
 }
