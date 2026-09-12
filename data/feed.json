@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T20:33:54Z",
+  "updated_at": "2026-09-12T23:03:03Z",
   "papers": [],
   "news": [
     {
@@ -13,10 +13,10 @@
     },
     {
       "type": "news",
-      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - straightnews.co.kr",
+      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - 스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbkF6X2hTY2xZdURpdDJLSmkzaUc2MU9TWXJPNlNBYWh4ZDEtQWU2WDBiTGxtS1dLaVJFampxSUNuckg0Zl9QNHQ2VTNzRDRQUlVXTGFBYnp4SmYycUFBelVmRVhJbDRLMXRjOWRIOENKWFV4UWQ40gF3QVVfeXFMT2FuQXpfaFNjbFl1RGl0MktKaTNpRzYxT1NZck82U0FhaHhkMS1BZTZYMGJMbG1LV0tpUkVqanFJQ25ySDRmX1A0dDZVM3NENFBSVVdMYUFienhKZjJxQUF6VWZFWElsNEsxdGM5ZEg4Q0pYVXhRZDg?oc=5",
       "snippet": "",
-      "source": "straightnews.co.kr",
+      "source": "스트레이트뉴스",
       "categories": [],
       "pub_date": "Thu, 10 Sep 2026 06:25:44 GMT"
     },
@@ -58,21 +58,21 @@
     },
     {
       "type": "news",
-      "title": "롯데글로벌로지스, 물류안전 '피지컬 AI' 전환...휴머노이드·웨어러블 로봇 현실로 - M이코노미뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sVmhLMEd3dno0NklINXVjdmxvOFAwdnBmMXN0WlBacTVRb1EyOHBoMkNfWmJNTnQ0b1pBeHg4QV94cE0tOEdnMGJhbExLQTdfb0ZUaVpyRFJfUnhVdkMzckFQdlY5STA?oc=5",
-      "snippet": "",
-      "source": "M이코노미뉴스",
-      "categories": [],
-      "pub_date": "Sat, 12 Sep 2026 00:33:19 GMT"
-    },
-    {
-      "type": "news",
       "title": "日이 분석한 中 로봇 생태계···\"움직이는 기계서 돈 버는 산업으로\" - 헬로디디",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XT3htODFDaER4Vkk0bjMxWGdQQktCRENtY1NDckZHWVRLU0tqUjZnbi00WEEwelMyWXllQjBPUHo2bmRlcWdEbnFHV1pwdElqQ29IZURHbF9DN0JmZjF4empmMFBSSVE3VHc?oc=5",
       "snippet": "",
       "source": "헬로디디",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aVWNVdEUtcU4zQmNVakQ0N2MxVnVOSVdocXVrcGVrMk9ReDVsZ0FqU3A3dElNWXd3SmFvTndxTXpnR3JVa1lEb0t4dFNvcDNZRXZiblB3?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 10:54:45 GMT"
     }
   ]
 }
