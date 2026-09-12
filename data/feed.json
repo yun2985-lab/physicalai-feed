@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-09-12T15:32:21Z",
+  "updated_at": "2026-09-12T20:33:54Z",
   "papers": [],
   "news": [
-    {
-      "type": "news",
-      "title": "롯데글로벌로지스, 물류안전 '피지컬 AI' 전환...휴머노이드·웨어러블 로봇 현실로 - M이코노미뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sVmhLMEd3dno0NklINXVjdmxvOFAwdnBmMXN0WlBacTVRb1EyOHBoMkNfWmJNTnQ0b1pBeHg4QV94cE0tOEdnMGJhbExLQTdfb0ZUaVpyRFJfUnhVdkMzckFQdlY5STA?oc=5",
-      "snippet": "",
-      "source": "M이코노미뉴스",
-      "categories": [],
-      "pub_date": "Sat, 12 Sep 2026 00:33:19 GMT"
-    },
     {
       "type": "news",
       "title": "포항영일만산단에 1800억 원 규모 '피지컬 AI 로봇 파운드리' 구축 시동 - 전자신문",
@@ -22,21 +13,12 @@
     },
     {
       "type": "news",
-      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - 스트레이트뉴스",
+      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - straightnews.co.kr",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbkF6X2hTY2xZdURpdDJLSmkzaUc2MU9TWXJPNlNBYWh4ZDEtQWU2WDBiTGxtS1dLaVJFampxSUNuckg0Zl9QNHQ2VTNzRDRQUlVXTGFBYnp4SmYycUFBelVmRVhJbDRLMXRjOWRIOENKWFV4UWQ40gF3QVVfeXFMT2FuQXpfaFNjbFl1RGl0MktKaTNpRzYxT1NZck82U0FhaHhkMS1BZTZYMGJMbG1LV0tpUkVqanFJQ25ySDRmX1A0dDZVM3NENFBSVVdMYUFienhKZjJxQUF6VWZFWElsNEsxdGM5ZEg4Q0pYVXhRZDg?oc=5",
       "snippet": "",
-      "source": "스트레이트뉴스",
+      "source": "straightnews.co.kr",
       "categories": [],
       "pub_date": "Thu, 10 Sep 2026 06:25:44 GMT"
-    },
-    {
-      "type": "news",
-      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
-      "snippet": "",
-      "source": "매일신문",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
     },
     {
       "type": "news",
@@ -46,6 +28,15 @@
       "source": "철강금속신문",
       "categories": [],
       "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
+    },
+    {
+      "type": "news",
+      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
+      "snippet": "",
+      "source": "매일신문",
+      "categories": [],
+      "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
     },
     {
       "type": "news",
@@ -67,10 +58,19 @@
     },
     {
       "type": "news",
-      "title": "日이 분석한 中 로봇 생태계···\"움직이는 기계서 돈 버는 산업으로\" - hellodd.com",
+      "title": "롯데글로벌로지스, 물류안전 '피지컬 AI' 전환...휴머노이드·웨어러블 로봇 현실로 - M이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sVmhLMEd3dno0NklINXVjdmxvOFAwdnBmMXN0WlBacTVRb1EyOHBoMkNfWmJNTnQ0b1pBeHg4QV94cE0tOEdnMGJhbExLQTdfb0ZUaVpyRFJfUnhVdkMzckFQdlY5STA?oc=5",
+      "snippet": "",
+      "source": "M이코노미뉴스",
+      "categories": [],
+      "pub_date": "Sat, 12 Sep 2026 00:33:19 GMT"
+    },
+    {
+      "type": "news",
+      "title": "日이 분석한 中 로봇 생태계···\"움직이는 기계서 돈 버는 산업으로\" - 헬로디디",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XT3htODFDaER4Vkk0bjMxWGdQQktCRENtY1NDckZHWVRLU0tqUjZnbi00WEEwelMyWXllQjBPUHo2bmRlcWdEbnFHV1pwdElqQ29IZURHbF9DN0JmZjF4empmMFBSSVE3VHc?oc=5",
       "snippet": "",
-      "source": "hellodd.com",
+      "source": "헬로디디",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 07:00:00 GMT"
     }
