@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-12T04:35:23Z",
+  "updated_at": "2026-09-12T10:47:49Z",
   "papers": [],
   "news": [
     {
       "type": "news",
-      "title": "롯데글로벌로지스, 물류안전 '피지컬 AI' 전환...휴머노이드·웨어러블 로봇 현실로 - m-economynews.com",
+      "title": "롯데글로벌로지스, 물류안전 '피지컬 AI' 전환...휴머노이드·웨어러블 로봇 현실로 - M이코노미뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sVmhLMEd3dno0NklINXVjdmxvOFAwdnBmMXN0WlBacTVRb1EyOHBoMkNfWmJNTnQ0b1pBeHg4QV94cE0tOEdnMGJhbExLQTdfb0ZUaVpyRFJfUnhVdkMzckFQdlY5STA?oc=5",
       "snippet": "",
-      "source": "m-economynews.com",
+      "source": "M이코노미뉴스",
       "categories": [],
       "pub_date": "Sat, 12 Sep 2026 00:33:19 GMT"
     },
@@ -19,24 +19,6 @@
       "source": "전자신문",
       "categories": [],
       "pub_date": "Thu, 10 Sep 2026 02:00:56 GMT"
-    },
-    {
-      "type": "news",
-      "title": "AI·로봇이 바꿀 일상 체험…서울 '스마트라이프위크' 내달 개막 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRnBWSHk1WUJ3d2Fham1kMThvcmE3OFF5T0dxZ242aWZuUmttTmxaVkZJSDRBRWljdjRuMlJ3SEFaRmpha1ZaT2NuUjdPbnRvdkZ3Q0FUWi1qUW5QUmNoc9IBYEFVX3lxTE9yRnBWSHk1WUJ3d2Fham1kMThvcmE3OFF5T0dxZ242aWZuUmttTmxaVkZJSDRBRWljdjRuMlJ3SEFaRmpha1ZaT2NuUjdPbnRvdkZ3Q0FUWi1qUW5QUmNocw?oc=5",
-      "snippet": "",
-      "source": "연합뉴스",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 02:15:03 GMT"
-    },
-    {
-      "type": "news",
-      "title": "마음AI “피지컬 AI 확산, 로봇 임무 이해하는 AI 네트워크 필요” - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGS21hZU4wOXdXNW1LRF9icGJraGFQLS03Y3picEx0dHdiSlY4SndyeTJqeGE5eHAyZEM2QTQwQkFkNGRLYUFZcDFoQWwtQjBLemc1aGtoWFE0QUxfSXZReGc0U09yQUtZ?oc=5",
-      "snippet": "",
-      "source": "테크월드",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 07:53:33 GMT"
     },
     {
       "type": "news",
@@ -73,6 +55,24 @@
       "source": "페로타임즈",
       "categories": [],
       "pub_date": "Fri, 11 Sep 2026 03:03:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "日이 분석한 中 로봇 생태계···\"움직이는 기계서 돈 버는 산업으로\" - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XT3htODFDaER4Vkk0bjMxWGdQQktCRENtY1NDckZHWVRLU0tqUjZnbi00WEEwelMyWXllQjBPUHo2bmRlcWdEbnFHV1pwdElqQ29IZURHbF9DN0JmZjF4empmMFBSSVE3VHc?oc=5",
+      "snippet": "",
+      "source": "헬로디디",
+      "categories": [],
+      "pub_date": "Wed, 09 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXTlNtLTRvTGVhQzFTX29FTzl3YjhwVmpjQVVpUXpiSS1MUVgtOEF1Nlp5QU1DQW45dldWdTZ4NmVlX25tYUNGOEFUWVM5MnoyZl9Bd201cGJoZHRnWm5DT0pBM3BMcVNybFg0VEtyaEk3dDTSAXdBVV95cUxPYW5Bel9oU2NsWXVEaXQyS0ppM2lHNjFPU1lyTzZTQWFoeGQxLUFlNlgwYkxsbUtXS2lSRWpqcUlDbnJINGZfUDR0NlUzc0Q0UFJVV0xhQWJ6eEpmMnFBQXpVZkVYSWw0SzF0YzlkSDhDSlhVeFFkOA?oc=5",
+      "snippet": "",
+      "source": "스트레이트뉴스",
+      "categories": [],
+      "pub_date": "Thu, 10 Sep 2026 05:56:03 GMT"
     }
   ]
 }
