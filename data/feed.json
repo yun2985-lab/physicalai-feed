@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:47:49Z",
+  "updated_at": "2026-09-12T15:32:21Z",
   "papers": [],
   "news": [
     {
@@ -22,12 +22,12 @@
     },
     {
       "type": "news",
-      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
+      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbkF6X2hTY2xZdURpdDJLSmkzaUc2MU9TWXJPNlNBYWh4ZDEtQWU2WDBiTGxtS1dLaVJFampxSUNuckg0Zl9QNHQ2VTNzRDRQUlVXTGFBYnp4SmYycUFBelVmRVhJbDRLMXRjOWRIOENKWFV4UWQ40gF3QVVfeXFMT2FuQXpfaFNjbFl1RGl0MktKaTNpRzYxT1NZck82U0FhaHhkMS1BZTZYMGJMbG1LV0tpUkVqanFJQ25ySDRmX1A0dDZVM3NENFBSVVdMYUFienhKZjJxQUF6VWZFWElsNEsxdGM5ZEg4Q0pYVXhRZDg?oc=5",
       "snippet": "",
-      "source": "철강금속신문",
+      "source": "스트레이트뉴스",
       "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
+      "pub_date": "Thu, 10 Sep 2026 06:25:44 GMT"
     },
     {
       "type": "news",
@@ -37,6 +37,15 @@
       "source": "매일신문",
       "categories": [],
       "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
+      "snippet": "",
+      "source": "철강금속신문",
+      "categories": [],
+      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
     },
     {
       "type": "news",
@@ -58,21 +67,12 @@
     },
     {
       "type": "news",
-      "title": "日이 분석한 中 로봇 생태계···\"움직이는 기계서 돈 버는 산업으로\" - 헬로디디",
+      "title": "日이 분석한 中 로봇 생태계···\"움직이는 기계서 돈 버는 산업으로\" - hellodd.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XT3htODFDaER4Vkk0bjMxWGdQQktCRENtY1NDckZHWVRLU0tqUjZnbi00WEEwelMyWXllQjBPUHo2bmRlcWdEbnFHV1pwdElqQ29IZURHbF9DN0JmZjF4empmMFBSSVE3VHc?oc=5",
       "snippet": "",
-      "source": "헬로디디",
+      "source": "hellodd.com",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXTlNtLTRvTGVhQzFTX29FTzl3YjhwVmpjQVVpUXpiSS1MUVgtOEF1Nlp5QU1DQW45dldWdTZ4NmVlX25tYUNGOEFUWVM5MnoyZl9Bd201cGJoZHRnWm5DT0pBM3BMcVNybFg0VEtyaEk3dDTSAXdBVV95cUxPYW5Bel9oU2NsWXVEaXQyS0ppM2lHNjFPU1lyTzZTQWFoeGQxLUFlNlgwYkxsbUtXS2lSRWpqcUlDbnJINGZfUDR0NlUzc0Q0UFJVV0xhQWJ6eEpmMnFBQXpVZkVYSWw0SzF0YzlkSDhDSlhVeFFkOA?oc=5",
-      "snippet": "",
-      "source": "스트레이트뉴스",
-      "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 05:56:03 GMT"
     }
   ]
 }
