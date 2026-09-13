@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:17:52Z",
+  "updated_at": "2026-09-13T20:50:37Z",
   "papers": [],
   "news": [
     {
@@ -13,15 +13,6 @@
     },
     {
       "type": "news",
-      "title": "[청년발언대] \"생각하는 AI에서 움직이는 AI로\"…피지컬 AI가 바꾸는 제조 현장 - 청년일보",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FSG1JWG94aWFjNllzQmx1Slg0dmtfbjRGbnVkejdZcUR1eDV5TTMxYzRzRGVnRzJfVWNHNFV6U2kxU0pCeFpkQnRFOGlXVE0xMURHc2QwU1JZZnk1WThqc1ZiajVFQzg?oc=5",
-      "snippet": "",
-      "source": "청년일보",
-      "categories": [],
-      "pub_date": "Sun, 13 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "type": "news",
       "title": "포항영일만산단에 1800억 원 규모 '피지컬 AI 로봇 파운드리' 구축 시동 - 전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DZHFROHZpVTB1cDNHc05aaTJTM2JXamdjODVuZTdBRm04R2JMVGtaREs3UmpRX1RtZl9uY2RnNEcwZjNtR3YtZmRFTURoZw?oc=5",
       "snippet": "",
@@ -31,10 +22,10 @@
     },
     {
       "type": "news",
-      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - imaeil.com",
+      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
       "snippet": "",
-      "source": "imaeil.com",
+      "source": "매일신문",
       "categories": [],
       "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
     },
@@ -58,6 +49,15 @@
     },
     {
       "type": "news",
+      "title": "[청년발언대] \"생각하는 AI에서 움직이는 AI로\"…피지컬 AI가 바꾸는 제조 현장 - 청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FSG1JWG94aWFjNllzQmx1Slg0dmtfbjRGbnVkejdZcUR1eDV5TTMxYzRzRGVnRzJfVWNHNFV6U2kxU0pCeFpkQnRFOGlXVE0xMURHc2QwU1JZZnk1WThqc1ZiajVFQzg?oc=5",
+      "snippet": "",
+      "source": "청년일보",
+      "categories": [],
+      "pub_date": "Sun, 13 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "日이 분석한 中 로봇 생태계···\"움직이는 기계서 돈 버는 산업으로\" - 헬로디디",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XT3htODFDaER4Vkk0bjMxWGdQQktCRENtY1NDckZHWVRLU0tqUjZnbi00WEEwelMyWXllQjBPUHo2bmRlcWdEbnFHV1pwdElqQ29IZURHbF9DN0JmZjF4empmMFBSSVE3VHc?oc=5",
       "snippet": "",
@@ -67,12 +67,12 @@
     },
     {
       "type": "news",
-      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
+      "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aVWNVdEUtcU4zQmNVakQ0N2MxVnVOSVdocXVrcGVrMk9ReDVsZ0FqU3A3dElNWXd3SmFvTndxTXpnR3JVa1lEb0t4dFNvcDNZRXZiblB3?oc=5",
       "snippet": "",
-      "source": "철강금속신문",
+      "source": "지디넷코리아",
       "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
+      "pub_date": "Wed, 09 Sep 2026 10:54:45 GMT"
     }
   ]
 }
