@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-12T23:03:03Z",
+  "updated_at": "2026-09-13T04:48:48Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "[청년발언대] \"생각하는 AI에서 움직이는 AI로\"…피지컬 AI가 바꾸는 제조 현장 - 청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FSG1JWG94aWFjNllzQmx1Slg0dmtfbjRGbnVkejdZcUR1eDV5TTMxYzRzRGVnRzJfVWNHNFV6U2kxU0pCeFpkQnRFOGlXVE0xMURHc2QwU1JZZnk1WThqc1ZiajVFQzg?oc=5",
+      "snippet": "",
+      "source": "청년일보",
+      "categories": [],
+      "pub_date": "Sun, 13 Sep 2026 00:00:00 GMT"
+    },
     {
       "type": "news",
       "title": "포항영일만산단에 1800억 원 규모 '피지컬 AI 로봇 파운드리' 구축 시동 - 전자신문",
@@ -13,12 +22,12 @@
     },
     {
       "type": "news",
-      "title": "포항 영일만에 1800억 규모 국내 최초 ‘로봇 파운드리’ 들어선다 - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbkF6X2hTY2xZdURpdDJLSmkzaUc2MU9TWXJPNlNBYWh4ZDEtQWU2WDBiTGxtS1dLaVJFampxSUNuckg0Zl9QNHQ2VTNzRDRQUlVXTGFBYnp4SmYycUFBelVmRVhJbDRLMXRjOWRIOENKWFV4UWQ40gF3QVVfeXFMT2FuQXpfaFNjbFl1RGl0MktKaTNpRzYxT1NZck82U0FhaHhkMS1BZTZYMGJMbG1LV0tpUkVqanFJQ25ySDRmX1A0dDZVM3NENFBSVVdMYUFienhKZjJxQUF6VWZFWElsNEsxdGM5ZEg4Q0pYVXhRZDg?oc=5",
+      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
       "snippet": "",
-      "source": "스트레이트뉴스",
+      "source": "매일신문",
       "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 06:25:44 GMT"
+      "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
     },
     {
       "type": "news",
@@ -28,15 +37,6 @@
       "source": "철강금속신문",
       "categories": [],
       "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
-    },
-    {
-      "type": "news",
-      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
-      "snippet": "",
-      "source": "매일신문",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
     },
     {
       "type": "news",
