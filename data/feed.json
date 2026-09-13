@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-13T04:48:48Z",
+  "updated_at": "2026-09-13T11:53:14Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "인티그리트, 피지컬 AI 플랫폼 ‘에어패스’ 공급 확대 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOZkdoNzAyZGFleXJMMVpVMUhrWktzWVFmd2k2QjJrekJWRHlvNF8tNGlHRDZEY28xTmFCUGE4cElaMU42eFVmMHM1ZDlnY2FkUXF4NE1aLWpJNG5xTEVwSFFMcklZb0hnM01vSw?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Sun, 13 Sep 2026 10:20:36 GMT"
+    },
     {
       "type": "news",
       "title": "[청년발언대] \"생각하는 AI에서 움직이는 AI로\"…피지컬 AI가 바꾸는 제조 현장 - 청년일보",
@@ -28,15 +37,6 @@
       "source": "매일신문",
       "categories": [],
       "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
-      "snippet": "",
-      "source": "철강금속신문",
-      "categories": [],
-      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
     },
     {
       "type": "news",
@@ -67,12 +67,12 @@
     },
     {
       "type": "news",
-      "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aVWNVdEUtcU4zQmNVakQ0N2MxVnVOSVdocXVrcGVrMk9ReDVsZ0FqU3A3dElNWXd3SmFvTndxTXpnR3JVa1lEb0t4dFNvcDNZRXZiblB3?oc=5",
+      "title": "로봇·피지컬 AI와 함께 그린 산업의 미래는? - 철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UTdzWkxtTC1vcTJMN3kwNUV3eHoxRTlWQ1NDNUtPZThSbUJ6dEZzRmczOVA2R0F3ZFg5R3dSWm9WUVVaSWw4cjhnMzhRc3V4a1VmU3gxWXJUSzJSQWdiQW9lRUN0VkxseWc?oc=5",
       "snippet": "",
-      "source": "지디넷코리아",
+      "source": "철강금속신문",
       "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 10:54:45 GMT"
+      "pub_date": "Mon, 07 Sep 2026 23:36:02 GMT"
     }
   ]
 }
