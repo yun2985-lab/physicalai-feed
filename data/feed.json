@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:50:37Z",
+  "updated_at": "2026-09-13T23:11:15Z",
   "papers": [],
   "news": [
     {
@@ -49,15 +49,6 @@
     },
     {
       "type": "news",
-      "title": "[청년발언대] \"생각하는 AI에서 움직이는 AI로\"…피지컬 AI가 바꾸는 제조 현장 - 청년일보",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FSG1JWG94aWFjNllzQmx1Slg0dmtfbjRGbnVkejdZcUR1eDV5TTMxYzRzRGVnRzJfVWNHNFV6U2kxU0pCeFpkQnRFOGlXVE0xMURHc2QwU1JZZnk1WThqc1ZiajVFQzg?oc=5",
-      "snippet": "",
-      "source": "청년일보",
-      "categories": [],
-      "pub_date": "Sun, 13 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "type": "news",
       "title": "日이 분석한 中 로봇 생태계···\"움직이는 기계서 돈 버는 산업으로\" - 헬로디디",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XT3htODFDaER4Vkk0bjMxWGdQQktCRENtY1NDckZHWVRLU0tqUjZnbi00WEEwelMyWXllQjBPUHo2bmRlcWdEbnFHV1pwdElqQ29IZURHbF9DN0JmZjF4empmMFBSSVE3VHc?oc=5",
       "snippet": "",
@@ -73,6 +64,15 @@
       "source": "지디넷코리아",
       "categories": [],
       "pub_date": "Wed, 09 Sep 2026 10:54:45 GMT"
+    },
+    {
+      "type": "news",
+      "title": "마음AI “피지컬 AI 확산, 로봇 임무 이해하는 AI 네트워크 필요” - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGS21hZU4wOXdXNW1LRF9icGJraGFQLS03Y3picEx0dHdiSlY4SndyeTJqeGE5eHAyZEM2QTQwQkFkNGRLYUFZcDFoQWwtQjBLemc1aGtoWFE0QUxfSXZReGc0U09yQUtZ?oc=5",
+      "snippet": "",
+      "source": "테크월드",
+      "categories": [],
+      "pub_date": "Fri, 11 Sep 2026 07:53:33 GMT"
     }
   ]
 }
