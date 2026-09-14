@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T19:50:56Z",
+  "updated_at": "2026-09-14T23:52:33Z",
   "papers": [
     {
       "type": "paper",
@@ -97,15 +97,6 @@
   "news": [
     {
       "type": "news",
-      "title": "한화투자증권 \"피지컬 AI 중심축, 자율주행으로 옮겨간다\" - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQkwxcndfbEFhVy1HM2RjSzRDREVzbS13b3J2UFhEZkdXclJQM0JYaW8tMmpuLVJjbll5cEUzRjVNdmg4UGJrTnU1ZVBNcmRnVHpuSnVNWlJieElKbDBGLVZIRU5EcnJudUV6Mg?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 03:06:51 GMT"
-    },
-    {
-      "type": "news",
       "title": "골드만삭스 “2035년 휴머노이드 로봇 650만 대 출하”…1380억 달러 시장 열린다 - 글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2x5eWk4NXN0eW9vYXg4OW9HZUdjM0JERDJtcTNKaGg3VFhKMWx0Nmc0VktHUDUtQXhUNjFFQTVkbENuQUJzNm1BU19Nd216dW9wOGVyWDIzenVfU0czcE5oRjhFU1dQRWZOYlFVcVFkZ3dDTExRVl9oOG44SDV6SlZ3V3U5eFgz?oc=5",
       "snippet": "",
@@ -115,21 +106,30 @@
     },
     {
       "type": "news",
-      "title": "[산업AI EXPO 프리뷰] AI to Motion ③ | 휴머노이드 관절을 가르는 조건? 코모텍 “출력·효율·정밀도” - hellot.net",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IbTNqaHhSRk8zYlpwSGhFWVg1ekt0bWwxMms2MTVuOEkya25kaGNpQjhtcVVpVXh4SmtVZEk3ZHJtRTQ0bllMcUdsN29aMDBIWTJ3VU1CNVQ0bDNVTzJN?oc=5",
+      "title": "한화투자증권 \"피지컬 AI 중심축, 자율주행으로 옮겨간다\" - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQkwxcndfbEFhVy1HM2RjSzRDREVzbS13b3J2UFhEZkdXclJQM0JYaW8tMmpuLVJjbll5cEUzRjVNdmg4UGJrTnU1ZVBNcmRnVHpuSnVNWlJieElKbDBGLVZIRU5EcnJudUV6Mg?oc=5",
       "snippet": "",
-      "source": "hellot.net",
+      "source": "로봇신문",
       "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 08:56:02 GMT"
+      "pub_date": "Mon, 14 Sep 2026 03:06:51 GMT"
     },
     {
       "type": "news",
-      "title": "꾸그티처스, 피지컬AI 교육사업 본격화 - 머니투데이 - mt.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cW55dXRPTGM4MnJlbjBQRnFKd29ndUxUU2loUVZMSmtjQ0JqbU5pZHhaSFdjZzdHdFhJUmlYaHhJX3NPb3Qtb0dhamN2R0ttRC00VUVUbHQ3cHFadGdodkVvMVdJQktKQXIySlJGQzRDd9IBckFVX3lxTE96cW55dXRPTGM4MnJlbjBQRnFKd29ndUxUU2loUVZMSmtjQ0JqbU5pZHhaSFdjZzdHdFhJUmlYaHhJX3NPb3Qtb0dhamN2R0ttRC00VUVUbHQ3cHFadGdodkVvMVdJQktKQXIySlJGQzRDdw?oc=5",
+      "title": "휴머노이드 로봇 2035년 650만대 ‘로봇 빅뱅’ 온다 - 엠투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1NkZ5Z3lWQ2x2VnllR1FoZEZCdHBQMkRHWEoydzlHTFgwTzYwbFRjcEU0RTNJdnFBUm5lRXJBNURuVVA4eEpmUkdHeDdMb05fMnhMV2NQUm9WZWVEa1BwdjRGRjlMU1NlTFBLRmE1TQ?oc=5",
       "snippet": "",
-      "source": "mt.co.kr",
+      "source": "엠투데이",
       "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 07:56:00 GMT"
+      "pub_date": "Mon, 14 Sep 2026 22:02:26 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[산업AI EXPO 프리뷰] AI to Motion ③ | 휴머노이드 관절을 가르는 조건? 코모텍 “출력·효율·정밀도” - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IbTNqaHhSRk8zYlpwSGhFWVg1ekt0bWwxMms2MTVuOEkya25kaGNpQjhtcVVpVXh4SmtVZEk3ZHJtRTQ0bllMcUdsN29aMDBIWTJ3VU1CNVQ0bDNVTzJN?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 08:56:02 GMT"
     },
     {
       "type": "news",
@@ -151,21 +151,21 @@
     },
     {
       "type": "news",
+      "title": "꾸그티처스, 피지컬AI 교육사업 본격화 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTFd2OFNkeTk0bkZZaElzRk5XYTJCQVhXaWxkLWl3ZGVEajVhcjhnODhBd0tuUngxMVI2Z00waTFzZE82cUMwcVhPQUVMYU9Mc3hQbVREY19peHRjd1lmQkVpTkVzalNRLVhIbNIBckFVX3lxTE96cW55dXRPTGM4MnJlbjBQRnFKd29ndUxUU2loUVZMSmtjQ0JqbU5pZHhaSFdjZzdHdFhJUmlYaHhJX3NPb3Qtb0dhamN2R0ttRC00VUVUbHQ3cHFadGdodkVvMVdJQktKQXIySlJGQzRDdw?oc=5",
+      "snippet": "",
+      "source": "머니투데이",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 07:56:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "로봇 뛰게 할 '마음AI' 두뇌…軍 자율주행 시장 정조준 - 경제타임스",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xdkp6UjQ1VzhBMHhPemFnU21ZN0ZhTzBQeXFjTTlxX0RBdWRjemdiOWNheU00bTVRSV92ZGN3QnZmajBfaF9LS3hpS0o1UXdkdTRCcXlTcW4?oc=5",
       "snippet": "",
       "source": "경제타임스",
       "categories": [],
       "pub_date": "Mon, 14 Sep 2026 01:12:56 GMT"
-    },
-    {
-      "type": "news",
-      "title": "의료기기 도시 원주…AI 넘어 '피지컬AI' 정조준 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nYnRVMzl0T3RTcHlFYVRZWHlmZ05mZlN6eXR1SThERjIxa0FXTjJZQTdvRkI4c2I1NlRqSlMwXzYtd184b0VvOGZ6WkdlcUFSUVVCUVVKbmcxbWhoMmVtQtIBeEFVX3lxTE1XR3ZIVFMybE9jUlc3dEdzdThvb3N5b284M3hRaXJfRGk2bUJNQlMwTHJLX2xIRExGUnpQaWRvUW00dVJ2WVRyUFBFMjBLQTNMdmFISmFyM0FZeU9HVkxMQXlicllQOXZfSFNOOEZGZjNuLXVTZ2FKZg?oc=5",
-      "snippet": "",
-      "source": "뉴시스",
-      "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 05:29:56 GMT"
     }
   ]
 }
