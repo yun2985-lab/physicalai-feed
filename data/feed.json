@@ -1,15 +1,162 @@
 {
-  "updated_at": "2026-09-13T23:11:15Z",
-  "papers": [],
+  "updated_at": "2026-09-14T04:57:45Z",
+  "papers": [
+    {
+      "type": "paper",
+      "title": "Scenario-Independent Criticality Assessment and Prediction for Vulnerable Road Users in Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.11947",
+      "snippet": "Increasing safety is the primary objective of automated vehicles. Achieving this goal requires reliable safety metrics that incorporate safety-relevant factors such as object type, velocity, and criticality. A key…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "cs.CY"
+      ],
+      "pub_date": "Mon, 14 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Pelican-Sim 1.0: A General World Model Simulator for Embodied Intelligence",
+      "url": "https://arxiv.org/abs/2609.12036",
+      "snippet": "In this technical report, we propose Pelican-Sim 1.0, a general world model simulator for embodied intelligence that predicts future observations from visual context and robot actions to support downstream learning and…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pub_date": "Mon, 14 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "MoPA: Coordinated Mobile Manipulation via Subsystem-Specific Perception Alignment",
+      "url": "https://arxiv.org/abs/2609.12081",
+      "snippet": "Mobile manipulation requires perceptual evidence at different spatial scales for base motion and arm control, while the two action modalities remain kinematically coupled. Existing policies often employ specialized…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Mon, 14 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Uncertainty-Aware Conflict Detection Against Operator-Conditioned Weather Hazards",
+      "url": "https://arxiv.org/abs/2609.12095",
+      "snippet": "Strategic flight plan validation in Advanced Air Mobility (AAM) environments requires robust methods for predicting aircraft state uncertainty and detecting potential conflicts with dynamic airspace hazards. This paper…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 14 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "RodForesight: A World Model Enhanced Diffusion Policy for Slender and Material Agnostic Rod Insertion",
+      "url": "https://arxiv.org/abs/2609.12103",
+      "snippet": "Slender rod insertion arises in precision manufacturing, where millimetre scale diameter and tight clearances demand accurate perception and control. Conventional peg-in-hole methods assume a rigid object whose tip pose…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 14 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Multi-Objective Agent-Based Model Predictive Controller for Plug-and-Play Vehicle Control",
+      "url": "https://arxiv.org/abs/2609.12108",
+      "snippet": "Functional integration is a growing trend in vehicle control, often involving the coordination of multiple controllers to achieve various objectives simultaneously. The need for flexibility and reliability has led to a…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 14 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "A Data-Driven Distributed Control Scheme: Learning Multi-Objective Agent-Based MPC for Path-Tracking",
+      "url": "https://arxiv.org/abs/2609.12142",
+      "snippet": "Agent-based model predictive control (AMPC) has recently been proposed for vehicle systems with various controllers, such as differential braking and torque vectoring, where controllers are regarded as distributed…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 14 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "A Physics-Based Closed-Loop Robotic Bioprinting Framework Towards Volumetric Muscle Loss Treatment",
+      "url": "https://arxiv.org/abs/2609.12159",
+      "snippet": "Robotic bioprinting and Direct Ink Writing (DIW) are being explored towards the treatment of Volumetric Muscle Loss (VML). While previous studies have shown the importance of proper parameter selection on the print…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 14 Sep 2026 00:00:00 -0400"
+    }
+  ],
   "news": [
     {
       "type": "news",
-      "title": "인티그리트, 피지컬 AI 플랫폼 ‘에어패스’ 공급 확대 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOZkdoNzAyZGFleXJMMVpVMUhrWktzWVFmd2k2QjJrekJWRHlvNF8tNGlHRDZEY28xTmFCUGE4cElaMU42eFVmMHM1ZDlnY2FkUXF4NE1aLWpJNG5xTEVwSFFMcklZb0hnM01vSw?oc=5",
+      "title": "한화투자증권 \"피지컬 AI 중심축, 자율주행으로 옮겨간다\" - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQkwxcndfbEFhVy1HM2RjSzRDREVzbS13b3J2UFhEZkdXclJQM0JYaW8tMmpuLVJjbll5cEUzRjVNdmg4UGJrTnU1ZVBNcmRnVHpuSnVNWlJieElKbDBGLVZIRU5EcnJudUV6Mg?oc=5",
       "snippet": "",
       "source": "로봇신문",
       "categories": [],
-      "pub_date": "Sun, 13 Sep 2026 10:20:36 GMT"
+      "pub_date": "Mon, 14 Sep 2026 03:06:51 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇 뛰게 할 '마음AI' 두뇌…軍 자율주행 시장 정조준 - 경제타임스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWVW1yMDZYanI3VXp2S1ljY3JRV1BCazFMajAtSzU0NEdHeG01MnVSOEFCb3hoRnNLaXowaWZRcURIUFZVTTB5RFB2TjhEc3J4NTF3?oc=5",
+      "snippet": "",
+      "source": "경제타임스",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 01:12:56 GMT"
+    },
+    {
+      "type": "news",
+      "title": "피지컬 AI (Physical AI)에 대한 이해와 응용 - 목차 - 미디어피아",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Db3RNZ2FxTkg5ZXNzbEdIaWhVazR6SmVaMkVWNnY4bDZoMl9KWnRLdldFb0JHb2NDUWFHbGRKVERzLWZNREliR0pjZW8xQTdXM1BETUVQa1ZoNkVRRUM0RDN4S3BFMVhsTzF3Ny13?oc=5",
+      "snippet": "",
+      "source": "미디어피아",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 02:18:49 GMT"
+    },
+    {
+      "type": "news",
+      "title": "모비루스, 산업부 K-온디바이스 AI반도체 무인 농작업 로봇 3세부 과제 주관기관 선정 - 푸드아이콘",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16SDNOX2RSNnNIYURHaG03Z1NsQ2kycjFhRDd4aTN5anFtUXRmQnlLSkx6OU1wMjFZVGlsOXlqVGEzNzVrcmlxYjhoY1l3UW1ZMUJrYlN5SzAzSlhoVXJWSEtyX25wS28tMkVuZg?oc=5",
+      "snippet": "",
+      "source": "푸드아이콘",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 04:23:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "엔젤로보틱스 조남민 대표 “피지컬 AI 시대, 사람 중심 기술로 인간 능력 재창조” - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1acUZXeHJVb3dVX1E4clN3S3VvdjFpRklYRkQ3RFNMWXVLd0FqM242WU42VDRmR0NqZk4xWWxQVVkwUXc0MVhLV3YtVGl4dXdqYklnVWJiU21jTDNJc08xaGU4VFBmVHFibGc?oc=5",
+      "snippet": "",
+      "source": "의학신문",
+      "categories": [],
+      "pub_date": "Sun, 13 Sep 2026 23:36:32 GMT"
+    },
+    {
+      "type": "news",
+      "title": "모비루스, ‘87억 원’ 국책과제 땄다...무인 농작업 로봇 상용화 ‘정조준’ - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SbFdJR1Fua2xWeTF4V0NCeXZGYnpfalFvcE9WU0xxT2drZl9oYUhVSXpEVlJDVkh6NFJ0VzVHbDU0bHpCelowVk1RRWVPeHZZWkQxeG1zM2NyVHFKdFpj?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 04:40:16 GMT"
+    },
+    {
+      "type": "news",
+      "title": "모비루스, 산업부 무인 농작업 로봇 3세부 주관기관 선정 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnR1ZkpjQzRKWHZEeWhsLV9VS2ZrTzczNE14Q1lBRi1BX0x5eFF0RXBCLVZGVFFhQ1YzY1IwaF9yV2VmaUxoZklHbVZDVTBKTkloVmRR?oc=5",
+      "snippet": "",
+      "source": "e4ds news",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 01:59:00 GMT"
     },
     {
       "type": "news",
@@ -19,60 +166,6 @@
       "source": "전자신문",
       "categories": [],
       "pub_date": "Thu, 10 Sep 2026 02:00:56 GMT"
-    },
-    {
-      "type": "news",
-      "title": "포항 영일만산단에 국내 첫 `피지컬 AI 로봇 파운드리` 들어선다 - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbEpDYlpwSGVQMXMwRVdQSGlqV3FwSk9kT2l2LVNfb29VSFl6amdsNUVVODNyRmtGRU12X2NsaEFMMjJ0UTNaOWNrTU5aU3E3RlJJZi15cW5rLTFRVGZZRVN3?oc=5",
-      "snippet": "",
-      "source": "매일신문",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 01:22:33 GMT"
-    },
-    {
-      "type": "news",
-      "title": "포항 영일만산단에 국내 최초 ‘피지컬 AI 로봇 파운드리’ 들어선다 - hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UT0NWZGdQNG5Wc3ZRUnI3OHZJQktjN0tXcjJqcXVWQU9IOGgyN0RZXzI3VHEwZE9tSDhaRHdoZnlMMWVBNndKOFBsTmV6NWlicUJvSXRVRV91TTRjb2lzZG91aF9HM1ktRnc?oc=5",
-      "snippet": "",
-      "source": "hidomin.com",
-      "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 01:54:40 GMT"
-    },
-    {
-      "type": "news",
-      "title": "뉴로메카, 포항 영일만산단에 1800억 규모 '피지컬 AI 로봇 파운드리' 구축 - 페로타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DUk11MnU3ZlgybmVpX2RCd2E5c3RkZ2F6RjRmcURldmJNUEs3eDREUGlUSTJ1X2tUSWJUN2ZKRkJSVEV0ek1KellyaHNNWGxQSWlnOEN6Wk5yQndOWUVoaTJPMHZTN3l1V0ZCSA?oc=5",
-      "snippet": "",
-      "source": "페로타임즈",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 03:03:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "日이 분석한 中 로봇 생태계···\"움직이는 기계서 돈 버는 산업으로\" - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XT3htODFDaER4Vkk0bjMxWGdQQktCRENtY1NDckZHWVRLU0tqUjZnbi00WEEwelMyWXllQjBPUHo2bmRlcWdEbnFHV1pwdElqQ29IZURHbF9DN0JmZjF4empmMFBSSVE3VHc?oc=5",
-      "snippet": "",
-      "source": "헬로디디",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aVWNVdEUtcU4zQmNVakQ0N2MxVnVOSVdocXVrcGVrMk9ReDVsZ0FqU3A3dElNWXd3SmFvTndxTXpnR3JVa1lEb0t4dFNvcDNZRXZiblB3?oc=5",
-      "snippet": "",
-      "source": "지디넷코리아",
-      "categories": [],
-      "pub_date": "Wed, 09 Sep 2026 10:54:45 GMT"
-    },
-    {
-      "type": "news",
-      "title": "마음AI “피지컬 AI 확산, 로봇 임무 이해하는 AI 네트워크 필요” - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGS21hZU4wOXdXNW1LRF9icGJraGFQLS03Y3picEx0dHdiSlY4SndyeTJqeGE5eHAyZEM2QTQwQkFkNGRLYUFZcDFoQWwtQjBLemc1aGtoWFE0QUxfSXZReGc0U09yQUtZ?oc=5",
-      "snippet": "",
-      "source": "테크월드",
-      "categories": [],
-      "pub_date": "Fri, 11 Sep 2026 07:53:33 GMT"
     }
   ]
 }
