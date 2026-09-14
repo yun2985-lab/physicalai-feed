@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T04:57:45Z",
+  "updated_at": "2026-09-14T12:48:40Z",
   "papers": [
     {
       "type": "paper",
@@ -106,21 +106,57 @@
     },
     {
       "type": "news",
-      "title": "로봇 뛰게 할 '마음AI' 두뇌…軍 자율주행 시장 정조준 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWVW1yMDZYanI3VXp2S1ljY3JRV1BCazFMajAtSzU0NEdHeG01MnVSOEFCb3hoRnNLaXowaWZRcURIUFZVTTB5RFB2TjhEc3J4NTF3?oc=5",
+      "title": "꾸그티처스, 피지컬AI 교육사업 본격화 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cW55dXRPTGM4MnJlbjBQRnFKd29ndUxUU2loUVZMSmtjQ0JqbU5pZHhaSFdjZzdHdFhJUmlYaHhJX3NPb3Qtb0dhamN2R0ttRC00VUVUbHQ3cHFadGdodkVvMVdJQktKQXIySlJGQzRDd9IBckFVX3lxTE96cW55dXRPTGM4MnJlbjBQRnFKd29ndUxUU2loUVZMSmtjQ0JqbU5pZHhaSFdjZzdHdFhJUmlYaHhJX3NPb3Qtb0dhamN2R0ttRC00VUVUbHQ3cHFadGdodkVvMVdJQktKQXIySlJGQzRDdw?oc=5",
       "snippet": "",
-      "source": "경제타임스",
+      "source": "머니투데이",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 07:56:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "등대공장에서 무인공장으로…2030 다크팩토리가 온다 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWWHRoN2hxODlpMmpnNHN6RGd5anhncFB3SFFUTV8zSHh1WndnZGsyOTFzdlUxYUFaWkx2QS1pSHk2b3VfM2ZjZXdENFBnS29VLWQzbXVR?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 07:48:53 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[산업AI EXPO 프리뷰] AI to Motion ③ | 휴머노이드 관절을 가르는 조건? 코모텍 “출력·효율·정밀도” - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IbTNqaHhSRk8zYlpwSGhFWVg1ekt0bWwxMms2MTVuOEkya25kaGNpQjhtcVVpVXh4SmtVZEk3ZHJtRTQ0bllMcUdsN29aMDBIWTJ3VU1CNVQ0bDNVTzJN?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 08:56:02 GMT"
+    },
+    {
+      "type": "news",
+      "title": "中 데이터 규제 당국, 체화형 AI 표준 제정 추진 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lZzRGSWtDbjl4c3Q1a1lTbXhRVFF3bXpUb2VhOHhsS1RIM29ESjRIaGNsY1Fac0lPUHRxcWU5SjkwRzB0TEFsanBqUDktTDhlNjdfeEt5aEJuUDFRVnFCSVBScw?oc=5",
+      "snippet": "",
+      "source": "더구루",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 04:54:12 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로봇 뛰게 할 '마음AI' 두뇌…軍 자율주행 시장 정조준 - ket.kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xdkp6UjQ1VzhBMHhPemFnU21ZN0ZhTzBQeXFjTTlxX0RBdWRjemdiOWNheU00bTVRSV92ZGN3QnZmajBfaF9LS3hpS0o1UXdkdTRCcXlTcW4?oc=5",
+      "snippet": "",
+      "source": "ket.kr",
       "categories": [],
       "pub_date": "Mon, 14 Sep 2026 01:12:56 GMT"
     },
     {
       "type": "news",
-      "title": "피지컬 AI (Physical AI)에 대한 이해와 응용 - 목차 - 미디어피아",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Db3RNZ2FxTkg5ZXNzbEdIaWhVazR6SmVaMkVWNnY4bDZoMl9KWnRLdldFb0JHb2NDUWFHbGRKVERzLWZNREliR0pjZW8xQTdXM1BETUVQa1ZoNkVRRUM0RDN4S3BFMVhsTzF3Ny13?oc=5",
+      "title": "의료기기 도시 원주…AI 넘어 '피지컬AI' 정조준 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nYnRVMzl0T3RTcHlFYVRZWHlmZ05mZlN6eXR1SThERjIxa0FXTjJZQTdvRkI4c2I1NlRqSlMwXzYtd184b0VvOGZ6WkdlcUFSUVVCUVVKbmcxbWhoMmVtQtIBeEFVX3lxTE1XR3ZIVFMybE9jUlc3dEdzdThvb3N5b284M3hRaXJfRGk2bUJNQlMwTHJLX2xIRExGUnpQaWRvUW00dVJ2WVRyUFBFMjBLQTNMdmFISmFyM0FZeU9HVkxMQXlicllQOXZfSFNOOEZGZjNuLXVTZ2FKZg?oc=5",
       "snippet": "",
-      "source": "미디어피아",
+      "source": "뉴시스",
       "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 02:18:49 GMT"
+      "pub_date": "Mon, 14 Sep 2026 05:29:56 GMT"
     },
     {
       "type": "news",
@@ -130,42 +166,6 @@
       "source": "푸드아이콘",
       "categories": [],
       "pub_date": "Mon, 14 Sep 2026 04:23:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "엔젤로보틱스 조남민 대표 “피지컬 AI 시대, 사람 중심 기술로 인간 능력 재창조” - 의학신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1acUZXeHJVb3dVX1E4clN3S3VvdjFpRklYRkQ3RFNMWXVLd0FqM242WU42VDRmR0NqZk4xWWxQVVkwUXc0MVhLV3YtVGl4dXdqYklnVWJiU21jTDNJc08xaGU4VFBmVHFibGc?oc=5",
-      "snippet": "",
-      "source": "의학신문",
-      "categories": [],
-      "pub_date": "Sun, 13 Sep 2026 23:36:32 GMT"
-    },
-    {
-      "type": "news",
-      "title": "모비루스, ‘87억 원’ 국책과제 땄다...무인 농작업 로봇 상용화 ‘정조준’ - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SbFdJR1Fua2xWeTF4V0NCeXZGYnpfalFvcE9WU0xxT2drZl9oYUhVSXpEVlJDVkh6NFJ0VzVHbDU0bHpCelowVk1RRWVPeHZZWkQxeG1zM2NyVHFKdFpj?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 04:40:16 GMT"
-    },
-    {
-      "type": "news",
-      "title": "모비루스, 산업부 무인 농작업 로봇 3세부 주관기관 선정 - e4ds news",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnR1ZkpjQzRKWHZEeWhsLV9VS2ZrTzczNE14Q1lBRi1BX0x5eFF0RXBCLVZGVFFhQ1YzY1IwaF9yV2VmaUxoZklHbVZDVTBKTkloVmRR?oc=5",
-      "snippet": "",
-      "source": "e4ds news",
-      "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 01:59:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "포항영일만산단에 1800억 원 규모 '피지컬 AI 로봇 파운드리' 구축 시동 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DZHFROHZpVTB1cDNHc05aaTJTM2JXamdjODVuZTdBRm04R2JMVGtaREs3UmpRX1RtZl9uY2RnNEcwZjNtR3YtZmRFTURoZw?oc=5",
-      "snippet": "",
-      "source": "전자신문",
-      "categories": [],
-      "pub_date": "Thu, 10 Sep 2026 02:00:56 GMT"
     }
   ]
 }
