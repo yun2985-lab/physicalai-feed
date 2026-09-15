@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T16:59:48Z",
+  "updated_at": "2026-09-15T21:21:33Z",
   "papers": [
     {
       "type": "paper",
@@ -103,12 +103,12 @@
   "news": [
     {
       "type": "news",
-      "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
+      "title": "日 TV도쿄, 갤럭시코퍼레이션 '로봇파크' 집중 조명…韓 피지컬 AI 상용화에 주목 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0VFQ4dFR3QTgySjlDN0lGb2g3LTBPVWk1NmlkZTlqYi1jc05MVlpXd1lDTkg3VURlWUh4Vk1qakRKMmEtc1pEM1Y1VlRvZw?oc=5",
       "snippet": "",
-      "source": "인공지능신문",
+      "source": "전자신문",
       "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 05:35:43 GMT"
+      "pub_date": "Tue, 15 Sep 2026 06:18:47 GMT"
     },
     {
       "type": "news",
@@ -121,21 +121,21 @@
     },
     {
       "type": "news",
-      "title": "日 TV도쿄, 갤럭시코퍼레이션 '로봇파크' 집중 조명…韓 피지컬 AI 상용화에 주목 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0VFQ4dFR3QTgySjlDN0lGb2g3LTBPVWk1NmlkZTlqYi1jc05MVlpXd1lDTkg3VURlWUh4Vk1qakRKMmEtc1pEM1Y1VlRvZw?oc=5",
+      "title": "Skild AI, NVIDIA 피지컬 AI로 영상 한 편만 보고 새 작업 익히는 로봇 구현 - blogs.nvidia.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFRsR1FnSjFFVjdOWkdXM3NEdmxGY1h3N0lSei1TdnRzbndob1lOcmRwMTZRR1MzX0FnYXFwalNfVDJlUG9sclYyMjBGVlAxLVQ4ZUhaQzhraDRqQ0g4UkdLdi1VYWc?oc=5",
       "snippet": "",
-      "source": "전자신문",
+      "source": "blogs.nvidia.co.kr",
       "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 06:18:47 GMT"
+      "pub_date": "Tue, 15 Sep 2026 07:24:08 GMT"
     },
     {
       "type": "news",
-      "title": "Skild AI, NVIDIA 피지컬 AI로 영상 한 편만 보고 새 작업 익히는 로봇 구현 - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFRsR1FnSjFFVjdOWkdXM3NEdmxGY1h3N0lSei1TdnRzbndob1lOcmRwMTZRR1MzX0FnYXFwalNfVDJlUG9sclYyMjBGVlAxLVQ4ZUhaQzhraDRqQ0g4UkdLdi1VYWc?oc=5",
+      "title": "LG전자 “모든 공간이 로봇”…피지컬 AI 승부처는 ‘센서 표준화’ - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qVUFSOHh1SmpwYUpLUnJfU2x2a0tEUHRMSWRRQWlaTzhLdnVmVFAyMkZGMVY5YzR1U3lxQ09JYXhiMmdMRkRMNTVmV01JU253MjcxYnFZUmdnX0k?oc=5",
       "snippet": "",
-      "source": "NVIDIA",
+      "source": "에너지경제신문",
       "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 07:24:08 GMT"
+      "pub_date": "Tue, 15 Sep 2026 07:55:04 GMT"
     },
     {
       "type": "news",
@@ -148,21 +148,21 @@
     },
     {
       "type": "news",
+      "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
+      "snippet": "",
+      "source": "인공지능신문",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 05:35:43 GMT"
+    },
+    {
+      "type": "news",
       "title": "플랜트 전체가 거대한 '피지컬 AI'…로봇개가 순찰도는 SK의 울산CLX - 연합인포맥스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XQ2ZwQ0k4bDJKT3V3cm5CWHBTTEpqdm84TjB4ZkpBbGV5c3hKOXh2V2VlWS1MREdJZEtWOFBpSmhIczdSR28wakZhbmlTenhHZnpBM1NZblNiVllGOENFelpFdjNObFJncE93RHZnUWE?oc=5",
       "snippet": "",
       "source": "연합인포맥스",
       "categories": [],
       "pub_date": "Tue, 15 Sep 2026 05:00:29 GMT"
-    },
-    {
-      "type": "news",
-      "title": "LG전자 “모든 공간이 로봇”…피지컬 AI 승부처는 ‘센서 표준화’ - 에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qVUFSOHh1SmpwYUpLUnJfU2x2a0tEUHRMSWRRQWlaTzhLdnVmVFAyMkZGMVY5YzR1U3lxQ09JYXhiMmdMRkRMNTVmV01JU253MjcxYnFZUmdnX0k?oc=5",
-      "snippet": "",
-      "source": "에너지경제신문",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 07:55:04 GMT"
     },
     {
       "type": "news",
