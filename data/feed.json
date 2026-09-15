@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:45:01Z",
+  "updated_at": "2026-09-15T16:59:48Z",
   "papers": [
     {
       "type": "paper",
@@ -103,12 +103,48 @@
   "news": [
     {
       "type": "news",
+      "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
+      "snippet": "",
+      "source": "인공지능신문",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 05:35:43 GMT"
+    },
+    {
+      "type": "news",
+      "title": "울산과학대학교, WAVE 2026서 'Physical AI 로봇'... \"현장형 인재 양성\" | - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSXptQjFwVE9uaVlFZWs4b3NkbnJmX0d1NTQ4Q3h1VWkxQWRlakNaTnFuQU1vc3lNU2pMd3NQMFByMXpuMEY0Wmt2Yy0ydFotT2FJajFlTzJSZmJFUXoxMVFWbS1Gb2U4T3ZV?oc=5",
+      "snippet": "",
+      "source": "에이빙",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 08:42:46 GMT"
+    },
+    {
+      "type": "news",
       "title": "日 TV도쿄, 갤럭시코퍼레이션 '로봇파크' 집중 조명…韓 피지컬 AI 상용화에 주목 - 전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0VFQ4dFR3QTgySjlDN0lGb2g3LTBPVWk1NmlkZTlqYi1jc05MVlpXd1lDTkg3VURlWUh4Vk1qakRKMmEtc1pEM1Y1VlRvZw?oc=5",
       "snippet": "",
       "source": "전자신문",
       "categories": [],
       "pub_date": "Tue, 15 Sep 2026 06:18:47 GMT"
+    },
+    {
+      "type": "news",
+      "title": "Skild AI, NVIDIA 피지컬 AI로 영상 한 편만 보고 새 작업 익히는 로봇 구현 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFRsR1FnSjFFVjdOWkdXM3NEdmxGY1h3N0lSei1TdnRzbndob1lOcmRwMTZRR1MzX0FnYXFwalNfVDJlUG9sclYyMjBGVlAxLVQ4ZUhaQzhraDRqQ0g4UkdLdi1VYWc?oc=5",
+      "snippet": "",
+      "source": "NVIDIA",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 07:24:08 GMT"
+    },
+    {
+      "type": "news",
+      "title": "“데이터센터도 로봇이 돈다”… KT, 피지컬 AI로 AIDC 운영 바꾼다 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMzdmUVRZX0h5c0NIM2ZndU5KQ3BlTGR4bllnMC1yQk1BYjVaZ054b002ajdxRlVkLTBRdTNQVkVhcGVTMDlZRU43VGtQVUdKbFl5VGNudlpaMnJ4WThSeHlNWjRyWFBQM3c?oc=5",
+      "snippet": "",
+      "source": "천지일보",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 08:18:26 GMT"
     },
     {
       "type": "news",
@@ -130,48 +166,12 @@
     },
     {
       "type": "news",
-      "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
-      "snippet": "",
-      "source": "인공지능신문",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 05:35:43 GMT"
-    },
-    {
-      "type": "news",
-      "title": "“데이터센터도 로봇이 돈다”… KT, 피지컬 AI로 AIDC 운영 바꾼다 - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMzdmUVRZX0h5c0NIM2ZndU5KQ3BlTGR4bllnMC1yQk1BYjVaZ054b002ajdxRlVkLTBRdTNQVkVhcGVTMDlZRU43VGtQVUdKbFl5VGNudlpaMnJ4WThSeHlNWjRyWFBQM3c?oc=5",
-      "snippet": "",
-      "source": "천지일보",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 08:18:26 GMT"
-    },
-    {
-      "type": "news",
-      "title": "Skild AI, NVIDIA 피지컬 AI로 영상 한 편만 보고 새 작업 익히는 로봇 구현 - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFRsR1FnSjFFVjdOWkdXM3NEdmxGY1h3N0lSei1TdnRzbndob1lOcmRwMTZRR1MzX0FnYXFwalNfVDJlUG9sclYyMjBGVlAxLVQ4ZUhaQzhraDRqQ0g4UkdLdi1VYWc?oc=5",
-      "snippet": "",
-      "source": "NVIDIA",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 07:24:08 GMT"
-    },
-    {
-      "type": "news",
       "title": "로보티크, 한국어 웹사이트 개설… 협동로봇·피지컬 AI 솔루션 소개 - 조선비즈 - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTluLWFwZ1hiV1VKVFJBU21tam1BMjd4amEwS2FzMHcweUFOenR3ZVJiTHlocDN2cmFsNmlaN1J4VWtuaVNOdmt1bkE1UWUxRlBJZkJFYzJJZGFBT1k3V1JDOHpNWUVZRklXTEhkb2IzV0VlT2hqRFJxWEduUy1GU2ZkU040NUZVVnd6TdIBoAFBVV95cUxQT1Z2d25YLVgxX2lCN2lVZ3VHMWRHS2VHNGlYXzZiX242T3JOUmQzM1VBRGJubmh3Vi1McG1mYXFUZ0RsLUdHeTRfQzFfQ3VXQW9Ea2tDcWI0REM0MFh1WGY0RF9fc1ZwazBRRkVtTzc4TVFEM2RsV2ZVRUJMRmRqMVAtelc2S0N6bFlFMlc2d280cVpDREIxYkE2QklDb1N4?oc=5",
       "snippet": "",
       "source": "Chosunbiz",
       "categories": [],
       "pub_date": "Tue, 15 Sep 2026 01:31:54 GMT"
-    },
-    {
-      "type": "news",
-      "title": "스트라드비젼, 휴머노이드 로봇 ‘시각 두뇌’ 노린다…AMD 양산 개발 본격화·Arm 생태계 가세 - 파이낸셜포스트",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qVExTQU1udUpuNEdVYnAwVHhUTGZ2Wk1BaWtvQzNCakplcVVtZ3d3WEtJQkNkMWstYVBlSW95OVV2c3RiX2ZEeUI0WEstOEtmXzBXZG9jalNITGh3RVFPV2htQnYxMTlJaEdqQXdmaTVaLWFR?oc=5",
-      "snippet": "",
-      "source": "파이낸셜포스트",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 02:18:58 GMT"
     }
   ]
 }
