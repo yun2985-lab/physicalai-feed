@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T04:55:46Z",
+  "updated_at": "2026-09-15T11:45:01Z",
   "papers": [
     {
       "type": "paper",
@@ -103,6 +103,60 @@
   "news": [
     {
       "type": "news",
+      "title": "日 TV도쿄, 갤럭시코퍼레이션 '로봇파크' 집중 조명…韓 피지컬 AI 상용화에 주목 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0VFQ4dFR3QTgySjlDN0lGb2g3LTBPVWk1NmlkZTlqYi1jc05MVlpXd1lDTkg3VURlWUh4Vk1qakRKMmEtc1pEM1Y1VlRvZw?oc=5",
+      "snippet": "",
+      "source": "전자신문",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 06:18:47 GMT"
+    },
+    {
+      "type": "news",
+      "title": "플랜트 전체가 거대한 '피지컬 AI'…로봇개가 순찰도는 SK의 울산CLX - 연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XQ2ZwQ0k4bDJKT3V3cm5CWHBTTEpqdm84TjB4ZkpBbGV5c3hKOXh2V2VlWS1MREdJZEtWOFBpSmhIczdSR28wakZhbmlTenhHZnpBM1NZblNiVllGOENFelpFdjNObFJncE93RHZnUWE?oc=5",
+      "snippet": "",
+      "source": "연합인포맥스",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 05:00:29 GMT"
+    },
+    {
+      "type": "news",
+      "title": "LG전자 “모든 공간이 로봇”…피지컬 AI 승부처는 ‘센서 표준화’ - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qVUFSOHh1SmpwYUpLUnJfU2x2a0tEUHRMSWRRQWlaTzhLdnVmVFAyMkZGMVY5YzR1U3lxQ09JYXhiMmdMRkRMNTVmV01JU253MjcxYnFZUmdnX0k?oc=5",
+      "snippet": "",
+      "source": "에너지경제신문",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 07:55:04 GMT"
+    },
+    {
+      "type": "news",
+      "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
+      "snippet": "",
+      "source": "인공지능신문",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 05:35:43 GMT"
+    },
+    {
+      "type": "news",
+      "title": "“데이터센터도 로봇이 돈다”… KT, 피지컬 AI로 AIDC 운영 바꾼다 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMzdmUVRZX0h5c0NIM2ZndU5KQ3BlTGR4bllnMC1yQk1BYjVaZ054b002ajdxRlVkLTBRdTNQVkVhcGVTMDlZRU43VGtQVUdKbFl5VGNudlpaMnJ4WThSeHlNWjRyWFBQM3c?oc=5",
+      "snippet": "",
+      "source": "천지일보",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 08:18:26 GMT"
+    },
+    {
+      "type": "news",
+      "title": "Skild AI, NVIDIA 피지컬 AI로 영상 한 편만 보고 새 작업 익히는 로봇 구현 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFRsR1FnSjFFVjdOWkdXM3NEdmxGY1h3N0lSei1TdnRzbndob1lOcmRwMTZRR1MzX0FnYXFwalNfVDJlUG9sclYyMjBGVlAxLVQ4ZUhaQzhraDRqQ0g4UkdLdi1VYWc?oc=5",
+      "snippet": "",
+      "source": "NVIDIA",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 07:24:08 GMT"
+    },
+    {
+      "type": "news",
       "title": "로보티크, 한국어 웹사이트 개설… 협동로봇·피지컬 AI 솔루션 소개 - 조선비즈 - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTluLWFwZ1hiV1VKVFJBU21tam1BMjd4amEwS2FzMHcweUFOenR3ZVJiTHlocDN2cmFsNmlaN1J4VWtuaVNOdmt1bkE1UWUxRlBJZkJFYzJJZGFBT1k3V1JDOHpNWUVZRklXTEhkb2IzV0VlT2hqRFJxWEduUy1GU2ZkU040NUZVVnd6TdIBoAFBVV95cUxQT1Z2d25YLVgxX2lCN2lVZ3VHMWRHS2VHNGlYXzZiX242T3JOUmQzM1VBRGJubmh3Vi1McG1mYXFUZ0RsLUdHeTRfQzFfQ3VXQW9Ea2tDcWI0REM0MFh1WGY0RF9fc1ZwazBRRkVtTzc4TVFEM2RsV2ZVRUJMRmRqMVAtelc2S0N6bFlFMlc2d280cVpDREIxYkE2QklDb1N4?oc=5",
       "snippet": "",
@@ -112,66 +166,12 @@
     },
     {
       "type": "news",
-      "title": "골드만삭스 “2035년 휴머노이드 로봇 650만 대 출하”…1380억 달러 시장 열린다 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2x5eWk4NXN0eW9vYXg4OW9HZUdjM0JERDJtcTNKaGg3VFhKMWx0Nmc0VktHUDUtQXhUNjFFQTVkbENuQUJzNm1BU19Nd216dW9wOGVyWDIzenVfU0czcE5oRjhFU1dQRWZOYlFVcVFkZ3dDTExRVl9oOG44SDV6SlZ3V3U5eFgz?oc=5",
-      "snippet": "",
-      "source": "글로벌이코노믹",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 00:05:35 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로보티크, 한국어 웹사이트 오픈...'자동화 통합'·'접촉 레이어'로 한국 시장 공략 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11YUpyeFdYY2ZJRDMwbHhnM05mc2h5U3YxaEs3Q1lPdWtyVUthcXRZT0JPUlM3THh6eDQ3cXdzUHVpWFBaeFMycFMwVi1SQQ?oc=5",
-      "snippet": "",
-      "source": "전자신문",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 01:30:00 GMT"
-    },
-    {
-      "type": "news",
       "title": "스트라드비젼, 휴머노이드 로봇 ‘시각 두뇌’ 노린다…AMD 양산 개발 본격화·Arm 생태계 가세 - 파이낸셜포스트",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qVExTQU1udUpuNEdVYnAwVHhUTGZ2Wk1BaWtvQzNCakplcVVtZ3d3WEtJQkNkMWstYVBlSW95OVV2c3RiX2ZEeUI0WEstOEtmXzBXZG9jalNITGh3RVFPV2htQnYxMTlJaEdqQXdmaTVaLWFR?oc=5",
       "snippet": "",
       "source": "파이낸셜포스트",
       "categories": [],
       "pub_date": "Tue, 15 Sep 2026 02:18:58 GMT"
-    },
-    {
-      "type": "news",
-      "title": "코윈로보틱스, 'AI 로봇 시뮬레이션 기술' 美 프로젝트 적용 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13NkNiSWE0QzFDMm9PWlVPUDVsWmJ0b2cwY1YtUDdObGI4eUpDTG5CMFZ0WU15Qy1RVFAzaDZDVjgzclNUZmItQUVmOFZOWXBBT2Vja3Y4V2xfSWtG?oc=5",
-      "snippet": "",
-      "source": "뉴스핌",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 00:04:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "휴머노이드 로봇 2035년 650만대 ‘로봇 빅뱅’ 온다 - 엠투데이",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1NkZ5Z3lWQ2x2VnllR1FoZEZCdHBQMkRHWEoydzlHTFgwTzYwbFRjcEU0RTNJdnFBUm5lRXJBNURuVVA4eEpmUkdHeDdMb05fMnhMV2NQUm9WZWVEa1BwdjRGRjlMU1NlTFBLRmE1TQ?oc=5",
-      "snippet": "",
-      "source": "엠투데이",
-      "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 22:02:26 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[산업AI EXPO 프리뷰] AI to Motion ③ | 휴머노이드 관절을 가르는 조건? 코모텍 “출력·효율·정밀도” - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IbTNqaHhSRk8zYlpwSGhFWVg1ekt0bWwxMms2MTVuOEkya25kaGNpQjhtcVVpVXh4SmtVZEk3ZHJtRTQ0bllMcUdsN29aMDBIWTJ3VU1CNVQ0bDNVTzJN?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 08:56:02 GMT"
-    },
-    {
-      "type": "news",
-      "title": "한화투자증권 \"피지컬 AI 중심축, 자율주행으로 옮겨간다\" - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQkwxcndfbEFhVy1HM2RjSzRDREVzbS13b3J2UFhEZkdXclJQM0JYaW8tMmpuLVJjbll5cEUzRjVNdmg4UGJrTnU1ZVBNcmRnVHpuSnVNWlJieElKbDBGLVZIRU5EcnJudUV6Mg?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 03:06:51 GMT"
     }
   ]
 }
