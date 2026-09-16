@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T16:56:20Z",
+  "updated_at": "2026-09-16T21:18:47Z",
   "papers": [
     {
       "type": "paper",
@@ -100,12 +100,12 @@
   "news": [
     {
       "type": "news",
-      "title": "피지컬 AI 확산 막는 전파규제 푼다…로봇·무선충전 규제 완화 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pRmdpZHRWOS1JblRyOER0akRPWVNpTkdNUEZvVy1KNzdtTi1NMExnTmpid1dmR3dkMzFCRUhNNDlobjQyaTB6ekZYeHA2UTczVW80SW9mV0xCZ2xTM3ItREFNTTQ?oc=5",
+      "title": "\"하드웨어 대신 해법 판다\"…K-피지컬AI, '조선소 실증' 수출 히든 카드 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54RDN1Vmc3X2tXdk5fWTJuNFZNWTU4d0tpczRlXzYwbFpZTGNHa2R4MlhIaTdvTGtOLTdUZktNN3gyQVBDWlktamNVcDV0TEE?oc=5",
       "snippet": "",
-      "source": "디지털데일리",
+      "source": "v.daum.net",
       "categories": [],
-      "pub_date": "Wed, 16 Sep 2026 03:00:00 GMT"
+      "pub_date": "Wed, 16 Sep 2026 21:01:59 GMT"
     },
     {
       "type": "news",
@@ -118,12 +118,30 @@
     },
     {
       "type": "news",
+      "title": "피지컬 AI 확산 막는 전파규제 푼다…로봇·무선충전 규제 완화 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pRmdpZHRWOS1JblRyOER0akRPWVNpTkdNUEZvVy1KNzdtTi1NMExnTmpid1dmR3dkMzFCRUhNNDlobjQyaTB6ekZYeHA2UTczVW80SW9mV0xCZ2xTM3ItREFNTTQ?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Wed, 16 Sep 2026 03:00:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "[인더스트리 솔루션 인사이트] AI 자율제조, 기술 넘어 ‘운영’을 혁신하다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ubm1NVmJfZDRMRFFQNm1nVUdEUUpOczlvcFFWUHZ3M1BpUFJRV0VDa2taVDJiV1VNc2FPdzVEbDR3V29wUkRQUnE0VjgtQWRwVzlzLVQ5MllpUENwdy1Z?oc=5",
       "snippet": "",
       "source": "헬로티",
       "categories": [],
       "pub_date": "Wed, 16 Sep 2026 02:41:55 GMT"
+    },
+    {
+      "type": "news",
+      "title": "한화투자증권 \"피지컬 AI 중심축, 자율주행으로 옮겨간다\" - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQkwxcndfbEFhVy1HM2RjSzRDREVzbS13b3J2UFhEZkdXclJQM0JYaW8tMmpuLVJjbll5cEUzRjVNdmg4UGJrTnU1ZVBNcmRnVHpuSnVNWlJieElKbDBGLVZIRU5EcnJudUV6Mg?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 03:06:51 GMT"
     },
     {
       "type": "news",
@@ -136,30 +154,12 @@
     },
     {
       "type": "news",
-      "title": "로보메이션, 에듀테크 코리아 페어서 교육용 로봇팔 ‘라쿤봇’ 선보인다 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNEh2TTZ2SzZSYWUtWFI4ZE4yREtYWk5WdG1IeHdNMDIyaDhtUmo4LXVSSXRlNTRFTFlSY2xPMDFYNEZWQVhGUEFiQXZNTHpRYkV5eVFDUHUwOW9FQ0Vma0ZWeDdxd0hKT1JrbA?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Wed, 16 Sep 2026 04:06:41 GMT"
-    },
-    {
-      "type": "news",
       "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
       "snippet": "",
       "source": "인공지능신문",
       "categories": [],
       "pub_date": "Tue, 15 Sep 2026 05:35:43 GMT"
-    },
-    {
-      "type": "news",
-      "title": "Skild AI, NVIDIA 피지컬 AI로 영상 한 편만 보고 새 작업 익히는 로봇 구현 - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFRsR1FnSjFFVjdOWkdXM3NEdmxGY1h3N0lSei1TdnRzbndob1lOcmRwMTZRR1MzX0FnYXFwalNfVDJlUG9sclYyMjBGVlAxLVQ4ZUhaQzhraDRqQ0g4UkdLdi1VYWc?oc=5",
-      "snippet": "",
-      "source": "NVIDIA",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 07:24:08 GMT"
     },
     {
       "type": "news",
