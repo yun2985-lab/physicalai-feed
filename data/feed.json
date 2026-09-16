@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T21:18:47Z",
+  "updated_at": "2026-09-16T23:40:02Z",
   "papers": [
     {
       "type": "paper",
@@ -118,6 +118,15 @@
     },
     {
       "type": "news",
+      "title": "한화투자증권 \"피지컬 AI 중심축, 자율주행으로 옮겨간다\" - irobotnews.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQkwxcndfbEFhVy1HM2RjSzRDREVzbS13b3J2UFhEZkdXclJQM0JYaW8tMmpuLVJjbll5cEUzRjVNdmg4UGJrTnU1ZVBNcmRnVHpuSnVNWlJieElKbDBGLVZIRU5EcnJudUV6Mg?oc=5",
+      "snippet": "",
+      "source": "irobotnews.com",
+      "categories": [],
+      "pub_date": "Mon, 14 Sep 2026 03:06:51 GMT"
+    },
+    {
+      "type": "news",
       "title": "피지컬 AI 확산 막는 전파규제 푼다…로봇·무선충전 규제 완화 - 디지털데일리",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pRmdpZHRWOS1JblRyOER0akRPWVNpTkdNUEZvVy1KNzdtTi1NMExnTmpid1dmR3dkMzFCRUhNNDlobjQyaTB6ekZYeHA2UTczVW80SW9mV0xCZ2xTM3ItREFNTTQ?oc=5",
       "snippet": "",
@@ -136,24 +145,6 @@
     },
     {
       "type": "news",
-      "title": "한화투자증권 \"피지컬 AI 중심축, 자율주행으로 옮겨간다\" - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQkwxcndfbEFhVy1HM2RjSzRDREVzbS13b3J2UFhEZkdXclJQM0JYaW8tMmpuLVJjbll5cEUzRjVNdmg4UGJrTnU1ZVBNcmRnVHpuSnVNWlJieElKbDBGLVZIRU5EcnJudUV6Mg?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 03:06:51 GMT"
-    },
-    {
-      "type": "news",
-      "title": "산업연구원, K-피지컬 AI 생태계 확장해야…제조 현장이 교두보 - 코리아리포트",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbDJwdlowOU1tdF9SRE1xakV0eC02SzdNbEI4c1lxYWdicWZncXJzWHRXUTJCVDd4dVJaRzJ2TmhHTjhhaUVxaldrWE9Ia1IzTjJyZk1SX0NPYU1pcFVYRHVWZC1KM1BkcGhlWEhXV2M?oc=5",
-      "snippet": "",
-      "source": "코리아리포트",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 22:44:20 GMT"
-    },
-    {
-      "type": "news",
       "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
       "snippet": "",
@@ -169,6 +160,15 @@
       "source": "전자신문",
       "categories": [],
       "pub_date": "Tue, 15 Sep 2026 06:18:47 GMT"
+    },
+    {
+      "type": "news",
+      "title": "산업연구원, K-피지컬 AI 생태계 확장해야…제조 현장이 교두보 - 코리아리포트",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbDJwdlowOU1tdF9SRE1xakV0eC02SzdNbEI4c1lxYWdicWZncXJzWHRXUTJCVDd4dVJaRzJ2TmhHTjhhaUVxaldrWE9Ia1IzTjJyZk1SX0NPYU1pcFVYRHVWZC1KM1BkcGhlWEhXV2M?oc=5",
+      "snippet": "",
+      "source": "코리아리포트",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 22:44:20 GMT"
     }
   ]
 }
