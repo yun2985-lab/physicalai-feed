@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T04:50:13Z",
+  "updated_at": "2026-09-16T11:35:22Z",
   "papers": [
     {
       "type": "paper",
@@ -100,12 +100,30 @@
   "news": [
     {
       "type": "news",
+      "title": "피지컬 AI 확산 막는 전파규제 푼다…로봇·무선충전 규제 완화 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pRmdpZHRWOS1JblRyOER0akRPWVNpTkdNUEZvVy1KNzdtTi1NMExnTmpid1dmR3dkMzFCRUhNNDlobjQyaTB6ekZYeHA2UTczVW80SW9mV0xCZ2xTM3ItREFNTTQ?oc=5",
+      "snippet": "",
+      "source": "디지털데일리",
+      "categories": [],
+      "pub_date": "Wed, 16 Sep 2026 03:00:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "[인더스트리 솔루션 인사이트] AI 자율제조, 기술 넘어 ‘운영’을 혁신하다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ubm1NVmJfZDRMRFFQNm1nVUdEUUpOczlvcFFWUHZ3M1BpUFJRV0VDa2taVDJiV1VNc2FPdzVEbDR3V29wUkRQUnE0VjgtQWRwVzlzLVQ5MllpUENwdy1Z?oc=5",
       "snippet": "",
       "source": "헬로티",
       "categories": [],
       "pub_date": "Wed, 16 Sep 2026 02:41:55 GMT"
+    },
+    {
+      "type": "news",
+      "title": "정부, 피지컬 AI 규제 푼다…로봇, 공장 밖까지 달린다 - mstoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSWU12dHBaWkFmYmFoejk3emx4R1FRZUZIMjZlS0NkR0hSajZUeVEtTnhnb0xlLUh0Q2VUcXFCSFFucG1CQkZ4RGFRRkRCNkN1d2FrMDRMWjNBbTA5T0lqd3dJejVjOGRiZ2N1bA?oc=5",
+      "snippet": "",
+      "source": "mstoday.co.kr",
+      "categories": [],
+      "pub_date": "Wed, 16 Sep 2026 06:16:00 GMT"
     },
     {
       "type": "news",
@@ -127,48 +145,30 @@
     },
     {
       "type": "news",
-      "title": "Skild AI, NVIDIA 피지컬 AI로 영상 한 편만 보고 새 작업 익히는 로봇 구현 - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFRsR1FnSjFFVjdOWkdXM3NEdmxGY1h3N0lSei1TdnRzbndob1lOcmRwMTZRR1MzX0FnYXFwalNfVDJlUG9sclYyMjBGVlAxLVQ4ZUhaQzhraDRqQ0g4UkdLdi1VYWc?oc=5",
+      "title": "로보티크, 한국어 웹사이트 오픈…‘접촉 레이어·자동화 통합’ 내세워 시장 공략 - 티스토리",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56SnZ4a2dzSW5fOFdab1NvdWlNSDFRNlh1U1V5UFAtNDFZdlhpdUZsay15Xy1Ed1ctQ1NZbnR1eTQ4cUl3ZDhFb29nWQ?oc=5",
       "snippet": "",
-      "source": "NVIDIA",
+      "source": "티스토리",
       "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 07:24:08 GMT"
+      "pub_date": "Wed, 16 Sep 2026 06:17:34 GMT"
     },
     {
       "type": "news",
-      "title": "日 TV도쿄, 갤럭시코퍼레이션 '로봇파크' 집중 조명…韓 피지컬 AI 상용화에 주목 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0VFQ4dFR3QTgySjlDN0lGb2g3LTBPVWk1NmlkZTlqYi1jc05MVlpXd1lDTkg3VURlWUh4Vk1qakRKMmEtc1pEM1Y1VlRvZw?oc=5",
+      "title": "[인터뷰] 이원택 도지사 “피지컬AI, 기술개발 넘어 산업 현장-기업 성장으로 연결” - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jQ2ktOWZWZy13N3lpTlBTU2p0NzZ0TnNqTG1uT2Y0QVNvc21hWklrLXRaMEc1RTVxMHU5ZTJ1SWNXTHI4czZkaUUxdmpYZ0Nqa0xUUVdOc19JTEYtYmlNSDVYSTVVbThURnE4?oc=5",
       "snippet": "",
-      "source": "전자신문",
+      "source": "프레시안",
       "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 06:18:47 GMT"
+      "pub_date": "Wed, 16 Sep 2026 05:19:53 GMT"
     },
     {
       "type": "news",
-      "title": "LG전자 “모든 공간이 로봇”…피지컬 AI 승부처는 ‘센서 표준화’ - 에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qVUFSOHh1SmpwYUpLUnJfU2x2a0tEUHRMSWRRQWlaTzhLdnVmVFAyMkZGMVY5YzR1U3lxQ09JYXhiMmdMRkRMNTVmV01JU253MjcxYnFZUmdnX0k?oc=5",
-      "snippet": "",
-      "source": "에너지경제신문",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 07:55:04 GMT"
-    },
-    {
-      "type": "news",
-      "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
+      "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - aitimes.kr",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
       "snippet": "",
-      "source": "인공지능신문",
+      "source": "aitimes.kr",
       "categories": [],
       "pub_date": "Tue, 15 Sep 2026 05:35:43 GMT"
-    },
-    {
-      "type": "news",
-      "title": "“데이터센터도 로봇이 돈다”… KT, 피지컬 AI로 AIDC 운영 바꾼다 - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMzdmUVRZX0h5c0NIM2ZndU5KQ3BlTGR4bllnMC1yQk1BYjVaZ054b002ajdxRlVkLTBRdTNQVkVhcGVTMDlZRU43VGtQVUdKbFl5VGNudlpaMnJ4WThSeHlNWjRyWFBQM3c?oc=5",
-      "snippet": "",
-      "source": "천지일보",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 08:18:26 GMT"
     }
   ]
 }
