@@ -1,106 +1,139 @@
 {
-  "updated_at": "2026-09-15T21:21:33Z",
+  "updated_at": "2026-09-16T04:50:13Z",
   "papers": [
     {
       "type": "paper",
-      "title": "Seeing What the Vehicle Sees: Video-Augmented Virtual Reality for Physical Autonomous Vehicles",
-      "url": "https://arxiv.org/abs/2609.13224",
-      "snippet": "Autonomous vehicles are expected to improve road safety and efficiency, but passengers often remain uncertain about what the vehicle perceives and why it acts as it does. Virtual reality (VR) offers a safe and…",
+      "title": "Bi-MoDe: Bilateral Control-based Imitation Learning via Modifier-Conditioned Decoding for Modulation of Execution Speed and Contact Intensity",
+      "url": "https://arxiv.org/abs/2609.16040",
+      "snippet": "Bilateral control-based imitation learning captures both position and force information, making it well suited to contact-rich manipulation. However, existing approaches provide limited means for an operator to specify…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "MR-GLi: Mixed Reality-Based Gripper-Linked Overlays for Underwater Robot Arm Teleoperation via Bilateral Control",
+      "url": "https://arxiv.org/abs/2609.16041",
+      "snippet": "Visual torque feedback supports underwater bilateral teleoperation, but the benefit of mixed reality (MR) over conventional monitor presentation remains unclear. We present MR-GLi, an MR interface that spatially…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "World-Action Models for Robot Learning and Control: A Survey",
+      "url": "https://arxiv.org/abs/2609.16074",
+      "snippet": "Robots operating in open environments act under partial observability, physical constraints, and dynamic task contexts. Beyond mapping observations and language instructions to actions, they must anticipate how…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "AssemblyGrid v1: A Benchmark for Multi-Robot Production with Temporary Coalitions, Local Information, and Geometric Constraints",
+      "url": "https://arxiv.org/abs/2609.16075",
+      "snippet": "Flexible robotic production requires joint decisions on process progression, material routing, resource assignment, temporary cooperation, and simultaneous execution, since each decision can affect the feasibility of…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Structure-Preserving Quantum Circuit Architectures for Robot Kinematics",
+      "url": "https://arxiv.org/abs/2609.16089",
+      "snippet": "Structured spatial data require quantum encodings that preserve geometric relations, expose measurable observables, and remain implementable on finite-depth hardware. This work introduces a quantum representation and…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "quant-ph"
+      ],
+      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Occupancy Network-Guided Autonomous Robotic Partial Nephrectomy",
+      "url": "https://arxiv.org/abs/2609.16186",
+      "snippet": "Autonomous soft-tissue cancer surgery has been limited to interventions on organ surfaces, because current systems cannot perceive and adapt to anatomy once it deforms or is cut. We introduce the first vision-guided…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Tendon-Driven Continuum Robot with Modular Stiffness and In-Situ Self Pose Estimation",
+      "url": "https://arxiv.org/abs/2609.16256",
+      "snippet": "Continuum robots enable smooth shape morphing and safe interaction in confined environments. However, most existing systems are task-specific and depend on external sensing infrastructure, limiting their adaptability…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.SY",
         "eess.SY"
       ],
-      "pub_date": "Tue, 15 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2609.13231",
-      "snippet": "Vision-Language-Action (VLA) models demonstrate strong generalization in robotic manipulation and navigation, but existing fine-tuning methods provide limited safety guarantees. Current approaches primarily rely on…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.AI"
-      ],
-      "pub_date": "Tue, 15 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Harnessing human expertise for high-precision robotic assembly in industrialized construction: A sample-efficient installer-in-the-loop interactive reinforcement learning framework",
-      "url": "https://arxiv.org/abs/2609.13234",
-      "snippet": "Industrialized construction imposes stringent precision requirements on robotic assembly of modular components such as prefabricated window units. In tolerance-critical operations, the central bottleneck is not only…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "stat.ML"
-      ],
-      "pub_date": "Tue, 15 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Learning Manipulation-Sufficient Representations via Outcome Bottlenecks",
-      "url": "https://arxiv.org/abs/2609.13235",
-      "snippet": "Networked manipulation endpoints couple perception to actuation across compute- and bandwidth-limited links, yet commonly exchange dense geometric states optimized for fidelity rather than action outcomes. A stochastic…",
+      "title": "ConGraspXL: Controllable Constraint-Conditioned Dexterous Grasping Motion Synthesis",
+      "url": "https://arxiv.org/abs/2609.16319",
+      "snippet": "Dexterous grasping is usually conducted for specific tasks, leading to heterogeneous constraints such as specific approach directions, desired contact regions, specified wrist trajectories, and functional hand poses.…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.CV"
       ],
-      "pub_date": "Tue, 15 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement",
-      "url": "https://arxiv.org/abs/2609.13236",
-      "snippet": "Humanoid robots are becoming an important part of embodied artificial intelligence, driven by advances in reinforcement learning for locomotion, world models for prediction, and vision-language-action models for general…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.DC"
-      ],
-      "pub_date": "Tue, 15 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "GzDRL: Reproducible and Scalable Deep Reinforcement Learning with Gazebo",
-      "url": "https://arxiv.org/abs/2609.13243",
-      "snippet": "We present GzDRL, a novel single-process reinforcement learning (RL) framework for Gazebo that overcomes longstanding bottlenecks in scalable, reproducible robotics experimentation. Unlike conventional middleware-based…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.LG"
-      ],
-      "pub_date": "Tue, 15 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Physical Kernel: Structured Visual Latents for Dark Manipulation",
-      "url": "https://arxiv.org/abs/2609.13244",
-      "snippet": "We study dark manipulation: after a brief lit Write encodes z0 = Enc(rgb), a policy pi(z) and open-loop dynamics f(z,a) complete contact-rich skills without further pixels (dark_f). On ManiSkill StackCube (n=160; seed…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "pub_date": "Tue, 15 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Conflict-Predictive Variable Horizons in Multi-Drone Distributed Model Predictive Control",
-      "url": "https://arxiv.org/abs/2609.13270",
-      "snippet": "In distributed model predictive control for multi-drone collision avoidance, a fixed prediction horizon forces a compromise: a short horizon is inexpensive but reacts late to approaching neighbors, whereas a long one…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.AI",
-        "cs.SY"
-      ],
-      "pub_date": "Tue, 15 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
+    {
+      "type": "news",
+      "title": "[인더스트리 솔루션 인사이트] AI 자율제조, 기술 넘어 ‘운영’을 혁신하다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ubm1NVmJfZDRMRFFQNm1nVUdEUUpOczlvcFFWUHZ3M1BpUFJRV0VDa2taVDJiV1VNc2FPdzVEbDR3V29wUkRQUnE0VjgtQWRwVzlzLVQ5MllpUENwdy1Z?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Wed, 16 Sep 2026 02:41:55 GMT"
+    },
+    {
+      "type": "news",
+      "title": "산업연구원, K-피지컬 AI 생태계 확장해야…제조 현장이 교두보 - 코리아리포트",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbDJwdlowOU1tdF9SRE1xakV0eC02SzdNbEI4c1lxYWdicWZncXJzWHRXUTJCVDd4dVJaRzJ2TmhHTjhhaUVxaldrWE9Ia1IzTjJyZk1SX0NPYU1pcFVYRHVWZC1KM1BkcGhlWEhXV2M?oc=5",
+      "snippet": "",
+      "source": "코리아리포트",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 22:44:20 GMT"
+    },
+    {
+      "type": "news",
+      "title": "로보메이션, 에듀테크 코리아 페어서 교육용 로봇팔 ‘라쿤봇’ 선보인다 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNEh2TTZ2SzZSYWUtWFI4ZE4yREtYWk5WdG1IeHdNMDIyaDhtUmo4LXVSSXRlNTRFTFlSY2xPMDFYNEZWQVhGUEFiQXZNTHpRYkV5eVFDUHUwOW9FQ0Vma0ZWeDdxd0hKT1JrbA?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Wed, 16 Sep 2026 04:06:41 GMT"
+    },
+    {
+      "type": "news",
+      "title": "Skild AI, NVIDIA 피지컬 AI로 영상 한 편만 보고 새 작업 익히는 로봇 구현 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFRsR1FnSjFFVjdOWkdXM3NEdmxGY1h3N0lSei1TdnRzbndob1lOcmRwMTZRR1MzX0FnYXFwalNfVDJlUG9sclYyMjBGVlAxLVQ4ZUhaQzhraDRqQ0g4UkdLdi1VYWc?oc=5",
+      "snippet": "",
+      "source": "NVIDIA",
+      "categories": [],
+      "pub_date": "Tue, 15 Sep 2026 07:24:08 GMT"
+    },
     {
       "type": "news",
       "title": "日 TV도쿄, 갤럭시코퍼레이션 '로봇파크' 집중 조명…韓 피지컬 AI 상용화에 주목 - 전자신문",
@@ -109,24 +142,6 @@
       "source": "전자신문",
       "categories": [],
       "pub_date": "Tue, 15 Sep 2026 06:18:47 GMT"
-    },
-    {
-      "type": "news",
-      "title": "울산과학대학교, WAVE 2026서 'Physical AI 로봇'... \"현장형 인재 양성\" | - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSXptQjFwVE9uaVlFZWs4b3NkbnJmX0d1NTQ4Q3h1VWkxQWRlakNaTnFuQU1vc3lNU2pMd3NQMFByMXpuMEY0Wmt2Yy0ydFotT2FJajFlTzJSZmJFUXoxMVFWbS1Gb2U4T3ZV?oc=5",
-      "snippet": "",
-      "source": "에이빙",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 08:42:46 GMT"
-    },
-    {
-      "type": "news",
-      "title": "Skild AI, NVIDIA 피지컬 AI로 영상 한 편만 보고 새 작업 익히는 로봇 구현 - blogs.nvidia.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFRsR1FnSjFFVjdOWkdXM3NEdmxGY1h3N0lSei1TdnRzbndob1lOcmRwMTZRR1MzX0FnYXFwalNfVDJlUG9sclYyMjBGVlAxLVQ4ZUhaQzhraDRqQ0g4UkdLdi1VYWc?oc=5",
-      "snippet": "",
-      "source": "blogs.nvidia.co.kr",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 07:24:08 GMT"
     },
     {
       "type": "news",
@@ -139,15 +154,6 @@
     },
     {
       "type": "news",
-      "title": "“데이터센터도 로봇이 돈다”… KT, 피지컬 AI로 AIDC 운영 바꾼다 - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMzdmUVRZX0h5c0NIM2ZndU5KQ3BlTGR4bllnMC1yQk1BYjVaZ054b002ajdxRlVkLTBRdTNQVkVhcGVTMDlZRU43VGtQVUdKbFl5VGNudlpaMnJ4WThSeHlNWjRyWFBQM3c?oc=5",
-      "snippet": "",
-      "source": "천지일보",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 08:18:26 GMT"
-    },
-    {
-      "type": "news",
       "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
       "snippet": "",
@@ -157,21 +163,12 @@
     },
     {
       "type": "news",
-      "title": "플랜트 전체가 거대한 '피지컬 AI'…로봇개가 순찰도는 SK의 울산CLX - 연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XQ2ZwQ0k4bDJKT3V3cm5CWHBTTEpqdm84TjB4ZkpBbGV5c3hKOXh2V2VlWS1MREdJZEtWOFBpSmhIczdSR28wakZhbmlTenhHZnpBM1NZblNiVllGOENFelpFdjNObFJncE93RHZnUWE?oc=5",
+      "title": "“데이터센터도 로봇이 돈다”… KT, 피지컬 AI로 AIDC 운영 바꾼다 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMzdmUVRZX0h5c0NIM2ZndU5KQ3BlTGR4bllnMC1yQk1BYjVaZ054b002ajdxRlVkLTBRdTNQVkVhcGVTMDlZRU43VGtQVUdKbFl5VGNudlpaMnJ4WThSeHlNWjRyWFBQM3c?oc=5",
       "snippet": "",
-      "source": "연합인포맥스",
+      "source": "천지일보",
       "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 05:00:29 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로보티크, 한국어 웹사이트 개설… 협동로봇·피지컬 AI 솔루션 소개 - 조선비즈 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTluLWFwZ1hiV1VKVFJBU21tam1BMjd4amEwS2FzMHcweUFOenR3ZVJiTHlocDN2cmFsNmlaN1J4VWtuaVNOdmt1bkE1UWUxRlBJZkJFYzJJZGFBT1k3V1JDOHpNWUVZRklXTEhkb2IzV0VlT2hqRFJxWEduUy1GU2ZkU040NUZVVnd6TdIBoAFBVV95cUxQT1Z2d25YLVgxX2lCN2lVZ3VHMWRHS2VHNGlYXzZiX242T3JOUmQzM1VBRGJubmh3Vi1McG1mYXFUZ0RsLUdHeTRfQzFfQ3VXQW9Ea2tDcWI0REM0MFh1WGY0RF9fc1ZwazBRRkVtTzc4TVFEM2RsV2ZVRUJMRmRqMVAtelc2S0N6bFlFMlc2d280cVpDREIxYkE2QklDb1N4?oc=5",
-      "snippet": "",
-      "source": "Chosunbiz",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 01:31:54 GMT"
+      "pub_date": "Tue, 15 Sep 2026 08:18:26 GMT"
     }
   ]
 }
