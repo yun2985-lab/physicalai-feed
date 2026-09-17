@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T04:53:59Z",
+  "updated_at": "2026-09-17T11:42:14Z",
   "papers": [
     {
       "type": "paper",
@@ -97,6 +97,15 @@
   "news": [
     {
       "type": "news",
+      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Thu, 17 Sep 2026 07:45:30 GMT"
+    },
+    {
+      "type": "news",
       "title": "브릴스, 차세대 피지컬 AI 플랫폼에 'VLA·RFM' 적용…글로벌 로봇 생태계 주도 - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mNnhsZG1YcXFDdTNvZF9DeDZCVXVOSEtfZkV3dC1ydEE0S2h0RGE2RGloU2NFaHJObDZ6b3VFUGRlSHViQkZYLW44dmRkblM4dm0tcFNwOG1XWGlqeEhGWEpYQm1RRm1hNTVfTw?oc=5",
       "snippet": "",
@@ -106,66 +115,57 @@
     },
     {
       "type": "news",
-      "title": "‘휴머노이드 서밋 서울 2026’ 글로벌 피지컬 AI 프로그램 공개 - newswire.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNmNVNjZOMnVaMmVQNk1PdHZhdnBUek9GUUVfbFVLNG1BTGY5aElURXNkd1ZHR3FHM1dsVlRJVGxvYmJkS0dyNUpLTGQ3WFpaNXpwTE54aWxvSHVXTVBN?oc=5",
+      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ULXpyOFJIWUhtc0drbUY1Uy1WdXJJQnhRM1VUVXdQOE5vSHlNVVJmN1FFTzBRM2xEbV80LTNxdC00NDNuWm1IY3p4eGR3NVA2N2RjLWFSRTExSDc1RnZVbHdjc0tlenNjUWFCR25XYnNPTGpHUHdwRVQ1dzBZamc?oc=5",
       "snippet": "",
-      "source": "newswire.co.kr",
+      "source": "Deloitte",
       "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 00:21:30 GMT"
+      "pub_date": "Thu, 17 Sep 2026 04:33:04 GMT"
     },
     {
       "type": "news",
-      "title": "[AIF2026] ‘산업 변혁 물결 빨라진다’···피지컬 AI 현재와 미래는 - 시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mNWZLeURDUlJGdHpWT3d2STFEck1MT09sQnZYOWlYVzVILTNONVNMM0NuQ1pRaFlGZW9BWmkzbnY5d05Sd04yakZpRzlvRVAyZmx2M0VrWkZnWjNPeW96QlVnZDlPT3BMdDBoQ2hwM2tuQdIBdkFVX3lxTE9Bbm9POGFoU0RCbDdlaDBQM2M5OXV4UXVWNTEzdjYzMkNGSVhMcVJNYlJ1b3o0eHBjemd0cEQtR3hRQVZxZURZS2pGS0NuTlhlS3ZxNDdOcEE0MEw2ZElpd2gtYXR1eEZENDJhbGJaNFdwaVAyTXc?oc=5",
-      "snippet": "",
-      "source": "시사저널e",
-      "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 00:42:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "\"하드웨어 대신 해법 판다\"…K-피지컬AI, '조선소 실증' 수출 히든 카드 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54RDN1Vmc3X2tXdk5fWTJuNFZNWTU4d0tpczRlXzYwbFpZTGNHa2R4MlhIaTdvTGtOLTdUZktNN3gyQVBDWlktamNVcDV0TEE?oc=5",
+      "title": "박완수 지사, 상하이 로봇밸리 방문…경남 제조 AI 접목 모색 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jeGR2THR5ZjBZUmpGVTNZdDRQZlZQWXktSE1jYk5tVHJKcy1KYTlRWHI1R1JidDk2cHYyX2I1d21TLTFMTXNOLXVfTERuX2M?oc=5",
       "snippet": "",
       "source": "v.daum.net",
       "categories": [],
-      "pub_date": "Wed, 16 Sep 2026 21:01:59 GMT"
+      "pub_date": "Thu, 17 Sep 2026 09:05:29 GMT"
     },
     {
       "type": "news",
-      "title": "도구 건네고 내시경 잡고…의사 ‘세 번째 손’ 된 휴머노이드 - 아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ITC1zWGM0U2Rid2lQeHZCYWRiQ0poZ3ZxT0lOelVlTTJHcEZ6TVB0dU9udmFPN29DNjE3RTZ3bWl4Y2RReWZuU1FqbTRlM0c4cnNEc3drYVhGNDBhNVJTWHlVMXRlTnFON1g5UXFB?oc=5",
+      "title": "실증 본격화하는 코윈로보틱스 “AI 시뮬레이션부터 로봇 제어까지 다 갖췄다” - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iQTlLQ2kwQXRCQjRHb0RBbXNhMWV1a3NYcmlicGM5RmhLekVhcmppQWotekpIb3hWQTFsdmJZRjlycWRxalRsMjRSR1NoN2NfelBJUGJQN2s0RkN4RnBj?oc=5",
       "snippet": "",
-      "source": "아시아투데이",
+      "source": "헬로티",
       "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 03:00:00 GMT"
+      "pub_date": "Thu, 17 Sep 2026 04:20:38 GMT"
     },
     {
       "type": "news",
-      "title": "무신사 매장에 로봇 바리스타 떴다…엑스와이지, '피지컬 AI' 상용화 속도 - 테크M",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94VmItRVdPdnFUNERPQ0ViV3lkcHlCNS1rNXZuNDMxYTR4NXNKZ0ExUG45a1hVOElxSUpTV3FfZktOUGxSb09feWw1d3ZNdmp6QUVZdl9JQjZrajVRWEZhMVB2X2NJQdIBakFVX3lxTE51U0szNU1GallfMUpjVjgwazlQTGE2UHZVRDZicEtOOU1XZUFhVUswYWVmTzl2cHVFLVhFUi1qcEpOVWptcUlWZ2JMRzd2TVBQbmNMbndNWEhQUUtMNGwzUWtuZ21jejR0cnc?oc=5",
+      "title": "‘장강 AI 로봇밸리’ 찾은 박완수 지사, \"제조업 인공지능 전환 속도\" - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42YVVlTlRxX2FMSjZJUzZCNnozWm04YWd3ZXhoOGw2dFBEUTZ3enZvQk1JczU4OUQwYVFxT05lWFRSQWpkazhncXB5ekw4dVdWcHhTaVFuZ1B1UQ?oc=5",
       "snippet": "",
-      "source": "테크M",
+      "source": "한국경제",
       "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 04:26:16 GMT"
+      "pub_date": "Thu, 17 Sep 2026 08:30:17 GMT"
     },
     {
       "type": "news",
-      "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
+      "title": "경남도 상하이 장강AI로봇밸리 찾아 제조AI 접목 방안 모색 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5paFRMYk9UeWpmTUludm1vMFlBTnFaaEtaMGJUdF8xWFBjQURCNVJScjIxX3I4b0Z2WW9LdDFoVGFybGxXUUZjSjJHZG95di1iekhaa3JNeS14N25Yc2VveHRTbm9GYVZPS2fSAW9BVV95cUxNUE5kc0x3NUVfdG1UdEdfdWdFWWI5TzhxamNZS21SdWFwYS02aUg1eHpFTmhXNWhQLW5yNDlVQk8weTdvU1Qwa0VBaG5DTXlCZVVvbFFrS2RwR01CS0Q0R0MzaXNZMWZNUllMb1BqNUU?oc=5",
       "snippet": "",
-      "source": "인공지능신문",
+      "source": "머니투데이",
       "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 05:35:43 GMT"
+      "pub_date": "Thu, 17 Sep 2026 08:06:26 GMT"
     },
     {
       "type": "news",
-      "title": "日 TV도쿄, 갤럭시코퍼레이션 '로봇파크' 집중 조명…韓 피지컬 AI 상용화에 주목 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0VFQ4dFR3QTgySjlDN0lGb2g3LTBPVWk1NmlkZTlqYi1jc05MVlpXd1lDTkg3VURlWUh4Vk1qakRKMmEtc1pEM1Y1VlRvZw?oc=5",
+      "title": "경남도, 中 상하이 '장강 AI 로봇밸리' 방문...로봇 생태계·관광 협력 강화 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RcGhRdDBfbWpTODZjeVNUclVXTDdXTUNjZ3BJT0EwWVBHMDd2UFhjaEVoS3pmRGNuQ0ZVLWhYelNlTV9oVlh6VjEyM0JOdUdHYXN1eGJFRl9KYlZh?oc=5",
       "snippet": "",
-      "source": "전자신문",
+      "source": "뉴스핌",
       "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 06:18:47 GMT"
+      "pub_date": "Thu, 17 Sep 2026 08:35:00 GMT"
     }
   ]
 }
