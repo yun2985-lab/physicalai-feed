@@ -1,103 +1,127 @@
 {
-  "updated_at": "2026-09-16T23:40:02Z",
+  "updated_at": "2026-09-17T04:53:59Z",
   "papers": [
     {
       "type": "paper",
-      "title": "Bi-MoDe: Bilateral Control-based Imitation Learning via Modifier-Conditioned Decoding for Modulation of Execution Speed and Contact Intensity",
-      "url": "https://arxiv.org/abs/2609.16040",
-      "snippet": "Bilateral control-based imitation learning captures both position and force information, making it well suited to contact-rich manipulation. However, existing approaches provide limited means for an operator to specify…",
+      "title": "Human-Centric Grasp State Assessment: Toward Transferring Subjective Evaluation to Robots",
+      "url": "https://arxiv.org/abs/2609.17540",
+      "snippet": "We propose a framework that transfers tacit human subjective criteria to robotic systems for the appropriate grasping of deformable objects. Achieving such behavior is challenging because a semantic gap exists between…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "MR-GLi: Mixed Reality-Based Gripper-Linked Overlays for Underwater Robot Arm Teleoperation via Bilateral Control",
-      "url": "https://arxiv.org/abs/2609.16041",
-      "snippet": "Visual torque feedback supports underwater bilateral teleoperation, but the benefit of mixed reality (MR) over conventional monitor presentation remains unclear. We present MR-GLi, an MR interface that spatially…",
+      "title": "Real-Time Service Robot Replanning via Simple Button Interaction for Improved Task Success and User Experience",
+      "url": "https://arxiv.org/abs/2609.17541",
+      "snippet": "Service robots must respond to unexpected instructions in real-world environments. However, robots cannot detect all failures and exceptions during a task. To address these issues, we propose a real-time feedback…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.HC"
+      ],
+      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Predictive Varanus: Combining CSP Conformance Monitoring with Predictive LTL Runtime Verification",
+      "url": "https://arxiv.org/abs/2609.17625",
+      "snippet": "Runtime Verification is well suited to autonomous and robotic systems because it checks the behaviour that is actually observed during execution. Its main limitation, however, is that it is usually reactive: the monitor…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "World-Action Models for Robot Learning and Control: A Survey",
-      "url": "https://arxiv.org/abs/2609.16074",
-      "snippet": "Robots operating in open environments act under partial observability, physical constraints, and dynamic task contexts. Beyond mapping observations and language instructions to actions, they must anticipate how…",
+      "title": "Flexible-body Modeling, Kinematic Identification, and Assembly Accuracy of Overconstrained Spatial Linkages",
+      "url": "https://arxiv.org/abs/2609.17627",
+      "snippet": "Overconstrained rational single-loop linkages are efficient, compact, and low-cost custom mechanisms, yet their deployment in industrial settings is limited. In simulations, rigid body formulations fail due to redundant…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "math.AG"
+      ],
+      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "LEAP: Learning Emergent Active Perception for Quadruped Navigation",
+      "url": "https://arxiv.org/abs/2609.17628",
+      "snippet": "Active perception allows autonomous agents to select their viewpoints rather than passively process the viewpoints given to them, enabling them to target where to reduce uncertainty about their environment. Learned…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.CV"
       ],
-      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "AssemblyGrid v1: A Benchmark for Multi-Robot Production with Temporary Coalitions, Local Information, and Geometric Constraints",
-      "url": "https://arxiv.org/abs/2609.16075",
-      "snippet": "Flexible robotic production requires joint decisions on process progression, material routing, resource assignment, temporary cooperation, and simultaneous execution, since each decision can affect the feasibility of…",
+      "title": "Vision-Language Grounded Task-Context-Aware Imitation Learning for Robotic Disassembly",
+      "url": "https://arxiv.org/abs/2609.17714",
+      "snippet": "Real-world robotic disassembly requires long-horizon execution, where robots must perform ordered sequences of manipulation tasks across multiple parts within a single scene. Multiple valid task goals and diverse…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.17728",
+      "snippet": "Recent Vision-Language-Action (VLA) models for autonomous driving have incorporated world modeling by predicting future driving scenes alongside driving actions, demonstrating strong planning performance. Future driving…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "CALOS: Control-Affine Lyapunov On-manifold Safety Layer for Safe Deep Reinforcement Learning for Quadrotors",
+      "url": "https://arxiv.org/abs/2609.17758",
+      "snippet": "Deep Reinforcement Learning has demonstrated remarkable capability in quadrotor control, yet learned policies offer no guarantee of respecting safety constraints during training or deployment. We present CALOS…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.AI"
       ],
-      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Structure-Preserving Quantum Circuit Architectures for Robot Kinematics",
-      "url": "https://arxiv.org/abs/2609.16089",
-      "snippet": "Structured spatial data require quantum encodings that preserve geometric relations, expose measurable observables, and remain implementable on finite-depth hardware. This work introduces a quantum representation and…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "quant-ph"
-      ],
-      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Occupancy Network-Guided Autonomous Robotic Partial Nephrectomy",
-      "url": "https://arxiv.org/abs/2609.16186",
-      "snippet": "Autonomous soft-tissue cancer surgery has been limited to interventions on organ surfaces, because current systems cannot perceive and adapt to anatomy once it deforms or is cut. We introduce the first vision-guided…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Tendon-Driven Continuum Robot with Modular Stiffness and In-Situ Self Pose Estimation",
-      "url": "https://arxiv.org/abs/2609.16256",
-      "snippet": "Continuum robots enable smooth shape morphing and safe interaction in confined environments. However, most existing systems are task-specific and depend on external sensing infrastructure, limiting their adaptability…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.SY",
-        "eess.SY"
-      ],
-      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "ConGraspXL: Controllable Constraint-Conditioned Dexterous Grasping Motion Synthesis",
-      "url": "https://arxiv.org/abs/2609.16319",
-      "snippet": "Dexterous grasping is usually conducted for specific tasks, leading to heterogeneous constraints such as specific approach directions, desired contact regions, specified wrist trajectories, and functional hand poses.…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "pub_date": "Wed, 16 Sep 2026 00:00:00 -0400"
+      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
+    {
+      "type": "news",
+      "title": "브릴스, 차세대 피지컬 AI 플랫폼에 'VLA·RFM' 적용…글로벌 로봇 생태계 주도 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mNnhsZG1YcXFDdTNvZF9DeDZCVXVOSEtfZkV3dC1ydEE0S2h0RGE2RGloU2NFaHJObDZ6b3VFUGRlSHViQkZYLW44dmRkblM4dm0tcFNwOG1XWGlqeEhGWEpYQm1RRm1hNTVfTw?oc=5",
+      "snippet": "",
+      "source": "로봇신문",
+      "categories": [],
+      "pub_date": "Thu, 17 Sep 2026 00:53:42 GMT"
+    },
+    {
+      "type": "news",
+      "title": "‘휴머노이드 서밋 서울 2026’ 글로벌 피지컬 AI 프로그램 공개 - newswire.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNmNVNjZOMnVaMmVQNk1PdHZhdnBUek9GUUVfbFVLNG1BTGY5aElURXNkd1ZHR3FHM1dsVlRJVGxvYmJkS0dyNUpLTGQ3WFpaNXpwTE54aWxvSHVXTVBN?oc=5",
+      "snippet": "",
+      "source": "newswire.co.kr",
+      "categories": [],
+      "pub_date": "Thu, 17 Sep 2026 00:21:30 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[AIF2026] ‘산업 변혁 물결 빨라진다’···피지컬 AI 현재와 미래는 - 시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mNWZLeURDUlJGdHpWT3d2STFEck1MT09sQnZYOWlYVzVILTNONVNMM0NuQ1pRaFlGZW9BWmkzbnY5d05Sd04yakZpRzlvRVAyZmx2M0VrWkZnWjNPeW96QlVnZDlPT3BMdDBoQ2hwM2tuQdIBdkFVX3lxTE9Bbm9POGFoU0RCbDdlaDBQM2M5OXV4UXVWNTEzdjYzMkNGSVhMcVJNYlJ1b3o0eHBjemd0cEQtR3hRQVZxZURZS2pGS0NuTlhlS3ZxNDdOcEE0MEw2ZElpd2gtYXR1eEZENDJhbGJaNFdwaVAyTXc?oc=5",
+      "snippet": "",
+      "source": "시사저널e",
+      "categories": [],
+      "pub_date": "Thu, 17 Sep 2026 00:42:00 GMT"
+    },
     {
       "type": "news",
       "title": "\"하드웨어 대신 해법 판다\"…K-피지컬AI, '조선소 실증' 수출 히든 카드 - v.daum.net",
@@ -109,39 +133,21 @@
     },
     {
       "type": "news",
-      "title": "정부, 피지컬 AI 규제 푼다…로봇, 공장 밖까지 달린다 - mstoday.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSWU12dHBaWkFmYmFoejk3emx4R1FRZUZIMjZlS0NkR0hSajZUeVEtTnhnb0xlLUh0Q2VUcXFCSFFucG1CQkZ4RGFRRkRCNkN1d2FrMDRMWjNBbTA5T0lqd3dJejVjOGRiZ2N1bA?oc=5",
+      "title": "도구 건네고 내시경 잡고…의사 ‘세 번째 손’ 된 휴머노이드 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ITC1zWGM0U2Rid2lQeHZCYWRiQ0poZ3ZxT0lOelVlTTJHcEZ6TVB0dU9udmFPN29DNjE3RTZ3bWl4Y2RReWZuU1FqbTRlM0c4cnNEc3drYVhGNDBhNVJTWHlVMXRlTnFON1g5UXFB?oc=5",
       "snippet": "",
-      "source": "mstoday.co.kr",
+      "source": "아시아투데이",
       "categories": [],
-      "pub_date": "Wed, 16 Sep 2026 06:16:00 GMT"
+      "pub_date": "Thu, 17 Sep 2026 03:00:00 GMT"
     },
     {
       "type": "news",
-      "title": "한화투자증권 \"피지컬 AI 중심축, 자율주행으로 옮겨간다\" - irobotnews.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQkwxcndfbEFhVy1HM2RjSzRDREVzbS13b3J2UFhEZkdXclJQM0JYaW8tMmpuLVJjbll5cEUzRjVNdmg4UGJrTnU1ZVBNcmRnVHpuSnVNWlJieElKbDBGLVZIRU5EcnJudUV6Mg?oc=5",
+      "title": "무신사 매장에 로봇 바리스타 떴다…엑스와이지, '피지컬 AI' 상용화 속도 - 테크M",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94VmItRVdPdnFUNERPQ0ViV3lkcHlCNS1rNXZuNDMxYTR4NXNKZ0ExUG45a1hVOElxSUpTV3FfZktOUGxSb09feWw1d3ZNdmp6QUVZdl9JQjZrajVRWEZhMVB2X2NJQdIBakFVX3lxTE51U0szNU1GallfMUpjVjgwazlQTGE2UHZVRDZicEtOOU1XZUFhVUswYWVmTzl2cHVFLVhFUi1qcEpOVWptcUlWZ2JMRzd2TVBQbmNMbndNWEhQUUtMNGwzUWtuZ21jejR0cnc?oc=5",
       "snippet": "",
-      "source": "irobotnews.com",
+      "source": "테크M",
       "categories": [],
-      "pub_date": "Mon, 14 Sep 2026 03:06:51 GMT"
-    },
-    {
-      "type": "news",
-      "title": "피지컬 AI 확산 막는 전파규제 푼다…로봇·무선충전 규제 완화 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pRmdpZHRWOS1JblRyOER0akRPWVNpTkdNUEZvVy1KNzdtTi1NMExnTmpid1dmR3dkMzFCRUhNNDlobjQyaTB6ekZYeHA2UTczVW80SW9mV0xCZ2xTM3ItREFNTTQ?oc=5",
-      "snippet": "",
-      "source": "디지털데일리",
-      "categories": [],
-      "pub_date": "Wed, 16 Sep 2026 03:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[인더스트리 솔루션 인사이트] AI 자율제조, 기술 넘어 ‘운영’을 혁신하다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ubm1NVmJfZDRMRFFQNm1nVUdEUUpOczlvcFFWUHZ3M1BpUFJRV0VDa2taVDJiV1VNc2FPdzVEbDR3V29wUkRQUnE0VjgtQWRwVzlzLVQ5MllpUENwdy1Z?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Wed, 16 Sep 2026 02:41:55 GMT"
+      "pub_date": "Thu, 17 Sep 2026 04:26:16 GMT"
     },
     {
       "type": "news",
@@ -160,15 +166,6 @@
       "source": "전자신문",
       "categories": [],
       "pub_date": "Tue, 15 Sep 2026 06:18:47 GMT"
-    },
-    {
-      "type": "news",
-      "title": "산업연구원, K-피지컬 AI 생태계 확장해야…제조 현장이 교두보 - 코리아리포트",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbDJwdlowOU1tdF9SRE1xakV0eC02SzdNbEI4c1lxYWdicWZncXJzWHRXUTJCVDd4dVJaRzJ2TmhHTjhhaUVxaldrWE9Ia1IzTjJyZk1SX0NPYU1pcFVYRHVWZC1KM1BkcGhlWEhXV2M?oc=5",
-      "snippet": "",
-      "source": "코리아리포트",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 22:44:20 GMT"
     }
   ]
 }
