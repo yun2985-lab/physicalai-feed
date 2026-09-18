@@ -1,135 +1,162 @@
 {
-  "updated_at": "2026-09-17T21:23:09Z",
+  "updated_at": "2026-09-18T04:44:29Z",
   "papers": [
     {
       "type": "paper",
-      "title": "Human-Centric Grasp State Assessment: Toward Transferring Subjective Evaluation to Robots",
-      "url": "https://arxiv.org/abs/2609.17540",
-      "snippet": "We propose a framework that transfers tacit human subjective criteria to robotic systems for the appropriate grasping of deformable objects. Achieving such behavior is challenging because a semantic gap exists between…",
+      "title": "AthenaZero: A low-inertia, bimanual robot for dynamic manipulation",
+      "url": "https://arxiv.org/abs/2609.19194",
+      "snippet": "AthenaZero is a bimanual manipulator designed to minimize inertia without compromising control authority. By utilizing quasi-direct drive actuation and transmission remotization techniques, the system achieves an…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Real-Time Service Robot Replanning via Simple Button Interaction for Improved Task Success and User Experience",
-      "url": "https://arxiv.org/abs/2609.17541",
-      "snippet": "Service robots must respond to unexpected instructions in real-world environments. However, robots cannot detect all failures and exceptions during a task. To address these issues, we propose a real-time feedback…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.HC"
-      ],
-      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Predictive Varanus: Combining CSP Conformance Monitoring with Predictive LTL Runtime Verification",
-      "url": "https://arxiv.org/abs/2609.17625",
-      "snippet": "Runtime Verification is well suited to autonomous and robotic systems because it checks the behaviour that is actually observed during execution. Its main limitation, however, is that it is usually reactive: the monitor…",
+      "title": "DITTO: Dexterous Interface for Transparent TeleOperation",
+      "url": "https://arxiv.org/abs/2609.19196",
+      "snippet": "Collecting data for manipulation with high-DOF hands is challenging, as interfaces must capture rich hand motion while rendering the contact interactions essential for precise manipulation. Existing data collection…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Flexible-body Modeling, Kinematic Identification, and Assembly Accuracy of Overconstrained Spatial Linkages",
-      "url": "https://arxiv.org/abs/2609.17627",
-      "snippet": "Overconstrained rational single-loop linkages are efficient, compact, and low-cost custom mechanisms, yet their deployment in industrial settings is limited. In simulations, rigid body formulations fail due to redundant…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "math.AG"
-      ],
-      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "LEAP: Learning Emergent Active Perception for Quadruped Navigation",
-      "url": "https://arxiv.org/abs/2609.17628",
-      "snippet": "Active perception allows autonomous agents to select their viewpoints rather than passively process the viewpoints given to them, enabling them to target where to reduce uncertainty about their environment. Learned…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Vision-Language Grounded Task-Context-Aware Imitation Learning for Robotic Disassembly",
-      "url": "https://arxiv.org/abs/2609.17714",
-      "snippet": "Real-world robotic disassembly requires long-horizon execution, where robots must perform ordered sequences of manipulation tasks across multiple parts within a single scene. Multiple valid task goals and diverse…",
+      "title": "ULOHA: An Underwater Bimanual Robot System for Robot Learning",
+      "url": "https://arxiv.org/abs/2609.19200",
+      "snippet": "Underwater visuomotor policy learning has focused primarily on single manipulators, while bimanual imitation learning has been studied largely in air. We present ULOHA, an underwater bimanual robot learning platform…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving",
-      "url": "https://arxiv.org/abs/2609.17728",
-      "snippet": "Recent Vision-Language-Action (VLA) models for autonomous driving have incorporated world modeling by predicting future driving scenes alongside driving actions, demonstrating strong planning performance. Future driving…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "CALOS: Control-Affine Lyapunov On-manifold Safety Layer for Safe Deep Reinforcement Learning for Quadrotors",
-      "url": "https://arxiv.org/abs/2609.17758",
-      "snippet": "Deep Reinforcement Learning has demonstrated remarkable capability in quadrotor control, yet learned policies offer no guarantee of respecting safety constraints during training or deployment. We present CALOS…",
+      "title": "REACT: A Fully Spiking State-Space Model for Real-Time Event-Driven Temporal Perception",
+      "url": "https://arxiv.org/abs/2609.19204",
+      "snippet": "Robotic systems operating in dynamic environments require visual perception that evolves continuously with the incoming sensory stream. Event cameras provide microsecond temporal resolution and asynchronous sensing, but…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.AI"
       ],
-      "pub_date": "Thu, 17 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "4D Radar Perception Algorithms for Autonomous Driving: A Review",
+      "url": "https://arxiv.org/abs/2609.19216",
+      "snippet": "Research on 4D millimeter-wave radar perception algorithms has flourished in recent years, extending from signal processing and object detection to semantic segmentation, motion estimation, occupancy prediction, and…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "eess.SP"
+      ],
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Grasping by interconnection: robust closing motions from coarse object templates",
+      "url": "https://arxiv.org/abs/2609.19228",
+      "snippet": "Dexterous robot hands must often grasp objects whose shape, size, and pose are known only approximately. Grasp planners typically require accurate object models or correct errors with feedback, but how much inaccuracy a…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Learning Safe Humanoid Navigation from Reduced Order Models",
+      "url": "https://arxiv.org/abs/2609.19272",
+      "snippet": "Research in humanoid robotics has achieved rapid progress in locomotion, and recent results have pushed the boundary on autonomous navigation. We demonstrate that a standard single-stage RL navigation pipeline struggles…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "OHRID-Retail: An Open Multimodal Dataset of Human Activity in Retail Environments",
+      "url": "https://arxiv.org/abs/2609.19302",
+      "snippet": "Open datasets describing human behavior in environments shared with mobile robots remain limited, particularly for retail activities that combine locomotion, reaching, object handling, and robot guided movement. This…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.HC"
+      ],
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
     {
       "type": "news",
-      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - 지디넷코리아",
+      "title": "\"로봇의 눈과 뇌 잇는다\"…엔닷라이트, 피지컬 AI 밸류체인 연결 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LTi1fbXpxM2FxZU5KWllpaUd6ZEF4T2FtcTQxYVBTTWMtSTVLMWhXcVdIb1lQaVVLeDk1QXo1eW5JZTBJbFY3MGJZei1WTU0?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Fri, 18 Sep 2026 02:15:50 GMT"
+    },
+    {
+      "type": "news",
+      "title": "‘휴머노이드 서밋 서울 2026’ 글로벌 피지컬 AI 프로그램 공개 - 벤처타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoT2V5Y0IzUndSSjlfOTlBZWNCUkl0bzhfZGFfcUNzODdwYTdqYjRfZVZGdkdGSlpXRU1DTmpoQktVWi1SR1JjVlRzXzIyS2Fhc1pZMS1FekxnVTlmRjJJbm9DMTRQQQ?oc=5",
+      "snippet": "",
+      "source": "벤처타임즈",
+      "categories": [],
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "박완수 경남지사, 中 ‘AI 로봇밸리’ 찾았다···경남 제조업에 ‘Physical AI’ 접목 - 스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyQzM5ZUtjWlBUWWJFakg2Y2tDQ2tPQ3lIaWRXU1VWSVExQzZYbUw2SnhRY1lseUVGQk5pVzVnck5zSEpoa3F4Y0VsYmMxQ0FHUUZ0U2xkNVFiSUhjSW1BMzl1MjEzSVVNcmw1Yg?oc=5",
+      "snippet": "",
+      "source": "스마트비즈",
+      "categories": [],
+      "pub_date": "Fri, 18 Sep 2026 01:04:15 GMT"
+    },
+    {
+      "type": "news",
+      "title": "코난테크놀로지, 경남 ‘피지컬 AI’ 국책사업 착수…LAM 기술 개발 나서 - irobotnews.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuQkVtVHJuclMyU3V3a0p0VGNUYjJUMWtxRnFTQ09JZVRiTXNROVdHMW1CZkRzaVBYRG5YckZNZC02SkZEUkdVQ09RQTN5N2VYSnhwWXlsMEdhODBvUTQtWnRoZWNibjJFMk1QZw?oc=5",
+      "snippet": "",
+      "source": "irobotnews.com",
+      "categories": [],
+      "pub_date": "Fri, 18 Sep 2026 01:06:26 GMT"
+    },
+    {
+      "type": "news",
+      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - zdnet.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5",
       "snippet": "",
-      "source": "지디넷코리아",
+      "source": "zdnet.co.kr",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 07:45:30 GMT"
     },
     {
       "type": "news",
-      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - deloitte.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ULXpyOFJIWUhtc0drbUY1Uy1WdXJJQnhRM1VUVXdQOE5vSHlNVVJmN1FFTzBRM2xEbV80LTNxdC00NDNuWm1IY3p4eGR3NVA2N2RjLWFSRTExSDc1RnZVbHdjc0tlenNjUWFCR25XYnNPTGpHUHdwRVQ1dzBZamc?oc=5",
+      "title": "경남, 중국서 '실물 AI' 생태계 탐색… 관광 물꼬도 튼다 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wQkFNYXAySU9xeGx3OVhSWGhTV2RONTY2a2Z0UmZvRDVOczVDS0hodU54Y1FnTldueVdJbmJZN3pmcVhySjhOOXpncFV2M2xielpTaXVGcmtucTQtTW1CTWxUd1RpeHEydm9OcUN30gFzQVVfeXFMTzlycVhpaUVUTi0yd3RaZUJscm9kX2Nhb2hMNzVHZUR1OWg3TmZBWm1LeTdQdVl1bktwR0JIWVNWWDdRUTA2bXl2Z29mdzFHdXJhM3l1MVF3Qkk3dlRtbWdWVDI5aXF1dlVFV25EbHYwSWJoWQ?oc=5",
       "snippet": "",
-      "source": "deloitte.com",
+      "source": "한국일보",
       "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 04:33:04 GMT"
+      "pub_date": "Thu, 17 Sep 2026 23:28:00 GMT"
     },
     {
       "type": "news",
-      "title": "태국 교통부 차관, 마음AI 방문…피지컬 AI·AICC 기술 직접 살펴 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xYU84VWV2YlZqZUs2TTlTejRRdDFoeWI5S19BOGsxWGNwSXlMY2Q1ejRrOHhwZ3FqOGExU0RSUjFlbVpmbFNNejdHSndNdGpWSUNGdWR3R1BzcGhjcTBobGQyTmViajlJUTFFNw?oc=5",
+      "title": "철도 AX, 현장 실증으로…피지컬AI·DRT 실용화 해법 논의 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IVWt4S0dCeHp1NWl3dXd3Z21LbDlpOUwwSW9qdHg2R005eTMyeHo0NDFTbG9YMm1qaVlDNnNCQVM5emtacWx0QS1KbGtKMkZqMjZLZHZJdzBaQjd2T2RMOWF0N2hVdWJoY29GUdIBcEFVX3lxTE52RmI3QXJSUURRX1QwTG5MMTQySWE1Q2FzTnZJU0ZxSGlaTEVXa0Itb1dHMVBmeUQ4X0hITWlQdGN1d0w3WjJJM2JtWTV1RXdDTlUyNk5jTFlFRl8zRTg2MHZBNzJBc0xad1IwVzhQWkk?oc=5",
       "snippet": "",
-      "source": "로봇신문",
+      "source": "전기신문",
       "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 06:30:26 GMT"
-    },
-    {
-      "type": "news",
-      "title": "박완수 지사, 상하이 로봇밸리 방문…경남 제조 AI 접목 모색 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jeGR2THR5ZjBZUmpGVTNZdDRQZlZQWXktSE1jYk5tVHJKcy1KYTlRWHI1R1JidDk2cHYyX2I1d21TLTFMTXNOLXVfTERuX2M?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 09:05:29 GMT"
+      "pub_date": "Thu, 17 Sep 2026 23:35:24 GMT"
     },
     {
       "type": "news",
@@ -139,33 +166,6 @@
       "source": "조선일보",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 18:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "실증 본격화하는 코윈로보틱스 “AI 시뮬레이션부터 로봇 제어까지 다 갖췄다” - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iQTlLQ2kwQXRCQjRHb0RBbXNhMWV1a3NYcmlicGM5RmhLekVhcmppQWotekpIb3hWQTFsdmJZRjlycWRxalRsMjRSR1NoN2NfelBJUGJQN2s0RkN4RnBj?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 04:20:38 GMT"
-    },
-    {
-      "type": "news",
-      "title": "경남도 상하이 장강AI로봇밸리 찾아 제조AI 접목 방안 모색 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5paFRMYk9UeWpmTUludm1vMFlBTnFaaEtaMGJUdF8xWFBjQURCNVJScjIxX3I4b0Z2WW9LdDFoVGFybGxXUUZjSjJHZG95di1iekhaa3JNeS14N25Yc2VveHRTbm9GYVZPS2fSAW9BVV95cUxNUE5kc0x3NUVfdG1UdEdfdWdFWWI5TzhxamNZS21SdWFwYS02aUg1eHpFTmhXNWhQLW5yNDlVQk8weTdvU1Qwa0VBaG5DTXlCZVVvbFFrS2RwR01CS0Q0R0MzaXNZMWZNUllMb1BqNUU?oc=5",
-      "snippet": "",
-      "source": "머니투데이",
-      "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 08:06:26 GMT"
-    },
-    {
-      "type": "news",
-      "title": "경남도, 中 상하이 '장강 AI 로봇밸리' 방문...로봇 생태계·관광 협력 강화 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RcGhRdDBfbWpTODZjeVNUclVXTDdXTUNjZ3BJT0EwWVBHMDd2UFhjaEVoS3pmRGNuQ0ZVLWhYelNlTV9oVlh6VjEyM0JOdUdHYXN1eGJFRl9KYlZh?oc=5",
-      "snippet": "",
-      "source": "뉴스핌",
-      "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 08:35:00 GMT"
     }
   ]
 }
