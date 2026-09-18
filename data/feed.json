@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T20:54:54Z",
+  "updated_at": "2026-09-18T23:18:49Z",
   "papers": [
     {
       "type": "paper",
@@ -106,6 +106,15 @@
     },
     {
       "type": "news",
+      "title": "[로봇 온사이트] 휴머노이드 상용화 열쇠가 된 '기억력'…'로봇 뇌' 개발 경쟁 치열 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lX1ByVlpudGpJVTJYMVo3dGFQdVlxLXdSODZiSGlORnJzcjFfVUVoUUlRbXVfWlloNWlLUlVyYk1NNUFSTkdoZXo2YkRFeURoaHN6eWNjZW4xNUMyVnc?oc=5",
+      "snippet": "",
+      "source": "더구루",
+      "categories": [],
+      "pub_date": "Fri, 18 Sep 2026 22:55:55 GMT"
+    },
+    {
+      "type": "news",
       "title": "\"로봇의 눈과 뇌 잇는다\"…엔닷라이트, 피지컬 AI 밸류체인 연결 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wblZGM2RRbHh2S0VRTk5xbjFYaEd6RWhXNDhXd1kwaWhVTDQwZXZRbWZVWmJvWVh6VHNaWkVKcWd6ZTA4Unc?oc=5",
       "snippet": "",
@@ -121,15 +130,6 @@
       "source": "Deloitte",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 04:33:04 GMT"
-    },
-    {
-      "type": "news",
-      "title": "‘휴머노이드 서밋 서울 2026’ 글로벌 피지컬 AI 프로그램 공개 - 벤처타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoT2V5Y0IzUndSSjlfOTlBZWNCUkl0bzhfZGFfcUNzODdwYTdqYjRfZVZGdkdGSlpXRU1DTmpoQktVWi1SR1JjVlRzXzIyS2Fhc1pZMS1FekxnVTlmRjJJbm9DMTRQQQ?oc=5",
-      "snippet": "",
-      "source": "벤처타임즈",
-      "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 GMT"
     },
     {
       "type": "news",
@@ -160,12 +160,12 @@
     },
     {
       "type": "news",
-      "title": "박완수 경남지사, 中 ‘AI 로봇밸리’ 찾았다···경남 제조업에 ‘Physical AI’ 접목 - 스마트비즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyQzM5ZUtjWlBUWWJFakg2Y2tDQ2tPQ3lIaWRXU1VWSVExQzZYbUw2SnhRY1lseUVGQk5pVzVnck5zSEpoa3F4Y0VsYmMxQ0FHUUZ0U2xkNVFiSUhjSW1BMzl1MjEzSVVNcmw1Yg?oc=5",
+      "title": "‘휴머노이드 서밋 서울 2026’ 글로벌 피지컬 AI 프로그램 공개 - 벤처타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoT2V5Y0IzUndSSjlfOTlBZWNCUkl0bzhfZGFfcUNzODdwYTdqYjRfZVZGdkdGSlpXRU1DTmpoQktVWi1SR1JjVlRzXzIyS2Fhc1pZMS1FekxnVTlmRjJJbm9DMTRQQQ?oc=5",
       "snippet": "",
-      "source": "스마트비즈",
+      "source": "벤처타임즈",
       "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 01:04:15 GMT"
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 GMT"
     }
   ]
 }
