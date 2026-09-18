@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T16:24:38Z",
+  "updated_at": "2026-09-18T20:54:54Z",
   "papers": [
     {
       "type": "paper",
@@ -107,11 +107,20 @@
     {
       "type": "news",
       "title": "\"로봇의 눈과 뇌 잇는다\"…엔닷라이트, 피지컬 AI 밸류체인 연결 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LTi1fbXpxM2FxZU5KWllpaUd6ZEF4T2FtcTQxYVBTTWMtSTVLMWhXcVdIb1lQaVVLeDk1QXo1eW5JZTBJbFY3MGJZei1WTU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wblZGM2RRbHh2S0VRTk5xbjFYaEd6RWhXNDhXd1kwaWhVTDQwZXZRbWZVWmJvWVh6VHNaWkVKcWd6ZTA4Unc?oc=5",
       "snippet": "",
       "source": "v.daum.net",
       "categories": [],
       "pub_date": "Fri, 18 Sep 2026 02:15:50 GMT"
+    },
+    {
+      "type": "news",
+      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ULXpyOFJIWUhtc0drbUY1Uy1WdXJJQnhRM1VUVXdQOE5vSHlNVVJmN1FFTzBRM2xEbV80LTNxdC00NDNuWm1IY3p4eGR3NVA2N2RjLWFSRTExSDc1RnZVbHdjc0tlenNjUWFCR25XYnNPTGpHUHdwRVQ1dzBZamc?oc=5",
+      "snippet": "",
+      "source": "Deloitte",
+      "categories": [],
+      "pub_date": "Thu, 17 Sep 2026 04:33:04 GMT"
     },
     {
       "type": "news",
@@ -121,24 +130,6 @@
       "source": "벤처타임즈",
       "categories": [],
       "pub_date": "Fri, 18 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "로봇 두뇌 칩 디로보틱스, 4억 달러 시리즈C 투자유치…미래에셋 리드 - wowtale.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55a0NfSkxDYkJOVFprczhoTk9vUzZRSW5FMVlMTE11ekRkWUJlWUpGZlV2MW90TS1xaTFYaU15c1B2UzEwS1N2QXI0NXozS3M?oc=5",
-      "snippet": "",
-      "source": "wowtale.net",
-      "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 15:31:54 GMT"
-    },
-    {
-      "type": "news",
-      "title": "박완수 경남지사, 中 ‘AI 로봇밸리’ 찾았다···경남 제조업에 ‘Physical AI’ 접목 - 스마트비즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyQzM5ZUtjWlBUWWJFakg2Y2tDQ2tPQ3lIaWRXU1VWSVExQzZYbUw2SnhRY1lseUVGQk5pVzVnck5zSEpoa3F4Y0VsYmMxQ0FHUUZ0U2xkNVFiSUhjSW1BMzl1MjEzSVVNcmw1Yg?oc=5",
-      "snippet": "",
-      "source": "스마트비즈",
-      "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 01:04:15 GMT"
     },
     {
       "type": "news",
@@ -160,12 +151,21 @@
     },
     {
       "type": "news",
-      "title": "경남도, 제조 AI 실증 거점 조성 추진…중국 휴머노이드 로봇 현장 방문 - 내외경제TV",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MOU1TNl9DMURJTlVRVkZGTTFTSVpialVMeS1rMGZxZHFEUlFKRDJKd2ZyNjQ4NHMxZGxkR3dtOVZsZnhxQ19HR2hSbVNOSlpUdGNxVTZ1OWZmcU1tNlFrTE5FS1RMOGxFR19V?oc=5",
+      "title": "로봇 두뇌 칩 디로보틱스, 4억 달러 시리즈C 투자유치…미래에셋 리드 - 와우테일",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55a0NfSkxDYkJOVFprczhoTk9vUzZRSW5FMVlMTE11ekRkWUJlWUpGZlV2MW90TS1xaTFYaU15c1B2UzEwS1N2QXI0NXozS3M?oc=5",
       "snippet": "",
-      "source": "내외경제TV",
+      "source": "와우테일",
       "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 12:16:58 GMT"
+      "pub_date": "Fri, 18 Sep 2026 15:31:54 GMT"
+    },
+    {
+      "type": "news",
+      "title": "박완수 경남지사, 中 ‘AI 로봇밸리’ 찾았다···경남 제조업에 ‘Physical AI’ 접목 - 스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyQzM5ZUtjWlBUWWJFakg2Y2tDQ2tPQ3lIaWRXU1VWSVExQzZYbUw2SnhRY1lseUVGQk5pVzVnck5zSEpoa3F4Y0VsYmMxQ0FHUUZ0U2xkNVFiSUhjSW1BMzl1MjEzSVVNcmw1Yg?oc=5",
+      "snippet": "",
+      "source": "스마트비즈",
+      "categories": [],
+      "pub_date": "Fri, 18 Sep 2026 01:04:15 GMT"
     }
   ]
 }
