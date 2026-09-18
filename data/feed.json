@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T04:44:29Z",
+  "updated_at": "2026-09-18T11:15:39Z",
   "papers": [
     {
       "type": "paper",
@@ -97,6 +97,15 @@
   "news": [
     {
       "type": "news",
+      "title": "[봇규의 헬로BOT] 피지컬 AI의 착각과 현실 ① | 이미 똑똑한 AI, 그런데 컵 하나 제대로 못 집는다? - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HYnJrVFpRaF9QZm1CYTVpaWlSNllBYVlHcGNlb21OVEE0Z3dubS1peERYVFZILUxOLVlzQzQ3MG56cmpUY0R2Rk9ZeU9KYTV0Vi1BaHFIOTJKSmcyYnBR?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Fri, 18 Sep 2026 11:01:57 GMT"
+    },
+    {
+      "type": "news",
       "title": "\"로봇의 눈과 뇌 잇는다\"…엔닷라이트, 피지컬 AI 밸류체인 연결 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LTi1fbXpxM2FxZU5KWllpaUd6ZEF4T2FtcTQxYVBTTWMtSTVLMWhXcVdIb1lQaVVLeDk1QXo1eW5JZTBJbFY3MGJZei1WTU0?oc=5",
       "snippet": "",
@@ -124,19 +133,19 @@
     },
     {
       "type": "news",
-      "title": "코난테크놀로지, 경남 ‘피지컬 AI’ 국책사업 착수…LAM 기술 개발 나서 - irobotnews.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuQkVtVHJuclMyU3V3a0p0VGNUYjJUMWtxRnFTQ09JZVRiTXNROVdHMW1CZkRzaVBYRG5YckZNZC02SkZEUkdVQ09RQTN5N2VYSnhwWXlsMEdhODBvUTQtWnRoZWNibjJFMk1QZw?oc=5",
+      "title": "브릴스, 차세대 피지컬 AI 플랫폼에 'VLA·RFM' 적용…글로벌 로봇 생태계 주도 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mNnhsZG1YcXFDdTNvZF9DeDZCVXVOSEtfZkV3dC1ydEE0S2h0RGE2RGloU2NFaHJObDZ6b3VFUGRlSHViQkZYLW44dmRkblM4dm0tcFNwOG1XWGlqeEhGWEpYQm1RRm1hNTVfTw?oc=5",
       "snippet": "",
-      "source": "irobotnews.com",
+      "source": "로봇신문",
       "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 01:06:26 GMT"
+      "pub_date": "Thu, 17 Sep 2026 00:53:42 GMT"
     },
     {
       "type": "news",
-      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - zdnet.co.kr",
+      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - 지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5",
       "snippet": "",
-      "source": "zdnet.co.kr",
+      "source": "지디넷코리아",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 07:45:30 GMT"
     },
@@ -157,15 +166,6 @@
       "source": "전기신문",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 23:35:24 GMT"
-    },
-    {
-      "type": "news",
-      "title": "AI 시대 화이트 칼라에 이어 블루 칼라도 떨고 있다 - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdEtLZThJVEhzSUxjZWktY05PMFZBdHpwRElKUnh2STVOaEM3akRScjAybFpxT2NVQ0JKb2pzRHg5cjBnblVEblZZQVJGVHpMMGFWZmRtS0hyaHRPRk9jT2VvQ2RROTd5RmNEVjVYbEFYUXFiWld2XzV6ODhUSHQxdHpxZHBPQQ?oc=5",
-      "snippet": "",
-      "source": "조선일보",
-      "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 18:00:00 GMT"
     }
   ]
 }
