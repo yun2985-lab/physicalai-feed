@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:00:03Z",
+  "updated_at": "2026-09-19T15:53:12Z",
   "papers": [],
   "news": [
     {
@@ -40,15 +40,6 @@
     },
     {
       "type": "news",
-      "title": "엑스와이지, 양팔 세미 휴머노이드 로봇 ‘듀스’ 힘 제어 기술 고도화 - beSUCCESS",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NUEJyTTdleDYyV0pDb1BpQ3M4RE1EaGp2eDlhZFpvcGdKYTExZVIwb0k4LVBXaVlzMW9tN1ZUbVVJSDlIM1E?oc=5",
-      "snippet": "",
-      "source": "beSUCCESS",
-      "categories": [],
-      "pub_date": "Sat, 19 Sep 2026 02:02:36 GMT"
-    },
-    {
-      "type": "news",
       "title": "브릴스, 차세대 피지컬 AI 플랫폼에 'VLA·RFM' 적용…글로벌 로봇 생태계 주도 - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mNnhsZG1YcXFDdTNvZF9DeDZCVXVOSEtfZkV3dC1ydEE0S2h0RGE2RGloU2NFaHJObDZ6b3VFUGRlSHViQkZYLW44dmRkblM4dm0tcFNwOG1XWGlqeEhGWEpYQm1RRm1hNTVfTw?oc=5",
       "snippet": "",
@@ -64,6 +55,15 @@
       "source": "지디넷코리아",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 07:45:30 GMT"
+    },
+    {
+      "type": "news",
+      "title": "엑스와이지, 양팔 세미 휴머노이드 로봇 ‘듀스’ 힘 제어 기술 고도화 - beSUCCESS",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NUEJyTTdleDYyV0pDb1BpQ3M4RE1EaGp2eDlhZFpvcGdKYTExZVIwb0k4LVBXaVlzMW9tN1ZUbVVJSDlIM1E?oc=5",
+      "snippet": "",
+      "source": "beSUCCESS",
+      "categories": [],
+      "pub_date": "Sat, 19 Sep 2026 02:02:36 GMT"
     },
     {
       "type": "news",
