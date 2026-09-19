@@ -1,99 +1,6 @@
 {
-  "updated_at": "2026-09-18T23:18:49Z",
-  "papers": [
-    {
-      "type": "paper",
-      "title": "AthenaZero: A low-inertia, bimanual robot for dynamic manipulation",
-      "url": "https://arxiv.org/abs/2609.19194",
-      "snippet": "AthenaZero is a bimanual manipulator designed to minimize inertia without compromising control authority. By utilizing quasi-direct drive actuation and transmission remotization techniques, the system achieves an…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "DITTO: Dexterous Interface for Transparent TeleOperation",
-      "url": "https://arxiv.org/abs/2609.19196",
-      "snippet": "Collecting data for manipulation with high-DOF hands is challenging, as interfaces must capture rich hand motion while rendering the contact interactions essential for precise manipulation. Existing data collection…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "ULOHA: An Underwater Bimanual Robot System for Robot Learning",
-      "url": "https://arxiv.org/abs/2609.19200",
-      "snippet": "Underwater visuomotor policy learning has focused primarily on single manipulators, while bimanual imitation learning has been studied largely in air. We present ULOHA, an underwater bimanual robot learning platform…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "REACT: A Fully Spiking State-Space Model for Real-Time Event-Driven Temporal Perception",
-      "url": "https://arxiv.org/abs/2609.19204",
-      "snippet": "Robotic systems operating in dynamic environments require visual perception that evolves continuously with the incoming sensory stream. Event cameras provide microsecond temporal resolution and asynchronous sensing, but…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.AI"
-      ],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "4D Radar Perception Algorithms for Autonomous Driving: A Review",
-      "url": "https://arxiv.org/abs/2609.19216",
-      "snippet": "Research on 4D millimeter-wave radar perception algorithms has flourished in recent years, extending from signal processing and object detection to semantic segmentation, motion estimation, occupancy prediction, and…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV",
-        "eess.SP"
-      ],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Grasping by interconnection: robust closing motions from coarse object templates",
-      "url": "https://arxiv.org/abs/2609.19228",
-      "snippet": "Dexterous robot hands must often grasp objects whose shape, size, and pose are known only approximately. Grasp planners typically require accurate object models or correct errors with feedback, but how much inaccuracy a…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Learning Safe Humanoid Navigation from Reduced Order Models",
-      "url": "https://arxiv.org/abs/2609.19272",
-      "snippet": "Research in humanoid robotics has achieved rapid progress in locomotion, and recent results have pushed the boundary on autonomous navigation. We demonstrate that a standard single-stage RL navigation pipeline struggles…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "OHRID-Retail: An Open Multimodal Dataset of Human Activity in Retail Environments",
-      "url": "https://arxiv.org/abs/2609.19302",
-      "snippet": "Open datasets describing human behavior in environments shared with mobile robots remain limited, particularly for retail activities that combine locomotion, reaching, object handling, and robot guided movement. This…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.HC"
-      ],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 -0400"
-    }
-  ],
+  "updated_at": "2026-09-19T04:38:23Z",
+  "papers": [],
   "news": [
     {
       "type": "news",
@@ -115,12 +22,12 @@
     },
     {
       "type": "news",
-      "title": "\"로봇의 눈과 뇌 잇는다\"…엔닷라이트, 피지컬 AI 밸류체인 연결 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wblZGM2RRbHh2S0VRTk5xbjFYaEd6RWhXNDhXd1kwaWhVTDQwZXZRbWZVWmJvWVh6VHNaWkVKcWd6ZTA4Unc?oc=5",
+      "title": "엑스와이지, 양팔 세미 휴머노이드 로봇 ‘듀스’ 힘 제어 기술 고도화 - beSUCCESS",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NUEJyTTdleDYyV0pDb1BpQ3M4RE1EaGp2eDlhZFpvcGdKYTExZVIwb0k4LVBXaVlzMW9tN1ZUbVVJSDlIM1E?oc=5",
       "snippet": "",
-      "source": "v.daum.net",
+      "source": "beSUCCESS",
       "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 02:15:50 GMT"
+      "pub_date": "Sat, 19 Sep 2026 02:01:04 GMT"
     },
     {
       "type": "news",
@@ -133,30 +40,30 @@
     },
     {
       "type": "news",
-      "title": "브릴스, 차세대 피지컬 AI 플랫폼에 'VLA·RFM' 적용…글로벌 로봇 생태계 주도 - 로봇신문",
+      "title": "브릴스, 차세대 피지컬 AI 플랫폼에 'VLA·RFM' 적용…글로벌 로봇 생태계 주도 - irobotnews.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mNnhsZG1YcXFDdTNvZF9DeDZCVXVOSEtfZkV3dC1ydEE0S2h0RGE2RGloU2NFaHJObDZ6b3VFUGRlSHViQkZYLW44dmRkblM4dm0tcFNwOG1XWGlqeEhGWEpYQm1RRm1hNTVfTw?oc=5",
       "snippet": "",
-      "source": "로봇신문",
+      "source": "irobotnews.com",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 00:53:42 GMT"
     },
     {
       "type": "news",
-      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - 지디넷코리아",
+      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - zdnet.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5",
       "snippet": "",
-      "source": "지디넷코리아",
+      "source": "zdnet.co.kr",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 07:45:30 GMT"
     },
     {
       "type": "news",
-      "title": "로봇 두뇌 칩 디로보틱스, 4억 달러 시리즈C 투자유치…미래에셋 리드 - 와우테일",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55a0NfSkxDYkJOVFprczhoTk9vUzZRSW5FMVlMTE11ekRkWUJlWUpGZlV2MW90TS1xaTFYaU15c1B2UzEwS1N2QXI0NXozS3M?oc=5",
+      "title": "\"로봇의 눈과 뇌 잇는다\"…엔닷라이트, 피지컬 AI 밸류체인 연결 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wblZGM2RRbHh2S0VRTk5xbjFYaEd6RWhXNDhXd1kwaWhVTDQwZXZRbWZVWmJvWVh6VHNaWkVKcWd6ZTA4Unc?oc=5",
       "snippet": "",
-      "source": "와우테일",
+      "source": "v.daum.net",
       "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 15:31:54 GMT"
+      "pub_date": "Fri, 18 Sep 2026 02:15:50 GMT"
     },
     {
       "type": "news",
