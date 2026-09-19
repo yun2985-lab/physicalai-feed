@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-19T20:41:08Z",
+  "updated_at": "2026-09-19T23:06:23Z",
   "papers": [],
   "news": [
     {
       "type": "news",
-      "title": "\"자율제조 패권 가를 승부처, 'K-피지컬 AI 폼팩터' 독자 개발에 달렸다\" - 기계신문",
+      "title": "\"자율제조 패권 가를 승부처, 'K-피지컬 AI 폼팩터' 독자 개발에 달렸다\" - mtnews.net",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYSHhxNDNXMzY1NWhQMlJZdjIzWGZ3dnNTeHdjZV9WdG1xeF9zOG1ObHdiT0JobjdPb1Z1cU4zd3ZldlVYbDA5Z1YzVnBYRmY3UC1PR1dnVWlwbG5uSWlNcy0yblVXRG8?oc=5",
       "snippet": "",
-      "source": "기계신문",
+      "source": "mtnews.net",
       "categories": [],
       "pub_date": "Sat, 19 Sep 2026 06:59:57 GMT"
     },
@@ -31,15 +31,6 @@
     },
     {
       "type": "news",
-      "title": "[로봇 온사이트] 휴머노이드 상용화 열쇠가 된 '기억력'…'로봇 뇌' 개발 경쟁 치열 - 더구루",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lX1ByVlpudGpJVTJYMVo3dGFQdVlxLXdSODZiSGlORnJzcjFfVUVoUUlRbXVfWlloNWlLUlVyYk1NNUFSTkdoZXo2YkRFeURoaHN6eWNjZW4xNUMyVnc?oc=5",
-      "snippet": "",
-      "source": "더구루",
-      "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 22:55:55 GMT"
-    },
-    {
-      "type": "news",
       "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - 지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5",
       "snippet": "",
@@ -58,12 +49,12 @@
     },
     {
       "type": "news",
-      "title": "엑스와이지, 양팔 세미 휴머노이드 로봇 ‘듀스’ 힘 제어 기술 고도화 - beSUCCESS",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NUEJyTTdleDYyV0pDb1BpQ3M4RE1EaGp2eDlhZFpvcGdKYTExZVIwb0k4LVBXaVlzMW9tN1ZUbVVJSDlIM1E?oc=5",
+      "title": "[로봇 온사이트] 휴머노이드 상용화 열쇠가 된 '기억력'…'로봇 뇌' 개발 경쟁 치열 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lX1ByVlpudGpJVTJYMVo3dGFQdVlxLXdSODZiSGlORnJzcjFfVUVoUUlRbXVfWlloNWlLUlVyYk1NNUFSTkdoZXo2YkRFeURoaHN6eWNjZW4xNUMyVnc?oc=5",
       "snippet": "",
-      "source": "beSUCCESS",
+      "source": "더구루",
       "categories": [],
-      "pub_date": "Sat, 19 Sep 2026 02:02:36 GMT"
+      "pub_date": "Fri, 18 Sep 2026 22:55:55 GMT"
     },
     {
       "type": "news",
@@ -73,6 +64,15 @@
       "source": "벤처타임즈",
       "categories": [],
       "pub_date": "Fri, 18 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "엑스와이지, 양팔 세미 휴머노이드 로봇 ‘듀스’ 힘 제어 기술 고도화 - beSUCCESS",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NUEJyTTdleDYyV0pDb1BpQ3M4RE1EaGp2eDlhZFpvcGdKYTExZVIwb0k4LVBXaVlzMW9tN1ZUbVVJSDlIM1E?oc=5",
+      "snippet": "",
+      "source": "beSUCCESS",
+      "categories": [],
+      "pub_date": "Sat, 19 Sep 2026 02:02:36 GMT"
     }
   ]
 }
