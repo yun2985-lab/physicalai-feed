@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T11:25:13Z",
+  "updated_at": "2026-09-20T16:06:51Z",
   "papers": [],
   "news": [
     {
@@ -13,10 +13,10 @@
     },
     {
       "type": "news",
-      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - deloitte.com",
+      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - Deloitte",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ULXpyOFJIWUhtc0drbUY1Uy1WdXJJQnhRM1VUVXdQOE5vSHlNVVJmN1FFTzBRM2xEbV80LTNxdC00NDNuWm1IY3p4eGR3NVA2N2RjLWFSRTExSDc1RnZVbHdjc0tlenNjUWFCR25XYnNPTGpHUHdwRVQ1dzBZamc?oc=5",
       "snippet": "",
-      "source": "deloitte.com",
+      "source": "Deloitte",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 04:33:04 GMT"
     },
@@ -28,15 +28,6 @@
       "source": "지디넷코리아",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 07:45:30 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[ETF 언박싱] 미래운용 피지컬AI ETF 출격…현대차·LG 50% 집중 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT3BkbnRMZjBkdTdyT1Z5QzdTTWFaMEpiMmRYNnVGWHVXU3B4cHhaVHdrNlFKc1pBMURNLVdmZ1pRWEFWc194T2NEdFFzaGI1bnA1V24yVFVMTjFhd00tMHNOOHB6WndZbzYyVnJXWWs1UmpXeWtJUDlZNGVEM2xRcUh0VE9DVU1QVlNvcnRScw?oc=5",
-      "snippet": "",
-      "source": "Naver Blog",
-      "categories": [],
-      "pub_date": "Sun, 20 Sep 2026 02:14:38 GMT"
     },
     {
       "type": "news",
@@ -73,6 +64,15 @@
       "source": "시사저널e",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 02:27:41 GMT"
+    },
+    {
+      "type": "news",
+      "title": "박완수 경남지사, 中 ‘AI 로봇밸리’ 찾았다···경남 제조업에 ‘Physical AI’ 접목 - 스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyQzM5ZUtjWlBUWWJFakg2Y2tDQ2tPQ3lIaWRXU1VWSVExQzZYbUw2SnhRY1lseUVGQk5pVzVnck5zSEpoa3F4Y0VsYmMxQ0FHUUZ0U2xkNVFiSUhjSW1BMzl1MjEzSVVNcmw1Yg?oc=5",
+      "snippet": "",
+      "source": "스마트비즈",
+      "categories": [],
+      "pub_date": "Fri, 18 Sep 2026 01:04:15 GMT"
     }
   ]
 }
