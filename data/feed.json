@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-20T20:49:54Z",
+  "updated_at": "2026-09-20T23:15:06Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmJmNmpPTmctSlNnRUJYSjlEZXN6MXBOcFJaeU5Mcm1Vd3owc2ppbklXVS05R011RW82Q2FmUENFZ3htS0piSTJFZVhTTGd1VExEVTR3dEVVWTVsMTZjT3FMdHZvbW8?oc=5",
+      "snippet": "",
+      "source": "교수신문",
+      "categories": [],
+      "pub_date": "Sun, 20 Sep 2026 22:38:59 GMT"
+    },
     {
       "type": "news",
       "title": "[봇규의 헬로BOT] 피지컬 AI의 착각과 현실 ① | 이미 똑똑한 AI, 그런데 컵 하나 제대로 못 집는다? - 헬로티",
@@ -13,10 +22,10 @@
     },
     {
       "type": "news",
-      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - Deloitte",
+      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - deloitte.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ULXpyOFJIWUhtc0drbUY1Uy1WdXJJQnhRM1VUVXdQOE5vSHlNVVJmN1FFTzBRM2xEbV80LTNxdC00NDNuWm1IY3p4eGR3NVA2N2RjLWFSRTExSDc1RnZVbHdjc0tlenNjUWFCR25XYnNPTGpHUHdwRVQ1dzBZamc?oc=5",
       "snippet": "",
-      "source": "Deloitte",
+      "source": "deloitte.com",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 04:33:04 GMT"
     },
@@ -31,10 +40,10 @@
     },
     {
       "type": "news",
-      "title": "\"자율제조 패권 가를 승부처, 'K-피지컬 AI 폼팩터' 독자 개발에 달렸다\" - mtnews.net",
+      "title": "\"자율제조 패권 가를 승부처, 'K-피지컬 AI 폼팩터' 독자 개발에 달렸다\" - 기계신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYSHhxNDNXMzY1NWhQMlJZdjIzWGZ3dnNTeHdjZV9WdG1xeF9zOG1ObHdiT0JobjdPb1Z1cU4zd3ZldlVYbDA5Z1YzVnBYRmY3UC1PR1dnVWlwbG5uSWlNcy0yblVXRG8?oc=5",
       "snippet": "",
-      "source": "mtnews.net",
+      "source": "기계신문",
       "categories": [],
       "pub_date": "Sat, 19 Sep 2026 06:59:57 GMT"
     },
@@ -49,30 +58,21 @@
     },
     {
       "type": "news",
-      "title": "‘장강 AI 로봇밸리’ 찾은 박완수 지사, \"제조업 인공지능 전환 속도\" - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42YVVlTlRxX2FMSjZJUzZCNnozWm04YWd3ZXhoOGw2dFBEUTZ3enZvQk1JczU4OUQwYVFxT05lWFRSQWpkazhncXB5ekw4dVdWcHhTaVFuZ1B1UQ?oc=5",
+      "title": "[로봇 온사이트] 휴머노이드 상용화 열쇠가 된 '기억력'…'로봇 뇌' 개발 경쟁 치열 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lX1ByVlpudGpJVTJYMVo3dGFQdVlxLXdSODZiSGlORnJzcjFfVUVoUUlRbXVfWlloNWlLUlVyYk1NNUFSTkdoZXo2YkRFeURoaHN6eWNjZW4xNUMyVnc?oc=5",
       "snippet": "",
-      "source": "한국경제",
+      "source": "더구루",
       "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 08:30:17 GMT"
+      "pub_date": "Fri, 18 Sep 2026 22:55:55 GMT"
     },
     {
       "type": "news",
-      "title": "[AIF2026] 수 옴디아 수석연구원 “韓, 글로벌 로봇 제조기지 될 수 있어” - 시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qVTdoUWhkMERiYVZGbXlCNi1leFFFN1BHRDcwY1JDN2dtSWk3cGZoTDZnZEctdEoxazNkS3lxMzE4Z1dnZkZjRnNveXBKdGtMdWpoZnhTY0Z6cXFkNW95eWZCUURWbVVyLUZpMFJXVTNWQdIBdkFVX3lxTFBXNTRRZ1RmQ0FkOVp5TXg1dG40cmZrSGI0aTgxV1RwM3N4NktqS2QyWEVDOFlIVWh2NmdtMWZMMlZsUWZ3MFZZbjZUUUpIaHJsM080SFhUTFo3TFVxTWNzUHRVWWJQM1ljN0JBUW8wQXVDcy1scmc?oc=5",
+      "title": "‘휴머노이드 서밋 서울 2026’ 글로벌 피지컬 AI 프로그램 공개 - 벤처타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoT2V5Y0IzUndSSjlfOTlBZWNCUkl0bzhfZGFfcUNzODdwYTdqYjRfZVZGdkdGSlpXRU1DTmpoQktVWi1SR1JjVlRzXzIyS2Fhc1pZMS1FekxnVTlmRjJJbm9DMTRQQQ?oc=5",
       "snippet": "",
-      "source": "시사저널e",
+      "source": "벤처타임즈",
       "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 02:27:41 GMT"
-    },
-    {
-      "type": "news",
-      "title": "박완수 경남지사, 中 ‘AI 로봇밸리’ 찾았다···경남 제조업에 ‘Physical AI’ 접목 - 스마트비즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyQzM5ZUtjWlBUWWJFakg2Y2tDQ2tPQ3lIaWRXU1VWSVExQzZYbUw2SnhRY1lseUVGQk5pVzVnck5zSEpoa3F4Y0VsYmMxQ0FHUUZ0U2xkNVFiSUhjSW1BMzl1MjEzSVVNcmw1Yg?oc=5",
-      "snippet": "",
-      "source": "스마트비즈",
-      "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 01:04:15 GMT"
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 GMT"
     }
   ]
 }
