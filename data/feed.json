@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-09-20T04:54:47Z",
+  "updated_at": "2026-09-20T11:25:13Z",
   "papers": [],
   "news": [
-    {
-      "type": "news",
-      "title": "[ETF 언박싱] 미래운용 피지컬AI ETF 출격…현대차·LG 50% 집중 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT3BkbnRMZjBkdTdyT1Z5QzdTTWFaMEpiMmRYNnVGWHVXU3B4cHhaVHdrNlFKc1pBMURNLVdmZ1pRWEFWc194T2NEdFFzaGI1bnA1V24yVFVMTjFhd00tMHNOOHB6WndZbzYyVnJXWWs1UmpXeWtJUDlZNGVEM2xRcUh0VE9DVU1QVlNvcnRScw?oc=5",
-      "snippet": "",
-      "source": "Naver Blog",
-      "categories": [],
-      "pub_date": "Sun, 20 Sep 2026 02:10:38 GMT"
-    },
     {
       "type": "news",
       "title": "[봇규의 헬로BOT] 피지컬 AI의 착각과 현실 ① | 이미 똑똑한 AI, 그런데 컵 하나 제대로 못 집는다? - 헬로티",
@@ -22,12 +13,30 @@
     },
     {
       "type": "news",
-      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - Deloitte",
+      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - deloitte.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ULXpyOFJIWUhtc0drbUY1Uy1WdXJJQnhRM1VUVXdQOE5vSHlNVVJmN1FFTzBRM2xEbV80LTNxdC00NDNuWm1IY3p4eGR3NVA2N2RjLWFSRTExSDc1RnZVbHdjc0tlenNjUWFCR25XYnNPTGpHUHdwRVQ1dzBZamc?oc=5",
       "snippet": "",
-      "source": "Deloitte",
+      "source": "deloitte.com",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 04:33:04 GMT"
+    },
+    {
+      "type": "news",
+      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Thu, 17 Sep 2026 07:45:30 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[ETF 언박싱] 미래운용 피지컬AI ETF 출격…현대차·LG 50% 집중 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT3BkbnRMZjBkdTdyT1Z5QzdTTWFaMEpiMmRYNnVGWHVXU3B4cHhaVHdrNlFKc1pBMURNLVdmZ1pRWEFWc194T2NEdFFzaGI1bnA1V24yVFVMTjFhd00tMHNOOHB6WndZbzYyVnJXWWs1UmpXeWtJUDlZNGVEM2xRcUh0VE9DVU1QVlNvcnRScw?oc=5",
+      "snippet": "",
+      "source": "Naver Blog",
+      "categories": [],
+      "pub_date": "Sun, 20 Sep 2026 02:14:38 GMT"
     },
     {
       "type": "news",
@@ -40,15 +49,6 @@
     },
     {
       "type": "news",
-      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - zdnet.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5",
-      "snippet": "",
-      "source": "zdnet.co.kr",
-      "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 07:45:30 GMT"
-    },
-    {
-      "type": "news",
       "title": "\"로봇의 눈과 뇌 잇는다\"…엔닷라이트, 피지컬 AI 밸류체인 연결 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wblZGM2RRbHh2S0VRTk5xbjFYaEd6RWhXNDhXd1kwaWhVTDQwZXZRbWZVWmJvWVh6VHNaWkVKcWd6ZTA4Unc?oc=5",
       "snippet": "",
@@ -58,21 +58,21 @@
     },
     {
       "type": "news",
+      "title": "‘장강 AI 로봇밸리’ 찾은 박완수 지사, \"제조업 인공지능 전환 속도\" - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42YVVlTlRxX2FMSjZJUzZCNnozWm04YWd3ZXhoOGw2dFBEUTZ3enZvQk1JczU4OUQwYVFxT05lWFRSQWpkazhncXB5ekw4dVdWcHhTaVFuZ1B1UQ?oc=5",
+      "snippet": "",
+      "source": "한국경제",
+      "categories": [],
+      "pub_date": "Thu, 17 Sep 2026 08:30:17 GMT"
+    },
+    {
+      "type": "news",
       "title": "[AIF2026] 수 옴디아 수석연구원 “韓, 글로벌 로봇 제조기지 될 수 있어” - 시사저널e",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qVTdoUWhkMERiYVZGbXlCNi1leFFFN1BHRDcwY1JDN2dtSWk3cGZoTDZnZEctdEoxazNkS3lxMzE4Z1dnZkZjRnNveXBKdGtMdWpoZnhTY0Z6cXFkNW95eWZCUURWbVVyLUZpMFJXVTNWQdIBdkFVX3lxTFBXNTRRZ1RmQ0FkOVp5TXg1dG40cmZrSGI0aTgxV1RwM3N4NktqS2QyWEVDOFlIVWh2NmdtMWZMMlZsUWZ3MFZZbjZUUUpIaHJsM080SFhUTFo3TFVxTWNzUHRVWWJQM1ljN0JBUW8wQXVDcy1scmc?oc=5",
       "snippet": "",
       "source": "시사저널e",
       "categories": [],
       "pub_date": "Thu, 17 Sep 2026 02:27:41 GMT"
-    },
-    {
-      "type": "news",
-      "title": "유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS1VwVjRrQ0ZlWG1uWTFqUkdwNm44Q2swN2cxRjhLQVQ2cmFOU1FVV1hUelpNVl9nZ2s2d2QyVWh5TEVrVW95WE5uVFoyTlVTcHBzRXJPZGNBOUF1Qy1KZnJGRGo0cEk?oc=5",
-      "snippet": "",
-      "source": "인공지능신문",
-      "categories": [],
-      "pub_date": "Tue, 15 Sep 2026 05:35:43 GMT"
     }
   ]
 }
