@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T04:56:55Z",
+  "updated_at": "2026-09-21T12:49:18Z",
   "papers": [
     {
       "type": "paper",
@@ -105,6 +105,15 @@
     },
     {
       "type": "news",
+      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmJmNmpPTmctSlNnRUJYSjlEZXN6MXBOcFJaeU5Mcm1Vd3owc2ppbklXVS05R011RW82Q2FmUENFZ3htS0piSTJFZVhTTGd1VExEVTR3dEVVWTVsMTZjT3FMdHZvbW8?oc=5",
+      "snippet": "",
+      "source": "교수신문",
+      "categories": [],
+      "pub_date": "Sun, 20 Sep 2026 22:38:59 GMT"
+    },
+    {
+      "type": "news",
       "title": "[알림] '휴머노이드를 움직이는 반도체' 테크 콘퍼런스 - 디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TczZVS0NlM0dYc3ZlZVFjeUNlQTFGeTlwQm0yTC1RZVFLc2ZBN2d4Q2F6N0pKZDBlZGI1eXlfVERXY3RQWFY3OE03Q1RFSXNnRGNtZzZNdzVDNGoyZkxWN2tzUmRDUQ?oc=5",
       "snippet": "",
@@ -114,12 +123,12 @@
     },
     {
       "type": "news",
-      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - 교수신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmJmNmpPTmctSlNnRUJYSjlEZXN6MXBOcFJaeU5Mcm1Vd3owc2ppbklXVS05R011RW82Q2FmUENFZ3htS0piSTJFZVhTTGd1VExEVTR3dEVVWTVsMTZjT3FMdHZvbW8?oc=5",
+      "title": "안종배 국제미래학회장, 국내 첫 ‘피지컬 AI 로봇’ 종합서 출간 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SFVwaDFrc3V4ZUhZdUxEemZmSUxaSVpkM0NnRVVMZnhNYnd0a05ZUDYxUndUM3NOY0ZIUG5Xek4zbmc0R1FGOGMyMzB2dHZ5V1AyZzFIbEJQbXdDMmFCMHM1ZjZUaWV0WDhfbQ?oc=5",
       "snippet": "",
-      "source": "교수신문",
+      "source": "아시아투데이",
       "categories": [],
-      "pub_date": "Sun, 20 Sep 2026 22:38:59 GMT"
+      "pub_date": "Mon, 21 Sep 2026 07:29:05 GMT"
     },
     {
       "type": "news",
@@ -132,12 +141,21 @@
     },
     {
       "type": "news",
-      "title": "현장 배치가 개발 주기 결정…현대차 '피지컬 AI' 리더십 확장 - 파이낸셜포스트",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNzlfZTdQZFZKOXRVd21EeU11RElMRzNsMG50dTZtWXJfQU10QXlPWGxpUm5qcW4xcTg0VEMyR0lWR1pRYkM3XzlCMmhaMU9iZkptSXIyWnlNQlpYVTBnMzdiX1ZZcmxVMm9EeUdfWGJZNF9i?oc=5",
+      "title": "마음AI, 공주백제마라톤서 ‘나비컴’ 자율주행 시연…야외 피지컬 AI 검증 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mdWM3cVBUb0tkQ0pEVnVjVl9wb0JRUXR3ZF9NV2VHZUlWR0ZtdnByRlB4UjBRWVNpWGZXMk05T3dRcy1RdFlvSkRDNUhoODlFLS1BOW9NeFJwcEItdHZVWWlDN0x3NEdH?oc=5",
       "snippet": "",
-      "source": "파이낸셜포스트",
+      "source": "테크월드",
       "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 04:11:00 GMT"
+      "pub_date": "Mon, 21 Sep 2026 06:40:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "자율주행 치과 석션 로봇 ‘덴탈로보틱스’, 시드 투자 유치 - 와우테일",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yRk85SEdtRzBUTC1ocXo0T2RFWFBDTVBCRC1sZ3lQR2p2bUI3MHZTVkxMWFk3MzIySl90dl9wbUNMWmZsVG5wNk9xdUJWeWc?oc=5",
+      "snippet": "",
+      "source": "와우테일",
+      "categories": [],
+      "pub_date": "Mon, 21 Sep 2026 05:25:21 GMT"
     },
     {
       "type": "news",
@@ -147,24 +165,6 @@
       "source": "뉴시스",
       "categories": [],
       "pub_date": "Sun, 20 Sep 2026 23:46:37 GMT"
-    },
-    {
-      "type": "news",
-      "title": "마음AI ‘나비컴’, 공주백제마라톤서 피지컬 AI 현장 시연 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRW0yWlFCMUpnaDlxMWJtMXFMYXV0NXZGV0xZaVFDNGt4TGRRRU9jWUpmREo5T3hIZ1RfVzRSMHVlY1lhY3Q2cUwybkpHb2gtS255cjFB?oc=5",
-      "snippet": "",
-      "source": "지디넷코리아",
-      "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 01:47:22 GMT"
-    },
-    {
-      "type": "news",
-      "title": "리얼월드, CJ대한통운과 물류 AI 협력… 로봇파운데이션 적용 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NdUxQNDVSU2YtSlpWWkthMzhqRmtYZjkwMlByNTlNLUgxMzBwbGtfWndqV3VUdVVMcF9PRmdINWFkeVJ6T0ViMlg0bTZObnlubHEwNjlraUNlYTJNSktzemhPeks?oc=5",
-      "snippet": "",
-      "source": "디지털데일리",
-      "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 01:16:56 GMT"
     }
   ]
 }
