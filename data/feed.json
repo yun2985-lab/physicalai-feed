@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-09-20T23:15:06Z",
-  "papers": [],
+  "updated_at": "2026-09-21T04:56:55Z",
+  "papers": [
+    {
+      "type": "paper",
+      "title": "WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing",
+      "url": "https://arxiv.org/abs/2609.20892",
+      "snippet": "Closed-loop visual servoing requires predictions that indicate whether an action reduces task error, not only whether the action is plausible. We call this gap the prediction-control mismatch and introduce WM-VS, a…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "AeRove: A Compact Bimodal Aerial-Terrestrial Drone with Rapid Bistable Reconfiguration for Close-Range Pipeline Inspection",
+      "url": "https://arxiv.org/abs/2609.20965",
+      "snippet": "Close-proximity pipeline inspection is challenging for standard drones due to high hovering power consumption, airflow sensitivity, and propeller wash interference with gas sensing. To address this, we present AeRove, a…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Shake to Learn: Dynamic Interrogation of Hidden Object Physics for Robotic Manipulation with Physical Reservoir Computing",
+      "url": "https://arxiv.org/abs/2609.20970",
+      "snippet": "Many physical properties relevant to robotic manipulation are hidden from vision. A sealed object, for example, may reveal little about its center of mass (COM) or internal contents until it is lifted, shaken, or…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "ForeTac-VLA: A Forecasting-Based Tactile-Vision-Language-Action Model for Contact-Rich Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2609.20980",
+      "snippet": "Vision-language-action (VLA) models have demonstrated strong capabilities in robotic manipulation, yet their reliance on visual perception limits robustness in contact-rich environments, where critical physical…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "PIVOT: Physically Informed Vision-Language Off-Road Traversability for Field Robot Navigation",
+      "url": "https://arxiv.org/abs/2609.20983",
+      "snippet": "Terrain assessment is a critical capability for off-road mobile robots, enabling safe and reliable navigation through unstructured and geometrically complex environments. Conventional geometry-based terrain assessment…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Do Spinning Radar Doppler Velocity Measurements Improve Vehicle Detection and Tracking?",
+      "url": "https://arxiv.org/abs/2609.21000",
+      "snippet": "Spinning frequency-modulated continuous-wave (FMCW) radars have been gaining popularity in autonomous vehicle perception on account of their robustness to adverse weather conditions and 360{\\deg} field of view.…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "eess.SP"
+      ],
+      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Project SCOUT: Interceptor Drone for Perimeter Defense",
+      "url": "https://arxiv.org/abs/2609.21005",
+      "snippet": "The rapid proliferation of unauthorized unmanned aerial vehicles (UAVs) has created a growing need for robust, jamming-resistant counter-UAV systems for perimeter defense. This paper presents \\textbf{SCOUT} (Spatial…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "SPARROW: Survival-POMCP for Adaptive Robot Routing, Observation, and Waiting",
+      "url": "https://arxiv.org/abs/2609.21008",
+      "snippet": "Temporary obstacles that may block a robot's planned route create a sequential navigation problem: a robot must decide whether to wait for a blockage to clear, reroute, or acquire more information about the obstacle…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+    }
+  ],
   "news": [
+    {
+      "type": "news",
+      "title": "집도의와 로봇의 협업...피지컬 AI 기반 수술 보조 로봇 생태계 나왔다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SUmxhQWMtb0VscllnNnpuUHhSRHRSWUp0aU90SHRmMjh6YXlZYlhlS2sxbWV6UEtyWkNRd2gwX2dUellqWVJzLXpKSF9OcEVTMlZ5TENHMHlIMVJEeVpF?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Mon, 21 Sep 2026 04:12:15 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[알림] '휴머노이드를 움직이는 반도체' 테크 콘퍼런스 - 디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TczZVS0NlM0dYc3ZlZVFjeUNlQTFGeTlwQm0yTC1RZVFLc2ZBN2d4Q2F6N0pKZDBlZGI1eXlfVERXY3RQWFY3OE03Q1RFSXNnRGNtZzZNdzVDNGoyZkxWN2tzUmRDUQ?oc=5",
+      "snippet": "",
+      "source": "디일렉",
+      "categories": [],
+      "pub_date": "Mon, 21 Sep 2026 02:18:21 GMT"
+    },
     {
       "type": "news",
       "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - 교수신문",
@@ -13,66 +123,48 @@
     },
     {
       "type": "news",
-      "title": "[봇규의 헬로BOT] 피지컬 AI의 착각과 현실 ① | 이미 똑똑한 AI, 그런데 컵 하나 제대로 못 집는다? - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HYnJrVFpRaF9QZm1CYTVpaWlSNllBYVlHcGNlb21OVEE0Z3dubS1peERYVFZILUxOLVlzQzQ3MG56cmpUY0R2Rk9ZeU9KYTV0Vi1BaHFIOTJKSmcyYnBR?oc=5",
+      "title": "CJ대한통운, 물류용 피지컬AI 로봇 개발... 리얼월드와 맞손 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3RGNHd1E3UjBxNHUwRmp6QXdySkp5VUF0WVlsbTJwbjVFel9jczZaVmd4bGE2X3l0LThPVzl6U1hoT3ZpcDI4Y0d1Q3dXaEJaTjROZWhuX0xELVdw?oc=5",
       "snippet": "",
-      "source": "헬로티",
+      "source": "뉴스핌",
       "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 11:01:57 GMT"
+      "pub_date": "Mon, 21 Sep 2026 00:31:00 GMT"
     },
     {
       "type": "news",
-      "title": "휴머노이드 로봇의 부상과 주요 산업별 시장 진입 전략 - deloitte.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ULXpyOFJIWUhtc0drbUY1Uy1WdXJJQnhRM1VUVXdQOE5vSHlNVVJmN1FFTzBRM2xEbV80LTNxdC00NDNuWm1IY3p4eGR3NVA2N2RjLWFSRTExSDc1RnZVbHdjc0tlenNjUWFCR25XYnNPTGpHUHdwRVQ1dzBZamc?oc=5",
+      "title": "현장 배치가 개발 주기 결정…현대차 '피지컬 AI' 리더십 확장 - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNzlfZTdQZFZKOXRVd21EeU11RElMRzNsMG50dTZtWXJfQU10QXlPWGxpUm5qcW4xcTg0VEMyR0lWR1pRYkM3XzlCMmhaMU9iZkptSXIyWnlNQlpYVTBnMzdiX1ZZcmxVMm9EeUdfWGJZNF9i?oc=5",
       "snippet": "",
-      "source": "deloitte.com",
+      "source": "파이낸셜포스트",
       "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 04:33:04 GMT"
+      "pub_date": "Mon, 21 Sep 2026 04:11:00 GMT"
     },
     {
       "type": "news",
-      "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1seHVrN2doNXRxVEh0ck54QWs4T0VQUGtRWkJQVjhrQjFSUnI0amUyODlZNUVtNktmeW1aVjV6U2s1LW8yc0d6WUtFcjZaQnhOVjQ1ZDdR?oc=5",
+      "title": "CJ대한통운, '물류 로봇 두뇌' 키운다…\"피지컬AI 개발 가속도\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vUmhmb01ldTdPT09DODA0SF9vU0NNUEh5YmRRU3lQSVI5SllmUTRGeUhsZ1YyelhwUkZGcVg0NFJQS0RhSTlGME80bVhOeXVXT0FXU0hyUENsOTl1Znk5WG5WRUQ3LUFGdU5iSEJTY0I4NjFsaVZiZ9IBeEFVX3lxTE5vUmhmb01ldTdPT09DODA0SF9vU0NNUEh5YmRRU3lQSVI5SllmUTRGeUhsZ1YyelhwUkZGcVg0NFJQS0RhSTlGME80bVhOeXVXT0FXU0hyUENsOTl1Znk5WG5WRUQ3LUFGdU5iSEJTY0I4NjFsaVZiZw?oc=5",
+      "snippet": "",
+      "source": "뉴시스",
+      "categories": [],
+      "pub_date": "Sun, 20 Sep 2026 23:46:37 GMT"
+    },
+    {
+      "type": "news",
+      "title": "마음AI ‘나비컴’, 공주백제마라톤서 피지컬 AI 현장 시연 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRW0yWlFCMUpnaDlxMWJtMXFMYXV0NXZGV0xZaVFDNGt4TGRRRU9jWUpmREo5T3hIZ1RfVzRSMHVlY1lhY3Q2cUwybkpHb2gtS255cjFB?oc=5",
       "snippet": "",
       "source": "지디넷코리아",
       "categories": [],
-      "pub_date": "Thu, 17 Sep 2026 07:45:30 GMT"
+      "pub_date": "Mon, 21 Sep 2026 01:47:22 GMT"
     },
     {
       "type": "news",
-      "title": "\"자율제조 패권 가를 승부처, 'K-피지컬 AI 폼팩터' 독자 개발에 달렸다\" - 기계신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYSHhxNDNXMzY1NWhQMlJZdjIzWGZ3dnNTeHdjZV9WdG1xeF9zOG1ObHdiT0JobjdPb1Z1cU4zd3ZldlVYbDA5Z1YzVnBYRmY3UC1PR1dnVWlwbG5uSWlNcy0yblVXRG8?oc=5",
+      "title": "리얼월드, CJ대한통운과 물류 AI 협력… 로봇파운데이션 적용 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NdUxQNDVSU2YtSlpWWkthMzhqRmtYZjkwMlByNTlNLUgxMzBwbGtfWndqV3VUdVVMcF9PRmdINWFkeVJ6T0ViMlg0bTZObnlubHEwNjlraUNlYTJNSktzemhPeks?oc=5",
       "snippet": "",
-      "source": "기계신문",
+      "source": "디지털데일리",
       "categories": [],
-      "pub_date": "Sat, 19 Sep 2026 06:59:57 GMT"
-    },
-    {
-      "type": "news",
-      "title": "\"로봇의 눈과 뇌 잇는다\"…엔닷라이트, 피지컬 AI 밸류체인 연결 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wblZGM2RRbHh2S0VRTk5xbjFYaEd6RWhXNDhXd1kwaWhVTDQwZXZRbWZVWmJvWVh6VHNaWkVKcWd6ZTA4Unc?oc=5",
-      "snippet": "",
-      "source": "v.daum.net",
-      "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 02:15:50 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[로봇 온사이트] 휴머노이드 상용화 열쇠가 된 '기억력'…'로봇 뇌' 개발 경쟁 치열 - 더구루",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lX1ByVlpudGpJVTJYMVo3dGFQdVlxLXdSODZiSGlORnJzcjFfVUVoUUlRbXVfWlloNWlLUlVyYk1NNUFSTkdoZXo2YkRFeURoaHN6eWNjZW4xNUMyVnc?oc=5",
-      "snippet": "",
-      "source": "더구루",
-      "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 22:55:55 GMT"
-    },
-    {
-      "type": "news",
-      "title": "‘휴머노이드 서밋 서울 2026’ 글로벌 피지컬 AI 프로그램 공개 - 벤처타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoT2V5Y0IzUndSSjlfOTlBZWNCUkl0bzhfZGFfcUNzODdwYTdqYjRfZVZGdkdGSlpXRU1DTmpoQktVWi1SR1JjVlRzXzIyS2Fhc1pZMS1FekxnVTlmRjJJbm9DMTRQQQ?oc=5",
-      "snippet": "",
-      "source": "벤처타임즈",
-      "categories": [],
-      "pub_date": "Fri, 18 Sep 2026 00:00:00 GMT"
+      "pub_date": "Mon, 21 Sep 2026 01:16:56 GMT"
     }
   ]
 }
