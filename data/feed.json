@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T16:58:07Z",
+  "updated_at": "2026-09-22T21:19:51Z",
   "papers": [
     {
       "type": "paper",
@@ -113,30 +113,21 @@
     },
     {
       "type": "news",
+      "title": "보스턴다이나믹스, 미 조지아에 ‘휴머노이드 로봇 훈련소’ 개소..피지컬 AI 상용화 속도 - dailycar.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9waEFUcFhtZlFkOWxGSXFITWI3b3dGWS14TkxIVU1oYzhXTjIyemRNR0RXS3I3X3ktX0VHSEdhYlRhOTNjdjNQTWlqU3JjNXQxSlFCR1RZV09vMEladUo0cUtldS04cnBCZW1kMXJ0Z29ETTU3aVE?oc=5",
+      "snippet": "",
+      "source": "dailycar.co.kr",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 21:14:35 GMT"
+    },
+    {
+      "type": "news",
       "title": "‘피지컬 AI’ 시대 국가안보로 확장된 로봇 산업 - 월간중앙",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IcjNGMkg1RDRTcWg2YmhLNmMxUm5IUlFBRnNvaG5qSWtRa1BJZ1JfVDAtR193VFRmbTJYZTRzRUtWOEd2UHBPc0xRazhTNkRWcTJWSDI0VHFDU2phNkdGd0ZjNjJpeWtQeUEtSVV3?oc=5",
       "snippet": "",
       "source": "월간중앙",
       "categories": [],
       "pub_date": "Tue, 22 Sep 2026 05:17:32 GMT"
-    },
-    {
-      "type": "news",
-      "title": "말 알아듣고 스스로 행동하는 로봇...브릴스, 온디바이스 NPU로 출사표 던졌다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51LXdXWHNvNnZ3ZjFNZEVzcmkyUlFvSmNBMWVTMWpoVTJNSENYdlBQM0JjZjJYWTVxZUZrRW9oUEZpMWJjNlRmNmFieHFrMlZhN2pQWm5YQkFVOTRIOUZn?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 01:59:06 GMT"
-    },
-    {
-      "type": "news",
-      "title": "여러 회사 로봇을 한 플랫폼에 잇는다, 아크릴 피지컬 AI 국책과제 참여 - 플래텀(Platum)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45V09RYmFHU3lHdDNjVEJ5VjZUM0M1M1M0cEo2bndxdlNSUXRoSGNSQUV4OFJnM19rY1dIT0FqVEdxUEwyQ09JRg?oc=5",
-      "snippet": "",
-      "source": "플래텀(Platum)",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
     },
     {
       "type": "news",
@@ -149,21 +140,30 @@
     },
     {
       "type": "news",
-      "title": "경북도, ‘피지컬 AI’ 거점 도약 나선다… 제조업과 로봇·AI 융합 가속 - 이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rV01vWnhNMHNHdzNoWDNfVl81T2JINjdIWVJ3NUhMaTh0WFUwLXZQa1piTzFEYlBINWZ1SlVnakRRNnpMOUVnN3E5SE0tT0piZDRzUUhKZDd0SHQ2YXJfR1VieUFLdw?oc=5",
+      "title": "여러 회사 로봇을 한 플랫폼에 잇는다, 아크릴 피지컬 AI 국책과제 참여 - 플래텀(Platum)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45V09RYmFHU3lHdDNjVEJ5VjZUM0M1M1M0cEo2bndxdlNSUXRoSGNSQUV4OFJnM19rY1dIT0FqVEdxUEwyQ09JRg?oc=5",
       "snippet": "",
-      "source": "이로운넷",
+      "source": "플래텀(Platum)",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 08:23:02 GMT"
+      "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
     },
     {
       "type": "news",
-      "title": "자율주행·로봇 1억대 시대, 엔비디아가 풀스택 안전망 꺼내든 이유 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmY5N1h6UmRHc3E2ZXNMdTFXeFhmQlA4QmE2VEpMVk1JMlRZWmpRdWxzb2MzVW9NRlZ6RFNUZzNGT1pFc2g0OUJrVHd5dVZzU1RQVWpYd2lRcWtPM1R6aElmb09xQkJEOTg4UlllaWEzTmY4WmZyYTVnOGFWcXFxQ3JDR2F0VkRp?oc=5",
+      "title": "경북, 제조업 기반 피지컬 AI 거점 육성 - 공뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EeUItSE4weUVnMG56T0xkeGhXZjZLQTZ0aDdTMVpCOU93R3hucFdER254YVBPM1p3WjgxLTBVTXdSUFVRRUR2MjNrSWhsbDhMOHdKelBYaVR3Ny1QeEVJVWNIa28xTGhvU3VvdA?oc=5",
       "snippet": "",
-      "source": "글로벌이코노믹",
+      "source": "공뉴스",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 05:06:36 GMT"
+      "pub_date": "Tue, 22 Sep 2026 20:32:58 GMT"
+    },
+    {
+      "type": "news",
+      "title": "[봇규가 간다] 사람에겐 순식간, 로봇에겐 복합 작업...‘일하는 양팔’ 듀스, 매장에 섰다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwUW00cFdPaWhiM2VzZkhOQjl3SlJ2SWgzT18yenNmS1N4Yll3d1VxNV9ZdHdwNE5GREt5RGZMT1BVdWVKMHZpVFl0UTdkeEkzUklhcFl1a2JHRTdaY1Nr?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 12:42:40 GMT"
     }
   ]
 }
