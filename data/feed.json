@@ -1,99 +1,125 @@
 {
-  "updated_at": "2026-09-22T00:07:45Z",
+  "updated_at": "2026-09-22T04:58:02Z",
   "papers": [
     {
       "type": "paper",
-      "title": "WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing",
-      "url": "https://arxiv.org/abs/2609.20892",
-      "snippet": "Closed-loop visual servoing requires predictions that indicate whether an action reduces task error, not only whether the action is plausible. We call this gap the prediction-control mismatch and introduce WM-VS, a…",
+      "title": "CHOREO: Every Humanoid Skill as a Trajectory",
+      "url": "https://arxiv.org/abs/2609.22274",
+      "snippet": "Recent advances in humanoid robotics have produced diverse skills through reinforcement learning, motion imitation, and generative modeling. Yet these capabilities remain siloed because they are built around…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "D3DWA: Adaptive Weight and Prediction-Horizon for Dynamic Window Approach via Dueling Double Deep Q-Network",
+      "url": "https://arxiv.org/abs/2609.22276",
+      "snippet": "The Dynamic Window Approach (DWA) is widely used for local navigation, but its performance depends strongly on parameters that are typically fixed before navigation. In particular, the appropriate prediction horizon can…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "DeViGrasp: Robust Visual Mobile Grasping for Quadruped Manipulators under Degraded Perception",
+      "url": "https://arxiv.org/abs/2609.22278",
+      "snippet": "Quadruped manipulators enable mobile grasping in complex environments, yet their whole-body control policies remain vulnerable to unreliable onboard visual perception. Existing methods are typically developed under…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "ORDER: A Fictitious-World Benchmark for Domain-Adaptive Embodied AI",
+      "url": "https://arxiv.org/abs/2609.22285",
+      "snippet": "Adapting language models to new domains via continual pre-training raises a basic evaluation problem: if the training corpus overlaps with what the model already knows, performance gains cannot be cleanly attributed to…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.CV"
+        "cs.AI"
       ],
-      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "AeRove: A Compact Bimodal Aerial-Terrestrial Drone with Rapid Bistable Reconfiguration for Close-Range Pipeline Inspection",
-      "url": "https://arxiv.org/abs/2609.20965",
-      "snippet": "Close-proximity pipeline inspection is challenging for standard drones due to high hovering power consumption, airflow sensitivity, and propeller wash interference with gas sensing. To address this, we present AeRove, a…",
+      "title": "OJOx: Specification-Conditioned Demonstrations for Embodied AI in Construction",
+      "url": "https://arxiv.org/abs/2609.22289",
+      "snippet": "Large-scale egocentric and whole-body human demonstrations are becoming a primary source of data for embodied intelligence. They record what people perceive and do, but rarely the external specification that gave an…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Shake to Learn: Dynamic Interrogation of Hidden Object Physics for Robotic Manipulation with Physical Reservoir Computing",
-      "url": "https://arxiv.org/abs/2609.20970",
-      "snippet": "Many physical properties relevant to robotic manipulation are hidden from vision. A sealed object, for example, may reveal little about its center of mass (COM) or internal contents until it is lifted, shaken, or…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "ForeTac-VLA: A Forecasting-Based Tactile-Vision-Language-Action Model for Contact-Rich Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2609.20980",
-      "snippet": "Vision-language-action (VLA) models have demonstrated strong capabilities in robotic manipulation, yet their reliance on visual perception limits robustness in contact-rich environments, where critical physical…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "PIVOT: Physically Informed Vision-Language Off-Road Traversability for Field Robot Navigation",
-      "url": "https://arxiv.org/abs/2609.20983",
-      "snippet": "Terrain assessment is a critical capability for off-road mobile robots, enabling safe and reliable navigation through unstructured and geometrically complex environments. Conventional geometry-based terrain assessment…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Do Spinning Radar Doppler Velocity Measurements Improve Vehicle Detection and Tracking?",
-      "url": "https://arxiv.org/abs/2609.21000",
-      "snippet": "Spinning frequency-modulated continuous-wave (FMCW) radars have been gaining popularity in autonomous vehicle perception on account of their robustness to adverse weather conditions and 360{\\deg} field of view.…",
+      "title": "When Does Test-Time Physical Diagnosis Pay? A Frozen Policy Buys Evidence It Never Reads",
+      "url": "https://arxiv.org/abs/2609.22299",
+      "snippet": "When a robot faces unfamiliar physical conditions, a common approach is to collect evidence about what changed and adapt. For such diagnosis to improve behavior, six ordered empirical conditions must hold: a meaningful…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.CV",
-        "eess.SP"
+        "cs.LG"
       ],
-      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Project SCOUT: Interceptor Drone for Perimeter Defense",
-      "url": "https://arxiv.org/abs/2609.21005",
-      "snippet": "The rapid proliferation of unauthorized unmanned aerial vehicles (UAVs) has created a growing need for robust, jamming-resistant counter-UAV systems for perimeter defense. This paper presents \\textbf{SCOUT} (Spatial…",
+      "title": "EditWM: Event-Decomposed World Modeling with Incremental Correction for End-to-End Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.22317",
+      "snippet": "World models support autonomous driving by predicting the scene evolution associated with candidate trajectories. Driving dynamics differ in predictability, motivating a distinction between regular evolution and…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "SPARROW: Survival-POMCP for Adaptive Robot Routing, Observation, and Waiting",
-      "url": "https://arxiv.org/abs/2609.21008",
-      "snippet": "Temporary obstacles that may block a robot's planned route create a sequential navigation problem: a robot must decide whether to wait for a blockage to clear, reroute, or acquire more information about the obstacle…",
+      "title": "Embedding Physics Priors in Robot Learning: A Survey",
+      "url": "https://arxiv.org/abs/2609.22319",
+      "snippet": "The rapid progress of artificial intelligence is reshaping robotics and accelerating the adoption of learning-based approaches. While purely data-driven methods have achieved remarkable success in computer vision and…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Mon, 21 Sep 2026 00:00:00 -0400"
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
+    {
+      "type": "news",
+      "title": "여러 회사 로봇을 한 플랫폼에 잇는다, 아크릴 피지컬 AI 국책과제 참여 - 플래텀(Platum)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45V09RYmFHU3lHdDNjVEJ5VjZUM0M1M1M0cEo2bndxdlNSUXRoSGNSQUV4OFJnM19rY1dIT0FqVEdxUEwyQ09JRg?oc=5",
+      "snippet": "",
+      "source": "플래텀(Platum)",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
+    },
+    {
+      "type": "news",
+      "title": "말 알아듣고 스스로 행동하는 로봇...브릴스, 온디바이스 NPU로 출사표 던졌다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51LXdXWHNvNnZ3ZjFNZEVzcmkyUlFvSmNBMWVTMWpoVTJNSENYdlBQM0JjZjJYWTVxZUZrRW9oUEZpMWJjNlRmNmFieHFrMlZhN2pQWm5YQkFVOTRIOUZn?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 01:59:06 GMT"
+    },
+    {
+      "type": "news",
+      "title": "‘휴머노이드 서밋 서울 2026’ 글로벌 피지컬 AI 프로그램 공개 - koreasprint.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXc0F6bGlvN3ZMMEljZkJtU2FKV2hoRGtFTFRPX0RXNENubTdMSmw3OW9TWGV4dlY5N29YaU0wYzdVR29hUVh3a0sxT1hrT0llNjFvYUFsVkM0cFB5dWJmSXhVXy10WGpXNEJCQ2Rn?oc=5",
+      "snippet": "",
+      "source": "koreasprint.com",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 02:35:00 GMT"
+    },
     {
       "type": "news",
       "title": "\"공장 기계 1,600대에 고유 ID 부여\"… 日, '물리적 AI' 데이터 연합 출범 - 글로벌이코노믹",
@@ -114,30 +140,12 @@
     },
     {
       "type": "news",
-      "title": "집도의와 로봇의 협업...피지컬 AI 기반 수술 보조 로봇 생태계 나왔다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SUmxhQWMtb0VscllnNnpuUHhSRHRSWUp0aU90SHRmMjh6YXlZYlhlS2sxbWV6UEtyWkNRd2gwX2dUellqWVJzLXpKSF9OcEVTMlZ5TENHMHlIMVJEeVpF?oc=5",
+      "title": "아크릴, 650억 피지컬 AI 국책과제서 로봇 검증 맡는다 - 뉴스타운",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tMFJFa3dsalo2TmNnSlhCeUJkQ1B4eHR2MzYyeUItQmctcno1Ry1tbkdacERHWEVsaGhjQmRrNVRldUdpTXc2ZXlYTVBTMVZUd1lvZmxVNUdoT0dPcEZPMDlUemlvVWt1eGhoR19B?oc=5",
       "snippet": "",
-      "source": "헬로티",
+      "source": "뉴스타운",
       "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 04:12:15 GMT"
-    },
-    {
-      "type": "news",
-      "title": "안종배 국제미래학회장, 국내 첫 ‘피지컬 AI 로봇’ 종합서 출간 - asiatoday.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SFVwaDFrc3V4ZUhZdUxEemZmSUxaSVpkM0NnRVVMZnhNYnd0a05ZUDYxUndUM3NOY0ZIUG5Xek4zbmc0R1FGOGMyMzB2dHZ5V1AyZzFIbEJQbXdDMmFCMHM1ZjZUaWV0WDhfbQ?oc=5",
-      "snippet": "",
-      "source": "asiatoday.co.kr",
-      "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 07:29:05 GMT"
-    },
-    {
-      "type": "news",
-      "title": "[알림] '휴머노이드를 움직이는 반도체' 테크 콘퍼런스 - 디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TczZVS0NlM0dYc3ZlZVFjeUNlQTFGeTlwQm0yTC1RZVFLc2ZBN2d4Q2F6N0pKZDBlZGI1eXlfVERXY3RQWFY3OE03Q1RFSXNnRGNtZzZNdzVDNGoyZkxWN2tzUmRDUQ?oc=5",
-      "snippet": "",
-      "source": "디일렉",
-      "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 02:18:21 GMT"
+      "pub_date": "Tue, 22 Sep 2026 00:52:00 GMT"
     },
     {
       "type": "news",
@@ -150,21 +158,12 @@
     },
     {
       "type": "news",
-      "title": "CJ대한통운, '물류 특화 피지컬AI' 개발 박차…리얼월드와 협력 고도화 - 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KMGpkalYzOHNBT05TY3hwbGY4Z3cwbmh6RlM0QlIyZC0wTGs3TnpfcTZ5akVFYXRJQkEtRWp6UFRqT1c3c3FHN0hyVlhxUWNfcl81ZWRJOE1ETXdObU15SkJDeWs2SEE5R2RBOUdOb9IBc0FVX3lxTE5LVFU1bzYtMVREQjFUZGoxaTUyUFVRS05vUjhRX0l4S3ZPRFRSTnE5bnRLUmNuYXA2NU1ZNnVVZjNweFhwVHN4QTdzNzVaSG5WaHBudE44cVFJVWJ5M3VaSkI0ME52em1HaEwtZHAtaXB0d0k?oc=5",
+      "title": "현대차 보스턴다이내믹스, '아틀라스 실전 훈련장' RMAC 공식 출범 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IRHNSTl81aGsxUzdSZ25ULUladERyT0d0VzE0ZUJPRHRvSHRrdm44XzVQM3l5Z3RJSVJwdERHc0ZqUkRxZ1BibG1OS3dmREtncy11aWUwX3ltUm1HOUE?oc=5",
       "snippet": "",
-      "source": "뉴스웍스",
+      "source": "더구루",
       "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 14:56:18 GMT"
-    },
-    {
-      "type": "news",
-      "title": "자율주행 치과 석션 로봇 ‘덴탈로보틱스’, 시드 투자 유치 - 와우테일",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yRk85SEdtRzBUTC1ocXo0T2RFWFBDTVBCRC1sZ3lQR2p2bUI3MHZTVkxMWFk3MzIySl90dl9wbUNMWmZsVG5wNk9xdUJWeWc?oc=5",
-      "snippet": "",
-      "source": "와우테일",
-      "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 05:25:21 GMT"
+      "pub_date": "Mon, 21 Sep 2026 23:56:16 GMT"
     }
   ]
 }
