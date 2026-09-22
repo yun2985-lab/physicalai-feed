@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:39:25Z",
+  "updated_at": "2026-09-22T16:58:07Z",
   "papers": [
     {
       "type": "paper",
@@ -95,6 +95,15 @@
   "news": [
     {
       "type": "news",
+      "title": "철강·반도체에 로봇 장착…경북道 '피지컬 AI' 시동 - 경제타임스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyel9vZjI1OWxGTXpPMGdXaHVqWE5xOERjX1RkS0VIR2lYb0pzbWFleEotbDlXWTVhSEpKckZGVTJiU2diVDlMQ3pvQ2NRX3JtN0xldGFrNm0?oc=5",
+      "snippet": "",
+      "source": "경제타임스",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
+    },
+    {
+      "type": "news",
       "title": "금융위원장 앞에서 아이돌 춤춘 로봇…“피지컬 AI 지역거점 지원” - 매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RQ0YxamQ4OTJmSXdqNnFuOHVuc2pxZV9WWXl2ZlYzaHVvOU9NWjd1cHNUc196d2R4Y0NpTXNBNjNGWTBuQjc2TTJSYzRoa2RHaUE?oc=5",
       "snippet": "",
@@ -104,12 +113,21 @@
     },
     {
       "type": "news",
-      "title": "철강·반도체에 로봇 장착…경북道 '피지컬 AI' 시동 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XYkdIVWJvcW5qNTExUFJsMDRteW9jX0REcFBwRWxyTUR0RC1nVUNKTm1oVnVYNk1Jd2pLTElNWWwxQUJTcjhfUVUtX185N25pSGRB?oc=5",
+      "title": "‘피지컬 AI’ 시대 국가안보로 확장된 로봇 산업 - 월간중앙",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IcjNGMkg1RDRTcWg2YmhLNmMxUm5IUlFBRnNvaG5qSWtRa1BJZ1JfVDAtR193VFRmbTJYZTRzRUtWOEd2UHBPc0xRazhTNkRWcTJWSDI0VHFDU2phNkdGd0ZjNjJpeWtQeUEtSVV3?oc=5",
       "snippet": "",
-      "source": "경제타임스",
+      "source": "월간중앙",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
+      "pub_date": "Tue, 22 Sep 2026 05:17:32 GMT"
+    },
+    {
+      "type": "news",
+      "title": "말 알아듣고 스스로 행동하는 로봇...브릴스, 온디바이스 NPU로 출사표 던졌다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51LXdXWHNvNnZ3ZjFNZEVzcmkyUlFvSmNBMWVTMWpoVTJNSENYdlBQM0JjZjJYWTVxZUZrRW9oUEZpMWJjNlRmNmFieHFrMlZhN2pQWm5YQkFVOTRIOUZn?oc=5",
+      "snippet": "",
+      "source": "헬로티",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 01:59:06 GMT"
     },
     {
       "type": "news",
@@ -122,30 +140,12 @@
     },
     {
       "type": "news",
-      "title": "아크릴, 레인보우로보틱스 등과 650억원 규모 피지컬 AI 국책과제 진행 - irobotnews.com",
+      "title": "아크릴, 레인보우로보틱스 등과 650억원 규모 피지컬 AI 국책과제 진행 - 로봇신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pWDVGb1hDLUpPMjlzaW42Vk5WTnRWdi1yMU5FSmdULTJ3YktHTWRiN0ZvWXplS0pTRUJ1blRQeWR1TlZjRFZvV05DU0I3NjZsZUMyYy0tUzI1cU5HRmMySmwwMEVqQUVMcmFiZQ?oc=5",
       "snippet": "",
-      "source": "irobotnews.com",
+      "source": "로봇신문",
       "categories": [],
       "pub_date": "Tue, 22 Sep 2026 05:11:47 GMT"
-    },
-    {
-      "type": "news",
-      "title": "말 알아듣고 스스로 행동하는 로봇...브릴스, 온디바이스 NPU로 출사표 던졌다 - hellot.net",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51LXdXWHNvNnZ3ZjFNZEVzcmkyUlFvSmNBMWVTMWpoVTJNSENYdlBQM0JjZjJYWTVxZUZrRW9oUEZpMWJjNlRmNmFieHFrMlZhN2pQWm5YQkFVOTRIOUZn?oc=5",
-      "snippet": "",
-      "source": "hellot.net",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 01:59:06 GMT"
-    },
-    {
-      "type": "news",
-      "title": "자율주행·로봇 1억대 시대, 엔비디아가 풀스택 안전망 꺼내든 이유 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmY5N1h6UmRHc3E2ZXNMdTFXeFhmQlA4QmE2VEpMVk1JMlRZWmpRdWxzb2MzVW9NRlZ6RFNUZzNGT1pFc2g0OUJrVHd5dVZzU1RQVWpYd2lRcWtPM1R6aElmb09xQkJEOTg4UlllaWEzTmY4WmZyYTVnOGFWcXFxQ3JDR2F0VkRp?oc=5",
-      "snippet": "",
-      "source": "글로벌이코노믹",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 05:06:36 GMT"
     },
     {
       "type": "news",
@@ -158,12 +158,12 @@
     },
     {
       "type": "news",
-      "title": "아크릴, 650억 피지컬AI 국책과제서 로봇검증 맡는다 - 인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBbkxkdVpFd3IxRFJ6SXVqY2Y0Nk5oV2dmRVlMT2ZLY21ueGxfRmN5Qy1Gb045RTU5SlZzYUlaVnREUXRNaUZaLTI1dGt3VEhSdWhhNXEwWTBFM2lhVjdNaEIzNS1FREpobHhYdU5kajNIUQ?oc=5",
+      "title": "자율주행·로봇 1억대 시대, 엔비디아가 풀스택 안전망 꺼내든 이유 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmY5N1h6UmRHc3E2ZXNMdTFXeFhmQlA4QmE2VEpMVk1JMlRZWmpRdWxzb2MzVW9NRlZ6RFNUZzNGT1pFc2g0OUJrVHd5dVZzU1RQVWpYd2lRcWtPM1R6aElmb09xQkJEOTg4UlllaWEzTmY4WmZyYTVnOGFWcXFxQ3JDR2F0VkRp?oc=5",
       "snippet": "",
-      "source": "인더스트리뉴스",
+      "source": "글로벌이코노믹",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 06:39:39 GMT"
+      "pub_date": "Tue, 22 Sep 2026 05:06:36 GMT"
     }
   ]
 }
