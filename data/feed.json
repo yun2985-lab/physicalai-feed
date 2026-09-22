@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:59:49Z",
+  "updated_at": "2026-09-22T00:07:45Z",
   "papers": [
     {
       "type": "paper",
@@ -96,12 +96,39 @@
   "news": [
     {
       "type": "news",
+      "title": "\"공장 기계 1,600대에 고유 ID 부여\"… 日, '물리적 AI' 데이터 연합 출범 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVpHOGhTVS1RUndVdjhIS2psNlVNODVfdE9YeGJmblI1bmZsd0REam5LbkExSHVFYk41UHFRU25EQlp6bDNLS2V3Zy1ZUU5nSjRwNGJpVFJaVURfUzZ1Wm4zdExWTzYwMlRCLUNlMFVpd1ltcGJPQ25BZFJPWlZ1Y0J3a0pmQzdD?oc=5",
+      "snippet": "",
+      "source": "글로벌이코노믹",
+      "categories": [],
+      "pub_date": "Mon, 21 Sep 2026 21:25:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "'로봇 눈'의 진화…슈퍼브AI, 'K-엑사원 데이터 공장' 가동 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kWmR2R01tRzIzZWYzT1FCaE5vZ1ZYVWV2ZWNQazFKWTEzSVAzUmZnV0lNM2trS2czS3hfR2ZSR2FpNWtPaDY5TnN5dXF1TlU?oc=5",
+      "snippet": "",
+      "source": "v.daum.net",
+      "categories": [],
+      "pub_date": "Mon, 21 Sep 2026 21:11:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "집도의와 로봇의 협업...피지컬 AI 기반 수술 보조 로봇 생태계 나왔다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SUmxhQWMtb0VscllnNnpuUHhSRHRSWUp0aU90SHRmMjh6YXlZYlhlS2sxbWV6UEtyWkNRd2gwX2dUellqWVJzLXpKSF9OcEVTMlZ5TENHMHlIMVJEeVpF?oc=5",
       "snippet": "",
       "source": "헬로티",
       "categories": [],
       "pub_date": "Mon, 21 Sep 2026 04:12:15 GMT"
+    },
+    {
+      "type": "news",
+      "title": "안종배 국제미래학회장, 국내 첫 ‘피지컬 AI 로봇’ 종합서 출간 - asiatoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SFVwaDFrc3V4ZUhZdUxEemZmSUxaSVpkM0NnRVVMZnhNYnd0a05ZUDYxUndUM3NOY0ZIUG5Xek4zbmc0R1FGOGMyMzB2dHZ5V1AyZzFIbEJQbXdDMmFCMHM1ZjZUaWV0WDhfbQ?oc=5",
+      "snippet": "",
+      "source": "asiatoday.co.kr",
+      "categories": [],
+      "pub_date": "Mon, 21 Sep 2026 07:29:05 GMT"
     },
     {
       "type": "news",
@@ -114,57 +141,30 @@
     },
     {
       "type": "news",
-      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - kyosu.net",
+      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - 교수신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmJmNmpPTmctSlNnRUJYSjlEZXN6MXBOcFJaeU5Mcm1Vd3owc2ppbklXVS05R011RW82Q2FmUENFZ3htS0piSTJFZVhTTGd1VExEVTR3dEVVWTVsMTZjT3FMdHZvbW8?oc=5",
       "snippet": "",
-      "source": "kyosu.net",
+      "source": "교수신문",
       "categories": [],
       "pub_date": "Sun, 20 Sep 2026 22:38:59 GMT"
     },
     {
       "type": "news",
-      "title": "안종배 국제미래학회장, 국내 첫 ‘피지컬 AI 로봇’ 종합서 출간 - 아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SFVwaDFrc3V4ZUhZdUxEemZmSUxaSVpkM0NnRVVMZnhNYnd0a05ZUDYxUndUM3NOY0ZIUG5Xek4zbmc0R1FGOGMyMzB2dHZ5V1AyZzFIbEJQbXdDMmFCMHM1ZjZUaWV0WDhfbQ?oc=5",
-      "snippet": "",
-      "source": "아시아투데이",
-      "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 07:29:05 GMT"
-    },
-    {
-      "type": "news",
-      "title": "CJ대한통운, 물류용 피지컬AI 로봇 개발... 리얼월드와 맞손 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3RGNHd1E3UjBxNHUwRmp6QXdySkp5VUF0WVlsbTJwbjVFel9jczZaVmd4bGE2X3l0LThPVzl6U1hoT3ZpcDI4Y0d1Q3dXaEJaTjROZWhuX0xELVdw?oc=5",
-      "snippet": "",
-      "source": "뉴스핌",
-      "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 00:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "CJ대한통운, '물류 특화 피지컬AI' 개발 박차…리얼월드와 협력 고도화 - newsworks.co.kr",
+      "title": "CJ대한통운, '물류 특화 피지컬AI' 개발 박차…리얼월드와 협력 고도화 - 뉴스웍스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KMGpkalYzOHNBT05TY3hwbGY4Z3cwbmh6RlM0QlIyZC0wTGs3TnpfcTZ5akVFYXRJQkEtRWp6UFRqT1c3c3FHN0hyVlhxUWNfcl81ZWRJOE1ETXdObU15SkJDeWs2SEE5R2RBOUdOb9IBc0FVX3lxTE5LVFU1bzYtMVREQjFUZGoxaTUyUFVRS05vUjhRX0l4S3ZPRFRSTnE5bnRLUmNuYXA2NU1ZNnVVZjNweFhwVHN4QTdzNzVaSG5WaHBudE44cVFJVWJ5M3VaSkI0ME52em1HaEwtZHAtaXB0d0k?oc=5",
       "snippet": "",
-      "source": "newsworks.co.kr",
+      "source": "뉴스웍스",
       "categories": [],
       "pub_date": "Mon, 21 Sep 2026 14:56:18 GMT"
     },
     {
       "type": "news",
-      "title": "자율주행 치과 석션 로봇 ‘덴탈로보틱스’, 시드 투자 유치 - wowtale.net",
+      "title": "자율주행 치과 석션 로봇 ‘덴탈로보틱스’, 시드 투자 유치 - 와우테일",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yRk85SEdtRzBUTC1ocXo0T2RFWFBDTVBCRC1sZ3lQR2p2bUI3MHZTVkxMWFk3MzIySl90dl9wbUNMWmZsVG5wNk9xdUJWeWc?oc=5",
       "snippet": "",
-      "source": "wowtale.net",
+      "source": "와우테일",
       "categories": [],
       "pub_date": "Mon, 21 Sep 2026 05:25:21 GMT"
-    },
-    {
-      "type": "news",
-      "title": "현장 배치가 개발 주기 결정…현대차 '피지컬 AI' 리더십 확장 - 파이낸셜포스트",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNzlfZTdQZFZKOXRVd21EeU11RElMRzNsMG50dTZtWXJfQU10QXlPWGxpUm5qcW4xcTg0VEMyR0lWR1pRYkM3XzlCMmhaMU9iZkptSXIyWnlNQlpYVTBnMzdiX1ZZcmxVMm9EeUdfWGJZNF9i?oc=5",
-      "snippet": "",
-      "source": "파이낸셜포스트",
-      "categories": [],
-      "pub_date": "Mon, 21 Sep 2026 04:11:00 GMT"
     }
   ]
 }
