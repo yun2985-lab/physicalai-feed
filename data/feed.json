@@ -1,115 +1,146 @@
 {
-  "updated_at": "2026-09-22T21:19:51Z",
+  "updated_at": "2026-09-23T04:46:01Z",
   "papers": [
     {
       "type": "paper",
-      "title": "CHOREO: Every Humanoid Skill as a Trajectory",
-      "url": "https://arxiv.org/abs/2609.22274",
-      "snippet": "Recent advances in humanoid robotics have produced diverse skills through reinforcement learning, motion imitation, and generative modeling. Yet these capabilities remain siloed because they are built around…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "D3DWA: Adaptive Weight and Prediction-Horizon for Dynamic Window Approach via Dueling Double Deep Q-Network",
-      "url": "https://arxiv.org/abs/2609.22276",
-      "snippet": "The Dynamic Window Approach (DWA) is widely used for local navigation, but its performance depends strongly on parameters that are typically fixed before navigation. In particular, the appropriate prediction horizon can…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "DeViGrasp: Robust Visual Mobile Grasping for Quadruped Manipulators under Degraded Perception",
-      "url": "https://arxiv.org/abs/2609.22278",
-      "snippet": "Quadruped manipulators enable mobile grasping in complex environments, yet their whole-body control policies remain vulnerable to unreliable onboard visual perception. Existing methods are typically developed under…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "ORDER: A Fictitious-World Benchmark for Domain-Adaptive Embodied AI",
-      "url": "https://arxiv.org/abs/2609.22285",
-      "snippet": "Adapting language models to new domains via continual pre-training raises a basic evaluation problem: if the training corpus overlaps with what the model already knows, performance gains cannot be cleanly attributed to…",
+      "title": "Towards Adaptive Interaction Strategies for Human Companion Robot via Deep Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.25031",
+      "snippet": "In the field of Human-Robot Interaction (HRI), achieving flexibility in human-accompanying within real-world environments holds great potential for various applications but also poses significant challenges. Traditional…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.AI"
+        "cs.SY",
+        "eess.SY"
       ],
-      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 23 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "OJOx: Specification-Conditioned Demonstrations for Embodied AI in Construction",
-      "url": "https://arxiv.org/abs/2609.22289",
-      "snippet": "Large-scale egocentric and whole-body human demonstrations are becoming a primary source of data for embodied intelligence. They record what people perceive and do, but rarely the external specification that gave an…",
+      "title": "Cosserat Modeling of Trimmed Helicoid Soft Arms with a Separated-Section Constitutive Law",
+      "url": "https://arxiv.org/abs/2609.25264",
+      "snippet": "Cosserat rod models for soft robots usually construct sectional stiffness by summing material properties over a common cross-section. This assumption becomes inaccurate for trimmed helicoid arms, where load-bearing…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 23 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "When Does Test-Time Physical Diagnosis Pay? A Frozen Policy Buys Evidence It Never Reads",
-      "url": "https://arxiv.org/abs/2609.22299",
-      "snippet": "When a robot faces unfamiliar physical conditions, a common approach is to collect evidence about what changed and adapt. For such diagnosis to improve behavior, six ordered empirical conditions must hold: a meaningful…",
+      "title": "Beyond the Flat Seafloor: A Closed-Form Two-View Constraint to Aid Sidescan Sonar Reconstruction",
+      "url": "https://arxiv.org/abs/2609.25271",
+      "snippet": "Sidescan sonar is a common sensor for both manned and autonomous marine exploration and mapping, yet very few methods build upon or exploit the geometric projection model of the sensor. As sidescan sonar is limited to a…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "pub_date": "Wed, 23 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "Learning to Plan in Human-Robot Collaboration: Multimodal Reinforcement Learning for Adaptive Interaction",
+      "url": "https://arxiv.org/abs/2609.25274",
+      "snippet": "Robot assistants for older adults and people with disabilities need to perform collaborative tasks with users effectively. The core component of these systems is an interaction manager whose job is to observe and assess…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 23 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "JAMB: Joint Action-Motion Diffusion for Bimanual Manipulation",
+      "url": "https://arxiv.org/abs/2609.25322",
+      "snippet": "Coordinated bimanual manipulation is challenging because the motion of either arm can alter the shared 3D scene and thereby affect the other arm. Yet most diffusion policies generate actions without explicitly modeling…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Wed, 23 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "GINIO: A Geometric SO(3)-Equivariant Interface for Neural Inertial Odometry",
+      "url": "https://arxiv.org/abs/2609.25338",
+      "snippet": "Neural inertial odometry increasingly uses networks as learned measurements inside filtering pipelines. Such measurements should transform consistently under arbitrary IMU mounting conventions: their mean must transform…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
         "cs.LG"
       ],
-      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 23 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "EditWM: Event-Decomposed World Modeling with Incremental Correction for End-to-End Autonomous Driving",
-      "url": "https://arxiv.org/abs/2609.22317",
-      "snippet": "World models support autonomous driving by predicting the scene evolution associated with candidate trajectories. Driving dynamics differ in predictability, motivating a distinction between regular evolution and…",
+      "title": "Learning from Humans for Proactive Assistance in Human-Robot Collaborative Transport",
+      "url": "https://arxiv.org/abs/2609.25351",
+      "snippet": "We focus on human-robot collaborative transport, a challenging task of broad relevance spanning logistics, manufacturing, and the home, in which a user and a robot work together to relocate a large or heavy object. To…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.HC",
+        "cs.LG"
+      ],
+      "pub_date": "Wed, 23 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "HOTICE: Whole-Body Humanoid Object Transportation in Cluttered Environments",
+      "url": "https://arxiv.org/abs/2609.25363",
+      "snippet": "Object transportation is a fundamental capability for humanoid robots operating in real-world, human-centric environments, yet existing methods struggle when clutter constrains free space around both the robot and its…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Embedding Physics Priors in Robot Learning: A Survey",
-      "url": "https://arxiv.org/abs/2609.22319",
-      "snippet": "The rapid progress of artificial intelligence is reshaping robotics and accelerating the adoption of learning-based approaches. While purely data-driven methods have achieved remarkable success in computer vision and…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Tue, 22 Sep 2026 00:00:00 -0400"
+      "pub_date": "Wed, 23 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
     {
       "type": "news",
-      "title": "철강·반도체에 로봇 장착…경북道 '피지컬 AI' 시동 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyel9vZjI1OWxGTXpPMGdXaHVqWE5xOERjX1RkS0VIR2lYb0pzbWFleEotbDlXWTVhSEpKckZGVTJiU2diVDlMQ3pvQ2NRX3JtN0xldGFrNm0?oc=5",
+      "title": "\"우주정거장서 AI 로봇 조종한다\"…日, '우주 AI 로봇 대회' 2027년 개최 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOF8wSU5QblEwSTlZdWozcnJvbFRJZ1pFcENkNHkzY1ZRZ25NSFdVTEctOWJ5T1liTGdYN3JYUWVaLVpVM3hCbm41akFYSjJvX2otZ3VReGIwMldQVlpyczN3TXJpUTh4anR4am1DQ2wtem13QUxNMlM0bzBMVy1reUU3STFoY3h3?oc=5",
       "snippet": "",
-      "source": "경제타임스",
+      "source": "글로벌이코노믹",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
+      "pub_date": "Tue, 22 Sep 2026 21:25:00 GMT"
     },
     {
       "type": "news",
-      "title": "금융위원장 앞에서 아이돌 춤춘 로봇…“피지컬 AI 지역거점 지원” - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RQ0YxamQ4OTJmSXdqNnFuOHVuc2pxZV9WWXl2ZlYzaHVvOU9NWjd1cHNUc196d2R4Y0NpTXNBNjNGWTBuQjc2TTJSYzRoa2RHaUE?oc=5",
+      "title": "연구실·AI·로봇 묶었다…스카이인텔리전스, 피지컬 AI 실증 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EN0lBZV85ZW9vOGdqelptM0xqbW5OSzRXdU4tRmNURlItZDJGYTlsOEozUkQ2bDBaOWV2NFVVWGdGTzlPVzN6b2FXeTFBY1BUVjhNWUJR?oc=5",
       "snippet": "",
-      "source": "매일경제 마켓",
+      "source": "지디넷코리아",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 06:18:30 GMT"
+      "pub_date": "Wed, 23 Sep 2026 03:44:52 GMT"
+    },
+    {
+      "type": "news",
+      "title": "아크릴, 650억 피지컬AI 국책과제서 로봇검증 맡는다 - FA저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ibnU0TkgzUURFc3pidjRHd1pUeGx5WjIzZUZrMmxLNE52VzhXbXBVdk9PQ19TRWtYXzd6TnZTOG5HWU1wRU5zallpZDV2TUd6NHBhNHVDYUhlMUhZWXJEYXk4WW5QTWdwU1Vj?oc=5",
+      "snippet": "",
+      "source": "FA저널",
+      "categories": [],
+      "pub_date": "Wed, 23 Sep 2026 01:48:42 GMT"
+    },
+    {
+      "type": "news",
+      "title": "BMW, 독일 생산라인에도 휴머노이드 로봇 투입... 고전압 배터리 조립 - 오토뷰",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ocklkZm5SQ05BbVpKczMwTXRXY0JLaHhkZW5td3QwS1VrMHlBN1dQQmpPLWhSLWNpbGFBcmRtel83SnpsRVRUbEo1RDBaSGJZTHpXcHZrZFZPN1p4?oc=5",
+      "snippet": "",
+      "source": "오토뷰",
+      "categories": [],
+      "pub_date": "Wed, 23 Sep 2026 02:12:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "아크릴, 650억 피지컬 AI 국책과제서 로봇 검증 맡는다 - MEDI:GATE NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96SnJleVlPOUpZWWkyWUZEVzFZekJnZGNISU9QRzlqeXJaVEN0YnpleDNFU0JucEQ4TVNVVXRXMHMxbkhMb2pHVkVxa2x0RTdKeXEzcERjbw?oc=5",
+      "snippet": "",
+      "source": "MEDI:GATE NEWS",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 23:24:00 GMT"
     },
     {
       "type": "news",
@@ -118,43 +149,16 @@
       "snippet": "",
       "source": "dailycar.co.kr",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 21:14:35 GMT"
+      "pub_date": "Wed, 23 Sep 2026 03:14:36 GMT"
     },
     {
       "type": "news",
-      "title": "‘피지컬 AI’ 시대 국가안보로 확장된 로봇 산업 - 월간중앙",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IcjNGMkg1RDRTcWg2YmhLNmMxUm5IUlFBRnNvaG5qSWtRa1BJZ1JfVDAtR193VFRmbTJYZTRzRUtWOEd2UHBPc0xRazhTNkRWcTJWSDI0VHFDU2phNkdGd0ZjNjJpeWtQeUEtSVV3?oc=5",
+      "title": "철강·반도체에 로봇 장착…경북道 '피지컬 AI' 시동 - 경제타임스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyel9vZjI1OWxGTXpPMGdXaHVqWE5xOERjX1RkS0VIR2lYb0pzbWFleEotbDlXWTVhSEpKckZGVTJiU2diVDlMQ3pvQ2NRX3JtN0xldGFrNm0?oc=5",
       "snippet": "",
-      "source": "월간중앙",
+      "source": "경제타임스",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 05:17:32 GMT"
-    },
-    {
-      "type": "news",
-      "title": "아크릴, 레인보우로보틱스 등과 650억원 규모 피지컬 AI 국책과제 진행 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pWDVGb1hDLUpPMjlzaW42Vk5WTnRWdi1yMU5FSmdULTJ3YktHTWRiN0ZvWXplS0pTRUJ1blRQeWR1TlZjRFZvV05DU0I3NjZsZUMyYy0tUzI1cU5HRmMySmwwMEVqQUVMcmFiZQ?oc=5",
-      "snippet": "",
-      "source": "로봇신문",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 05:11:47 GMT"
-    },
-    {
-      "type": "news",
-      "title": "여러 회사 로봇을 한 플랫폼에 잇는다, 아크릴 피지컬 AI 국책과제 참여 - 플래텀(Platum)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45V09RYmFHU3lHdDNjVEJ5VjZUM0M1M1M0cEo2bndxdlNSUXRoSGNSQUV4OFJnM19rY1dIT0FqVEdxUEwyQ09JRg?oc=5",
-      "snippet": "",
-      "source": "플래텀(Platum)",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
-    },
-    {
-      "type": "news",
-      "title": "경북, 제조업 기반 피지컬 AI 거점 육성 - 공뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EeUItSE4weUVnMG56T0xkeGhXZjZLQTZ0aDdTMVpCOU93R3hucFdER254YVBPM1p3WjgxLTBVTXdSUFVRRUR2MjNrSWhsbDhMOHdKelBYaVR3Ny1QeEVJVWNIa28xTGhvU3VvdA?oc=5",
-      "snippet": "",
-      "source": "공뉴스",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 20:32:58 GMT"
+      "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
     },
     {
       "type": "news",
