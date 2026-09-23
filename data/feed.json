@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T16:59:50Z",
+  "updated_at": "2026-09-23T21:30:23Z",
   "papers": [
     {
       "type": "paper",
@@ -99,15 +99,6 @@
   "news": [
     {
       "type": "news",
-      "title": "연구실·AI·로봇 묶었다…스카이인텔리전스, 피지컬 AI 실증 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EN0lBZV85ZW9vOGdqelptM0xqbW5OSzRXdU4tRmNURlItZDJGYTlsOEozUkQ2bDBaOWV2NFVVWGdGTzlPVzN6b2FXeTFBY1BUVjhNWUJR?oc=5",
-      "snippet": "",
-      "source": "지디넷코리아",
-      "categories": [],
-      "pub_date": "Wed, 23 Sep 2026 01:17:36 GMT"
-    },
-    {
-      "type": "news",
       "title": "'피지컬AI' 기대 너무 컸나 … ETF 수익률 지지부진 - 매일경제 마켓",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fX3kwejBmeHNxSUJKVDBwY2tRNE9fZ3dURTVRUXkxY3Bkc2RqUl93ODFNQ1VrUHpXVDAxdS16ZXk0clpXMDNRS25nMzdpRzBkdHc?oc=5",
       "snippet": "",
@@ -117,12 +108,21 @@
     },
     {
       "type": "news",
-      "title": "아크릴, 650억 피지컬 AI 국책과제서 로봇 검증 맡는다 - MEDI:GATE NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pYWNBT2JGMU84LXZBSmVGbGNwcFAyN3VUX2RjMWdnREtUZ0RqTzNFT0R0b0VqZzRFRElTMW5IZEI4dDJDU1dZTDJQYmtpcWY3VkJfSg?oc=5",
+      "title": "연구실·AI·로봇 묶었다…스카이인텔리전스, 피지컬 AI 실증 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EN0lBZV85ZW9vOGdqelptM0xqbW5OSzRXdU4tRmNURlItZDJGYTlsOEozUkQ2bDBaOWV2NFVVWGdGTzlPVzN6b2FXeTFBY1BUVjhNWUJR?oc=5",
       "snippet": "",
-      "source": "MEDI:GATE NEWS",
+      "source": "지디넷코리아",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 23:24:00 GMT"
+      "pub_date": "Wed, 23 Sep 2026 01:17:36 GMT"
+    },
+    {
+      "type": "news",
+      "title": "‘자율제조 구현’ 피지컬 AI 특임대 나왔다...KAIST·스카이인텔리전스·다임리서치 ‘맞손’ - hellot.net",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12b3dRR0pQRHJZWWJMb25NaEpJQnhBRTNBNmpnbFh0NmJFSXpMMW5ta2k1b3FOZS1BdmpPU3ptVGxCc0lRSUt3OWdidUFCOE5Ld0Zya0I2VEtSc1UtUkI0?oc=5",
+      "snippet": "",
+      "source": "hellot.net",
+      "categories": [],
+      "pub_date": "Wed, 23 Sep 2026 05:50:58 GMT"
     },
     {
       "type": "news",
@@ -135,30 +135,12 @@
     },
     {
       "type": "news",
-      "title": "\"우주정거장서 AI 로봇 조종한다\"…日, '우주 AI 로봇 대회' 2027년 개최 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOF8wSU5QblEwSTlZdWozcnJvbFRJZ1pFcENkNHkzY1ZRZ25NSFdVTEctOWJ5T1liTGdYN3JYUWVaLVpVM3hCbm41akFYSjJvX2otZ3VReGIwMldQVlpyczN3TXJpUTh4anR4am1DQ2wtem13QUxNMlM0bzBMVy1reUU3STFoY3h3?oc=5",
+      "title": "아크릴, 650억 피지컬 AI 국책과제서 로봇 검증 맡는다 - MEDI:GATE NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pYWNBT2JGMU84LXZBSmVGbGNwcFAyN3VUX2RjMWdnREtUZ0RqTzNFT0R0b0VqZzRFRElTMW5IZEI4dDJDU1dZTDJQYmtpcWY3VkJfSg?oc=5",
       "snippet": "",
-      "source": "글로벌이코노믹",
+      "source": "MEDI:GATE NEWS",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 21:25:00 GMT"
-    },
-    {
-      "type": "news",
-      "title": "‘자율제조 구현’ 피지컬 AI 특임대 나왔다...KAIST·스카이인텔리전스·다임리서치 ‘맞손’ - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12b3dRR0pQRHJZWWJMb25NaEpJQnhBRTNBNmpnbFh0NmJFSXpMMW5ta2k1b3FOZS1BdmpPU3ptVGxCc0lRSUt3OWdidUFCOE5Ld0Zya0I2VEtSc1UtUkI0?oc=5",
-      "snippet": "",
-      "source": "헬로티",
-      "categories": [],
-      "pub_date": "Wed, 23 Sep 2026 05:50:58 GMT"
-    },
-    {
-      "type": "news",
-      "title": "BMW, 독일 생산라인에도 휴머노이드 로봇 투입... 고전압 배터리 조립 - autoview.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ocklkZm5SQ05BbVpKczMwTXRXY0JLaHhkZW5td3QwS1VrMHlBN1dQQmpPLWhSLWNpbGFBcmRtel83SnpsRVRUbEo1RDBaSGJZTHpXcHZrZFZPN1p4?oc=5",
-      "snippet": "",
-      "source": "autoview.co.kr",
-      "categories": [],
-      "pub_date": "Wed, 23 Sep 2026 02:12:00 GMT"
+      "pub_date": "Tue, 22 Sep 2026 23:24:00 GMT"
     },
     {
       "type": "news",
@@ -168,6 +150,24 @@
       "source": "플래텀(Platum)",
       "categories": [],
       "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
+    },
+    {
+      "type": "news",
+      "title": "BMW, 독일 생산라인에도 휴머노이드 로봇 투입... 고전압 배터리 조립 - 오토뷰",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ocklkZm5SQ05BbVpKczMwTXRXY0JLaHhkZW5td3QwS1VrMHlBN1dQQmpPLWhSLWNpbGFBcmRtel83SnpsRVRUbEo1RDBaSGJZTHpXcHZrZFZPN1p4?oc=5",
+      "snippet": "",
+      "source": "오토뷰",
+      "categories": [],
+      "pub_date": "Wed, 23 Sep 2026 02:12:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmJmNmpPTmctSlNnRUJYSjlEZXN6MXBOcFJaeU5Mcm1Vd3owc2ppbklXVS05R011RW82Q2FmUENFZ3htS0piSTJFZVhTTGd1VExEVTR3dEVVWTVsMTZjT3FMdHZvbW8?oc=5",
+      "snippet": "",
+      "source": "교수신문",
+      "categories": [],
+      "pub_date": "Sun, 20 Sep 2026 22:38:59 GMT"
     }
   ]
 }
