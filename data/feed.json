@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:46:48Z",
+  "updated_at": "2026-09-24T17:11:51Z",
   "papers": [
     {
       "type": "paper",
@@ -99,10 +99,28 @@
   "news": [
     {
       "type": "news",
-      "title": "“로봇도 현장서 배워야”…리얼월드, 실증 중심 피지컬AI 전략 강조 - sedaily.com",
+      "title": "[기자수첩] IFA 가전쇼서 주름잡는 로봇 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaEpYRjI0OHdjTVlUOUY2bTJPZ3E0Z3NRaGNiS1R4ZElHTmczMDBjakY1dkNrXzI2UVV6b0dyc1ZrS2pvRlQ0R1NuMWwwRjlfOWd5NXFHT2wzeUhvanppNWZfVG5zb3hmQzFCRHk2bVpUbzU1ZkFWZmMxTHU4c0tSb1JYWG1vZTZFamZYY1Q3dw?oc=5",
+      "snippet": "",
+      "source": "Naver Blog",
+      "categories": [],
+      "pub_date": "Thu, 24 Sep 2026 01:08:56 GMT"
+    },
+    {
+      "type": "news",
+      "title": "다임리서치·KAIST·스카이인텔리전스, 로봇부터 공장 전체까지 잇는다…제조 피지컬 AI 협력 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mYTlOc3VuSmNERDRvOXVwQzVlTzZOZy1nUDRWMXZyMWtETVNwU3h0aHl0Zk5HRFpjVE5vU2N1dU1EOXFGV3NUXy1yVXRsejA?oc=5",
+      "snippet": "",
+      "source": "벤처스퀘어",
+      "categories": [],
+      "pub_date": "Thu, 24 Sep 2026 13:26:18 GMT"
+    },
+    {
+      "type": "news",
+      "title": "“로봇도 현장서 배워야”…리얼월드, 실증 중심 피지컬AI 전략 강조 - 서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WU0RoWmt3TEVPRVphMHVULUZkek5UcFpzMnJWUTRvRWlYQVBhdXJKdVhrRFlVRjVVNlVpNUJiUl8yUm9xYU1ISmFaTS1NNUE0bHfSAVNBVV95cUxNeTJTNm0wQnBNRmhuS2I4TWNQTVlXVXA5V0pValRwdGdneG1FRXJNUi1fNkp5bmV1dzg3Q0JiQ045QU5Vbm5qVTJBcDUzZFV2VVUyaw?oc=5",
       "snippet": "",
-      "source": "sedaily.com",
+      "source": "서울경제",
       "categories": [],
       "pub_date": "Thu, 24 Sep 2026 04:00:00 GMT"
     },
@@ -117,10 +135,10 @@
     },
     {
       "type": "news",
-      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - kyosu.net",
+      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - 교수신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmJmNmpPTmctSlNnRUJYSjlEZXN6MXBOcFJaeU5Mcm1Vd3owc2ppbklXVS05R011RW82Q2FmUENFZ3htS0piSTJFZVhTTGd1VExEVTR3dEVVWTVsMTZjT3FMdHZvbW8?oc=5",
       "snippet": "",
-      "source": "kyosu.net",
+      "source": "교수신문",
       "categories": [],
       "pub_date": "Sun, 20 Sep 2026 22:38:59 GMT"
     },
@@ -144,30 +162,12 @@
     },
     {
       "type": "news",
-      "title": "연구실·AI·로봇 묶었다…스카이인텔리전스, 피지컬 AI 실증 - 지디넷코리아",
+      "title": "연구실·AI·로봇 묶었다…스카이인텔리전스, 피지컬 AI 실증 - zdnet.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EN0lBZV85ZW9vOGdqelptM0xqbW5OSzRXdU4tRmNURlItZDJGYTlsOEozUkQ2bDBaOWV2NFVVWGdGTzlPVzN6b2FXeTFBY1BUVjhNWUJR?oc=5",
       "snippet": "",
-      "source": "지디넷코리아",
+      "source": "zdnet.co.kr",
       "categories": [],
       "pub_date": "Wed, 23 Sep 2026 01:17:36 GMT"
-    },
-    {
-      "type": "news",
-      "title": "금융위원장 앞에서 아이돌 춤춘 로봇…“피지컬 AI 지역거점 지원” - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RQ0YxamQ4OTJmSXdqNnFuOHVuc2pxZV9WWXl2ZlYzaHVvOU9NWjd1cHNUc196d2R4Y0NpTXNBNjNGWTBuQjc2TTJSYzRoa2RHaUE?oc=5",
-      "snippet": "",
-      "source": "매일경제 마켓",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 06:18:30 GMT"
-    },
-    {
-      "type": "news",
-      "title": "\"우주정거장서 AI 로봇 조종한다\"…日, '우주 AI 로봇 대회' 2027년 개최 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOF8wSU5QblEwSTlZdWozcnJvbFRJZ1pFcENkNHkzY1ZRZ25NSFdVTEctOWJ5T1liTGdYN3JYUWVaLVpVM3hCbm41akFYSjJvX2otZ3VReGIwMldQVlpyczN3TXJpUTh4anR4am1DQ2wtem13QUxNMlM0bzBMVy1reUU3STFoY3h3?oc=5",
-      "snippet": "",
-      "source": "글로벌이코노믹",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 21:25:00 GMT"
     }
   ]
 }
