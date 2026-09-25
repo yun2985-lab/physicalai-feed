@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:51:42Z",
+  "updated_at": "2026-09-25T17:12:02Z",
   "papers": [
     {
       "type": "paper",
@@ -123,15 +123,6 @@
     },
     {
       "type": "news",
-      "title": "여러 회사 로봇을 한 플랫폼에 잇는다, 아크릴 피지컬 AI 국책과제 참여 - 플래텀(Platum)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45V09RYmFHU3lHdDNjVEJ5VjZUM0M1M1M0cEo2bndxdlNSUXRoSGNSQUV4OFJnM19rY1dIT0FqVEdxUEwyQ09JRg?oc=5",
-      "snippet": "",
-      "source": "플래텀(Platum)",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
-    },
-    {
-      "type": "news",
       "title": "말 알아듣고 스스로 행동하는 로봇...브릴스, 온디바이스 NPU로 출사표 던졌다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51LXdXWHNvNnZ3ZjFNZEVzcmkyUlFvSmNBMWVTMWpoVTJNSENYdlBQM0JjZjJYWTVxZUZrRW9oUEZpMWJjNlRmNmFieHFrMlZhN2pQWm5YQkFVOTRIOUZn?oc=5",
       "snippet": "",
@@ -141,12 +132,12 @@
     },
     {
       "type": "news",
-      "title": "철강·반도체에 로봇 장착…경북道 '피지컬 AI' 시동 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyel9vZjI1OWxGTXpPMGdXaHVqWE5xOERjX1RkS0VIR2lYb0pzbWFleEotbDlXWTVhSEpKckZGVTJiU2diVDlMQ3pvQ2NRX3JtN0xldGFrNm0?oc=5",
+      "title": "여러 회사 로봇을 한 플랫폼에 잇는다, 아크릴 피지컬 AI 국책과제 참여 - 플래텀(Platum)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45V09RYmFHU3lHdDNjVEJ5VjZUM0M1M1M0cEo2bndxdlNSUXRoSGNSQUV4OFJnM19rY1dIT0FqVEdxUEwyQ09JRg?oc=5",
       "snippet": "",
-      "source": "경제타임스",
+      "source": "플래텀(Platum)",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
+      "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
     },
     {
       "type": "news",
@@ -159,12 +150,21 @@
     },
     {
       "type": "news",
-      "title": "금융위원장 앞에서 아이돌 춤춘 로봇…“피지컬 AI 지역거점 지원” - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RQ0YxamQ4OTJmSXdqNnFuOHVuc2pxZV9WWXl2ZlYzaHVvOU9NWjd1cHNUc196d2R4Y0NpTXNBNjNGWTBuQjc2TTJSYzRoa2RHaUE?oc=5",
+      "title": "철강·반도체에 로봇 장착…경북道 '피지컬 AI' 시동 - 경제타임스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyel9vZjI1OWxGTXpPMGdXaHVqWE5xOERjX1RkS0VIR2lYb0pzbWFleEotbDlXWTVhSEpKckZGVTJiU2diVDlMQ3pvQ2NRX3JtN0xldGFrNm0?oc=5",
       "snippet": "",
-      "source": "매일경제 마켓",
+      "source": "경제타임스",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 06:18:30 GMT"
+      "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
+    },
+    {
+      "type": "news",
+      "title": "‘피지컬 AI’ 시대 국가안보로 확장된 로봇 산업 - 월간중앙",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IcjNGMkg1RDRTcWg2YmhLNmMxUm5IUlFBRnNvaG5qSWtRa1BJZ1JfVDAtR193VFRmbTJYZTRzRUtWOEd2UHBPc0xRazhTNkRWcTJWSDI0VHFDU2phNkdGd0ZjNjJpeWtQeUEtSVV3?oc=5",
+      "snippet": "",
+      "source": "월간중앙",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 05:17:32 GMT"
     }
   ]
 }
