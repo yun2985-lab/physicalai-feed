@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:12:02Z",
+  "updated_at": "2026-09-25T21:35:38Z",
   "papers": [
     {
       "type": "paper",
@@ -96,6 +96,15 @@
   "news": [
     {
       "type": "news",
+      "title": "AI가 공장을 움직인다…피지컬 AI, '로봇 두뇌' 경쟁 본격화 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6LWRSMGtNZGl0dzBNeWVPQnJ4LU1xVGJVWHQ1TXhIOHlZdWpUT0Rwa1NzQm1qTU1sWXlGX0FMb0xvY01iLUZIT09VRWNjNXpXZmc5cTRB?oc=5",
+      "snippet": "",
+      "source": "데일리안",
+      "categories": [],
+      "pub_date": "Fri, 25 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "type": "news",
       "title": "K-로봇과 피지컬 AI - 브랜드뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9naVdtTHBTUWp5MWxkMkc5b21UXzJIaFVDUEtxa2RPdjN2ZkFsN0syMGRwQnBSczhPekhJRVhUTzBpcEZ5cFdvRFIxWVNDcFZUaE5XdnJGUGE3ZHZQLWxFa3JsVzIwX0xvUi1odA?oc=5",
       "snippet": "",
@@ -156,15 +165,6 @@
       "source": "경제타임스",
       "categories": [],
       "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
-    },
-    {
-      "type": "news",
-      "title": "‘피지컬 AI’ 시대 국가안보로 확장된 로봇 산업 - 월간중앙",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IcjNGMkg1RDRTcWg2YmhLNmMxUm5IUlFBRnNvaG5qSWtRa1BJZ1JfVDAtR193VFRmbTJYZTRzRUtWOEd2UHBPc0xRazhTNkRWcTJWSDI0VHFDU2phNkdGd0ZjNjJpeWtQeUEtSVV3?oc=5",
-      "snippet": "",
-      "source": "월간중앙",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 05:17:32 GMT"
     }
   ]
 }
