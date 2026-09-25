@@ -1,102 +1,126 @@
 {
-  "updated_at": "2026-09-24T21:31:33Z",
+  "updated_at": "2026-09-25T04:58:18Z",
   "papers": [
     {
       "type": "paper",
-      "title": "Towards Adaptive Interaction Strategies for Human Companion Robot via Deep Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2609.25031",
-      "snippet": "In the field of Human-Robot Interaction (HRI), achieving flexibility in human-accompanying within real-world environments holds great potential for various applications but also poses significant challenges. Traditional…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.SY",
-        "eess.SY"
-      ],
-      "pub_date": "Thu, 24 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Cosserat Modeling of Trimmed Helicoid Soft Arms with a Separated-Section Constitutive Law",
-      "url": "https://arxiv.org/abs/2609.25264",
-      "snippet": "Cosserat rod models for soft robots usually construct sectional stiffness by summing material properties over a common cross-section. This assumption becomes inaccurate for trimmed helicoid arms, where load-bearing…",
+      "title": "Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs",
+      "url": "https://arxiv.org/abs/2609.28530",
+      "snippet": "A general-purpose vision-language model can understand a task goal without knowing how a particular robot's motion and functional parts produce the intended effect. We introduce KnowBody, a harness that makes these…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Thu, 24 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Beyond the Flat Seafloor: A Closed-Form Two-View Constraint to Aid Sidescan Sonar Reconstruction",
-      "url": "https://arxiv.org/abs/2609.25271",
-      "snippet": "Sidescan sonar is a common sensor for both manned and autonomous marine exploration and mapping, yet very few methods build upon or exploit the geometric projection model of the sensor. As sidescan sonar is limited to a…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "pub_date": "Thu, 24 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Learning to Plan in Human-Robot Collaboration: Multimodal Reinforcement Learning for Adaptive Interaction",
-      "url": "https://arxiv.org/abs/2609.25274",
-      "snippet": "Robot assistants for older adults and people with disabilities need to perform collaborative tasks with users effectively. The core component of these systems is an interaction manager whose job is to observe and assess…",
+      "title": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy",
+      "url": "https://arxiv.org/abs/2609.28660",
+      "snippet": "Human hand-object interactions (HOIs) provide a rich source of demonstrations for dexterous manipulation, but learning directly from them presents challenges in bridging morphology gaps, ensuring dynamical feasibility,…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Thu, 24 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "JAMB: Joint Action-Motion Diffusion for Bimanual Manipulation",
-      "url": "https://arxiv.org/abs/2609.25322",
-      "snippet": "Coordinated bimanual manipulation is challenging because the motion of either arm can alter the shared 3D scene and thereby affect the other arm. Yet most diffusion policies generate actions without explicitly modeling…",
+      "title": "OA-MPPI: Occlusion-Aware Model Predictive Path Integral Control for UAV Flight",
+      "url": "https://arxiv.org/abs/2609.28709",
+      "snippet": "Autonomous UAV flight through cluttered and partially unknown environments requires reasoning not only about observed obstacles but also about occluded regions that the sensor cannot observe. We present OA-MPPI, an…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Thu, 24 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "GINIO: A Geometric SO(3)-Equivariant Interface for Neural Inertial Odometry",
-      "url": "https://arxiv.org/abs/2609.25338",
-      "snippet": "Neural inertial odometry increasingly uses networks as learned measurements inside filtering pipelines. Such measurements should transform consistently under arbitrary IMU mounting conventions: their mean must transform…",
+      "title": "Temporal Learning for End-Effector Position Estimation under Aerodynamic Disturbances in Aerial Continuum Manipulation",
+      "url": "https://arxiv.org/abs/2609.28716",
+      "snippet": "This paper investigates temporal neural networks for \\mbox{end-effector} position \\mbox{estimation} of an aerial continuum manipulator (ACM) operating under aerodynamic effects induced by the unmanned aerial vehicle…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
+        "cs.AI",
         "cs.LG"
       ],
-      "pub_date": "Thu, 24 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "Learning from Humans for Proactive Assistance in Human-Robot Collaborative Transport",
-      "url": "https://arxiv.org/abs/2609.25351",
-      "snippet": "We focus on human-robot collaborative transport, a challenging task of broad relevance spanning logistics, manufacturing, and the home, in which a user and a robot work together to relocate a large or heavy object. To…",
+      "title": "TAPESIM: Efficient Simulation of Adhesive Tape Dispensing for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2609.28766",
+      "snippet": "Applying adhesive tape to secure wire harnesses or seal packages requires robots to coordinate a flexible strip, a moving roll, and surfaces that attach and detach. Simulation could make these interactions repeatable…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO",
-        "cs.HC",
-        "cs.LG"
+        "cs.GR"
       ],
-      "pub_date": "Thu, 24 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
     },
     {
       "type": "paper",
-      "title": "HOTICE: Whole-Body Humanoid Object Transportation in Cluttered Environments",
-      "url": "https://arxiv.org/abs/2609.25363",
-      "snippet": "Object transportation is a fundamental capability for humanoid robots operating in real-world, human-centric environments, yet existing methods struggle when clutter constrains free space around both the robot and its…",
+      "title": "Human-in-the-Loop Geospatial Annotation for Rapid Dataset Construction in Field-Deployed UAV Systems",
+      "url": "https://arxiv.org/abs/2609.28767",
+      "snippet": "Real-world perception systems must adapt to changing environments, but manual image annotation cannot scale to field data volumes. We present BirdsEye, which shifts expert annotation from images to the field: an…",
       "source": "arXiv cs.RO",
       "categories": [
         "cs.RO"
       ],
-      "pub_date": "Thu, 24 Sep 2026 00:00:00 -0400"
+      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "OCC4M: Object-Centric 4D Memory for Spatiotemporal Reasoning in Long-Horizon Manipulation",
+      "url": "https://arxiv.org/abs/2609.28798",
+      "snippet": "Long-horizon manipulation often requires reasoning about state absent from the current view, such as a vanished object's location, temporal identity, or the contents of a shuffled container. We present OCC4M (\"Occam\"),…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "type": "paper",
+      "title": "An Analysis of Streaming Deep Reinforcement Learning for Adaptive Continual Learning in Robotics",
+      "url": "https://arxiv.org/abs/2609.28807",
+      "snippet": "Over the course of a lifetime, robots may encounter novel scenarios unaccounted for in its original training that result in performance degradation. One common approach to mitigating this issue is to further grow the…",
+      "source": "arXiv cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
     }
   ],
   "news": [
+    {
+      "type": "news",
+      "title": "글로벌 완성차 '휴머노이드 대전' 참전 러시…'피지컬 AI' 시장 정조준 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XaGwySi1nYkVrQUQwbFl3WlM4ZmVDNnJFWkRFLWxnVUJfQWptSW9aQ0Rfc1BUdFpTS0hBWjk0RUdfMnRRM0xLZ3BCTC1oMTVpZ0lFOWFNbGZxVGMtRkF5UGZJUQ?oc=5",
+      "snippet": "",
+      "source": "더구루",
+      "categories": [],
+      "pub_date": "Thu, 24 Sep 2026 22:30:51 GMT"
+    },
+    {
+      "type": "news",
+      "title": "하드웨어 넘어선 ‘행동 데이터’ 경쟁… 피지컬 AI, 현실·가상 넘나드는 학습 혁신 - 인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6MmRnRUdCNXF5TWVoNnFkMnZLZXpZUjNLeDhyeWlpbGRNZnBxRFBvTmhBRUVVSWhDa1ZFd1I5Vm50Z3BFMUtnQmh4ck5IZ3U1czhib1JobDlvZkZmUHd0V0F0Ym1xU09jdGVFdFlCbWxmZw?oc=5",
+      "snippet": "",
+      "source": "인더스트리뉴스",
+      "categories": [],
+      "pub_date": "Fri, 25 Sep 2026 03:53:23 GMT"
+    },
+    {
+      "type": "news",
+      "title": "금융위, 전북·경북·경남 '피지컬 AI' 거점 육성 지원 : 네이버 블로그 - blog.naver.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1dCRkNZcjlRbFFGUmlORU5TYUVldnI0dktEc2xNQmhESWdBMlhXZGZoZ1dpYWNpTjBwVEVKTXgxMWlCMWJ2bVhhZUtFa2FqYTdkYnlwT2N0VjlsQU1uNHgzUnFfcVg4bTUxSkJUUUNSOHFQOU0wT3g4UFFSVmkzUjI3a3lWVGdkeUxBaDZ6SQ?oc=5",
+      "snippet": "",
+      "source": "blog.naver.com",
+      "categories": [],
+      "pub_date": "Thu, 24 Sep 2026 23:00:46 GMT"
+    },
     {
       "type": "news",
       "title": "집도의와 로봇의 협업...피지컬 AI 기반 수술 보조 로봇 생태계 나왔다 - 헬로티",
@@ -105,6 +129,15 @@
       "source": "헬로티",
       "categories": [],
       "pub_date": "Mon, 21 Sep 2026 04:12:15 GMT"
+    },
+    {
+      "type": "news",
+      "title": "여러 회사 로봇을 한 플랫폼에 잇는다, 아크릴 피지컬 AI 국책과제 참여 - platum.kr",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45V09RYmFHU3lHdDNjVEJ5VjZUM0M1M1M0cEo2bndxdlNSUXRoSGNSQUV4OFJnM19rY1dIT0FqVEdxUEwyQ09JRg?oc=5",
+      "snippet": "",
+      "source": "platum.kr",
+      "categories": [],
+      "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
     },
     {
       "type": "news",
@@ -117,33 +150,6 @@
     },
     {
       "type": "news",
-      "title": "[기자수첩] IFA 가전쇼서 주름잡는 로봇 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaEpYRjI0OHdjTVlUOUY2bTJPZ3E0Z3NRaGNiS1R4ZElHTmczMDBjakY1dkNrXzI2UVV6b0dyc1ZrS2pvRlQ0R1NuMWwwRjlfOWd5NXFHT2wzeUhvanppNWZfVG5zb3hmQzFCRHk2bVpUbzU1ZkFWZmMxTHU4c0tSb1JYWG1vZTZFamZYY1Q3dw?oc=5",
-      "snippet": "",
-      "source": "Naver Blog",
-      "categories": [],
-      "pub_date": "Thu, 24 Sep 2026 01:08:56 GMT"
-    },
-    {
-      "type": "news",
-      "title": "여러 회사 로봇을 한 플랫폼에 잇는다, 아크릴 피지컬 AI 국책과제 참여 - 플래텀(Platum)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45V09RYmFHU3lHdDNjVEJ5VjZUM0M1M1M0cEo2bndxdlNSUXRoSGNSQUV4OFJnM19rY1dIT0FqVEdxUEwyQ09JRg?oc=5",
-      "snippet": "",
-      "source": "플래텀(Platum)",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
-    },
-    {
-      "type": "news",
-      "title": "철강·반도체에 로봇 장착…경북道 '피지컬 AI' 시동 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyel9vZjI1OWxGTXpPMGdXaHVqWE5xOERjX1RkS0VIR2lYb0pzbWFleEotbDlXWTVhSEpKckZGVTJiU2diVDlMQ3pvQ2NRX3JtN0xldGFrNm0?oc=5",
-      "snippet": "",
-      "source": "경제타임스",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
-    },
-    {
-      "type": "news",
       "title": "연구실·AI·로봇 묶었다…스카이인텔리전스, 피지컬 AI 실증 - 지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EN0lBZV85ZW9vOGdqelptM0xqbW5OSzRXdU4tRmNURlItZDJGYTlsOEozUkQ2bDBaOWV2NFVVWGdGTzlPVzN6b2FXeTFBY1BUVjhNWUJR?oc=5",
       "snippet": "",
@@ -153,21 +159,12 @@
     },
     {
       "type": "news",
-      "title": "금융위원장 앞에서 아이돌 춤춘 로봇…“피지컬 AI 지역거점 지원” - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RQ0YxamQ4OTJmSXdqNnFuOHVuc2pxZV9WWXl2ZlYzaHVvOU9NWjd1cHNUc196d2R4Y0NpTXNBNjNGWTBuQjc2TTJSYzRoa2RHaUE?oc=5",
+      "title": "철강·반도체에 로봇 장착…경북道 '피지컬 AI' 시동 - 경제타임스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyel9vZjI1OWxGTXpPMGdXaHVqWE5xOERjX1RkS0VIR2lYb0pzbWFleEotbDlXWTVhSEpKckZGVTJiU2diVDlMQ3pvQ2NRX3JtN0xldGFrNm0?oc=5",
       "snippet": "",
-      "source": "매일경제 마켓",
+      "source": "경제타임스",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 06:18:30 GMT"
-    },
-    {
-      "type": "news",
-      "title": "\"우주정거장서 AI 로봇 조종한다\"…日, '우주 AI 로봇 대회' 2027년 개최 - g-enews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOF8wSU5QblEwSTlZdWozcnJvbFRJZ1pFcENkNHkzY1ZRZ25NSFdVTEctOWJ5T1liTGdYN3JYUWVaLVpVM3hCbm41akFYSjJvX2otZ3VReGIwMldQVlpyczN3TXJpUTh4anR4am1DQ2wtem13QUxNMlM0bzBMVy1reUU3STFoY3h3?oc=5",
-      "snippet": "",
-      "source": "g-enews.com",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 21:25:00 GMT"
+      "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
     }
   ]
 }
