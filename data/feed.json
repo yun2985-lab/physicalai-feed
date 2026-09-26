@@ -1,13 +1,22 @@
 {
-  "updated_at": "2026-09-26T16:24:24Z",
+  "updated_at": "2026-09-26T21:11:11Z",
   "papers": [],
   "news": [
     {
       "type": "news",
-      "title": "\"로봇도 배워야 한다\"…韓, 피지컬 AI 데이터 확보전 - zdnet.co.kr",
+      "title": "“세탁물 개고 야채 써는 영상 삽니다”… 로봇 업계는 지금 ‘데이터 확보 전쟁’ - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1BxVHloa3FjS2g5Sl9LWmhCTUYzOGI2N2dJOEJwZU83c3prSkp0NUpSZ3NLVDZNNlVwTGEyc3hXUEVJdDVGYWhIeVhSMmNsM0RIV0psdnBETXphMGJzSVV0cDJ1SWI3LXJHemN0M2hrMjU5SkVTdkZUV3ZzbGVscFl5eGHSAZgBQVVfeXFMTTFhUXAySDVhRXUzdE5pU240Vnl4b0ZGTXVYSEdlbURJWDdCQnRmcTEtYV9ScGpLWlBpMW02dzlOMFZEVUhiUVEyX2ZCTGVmZ19ITlVCQUFXdE1VQ0FnX0hzbVJFR2VoWEFtemlvVEM0Qkc0MnZReEJ3SXJQajR0Yy1sYVJyT3FtSXhoWnNRTmFiYkVTMGk1YTg?oc=5",
+      "snippet": "",
+      "source": "Chosunbiz",
+      "categories": [],
+      "pub_date": "Sat, 26 Sep 2026 21:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "\"로봇도 배워야 한다\"…韓, 피지컬 AI 데이터 확보전 - 지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WYkxGZlZfTmpQdS0yaFc5Q2g3cVVEZkdUMjhsYi1SS0I5QVU2UXJLZEVfUnhOaUtYNzUtUkltVjZ6SlIxVTFLWUZIUjBONDZwcm0tUzBR?oc=5",
       "snippet": "",
-      "source": "zdnet.co.kr",
+      "source": "지디넷코리아",
       "categories": [],
       "pub_date": "Sat, 26 Sep 2026 06:00:01 GMT"
     },
@@ -22,10 +31,19 @@
     },
     {
       "type": "news",
-      "title": "AI가 공장을 움직인다…피지컬 AI, '로봇 두뇌' 경쟁 본격화 - dailian.co.kr",
+      "title": "글로벌 완성차 '휴머노이드 대전' 참전 러시…'피지컬 AI' 시장 정조준 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XaGwySi1nYkVrQUQwbFl3WlM4ZmVDNnJFWkRFLWxnVUJfQWptSW9aQ0Rfc1BUdFpTS0hBWjk0RUdfMnRRM0xLZ3BCTC1oMTVpZ0lFOWFNbGZxVGMtRkF5UGZJUQ?oc=5",
+      "snippet": "",
+      "source": "더구루",
+      "categories": [],
+      "pub_date": "Thu, 24 Sep 2026 22:30:51 GMT"
+    },
+    {
+      "type": "news",
+      "title": "AI가 공장을 움직인다…피지컬 AI, '로봇 두뇌' 경쟁 본격화 - 데일리안",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6LWRSMGtNZGl0dzBNeWVPQnJ4LU1xVGJVWHQ1TXhIOHlZdWpUT0Rwa1NzQm1qTU1sWXlGX0FMb0xvY01iLUZIT09VRWNjNXpXZmc5cTRB?oc=5",
       "snippet": "",
-      "source": "dailian.co.kr",
+      "source": "데일리안",
       "categories": [],
       "pub_date": "Fri, 25 Sep 2026 20:00:00 GMT"
     },
@@ -37,15 +55,6 @@
       "source": "투데이안",
       "categories": [],
       "pub_date": "Fri, 25 Sep 2026 22:21:57 GMT"
-    },
-    {
-      "type": "news",
-      "title": "글로벌 완성차 '휴머노이드 대전' 참전 러시…'피지컬 AI' 시장 정조준 - 더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XaGwySi1nYkVrQUQwbFl3WlM4ZmVDNnJFWkRFLWxnVUJfQWptSW9aQ0Rfc1BUdFpTS0hBWjk0RUdfMnRRM0xLZ3BCTC1oMTVpZ0lFOWFNbGZxVGMtRkF5UGZJUQ?oc=5",
-      "snippet": "",
-      "source": "더구루",
-      "categories": [],
-      "pub_date": "Thu, 24 Sep 2026 22:30:51 GMT"
     },
     {
       "type": "news",
@@ -64,15 +73,6 @@
       "source": "헬로티",
       "categories": [],
       "pub_date": "Tue, 22 Sep 2026 01:59:06 GMT"
-    },
-    {
-      "type": "news",
-      "title": "아크릴, 650억 피지컬 AI 국책과제서 로봇 검증 맡는다 - MEDI:GATE NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pYWNBT2JGMU84LXZBSmVGbGNwcFAyN3VUX2RjMWdnREtUZ0RqTzNFT0R0b0VqZzRFRElTMW5IZEI4dDJDU1dZTDJQYmtpcWY3VkJfSg?oc=5",
-      "snippet": "",
-      "source": "MEDI:GATE NEWS",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 23:24:00 GMT"
     }
   ]
 }
