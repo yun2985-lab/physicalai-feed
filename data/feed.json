@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-26T04:58:46Z",
+  "updated_at": "2026-09-26T11:25:46Z",
   "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "\"로봇도 배워야 한다\"…韓, 피지컬 AI 데이터 확보전 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WYkxGZlZfTmpQdS0yaFc5Q2g3cVVEZkdUMjhsYi1SS0I5QVU2UXJLZEVfUnhOaUtYNzUtUkltVjZ6SlIxVTFLWUZIUjBONDZwcm0tUzBR?oc=5",
+      "snippet": "",
+      "source": "지디넷코리아",
+      "categories": [],
+      "pub_date": "Sat, 26 Sep 2026 06:00:01 GMT"
+    },
     {
       "type": "news",
       "title": "로봇도 ‘경험’이 재산…피지컬 AI, ‘학습 데이터’가 승부 가른다 - 한국금융신문",
@@ -22,21 +31,12 @@
     },
     {
       "type": "news",
-      "title": "전북 ‘피지컬AI’ 산업현장으로…로봇·디지털트윈 실무인재 키운다 - todayan.com",
+      "title": "전북 ‘피지컬AI’ 산업현장으로…로봇·디지털트윈 실무인재 키운다 - 투데이안",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzOTFBQVFFTE15c21UUDU5Q2locjJENDNJS1E2c0xncUR4VWg0RVFWVGJTUFZPajRFNHpveXJnUEx0NXFYaXl3Z21oOC1ydERwYXNjbEEyYnpsZkp5ZGFqS0NVRmh0ejNzeWc?oc=5",
       "snippet": "",
-      "source": "todayan.com",
+      "source": "투데이안",
       "categories": [],
       "pub_date": "Fri, 25 Sep 2026 22:21:57 GMT"
-    },
-    {
-      "type": "news",
-      "title": "K-로봇과 피지컬 AI - 브랜드뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9naVdtTHBTUWp5MWxkMkc5b21UXzJIaFVDUEtxa2RPdjN2ZkFsN0syMGRwQnBSczhPekhJRVhUTzBpcEZ5cFdvRFIxWVNDcFZUaE5XdnJGUGE3ZHZQLWxFa3JsVzIwX0xvUi1odA?oc=5",
-      "snippet": "",
-      "source": "브랜드뉴스",
-      "categories": [],
-      "pub_date": "Fri, 25 Sep 2026 10:57:16 GMT"
     },
     {
       "type": "news",
@@ -49,6 +49,15 @@
     },
     {
       "type": "news",
+      "title": "K-로봇과 피지컬 AI - 브랜드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9naVdtTHBTUWp5MWxkMkc5b21UXzJIaFVDUEtxa2RPdjN2ZkFsN0syMGRwQnBSczhPekhJRVhUTzBpcEZ5cFdvRFIxWVNDcFZUaE5XdnJGUGE3ZHZQLWxFa3JsVzIwX0xvUi1odA?oc=5",
+      "snippet": "",
+      "source": "브랜드뉴스",
+      "categories": [],
+      "pub_date": "Fri, 25 Sep 2026 10:57:16 GMT"
+    },
+    {
+      "type": "news",
       "title": "말 알아듣고 스스로 행동하는 로봇...브릴스, 온디바이스 NPU로 출사표 던졌다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51LXdXWHNvNnZ3ZjFNZEVzcmkyUlFvSmNBMWVTMWpoVTJNSENYdlBQM0JjZjJYWTVxZUZrRW9oUEZpMWJjNlRmNmFieHFrMlZhN2pQWm5YQkFVOTRIOUZn?oc=5",
       "snippet": "",
@@ -58,21 +67,12 @@
     },
     {
       "type": "news",
-      "title": "여러 회사 로봇을 한 플랫폼에 잇는다, 아크릴 피지컬 AI 국책과제 참여 - 플래텀(Platum)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45V09RYmFHU3lHdDNjVEJ5VjZUM0M1M1M0cEo2bndxdlNSUXRoSGNSQUV4OFJnM19rY1dIT0FqVEdxUEwyQ09JRg?oc=5",
+      "title": "아크릴, 650억 피지컬 AI 국책과제서 로봇 검증 맡는다 - MEDI:GATE NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pYWNBT2JGMU84LXZBSmVGbGNwcFAyN3VUX2RjMWdnREtUZ0RqTzNFT0R0b0VqZzRFRElTMW5IZEI4dDJDU1dZTDJQYmtpcWY3VkJfSg?oc=5",
       "snippet": "",
-      "source": "플래텀(Platum)",
+      "source": "MEDI:GATE NEWS",
       "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 02:57:57 GMT"
-    },
-    {
-      "type": "news",
-      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - 교수신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmJmNmpPTmctSlNnRUJYSjlEZXN6MXBOcFJaeU5Mcm1Vd3owc2ppbklXVS05R011RW82Q2FmUENFZ3htS0piSTJFZVhTTGd1VExEVTR3dEVVWTVsMTZjT3FMdHZvbW8?oc=5",
-      "snippet": "",
-      "source": "교수신문",
-      "categories": [],
-      "pub_date": "Sun, 20 Sep 2026 22:38:59 GMT"
+      "pub_date": "Tue, 22 Sep 2026 23:24:00 GMT"
     }
   ]
 }
