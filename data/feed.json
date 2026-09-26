@@ -1,99 +1,16 @@
 {
-  "updated_at": "2026-09-25T21:35:38Z",
-  "papers": [
-    {
-      "type": "paper",
-      "title": "Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs",
-      "url": "https://arxiv.org/abs/2609.28530",
-      "snippet": "A general-purpose vision-language model can understand a task goal without knowing how a particular robot's motion and functional parts produce the intended effect. We introduce KnowBody, a harness that makes these…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy",
-      "url": "https://arxiv.org/abs/2609.28660",
-      "snippet": "Human hand-object interactions (HOIs) provide a rich source of demonstrations for dexterous manipulation, but learning directly from them presents challenges in bridging morphology gaps, ensuring dynamical feasibility,…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "OA-MPPI: Occlusion-Aware Model Predictive Path Integral Control for UAV Flight",
-      "url": "https://arxiv.org/abs/2609.28709",
-      "snippet": "Autonomous UAV flight through cluttered and partially unknown environments requires reasoning not only about observed obstacles but also about occluded regions that the sensor cannot observe. We present OA-MPPI, an…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Temporal Learning for End-Effector Position Estimation under Aerodynamic Disturbances in Aerial Continuum Manipulation",
-      "url": "https://arxiv.org/abs/2609.28716",
-      "snippet": "This paper investigates temporal neural networks for \\mbox{end-effector} position \\mbox{estimation} of an aerial continuum manipulator (ACM) operating under aerodynamic effects induced by the unmanned aerial vehicle…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.AI",
-        "cs.LG"
-      ],
-      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "TAPESIM: Efficient Simulation of Adhesive Tape Dispensing for Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2609.28766",
-      "snippet": "Applying adhesive tape to secure wire harnesses or seal packages requires robots to coordinate a flexible strip, a moving roll, and surfaces that attach and detach. Simulation could make these interactions repeatable…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO",
-        "cs.GR"
-      ],
-      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "Human-in-the-Loop Geospatial Annotation for Rapid Dataset Construction in Field-Deployed UAV Systems",
-      "url": "https://arxiv.org/abs/2609.28767",
-      "snippet": "Real-world perception systems must adapt to changing environments, but manual image annotation cannot scale to field data volumes. We present BirdsEye, which shifts expert annotation from images to the field: an…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "OCC4M: Object-Centric 4D Memory for Spatiotemporal Reasoning in Long-Horizon Manipulation",
-      "url": "https://arxiv.org/abs/2609.28798",
-      "snippet": "Long-horizon manipulation often requires reasoning about state absent from the current view, such as a vanished object's location, temporal identity, or the contents of a shuffled container. We present OCC4M (\"Occam\"),…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "type": "paper",
-      "title": "An Analysis of Streaming Deep Reinforcement Learning for Adaptive Continual Learning in Robotics",
-      "url": "https://arxiv.org/abs/2609.28807",
-      "snippet": "Over the course of a lifetime, robots may encounter novel scenarios unaccounted for in its original training that result in performance degradation. One common approach to mitigating this issue is to further grow the…",
-      "source": "arXiv cs.RO",
-      "categories": [
-        "cs.RO"
-      ],
-      "pub_date": "Fri, 25 Sep 2026 00:00:00 -0400"
-    }
-  ],
+  "updated_at": "2026-09-26T04:58:46Z",
+  "papers": [],
   "news": [
+    {
+      "type": "news",
+      "title": "로봇도 ‘경험’이 재산…피지컬 AI, ‘학습 데이터’가 승부 가른다 - 한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1c0xUcU5FWjM0WnRBZDhqTHZVdmk0X2hKVE92NndISHlfdmRnRDhCWDVNS3NxdU5IRThBcFJNcE13NHVLWlNQMmZwTDRtN1IyMWVHekZtTGZjWkpRTjBxZ2RHUXM1aUpKLTFmaXVwR2xMekQ3S1hOVTBCTjM?oc=5",
+      "snippet": "",
+      "source": "한국금융신문",
+      "categories": [],
+      "pub_date": "Sat, 26 Sep 2026 00:00:00 GMT"
+    },
     {
       "type": "news",
       "title": "AI가 공장을 움직인다…피지컬 AI, '로봇 두뇌' 경쟁 본격화 - 데일리안",
@@ -102,6 +19,15 @@
       "source": "데일리안",
       "categories": [],
       "pub_date": "Fri, 25 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "title": "전북 ‘피지컬AI’ 산업현장으로…로봇·디지털트윈 실무인재 키운다 - todayan.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzOTFBQVFFTE15c21UUDU5Q2locjJENDNJS1E2c0xncUR4VWg0RVFWVGJTUFZPajRFNHpveXJnUEx0NXFYaXl3Z21oOC1ydERwYXNjbEEyYnpsZkp5ZGFqS0NVRmh0ejNzeWc?oc=5",
+      "snippet": "",
+      "source": "todayan.com",
+      "categories": [],
+      "pub_date": "Fri, 25 Sep 2026 22:21:57 GMT"
     },
     {
       "type": "news",
@@ -123,15 +49,6 @@
     },
     {
       "type": "news",
-      "title": "하드웨어 넘어선 ‘행동 데이터’ 경쟁… 피지컬 AI, 현실·가상 넘나드는 학습 혁신 - 인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6MmRnRUdCNXF5TWVoNnFkMnZLZXpZUjNLeDhyeWlpbGRNZnBxRFBvTmhBRUVVSWhDa1ZFd1I5Vm50Z3BFMUtnQmh4ck5IZ3U1czhib1JobDlvZkZmUHd0V0F0Ym1xU09jdGVFdFlCbWxmZw?oc=5",
-      "snippet": "",
-      "source": "인더스트리뉴스",
-      "categories": [],
-      "pub_date": "Fri, 25 Sep 2026 03:53:23 GMT"
-    },
-    {
-      "type": "news",
       "title": "말 알아듣고 스스로 행동하는 로봇...브릴스, 온디바이스 NPU로 출사표 던졌다 - 헬로티",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51LXdXWHNvNnZ3ZjFNZEVzcmkyUlFvSmNBMWVTMWpoVTJNSENYdlBQM0JjZjJYWTVxZUZrRW9oUEZpMWJjNlRmNmFieHFrMlZhN2pQWm5YQkFVOTRIOUZn?oc=5",
       "snippet": "",
@@ -150,21 +67,12 @@
     },
     {
       "type": "news",
-      "title": "연구실·AI·로봇 묶었다…스카이인텔리전스, 피지컬 AI 실증 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EN0lBZV85ZW9vOGdqelptM0xqbW5OSzRXdU4tRmNURlItZDJGYTlsOEozUkQ2bDBaOWV2NFVVWGdGTzlPVzN6b2FXeTFBY1BUVjhNWUJR?oc=5",
+      "title": "공중제비 다음은 ‘출근’이다...현실에 뛰어드는 로봇 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmJmNmpPTmctSlNnRUJYSjlEZXN6MXBOcFJaeU5Mcm1Vd3owc2ppbklXVS05R011RW82Q2FmUENFZ3htS0piSTJFZVhTTGd1VExEVTR3dEVVWTVsMTZjT3FMdHZvbW8?oc=5",
       "snippet": "",
-      "source": "지디넷코리아",
+      "source": "교수신문",
       "categories": [],
-      "pub_date": "Wed, 23 Sep 2026 01:17:36 GMT"
-    },
-    {
-      "type": "news",
-      "title": "철강·반도체에 로봇 장착…경북道 '피지컬 AI' 시동 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyel9vZjI1OWxGTXpPMGdXaHVqWE5xOERjX1RkS0VIR2lYb0pzbWFleEotbDlXWTVhSEpKckZGVTJiU2diVDlMQ3pvQ2NRX3JtN0xldGFrNm0?oc=5",
-      "snippet": "",
-      "source": "경제타임스",
-      "categories": [],
-      "pub_date": "Tue, 22 Sep 2026 07:36:43 GMT"
+      "pub_date": "Sun, 20 Sep 2026 22:38:59 GMT"
     }
   ]
 }
