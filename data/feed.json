@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-09-26T21:11:11Z",
+  "updated_at": "2026-09-26T23:37:57Z",
   "papers": [],
   "news": [
-    {
-      "type": "news",
-      "title": "“세탁물 개고 야채 써는 영상 삽니다”… 로봇 업계는 지금 ‘데이터 확보 전쟁’ - 조선비즈 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1BxVHloa3FjS2g5Sl9LWmhCTUYzOGI2N2dJOEJwZU83c3prSkp0NUpSZ3NLVDZNNlVwTGEyc3hXUEVJdDVGYWhIeVhSMmNsM0RIV0psdnBETXphMGJzSVV0cDJ1SWI3LXJHemN0M2hrMjU5SkVTdkZUV3ZzbGVscFl5eGHSAZgBQVVfeXFMTTFhUXAySDVhRXUzdE5pU240Vnl4b0ZGTXVYSEdlbURJWDdCQnRmcTEtYV9ScGpLWlBpMW02dzlOMFZEVUhiUVEyX2ZCTGVmZ19ITlVCQUFXdE1VQ0FnX0hzbVJFR2VoWEFtemlvVEM0Qkc0MnZReEJ3SXJQajR0Yy1sYVJyT3FtSXhoWnNRTmFiYkVTMGk1YTg?oc=5",
-      "snippet": "",
-      "source": "Chosunbiz",
-      "categories": [],
-      "pub_date": "Sat, 26 Sep 2026 21:01:00 GMT"
-    },
     {
       "type": "news",
       "title": "\"로봇도 배워야 한다\"…韓, 피지컬 AI 데이터 확보전 - 지디넷코리아",
@@ -19,6 +10,15 @@
       "source": "지디넷코리아",
       "categories": [],
       "pub_date": "Sat, 26 Sep 2026 06:00:01 GMT"
+    },
+    {
+      "type": "news",
+      "title": "“세탁물 개고 야채 써는 영상 삽니다”… 로봇 업계는 지금 ‘데이터 확보 전쟁’ - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1BxVHloa3FjS2g5Sl9LWmhCTUYzOGI2N2dJOEJwZU83c3prSkp0NUpSZ3NLVDZNNlVwTGEyc3hXUEVJdDVGYWhIeVhSMmNsM0RIV0psdnBETXphMGJzSVV0cDJ1SWI3LXJHemN0M2hrMjU5SkVTdkZUV3ZzbGVscFl5eGHSAZgBQVVfeXFMTTFhUXAySDVhRXUzdE5pU240Vnl4b0ZGTXVYSEdlbURJWDdCQnRmcTEtYV9ScGpLWlBpMW02dzlOMFZEVUhiUVEyX2ZCTGVmZ19ITlVCQUFXdE1VQ0FnX0hzbVJFR2VoWEFtemlvVEM0Qkc0MnZReEJ3SXJQajR0Yy1sYVJyT3FtSXhoWnNRTmFiYkVTMGk1YTg?oc=5",
+      "snippet": "",
+      "source": "Chosunbiz",
+      "categories": [],
+      "pub_date": "Sat, 26 Sep 2026 21:01:00 GMT"
     },
     {
       "type": "news",
@@ -49,12 +49,12 @@
     },
     {
       "type": "news",
-      "title": "전북 ‘피지컬AI’ 산업현장으로…로봇·디지털트윈 실무인재 키운다 - 투데이안",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzOTFBQVFFTE15c21UUDU5Q2locjJENDNJS1E2c0xncUR4VWg0RVFWVGJTUFZPajRFNHpveXJnUEx0NXFYaXl3Z21oOC1ydERwYXNjbEEyYnpsZkp5ZGFqS0NVRmh0ejNzeWc?oc=5",
+      "title": "[영상·심층③] 임연호 교수, '전북 반도체, 소재·케미칼 넘어 센서로' - todayan.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtQk5ybi1hVFUweXlnUTkwdmxrNGhPd0xTdzhhQVFwbUNyRExScHVteFFKb1BTOS1FUUIzRk50RzAxMl8wdXNQdWg3NVFEUkhqNU5FODU3bDkycEktRlgwbXZoRFQwM1Ns?oc=5",
       "snippet": "",
-      "source": "투데이안",
+      "source": "todayan.com",
       "categories": [],
-      "pub_date": "Fri, 25 Sep 2026 22:21:57 GMT"
+      "pub_date": "Sat, 26 Sep 2026 22:10:00 GMT"
     },
     {
       "type": "news",
